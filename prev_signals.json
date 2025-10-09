@@ -1,1 +1,18 @@
-{}
+{
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 9.482e-05,
+    "last_seen": "2025-10-09T08:16:47.037902+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0257,
+    "last_seen": "2025-10-09T08:16:47.037902+00:00"
+  }
+}

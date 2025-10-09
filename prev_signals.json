@@ -1,1 +1,26 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 7.799,
+    "last_seen": "2025-10-09T14:12:55.324630+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.07476,
+    "last_seen": "2025-10-09T14:12:55.324630+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04207,
+    "last_seen": "2025-10-09T14:12:55.324630+00:00"
+  }
+}

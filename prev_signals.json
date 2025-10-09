@@ -2,9 +2,9 @@
   "PONKE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.08392,
-    "last_seen": "2025-10-09T18:17:02.755080+00:00"
+    "price": 0.08374,
+    "last_seen": "2025-10-09T19:10:59.539774+00:00"
   }
 }

@@ -2,17 +2,17 @@
   "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 9.482e-05,
-    "last_seen": "2025-10-09T08:16:47.037902+00:00"
+    "price": 9.403e-05,
+    "last_seen": "2025-10-09T09:13:46.617089+00:00"
   },
-  "1000RATS/USDT": {
+  "DEGEN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0257,
-    "last_seen": "2025-10-09T08:16:47.037902+00:00"
+    "exchange": "okx",
+    "price": 0.002726,
+    "last_seen": "2025-10-09T09:13:46.617089+00:00"
   }
 }

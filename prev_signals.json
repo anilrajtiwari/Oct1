@@ -1,18 +1,1 @@
-{
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.019812,
-    "last_seen": "2025-10-10T15:12:35.826697+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.03387,
-    "last_seen": "2025-10-10T15:12:35.826697+00:00"
-  }
-}
+{}

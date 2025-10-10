@@ -1,10 +1,10 @@
 {
-  "AIXBT/USDT": {
+  "PONKE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.09048,
-    "last_seen": "2025-10-09T23:11:35.083598+00:00"
+    "exchange": "gateio",
+    "price": 0.08491,
+    "last_seen": "2025-10-10T00:51:01.719622+00:00"
   }
 }

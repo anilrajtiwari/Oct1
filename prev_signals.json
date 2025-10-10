@@ -1,10 +1,10 @@
 {
-  "PONKE/USDT": {
+  "OM/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.08491,
-    "last_seen": "2025-10-10T00:51:01.719622+00:00"
+    "exchange": "bitget",
+    "price": 0.16404,
+    "last_seen": "2025-10-10T02:19:51.501326+00:00"
   }
 }

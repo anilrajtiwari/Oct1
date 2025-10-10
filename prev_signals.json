@@ -1,10 +1,18 @@
 {
-  "DOGE/USDT": {
+  "PONKE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.25139,
-    "last_seen": "2025-10-10T06:18:18.384345+00:00"
+    "exchange": "gateio",
+    "price": 0.08415,
+    "last_seen": "2025-10-10T07:12:30.984563+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0016082,
+    "last_seen": "2025-10-10T07:12:30.984563+00:00"
   }
 }

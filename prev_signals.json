@@ -1,1 +1,10 @@
-{}
+{
+  "BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 1.9212e-05,
+    "last_seen": "2025-10-10T04:14:37.024440+00:00"
+  }
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.2276,
+    "last_seen": "2025-10-10T10:13:56.908760+00:00"
+  }
+}

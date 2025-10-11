@@ -2,17 +2,33 @@
   "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.01189,
-    "last_seen": "2025-10-11T09:11:25.083629+00:00"
+    "price": 0.01176,
+    "last_seen": "2025-10-11T10:11:26.900138+00:00"
   },
-  "VINE/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.03844,
-    "last_seen": "2025-10-11T09:11:25.083629+00:00"
+    "price": 1.0566e-05,
+    "last_seen": "2025-10-11T10:11:26.900138+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05832,
+    "last_seen": "2025-10-11T10:11:26.900138+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.02612,
+    "last_seen": "2025-10-11T10:11:26.900138+00:00"
   }
 }

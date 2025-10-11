@@ -2,33 +2,33 @@
   "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "mexc",
-    "price": 0.01176,
-    "last_seen": "2025-10-11T10:11:26.900138+00:00"
-  },
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 1.0566e-05,
-    "last_seen": "2025-10-11T10:11:26.900138+00:00"
+    "price": 0.01204,
+    "last_seen": "2025-10-11T11:09:29.547098+00:00"
   },
   "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.05832,
-    "last_seen": "2025-10-11T10:11:26.900138+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.05389,
+    "last_seen": "2025-10-11T11:09:29.547098+00:00"
   },
-  "CHILLGUY/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.02612,
-    "last_seen": "2025-10-11T10:11:26.900138+00:00"
+    "exchange": "gateio",
+    "price": 7.051e-05,
+    "last_seen": "2025-10-11T11:09:29.547098+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02188,
+    "last_seen": "2025-10-11T11:09:29.547098+00:00"
   }
 }

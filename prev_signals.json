@@ -1,26 +1,10 @@
 {
-  "DOGE/USDT": {
+  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.19016,
-    "last_seen": "2025-10-11T19:08:56.338829+00:00"
-  },
-  "MYRO/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01316,
-    "last_seen": "2025-10-11T19:08:56.338829+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.03923,
-    "last_seen": "2025-10-11T19:08:56.338829+00:00"
+    "exchange": "okx",
+    "price": 0.02372,
+    "last_seen": "2025-10-11T20:11:57.571784+00:00"
   }
 }

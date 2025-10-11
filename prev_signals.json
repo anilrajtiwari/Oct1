@@ -1,10 +1,10 @@
 {
-  "PEPE/USDT": {
+  "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 7.172e-06,
-    "last_seen": "2025-10-11T12:19:41.766352+00:00"
+    "exchange": "mexc",
+    "price": 0.1909,
+    "last_seen": "2025-10-11T13:17:18.194650+00:00"
   }
 }

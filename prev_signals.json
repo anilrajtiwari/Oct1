@@ -1,34 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "mexc",
-    "price": 0.01204,
-    "last_seen": "2025-10-11T11:09:29.547098+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.05389,
-    "last_seen": "2025-10-11T11:09:29.547098+00:00"
-  },
-  "FLOKI/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 7.051e-05,
-    "last_seen": "2025-10-11T11:09:29.547098+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02188,
-    "last_seen": "2025-10-11T11:09:29.547098+00:00"
+    "exchange": "okx",
+    "price": 7.172e-06,
+    "last_seen": "2025-10-11T12:19:41.766352+00:00"
   }
 }

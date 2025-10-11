@@ -1,26 +1,26 @@
 {
-  "BAN/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.06632,
-    "last_seen": "2025-10-11T07:11:10.800445+00:00"
+    "price": 7.49e-05,
+    "last_seen": "2025-10-11T08:14:34.190612+00:00"
   },
-  "PEOPLE/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0119,
-    "last_seen": "2025-10-11T07:11:10.800445+00:00"
+    "price": 0.01295,
+    "last_seen": "2025-10-11T08:14:34.190612+00:00"
   },
-  "VINE/USDT": {
+  "PIPPIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.03712,
-    "last_seen": "2025-10-11T07:11:10.800445+00:00"
+    "price": 0.010454,
+    "last_seen": "2025-10-11T08:14:34.190612+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.02372,
-    "last_seen": "2025-10-11T20:11:57.571784+00:00"
+    "exchange": "gateio",
+    "price": 0.0506,
+    "last_seen": "2025-10-11T21:10:00.987676+00:00"
   }
 }

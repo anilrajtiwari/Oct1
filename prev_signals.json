@@ -1,10 +1,1 @@
-{
-  "DOGE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.1909,
-    "last_seen": "2025-10-11T13:17:18.194650+00:00"
-  }
-}
+{}

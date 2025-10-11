@@ -1,26 +1,26 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.02267,
-    "last_seen": "2025-10-11T06:15:51.393634+00:00"
-  },
-  "NEIROETH/USDT": {
+  "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.00382,
-    "last_seen": "2025-10-11T06:15:51.393634+00:00"
+    "price": 0.06632,
+    "last_seen": "2025-10-11T07:11:10.800445+00:00"
   },
-  "PNUT/USDT": {
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0119,
+    "last_seen": "2025-10-11T07:11:10.800445+00:00"
+  },
+  "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.1418,
-    "last_seen": "2025-10-11T06:15:51.393634+00:00"
+    "exchange": "gateio",
+    "price": 0.03712,
+    "last_seen": "2025-10-11T07:11:10.800445+00:00"
   }
 }

@@ -1,34 +1,10 @@
 {
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.1538,
-    "last_seen": "2025-10-12T16:13:16.755780+00:00"
-  },
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 7.357e-06,
-    "last_seen": "2025-10-12T16:13:16.755780+00:00"
-  },
-  "HIPPO/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0014,
-    "last_seen": "2025-10-12T16:13:16.755780+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.1674,
-    "last_seen": "2025-10-12T16:13:16.755780+00:00"
+    "price": 1.0652e-05,
+    "last_seen": "2025-10-12T17:10:19.084005+00:00"
   }
 }

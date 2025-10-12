@@ -1,10 +1,10 @@
 {
-  "WIF/USDT": {
+  "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.4841,
-    "last_seen": "2025-10-12T06:15:58.117862+00:00"
+    "exchange": "mexc",
+    "price": 0.05287,
+    "last_seen": "2025-10-12T07:11:34.110919+00:00"
   }
 }

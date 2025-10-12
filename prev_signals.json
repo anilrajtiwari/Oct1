@@ -1,10 +1,18 @@
 {
-  "MEME/USDT": {
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0191,
+    "last_seen": "2025-10-12T10:11:40.715306+00:00"
+  },
+  "DEGEN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.001646,
-    "last_seen": "2025-10-12T09:11:34.967545+00:00"
+    "exchange": "gateio",
+    "price": 0.001961,
+    "last_seen": "2025-10-12T10:11:40.715306+00:00"
   }
 }

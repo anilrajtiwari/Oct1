@@ -1,1 +1,10 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 7.462e-06,
+    "last_seen": "2025-10-12T22:11:12.227709+00:00"
+  }
+}

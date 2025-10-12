@@ -1,10 +1,50 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02966,
+    "last_seen": "2025-10-12T23:11:16.776698+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.06395,
+    "last_seen": "2025-10-12T23:11:16.776698+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 7.462e-06,
-    "last_seen": "2025-10-12T22:11:12.227709+00:00"
+    "price": 0.1649,
+    "last_seen": "2025-10-12T23:11:16.776698+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.006489,
+    "last_seen": "2025-10-12T23:11:16.776698+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.02303,
+    "last_seen": "2025-10-12T23:11:16.776698+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.002202,
+    "last_seen": "2025-10-12T23:11:16.776698+00:00"
   }
 }

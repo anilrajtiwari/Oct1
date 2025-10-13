@@ -1,18 +1,1 @@
-{
-  "DEGEN/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.002206,
-    "last_seen": "2025-10-13T05:13:24.379438+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.06184,
-    "last_seen": "2025-10-13T05:13:24.379438+00:00"
-  }
-}
+{}

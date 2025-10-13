@@ -1,26 +1,18 @@
 {
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.05665,
-    "last_seen": "2025-10-13T04:15:44.552732+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.001799,
-    "last_seen": "2025-10-13T04:15:44.552732+00:00"
-  },
   "DEGEN/USDT": {
     "direction": "LONG",
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.002206,
+    "last_seen": "2025-10-13T05:13:24.379438+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.002194,
-    "last_seen": "2025-10-13T04:15:44.552732+00:00"
+    "exchange": "gateio",
+    "price": 0.06184,
+    "last_seen": "2025-10-13T05:13:24.379438+00:00"
   }
 }

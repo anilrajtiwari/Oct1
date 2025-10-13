@@ -1,1 +1,10 @@
-{}
+{
+  "PONKE/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.06815,
+    "last_seen": "2025-10-13T12:23:14.865889+00:00"
+  }
+}

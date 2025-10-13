@@ -1,1 +1,18 @@
-{}
+{
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 7.42e-05,
+    "last_seen": "2025-10-13T07:14:08.314536+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.1648,
+    "last_seen": "2025-10-13T07:14:08.314536+00:00"
+  }
+}

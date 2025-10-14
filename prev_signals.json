@@ -1,10 +1,1 @@
-{
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.05811,
-    "last_seen": "2025-10-14T17:12:07.842858+00:00"
-  }
-}
+{}

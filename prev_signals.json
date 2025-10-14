@@ -1,42 +1,10 @@
 {
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 7.605e-05,
-    "last_seen": "2025-10-14T02:20:06.894289+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.001242,
-    "last_seen": "2025-10-14T02:20:06.894289+00:00"
-  },
   "MYRO/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01597,
-    "last_seen": "2025-10-14T02:20:06.894289+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.016476,
-    "last_seen": "2025-10-14T02:20:06.894289+00:00"
-  },
-  "HIPPO/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.001389,
-    "last_seen": "2025-10-14T02:20:06.894289+00:00"
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.015454,
+    "last_seen": "2025-10-14T03:29:59.684453+00:00"
   }
 }

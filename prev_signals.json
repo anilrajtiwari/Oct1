@@ -1,10 +1,10 @@
 {
-  "OM/USDT": {
+  "PONKE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 3,
-    "exchange": "mexc",
-    "price": 0.12678,
-    "last_seen": "2025-10-14T07:13:53.133071+00:00"
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.06447,
+    "last_seen": "2025-10-14T08:15:23.471951+00:00"
   }
 }

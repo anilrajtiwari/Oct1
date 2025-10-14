@@ -1,10 +1,10 @@
 {
-  "PONKE/USDT": {
-    "direction": "SHORT",
+  "FLOKI/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.06447,
-    "last_seen": "2025-10-14T08:15:23.471951+00:00"
+    "price": 7.038e-05,
+    "last_seen": "2025-10-14T09:14:23.292410+00:00"
   }
 }

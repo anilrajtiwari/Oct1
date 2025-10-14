@@ -1,10 +1,10 @@
 {
-  "OM/USDT": {
-    "direction": "LONG",
+  "PENGU/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.125,
-    "last_seen": "2025-10-14T11:11:00.753849+00:00"
+    "exchange": "gateio",
+    "price": 0.023846,
+    "last_seen": "2025-10-14T12:24:05.631003+00:00"
   }
 }

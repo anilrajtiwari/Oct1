@@ -1,1 +1,10 @@
-{}
+{
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 1.2037,
+    "last_seen": "2025-10-14T16:15:35.288721+00:00"
+  }
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.06592,
+    "last_seen": "2025-10-15T02:23:04.371105+00:00"
+  }
+}

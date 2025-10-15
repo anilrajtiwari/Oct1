@@ -1,1 +1,10 @@
-{}
+{
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 7.375e-05,
+    "last_seen": "2025-10-15T06:18:37.929580+00:00"
+  }
+}

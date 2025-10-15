@@ -1,10 +1,10 @@
 {
-  "VINE/USDT": {
-    "direction": "SHORT",
+  "FLOKI/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.05531,
-    "last_seen": "2025-10-15T03:33:38.743124+00:00"
+    "price": 7.389e-05,
+    "last_seen": "2025-10-15T04:14:55.560765+00:00"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "FLOKI/USDT": {
-    "direction": "LONG",
+  "BAN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 7.359e-05,
-    "last_seen": "2025-10-15T11:11:01.290663+00:00"
+    "exchange": "gateio",
+    "price": 0.05932,
+    "last_seen": "2025-10-15T12:24:32.622729+00:00"
   },
-  "BRETT/USDT": {
-    "direction": "LONG",
+  "OM/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.03215,
-    "last_seen": "2025-10-15T11:11:01.290663+00:00"
+    "exchange": "bitget",
+    "price": 0.13436,
+    "last_seen": "2025-10-15T12:24:32.622729+00:00"
   }
 }

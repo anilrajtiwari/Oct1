@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
+  "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.16,
-    "last_seen": "2025-10-15T20:14:30.681987+00:00"
+    "exchange": "mexc",
+    "price": 0.05632,
+    "last_seen": "2025-10-15T21:11:34.031631+00:00"
   }
 }

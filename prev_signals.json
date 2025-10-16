@@ -1,10 +1,1 @@
-{
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 1.1444,
-    "last_seen": "2025-10-16T05:13:09.441258+00:00"
-  }
-}
+{}

@@ -1,10 +1,18 @@
 {
-  "MEW/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.001901,
-    "last_seen": "2025-10-16T21:11:07.685808+00:00"
+    "price": 7e-05,
+    "last_seen": "2025-10-16T22:09:51.417297+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.11032,
+    "last_seen": "2025-10-16T22:09:51.417297+00:00"
   }
 }

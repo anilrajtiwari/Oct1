@@ -2,17 +2,17 @@
   "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 5.245,
-    "last_seen": "2025-10-16T17:11:27.723232+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 5.172,
+    "last_seen": "2025-10-16T18:17:27.298085+00:00"
   },
-  "DEGEN/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.002025,
-    "last_seen": "2025-10-16T17:11:27.723232+00:00"
+    "exchange": "bitget",
+    "price": 0.5231,
+    "last_seen": "2025-10-16T18:17:27.298085+00:00"
   }
 }

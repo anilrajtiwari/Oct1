@@ -1,26 +1,18 @@
 {
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.3629,
-    "last_seen": "2025-10-17T18:15:31.906781+00:00"
-  },
   "MEW/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
+    "confidence": 1.0,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.001842,
-    "last_seen": "2025-10-17T18:15:31.906781+00:00"
+    "price": 0.001845,
+    "last_seen": "2025-10-17T19:10:21.674200+00:00"
   },
   "1000CAT/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
+    "confidence": 0.75,
+    "count": 2,
     "exchange": "bitget",
-    "price": 0.005452,
-    "last_seen": "2025-10-17T18:15:31.906781+00:00"
+    "price": 0.005427,
+    "last_seen": "2025-10-17T19:10:21.674200+00:00"
   }
 }

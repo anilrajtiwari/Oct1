@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.05385,
-    "last_seen": "2025-10-17T04:15:12.635552+00:00"
-  },
-  "OM/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.12701,
-    "last_seen": "2025-10-17T04:15:12.635552+00:00"
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.152,
+    "last_seen": "2025-10-17T05:12:56.053097+00:00"
   }
 }

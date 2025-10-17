@@ -1,1 +1,42 @@
-{}
+{
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 9.457e-06,
+    "last_seen": "2025-10-17T10:13:40.269293+00:00"
+  },
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01678,
+    "last_seen": "2025-10-17T10:13:40.269293+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 6.587e-05,
+    "last_seen": "2025-10-17T10:13:40.269293+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 4.768,
+    "last_seen": "2025-10-17T10:13:40.269293+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0231,
+    "last_seen": "2025-10-17T10:13:40.269293+00:00"
+  }
+}

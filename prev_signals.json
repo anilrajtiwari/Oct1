@@ -2,17 +2,17 @@
   "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.05404,
-    "last_seen": "2025-10-17T03:30:27.334932+00:00"
+    "price": 0.05385,
+    "last_seen": "2025-10-17T04:15:12.635552+00:00"
   },
   "OM/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.1248,
-    "last_seen": "2025-10-17T03:30:27.334932+00:00"
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.12701,
+    "last_seen": "2025-10-17T04:15:12.635552+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
+  "MUBARAK/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 5.036,
-    "last_seen": "2025-10-18T20:12:32.836889+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.13714,
-    "last_seen": "2025-10-18T20:12:32.836889+00:00"
+    "price": 0.02449,
+    "last_seen": "2025-10-18T21:10:35.803272+00:00"
   }
 }

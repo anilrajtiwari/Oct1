@@ -1,18 +1,18 @@
 {
-  "BAN/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.05726,
-    "last_seen": "2025-10-18T19:09:14.325304+00:00"
+    "exchange": "gateio",
+    "price": 5.036,
+    "last_seen": "2025-10-18T20:12:32.836889+00:00"
   },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
+  "PNUT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.012085,
-    "last_seen": "2025-10-18T19:09:14.325304+00:00"
+    "price": 0.13714,
+    "last_seen": "2025-10-18T20:12:32.836889+00:00"
   }
 }

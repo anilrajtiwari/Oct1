@@ -1,10 +1,26 @@
 {
   "MUBARAK/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.02476,
+    "last_seen": "2025-10-18T22:10:46.545980+00:00"
+  },
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 9.921e-06,
+    "last_seen": "2025-10-18T22:10:46.545980+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.02449,
-    "last_seen": "2025-10-18T21:10:35.803272+00:00"
+    "price": 7.013e-05,
+    "last_seen": "2025-10-18T22:10:46.545980+00:00"
   }
 }

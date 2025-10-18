@@ -1,34 +1,18 @@
 {
-  "MUBARAK/USDT": {
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.005561,
+    "last_seen": "2025-10-18T03:23:39.250192+00:00"
+  },
+  "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.02462,
-    "last_seen": "2025-10-18T02:15:32.949306+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.01193,
-    "last_seen": "2025-10-18T02:15:32.949306+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.005487,
-    "last_seen": "2025-10-18T02:15:32.949306+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.02204,
-    "last_seen": "2025-10-18T02:15:32.949306+00:00"
+    "price": 0.021479,
+    "last_seen": "2025-10-18T03:23:39.250192+00:00"
   }
 }

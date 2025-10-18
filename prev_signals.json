@@ -1,1 +1,26 @@
-{}
+{
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.5107,
+    "last_seen": "2025-10-18T00:48:38.843187+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0010473,
+    "last_seen": "2025-10-18T00:48:38.843187+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02445,
+    "last_seen": "2025-10-18T00:48:38.843187+00:00"
+  }
+}

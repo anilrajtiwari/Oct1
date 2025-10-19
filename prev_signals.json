@@ -1,34 +1,18 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.001722,
-    "last_seen": "2025-10-19T21:10:39.212987+00:00"
-  },
-  "ORDI/USDT": {
+  "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 5.236,
-    "last_seen": "2025-10-19T21:10:39.212987+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 1.0177,
-    "last_seen": "2025-10-19T21:10:39.212987+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
     "exchange": "gateio",
-    "price": 0.04699,
-    "last_seen": "2025-10-19T21:10:39.212987+00:00"
+    "price": 0.14127,
+    "last_seen": "2025-10-19T22:11:47.255035+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.02737,
+    "last_seen": "2025-10-19T22:11:47.255035+00:00"
   }
 }

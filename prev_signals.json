@@ -1,18 +1,10 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 5.225,
-    "last_seen": "2025-10-19T19:09:22.320788+00:00"
-  },
-  "MEW/USDT": {
+  "1000RATS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.001937,
-    "last_seen": "2025-10-19T19:09:22.320788+00:00"
+    "exchange": "bitget",
+    "price": 0.02991,
+    "last_seen": "2025-10-19T20:12:51.898586+00:00"
   }
 }

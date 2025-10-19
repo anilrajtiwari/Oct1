@@ -1,18 +1,26 @@
 {
-  "PNUT/USDT": {
-    "direction": "SHORT",
+  "PEPE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.14127,
-    "last_seen": "2025-10-19T22:11:47.255035+00:00"
+    "exchange": "mexc",
+    "price": 7.04e-06,
+    "last_seen": "2025-10-19T23:11:23.860827+00:00"
   },
-  "BRETT/USDT": {
-    "direction": "SHORT",
+  "BONK/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.02737,
-    "last_seen": "2025-10-19T22:11:47.255035+00:00"
+    "price": 1.4694e-05,
+    "last_seen": "2025-10-19T23:11:23.860827+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.11285,
+    "last_seen": "2025-10-19T23:11:23.860827+00:00"
   }
 }

@@ -1,10 +1,50 @@
 {
   "MOODENG/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.11267,
-    "last_seen": "2025-10-19T16:13:10.521885+00:00"
+    "price": 0.11444,
+    "last_seen": "2025-10-19T17:10:35.276341+00:00"
+  },
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.19812,
+    "last_seen": "2025-10-19T17:10:35.276341+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 6.873e-05,
+    "last_seen": "2025-10-19T17:10:35.276341+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02736,
+    "last_seen": "2025-10-19T17:10:35.276341+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 1.0421,
+    "last_seen": "2025-10-19T17:10:35.276341+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.14115,
+    "last_seen": "2025-10-19T17:10:35.276341+00:00"
   }
 }

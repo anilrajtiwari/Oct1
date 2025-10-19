@@ -1,26 +1,18 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.001722,
-    "last_seen": "2025-10-19T18:15:36.781064+00:00"
+    "exchange": "okx",
+    "price": 5.225,
+    "last_seen": "2025-10-19T19:09:22.320788+00:00"
   },
-  "PIPPIN/USDT": {
+  "MEW/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.015626,
-    "last_seen": "2025-10-19T18:15:36.781064+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02237,
-    "last_seen": "2025-10-19T18:15:36.781064+00:00"
+    "price": 0.001937,
+    "last_seen": "2025-10-19T19:09:22.320788+00:00"
   }
 }

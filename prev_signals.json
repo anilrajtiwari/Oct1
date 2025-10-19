@@ -1,122 +1,42 @@
 {
-  "BRETT/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 2,
     "exchange": "mexc",
-    "price": 0.0275,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.11478,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
-  },
-  "DOGE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.19676,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
+    "price": 0.19595,
+    "last_seen": "2025-10-19T15:10:55.108500+00:00"
   },
   "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 1.0134e-05,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
+    "price": 1.0125e-05,
+    "last_seen": "2025-10-19T15:10:55.108500+00:00"
   },
   "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 7.026e-06,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
+    "price": 7.021e-06,
+    "last_seen": "2025-10-19T15:10:55.108500+00:00"
   },
   "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 1.4752e-05,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 6.738e-05,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.001728,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
+    "price": 1.473e-05,
+    "last_seen": "2025-10-19T15:10:55.108500+00:00"
   },
   "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 5.184,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02728,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02253,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.14118,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.3761,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.06031,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02293,
-    "last_seen": "2025-10-19T14:10:26.439605+00:00"
+    "price": 5.216,
+    "last_seen": "2025-10-19T15:10:55.108500+00:00"
   }
 }

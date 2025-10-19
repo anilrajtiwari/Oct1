@@ -1,10 +1,10 @@
 {
-  "MOODENG/USDT": {
-    "direction": "SHORT",
+  "SPX/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.10961,
-    "last_seen": "2025-10-19T05:12:23.095530+00:00"
+    "price": 0.9388,
+    "last_seen": "2025-10-19T06:17:29.605411+00:00"
   }
 }

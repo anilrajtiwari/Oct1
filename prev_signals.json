@@ -1,42 +1,10 @@
 {
-  "DOGE/USDT": {
-    "direction": "SHORT",
+  "MOODENG/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.19595,
-    "last_seen": "2025-10-19T15:10:55.108500+00:00"
-  },
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 1.0125e-05,
-    "last_seen": "2025-10-19T15:10:55.108500+00:00"
-  },
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 7.021e-06,
-    "last_seen": "2025-10-19T15:10:55.108500+00:00"
-  },
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 1.473e-05,
-    "last_seen": "2025-10-19T15:10:55.108500+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 5.216,
-    "last_seen": "2025-10-19T15:10:55.108500+00:00"
+    "price": 0.11267,
+    "last_seen": "2025-10-19T16:13:10.521885+00:00"
   }
 }

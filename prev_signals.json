@@ -1,1 +1,10 @@
-{}
+{
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 8.592e-05,
+    "last_seen": "2025-10-20T15:13:02.158631+00:00"
+  }
+}

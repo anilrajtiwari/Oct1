@@ -1,26 +1,42 @@
 {
-  "MYRO/USDT": {
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.02757,
+    "last_seen": "2025-10-20T04:18:58.899333+00:00"
+  },
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.01435,
-    "last_seen": "2025-10-20T03:44:17.693188+00:00"
+    "price": 0.001751,
+    "last_seen": "2025-10-20T04:18:58.899333+00:00"
   },
-  "BRETT/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.02754,
-    "last_seen": "2025-10-20T03:44:17.693188+00:00"
+    "exchange": "mexc",
+    "price": 0.02788,
+    "last_seen": "2025-10-20T04:18:58.899333+00:00"
   },
-  "DEGEN/USDT": {
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.1427,
+    "last_seen": "2025-10-20T04:18:58.899333+00:00"
+  },
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.002056,
-    "last_seen": "2025-10-20T03:44:17.693188+00:00"
+    "price": 0.11467,
+    "last_seen": "2025-10-20T04:18:58.899333+00:00"
   }
 }

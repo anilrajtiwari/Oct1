@@ -1,18 +1,10 @@
 {
-  "WIF/USDT": {
+  "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.5246,
-    "last_seen": "2025-10-20T00:57:14.090365+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02202,
-    "last_seen": "2025-10-20T00:57:14.090365+00:00"
+    "price": 0.19422,
+    "last_seen": "2025-10-20T02:31:22.324506+00:00"
   }
 }

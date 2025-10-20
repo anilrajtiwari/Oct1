@@ -1,10 +1,10 @@
 {
-  "PEOPLE/USDT": {
+  "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.01265,
-    "last_seen": "2025-10-20T16:15:26.123085+00:00"
+    "price": 0.022316,
+    "last_seen": "2025-10-20T17:11:20.740517+00:00"
   }
 }

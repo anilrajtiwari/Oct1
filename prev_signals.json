@@ -2,9 +2,25 @@
   "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.20063,
+    "last_seen": "2025-10-20T12:23:33.195211+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.19965,
-    "last_seen": "2025-10-20T11:11:39.090626+00:00"
+    "price": 0.03034,
+    "last_seen": "2025-10-20T12:23:33.195211+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 5.321,
+    "last_seen": "2025-10-20T12:23:33.195211+00:00"
   }
 }

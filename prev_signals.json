@@ -2,9 +2,9 @@
   "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.022316,
-    "last_seen": "2025-10-20T17:11:20.740517+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.02218,
+    "last_seen": "2025-10-20T18:18:33.045189+00:00"
   }
 }

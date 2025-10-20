@@ -2,17 +2,33 @@
   "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.02791,
-    "last_seen": "2025-10-20T05:13:35.494771+00:00"
+    "count": 3,
+    "exchange": "gateio",
+    "price": 0.02863,
+    "last_seen": "2025-10-20T06:19:37.899188+00:00"
   },
   "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.11464,
-    "last_seen": "2025-10-20T05:13:35.494771+00:00"
+    "count": 3,
+    "exchange": "mexc",
+    "price": 0.11575,
+    "last_seen": "2025-10-20T06:19:37.899188+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03072,
+    "last_seen": "2025-10-20T06:19:37.899188+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.06111,
+    "last_seen": "2025-10-20T06:19:37.899188+00:00"
   }
 }

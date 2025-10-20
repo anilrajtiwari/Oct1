@@ -1,1 +1,18 @@
-{}
+{
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.04721,
+    "last_seen": "2025-10-20T20:14:19.005308+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.1572,
+    "last_seen": "2025-10-20T20:14:19.005308+00:00"
+  }
+}

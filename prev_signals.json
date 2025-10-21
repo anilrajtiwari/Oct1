@@ -1,1 +1,10 @@
-{}
+{
+  "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001237,
+    "last_seen": "2025-10-21T12:23:57.057051+00:00"
+  }
+}

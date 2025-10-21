@@ -1,1 +1,10 @@
-{}
+{
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 6.76e-05,
+    "last_seen": "2025-10-21T17:15:04.779693+00:00"
+  }
+}

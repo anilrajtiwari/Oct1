@@ -1,10 +1,18 @@
 {
-  "PENGU/USDT": {
+  "PEOPLE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.022371,
-    "last_seen": "2025-10-21T00:54:27.578383+00:00"
+    "exchange": "gateio",
+    "price": 0.012457,
+    "last_seen": "2025-10-21T02:24:36.808797+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0225,
+    "last_seen": "2025-10-21T02:24:36.808797+00:00"
   }
 }

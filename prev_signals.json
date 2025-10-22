@@ -1,1 +1,10 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0686,
+    "last_seen": "2025-10-22T00:55:26.311995+00:00"
+  }
+}

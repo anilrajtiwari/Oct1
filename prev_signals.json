@@ -1,10 +1,10 @@
 {
-  "CHILLGUY/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.02441,
-    "last_seen": "2025-10-22T22:10:58.746832+00:00"
+    "exchange": "gateio",
+    "price": 0.4827,
+    "last_seen": "2025-10-22T23:10:33.392953+00:00"
   }
 }

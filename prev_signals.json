@@ -1,18 +1,1 @@
-{
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 5.833e-05,
-    "last_seen": "2025-10-22T17:12:24.507778+00:00"
-  },
-  "OM/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.1132,
-    "last_seen": "2025-10-22T17:12:24.507778+00:00"
-  }
-}
+{}

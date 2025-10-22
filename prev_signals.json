@@ -1,10 +1,10 @@
 {
-  "HIPPO/USDT": {
-    "direction": "LONG",
+  "KOMA/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.001206,
-    "last_seen": "2025-10-22T20:15:17.139405+00:00"
+    "exchange": "bitget",
+    "price": 0.01809,
+    "last_seen": "2025-10-22T21:10:07.058813+00:00"
   }
 }

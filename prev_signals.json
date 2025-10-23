@@ -1,1 +1,10 @@
-{}
+{
+  "OM/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.11256,
+    "last_seen": "2025-10-23T04:15:02.750838+00:00"
+  }
+}

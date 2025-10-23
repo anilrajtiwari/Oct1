@@ -2,25 +2,25 @@
   "OM/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.112,
-    "last_seen": "2025-10-23T00:53:38.264022+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.11212,
+    "last_seen": "2025-10-23T02:23:02.430741+00:00"
   },
   "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.001013,
-    "last_seen": "2025-10-23T00:53:38.264022+00:00"
+    "price": 0.001017,
+    "last_seen": "2025-10-23T02:23:02.430741+00:00"
   },
-  "PENGU/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.019764,
-    "last_seen": "2025-10-23T00:53:38.264022+00:00"
+    "exchange": "mexc",
+    "price": 6.04e-05,
+    "last_seen": "2025-10-23T02:23:02.430741+00:00"
   }
 }

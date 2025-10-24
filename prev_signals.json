@@ -1,10 +1,10 @@
 {
-  "BAN/USDT": {
+  "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.06419,
-    "last_seen": "2025-10-24T19:10:48.945374+00:00"
+    "price": 0.02147,
+    "last_seen": "2025-10-24T20:13:59.069903+00:00"
   }
 }

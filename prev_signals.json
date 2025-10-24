@@ -1,1 +1,10 @@
-{}
+{
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 6.08e-05,
+    "last_seen": "2025-10-24T04:14:55.440388+00:00"
+  }
+}

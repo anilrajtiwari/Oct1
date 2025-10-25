@@ -1,18 +1,18 @@
 {
-  "BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 1.4733e-05,
-    "last_seen": "2025-10-25T05:11:52.534268+00:00"
-  },
-  "HIPPO/USDT": {
+  "PONKE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.001268,
-    "last_seen": "2025-10-25T05:11:52.534268+00:00"
+    "price": 0.06412,
+    "last_seen": "2025-10-25T06:16:28.874728+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.020908,
+    "last_seen": "2025-10-25T06:16:28.874728+00:00"
   }
 }

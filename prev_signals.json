@@ -1,10 +1,18 @@
 {
-  "WIF/USDT": {
+  "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.5365,
-    "last_seen": "2025-10-25T03:31:34.789067+00:00"
+    "exchange": "mexc",
+    "price": 0.19858,
+    "last_seen": "2025-10-25T04:14:41.341710+00:00"
+  },
+  "PONKE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.06454,
+    "last_seen": "2025-10-25T04:14:41.341710+00:00"
   }
 }

@@ -1,1 +1,10 @@
-{}
+{
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.11585,
+    "last_seen": "2025-10-25T15:11:33.561339+00:00"
+  }
+}

@@ -1,1 +1,18 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.06523,
+    "last_seen": "2025-10-25T02:21:11.773024+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.3804,
+    "last_seen": "2025-10-25T02:21:11.773024+00:00"
+  }
+}

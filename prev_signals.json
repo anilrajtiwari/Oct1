@@ -1,10 +1,10 @@
 {
-  "ACT/USDT": {
+  "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.02335,
-    "last_seen": "2025-10-26T17:10:36.533320+00:00"
+    "exchange": "bitget",
+    "price": 0.02954,
+    "last_seen": "2025-10-26T18:15:50.891611+00:00"
   }
 }

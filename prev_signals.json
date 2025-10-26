@@ -1,18 +1,1 @@
-{
-  "MYRO/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01429,
-    "last_seen": "2025-10-26T05:12:39.052561+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0889,
-    "last_seen": "2025-10-26T05:12:39.052561+00:00"
-  }
-}
+{}

@@ -1,26 +1,10 @@
 {
-  "SHIB/USDT": {
+  "ACT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 1.0436e-05,
-    "last_seen": "2025-10-26T16:13:27.783938+00:00"
-  },
-  "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.5557,
-    "last_seen": "2025-10-26T16:13:27.783938+00:00"
-  },
-  "HIPPO/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.001572,
-    "last_seen": "2025-10-26T16:13:27.783938+00:00"
+    "exchange": "gateio",
+    "price": 0.02335,
+    "last_seen": "2025-10-26T17:10:36.533320+00:00"
   }
 }

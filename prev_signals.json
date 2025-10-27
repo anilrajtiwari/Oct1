@@ -1,34 +1,10 @@
 {
-  "ORDI/USDT": {
+  "MOODENG/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 5.559,
-    "last_seen": "2025-10-27T05:14:04.973007+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 1.1693,
-    "last_seen": "2025-10-27T05:14:04.973007+00:00"
-  },
-  "HIPPO/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.001699,
-    "last_seen": "2025-10-27T05:14:04.973007+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.09928,
-    "last_seen": "2025-10-27T05:14:04.973007+00:00"
+    "price": 0.12267,
+    "last_seen": "2025-10-27T06:20:49.872610+00:00"
   }
 }

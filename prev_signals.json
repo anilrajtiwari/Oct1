@@ -1,10 +1,10 @@
 {
-  "MOODENG/USDT": {
+  "SHIB/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.12267,
-    "last_seen": "2025-10-27T06:20:49.872610+00:00"
+    "price": 1.0574e-05,
+    "last_seen": "2025-10-27T07:14:38.227676+00:00"
   }
 }

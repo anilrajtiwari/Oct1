@@ -1,10 +1,10 @@
 {
-  "CHILLGUY/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.02939,
-    "last_seen": "2025-10-28T11:10:53.885254+00:00"
+    "exchange": "bitget",
+    "price": 0.03283,
+    "last_seen": "2025-10-28T12:23:06.099543+00:00"
   }
 }

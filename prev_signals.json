@@ -1,10 +1,50 @@
 {
-  "PEOPLE/USDT": {
+  "BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 1.423e-05,
+    "last_seen": "2025-10-29T03:44:02.442873+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 7.061e-05,
+    "last_seen": "2025-10-29T03:44:02.442873+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 5.582e-05,
+    "last_seen": "2025-10-29T03:44:02.442873+00:00"
+  },
+  "OM/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.11065,
+    "last_seen": "2025-10-29T03:44:02.442873+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001847,
+    "last_seen": "2025-10-29T03:44:02.442873+00:00"
+  },
+  "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01187,
-    "last_seen": "2025-10-29T02:31:31.176041+00:00"
+    "price": 0.0218,
+    "last_seen": "2025-10-29T03:44:02.442873+00:00"
   }
 }

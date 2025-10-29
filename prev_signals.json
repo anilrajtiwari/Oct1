@@ -1,18 +1,10 @@
 {
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.012031,
-    "last_seen": "2025-10-29T12:24:13.539098+00:00"
-  },
-  "BOME/USDT": {
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0010601,
-    "last_seen": "2025-10-29T12:24:13.539098+00:00"
+    "price": 0.001898,
+    "last_seen": "2025-10-29T13:28:53.726892+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "DOGE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.19382,
-    "last_seen": "2025-10-29T07:13:31.844451+00:00"
-  },
-  "PEOPLE/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.01187,
-    "last_seen": "2025-10-29T07:13:31.844451+00:00"
+    "price": 0.3697,
+    "last_seen": "2025-10-29T08:17:37.964000+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "MEW/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.001898,
-    "last_seen": "2025-10-29T13:28:53.726892+00:00"
+    "exchange": "mexc",
+    "price": 0.01201,
+    "last_seen": "2025-10-29T14:13:34.055909+00:00"
   }
 }

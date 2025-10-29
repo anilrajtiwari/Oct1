@@ -1,10 +1,10 @@
 {
-  "MEW/USDT": {
-    "direction": "LONG",
+  "BRETT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.001844,
-    "last_seen": "2025-10-29T09:14:04.110858+00:00"
+    "exchange": "mexc",
+    "price": 0.02966,
+    "last_seen": "2025-10-29T10:14:34.010035+00:00"
   }
 }

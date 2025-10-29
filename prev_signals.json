@@ -1,1 +1,18 @@
-{}
+{
+  "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001487,
+    "last_seen": "2025-10-29T22:12:20.047876+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.001915,
+    "last_seen": "2025-10-29T22:12:20.047876+00:00"
+  }
+}

@@ -1,18 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.02251,
-    "last_seen": "2025-10-29T00:56:17.796318+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.1497,
-    "last_seen": "2025-10-29T00:56:17.796318+00:00"
+    "exchange": "bitget",
+    "price": 0.01187,
+    "last_seen": "2025-10-29T02:31:31.176041+00:00"
   }
 }

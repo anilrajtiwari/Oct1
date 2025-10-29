@@ -1,1 +1,18 @@
-{}
+{
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02251,
+    "last_seen": "2025-10-29T00:56:17.796318+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.1497,
+    "last_seen": "2025-10-29T00:56:17.796318+00:00"
+  }
+}

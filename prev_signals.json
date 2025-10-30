@@ -1,18 +1,10 @@
 {
-  "PONKE/USDT": {
+  "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.05776,
-    "last_seen": "2025-10-30T16:16:33.983572+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.004999,
-    "last_seen": "2025-10-30T16:16:33.983572+00:00"
+    "exchange": "mexc",
+    "price": 0.18082,
+    "last_seen": "2025-10-30T17:12:15.029745+00:00"
   }
 }

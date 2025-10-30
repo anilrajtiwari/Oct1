@@ -1,10 +1,26 @@
 {
-  "MYRO/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01898,
-    "last_seen": "2025-10-30T03:39:33.575595+00:00"
+    "price": 6.8212e-06,
+    "last_seen": "2025-10-30T04:15:06.286050+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 7.054e-05,
+    "last_seen": "2025-10-30T04:15:06.286050+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.00183,
+    "last_seen": "2025-10-30T04:15:06.286050+00:00"
   }
 }

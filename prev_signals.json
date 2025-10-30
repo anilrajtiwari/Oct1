@@ -1,34 +1,18 @@
 {
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.001735,
-    "last_seen": "2025-10-30T15:14:28.292204+00:00"
-  },
-  "DOGE/USDT": {
+  "PONKE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.18128,
-    "last_seen": "2025-10-30T15:14:28.292204+00:00"
+    "exchange": "bitget",
+    "price": 0.05776,
+    "last_seen": "2025-10-30T16:16:33.983572+00:00"
   },
-  "SHIB/USDT": {
+  "1000CAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 9.691e-06,
-    "last_seen": "2025-10-30T15:14:28.292204+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 6.62e-05,
-    "last_seen": "2025-10-30T15:14:28.292204+00:00"
+    "exchange": "bitget",
+    "price": 0.004999,
+    "last_seen": "2025-10-30T16:16:33.983572+00:00"
   }
 }

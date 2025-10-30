@@ -2,25 +2,49 @@
   "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
+    "count": 2,
+    "exchange": "bitget",
     "price": 5.05e-05,
-    "last_seen": "2025-10-30T20:14:09.870357+00:00"
+    "last_seen": "2025-10-30T21:12:10.924944+00:00"
   },
-  "SPX/USDT": {
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001467,
+    "last_seen": "2025-10-30T21:12:10.924944+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0009288,
+    "last_seen": "2025-10-30T21:12:10.924944+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.01069,
+    "last_seen": "2025-10-30T21:12:10.924944+00:00"
+  },
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.8754,
-    "last_seen": "2025-10-30T20:14:09.870357+00:00"
+    "price": 0.01932,
+    "last_seen": "2025-10-30T21:12:10.924944+00:00"
   },
-  "AIXBT/USDT": {
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.06618,
-    "last_seen": "2025-10-30T20:14:09.870357+00:00"
+    "price": 0.001704,
+    "last_seen": "2025-10-30T21:12:10.924944+00:00"
   }
 }

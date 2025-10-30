@@ -1,1 +1,10 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 5.155,
+    "last_seen": "2025-10-30T00:56:05.516398+00:00"
+  }
+}

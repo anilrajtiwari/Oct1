@@ -2,25 +2,33 @@
   "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 6.8212e-06,
-    "last_seen": "2025-10-30T04:15:06.286050+00:00"
+    "price": 6.7985e-06,
+    "last_seen": "2025-10-30T05:13:02.645317+00:00"
   },
   "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 7.054e-05,
-    "last_seen": "2025-10-30T04:15:06.286050+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 7.016e-05,
+    "last_seen": "2025-10-30T05:13:02.645317+00:00"
   },
-  "MEW/USDT": {
+  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.00183,
-    "last_seen": "2025-10-30T04:15:06.286050+00:00"
+    "exchange": "mexc",
+    "price": 0.02107,
+    "last_seen": "2025-10-30T05:13:02.645317+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.00525,
+    "last_seen": "2025-10-30T05:13:02.645317+00:00"
   }
 }

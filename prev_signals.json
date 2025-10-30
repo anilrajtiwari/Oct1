@@ -1,10 +1,10 @@
 {
-  "ORDI/USDT": {
-    "direction": "LONG",
+  "SHIB/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 5.155,
-    "last_seen": "2025-10-30T00:56:05.516398+00:00"
+    "exchange": "mexc",
+    "price": 1.023e-05,
+    "last_seen": "2025-10-30T02:28:59.625504+00:00"
   }
 }

@@ -1,1 +1,10 @@
-{}
+{
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01791,
+    "last_seen": "2025-10-31T22:12:09.232931+00:00"
+  }
+}

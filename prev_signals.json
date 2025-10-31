@@ -1,18 +1,18 @@
 {
-  "BAN/USDT": {
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.069,
+    "last_seen": "2025-10-31T04:16:30.308605+00:00"
+  },
+  "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.06748,
-    "last_seen": "2025-10-31T03:40:27.234214+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.00173,
-    "last_seen": "2025-10-31T03:40:27.234214+00:00"
+    "exchange": "gateio",
+    "price": 0.1405,
+    "last_seen": "2025-10-31T04:16:30.308605+00:00"
   }
 }

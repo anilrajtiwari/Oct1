@@ -1,18 +1,10 @@
 {
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "gateio",
-    "price": 0.07022,
-    "last_seen": "2025-10-31T06:19:00.635129+00:00"
-  },
-  "1000CAT/USDT": {
+  "HIPPO/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.005044,
-    "last_seen": "2025-10-31T06:19:00.635129+00:00"
+    "price": 0.001905,
+    "last_seen": "2025-10-31T07:12:38.761173+00:00"
   }
 }

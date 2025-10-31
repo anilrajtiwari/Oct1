@@ -1,1 +1,10 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.06974,
+    "last_seen": "2025-10-31T18:18:15.164155+00:00"
+  }
+}

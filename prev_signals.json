@@ -1,10 +1,18 @@
 {
-  "MUBARAK/USDT": {
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 5.244e-05,
+    "last_seen": "2025-10-31T20:14:18.268116+00:00"
+  },
+  "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.01971,
-    "last_seen": "2025-10-31T19:09:55.257584+00:00"
+    "exchange": "gateio",
+    "price": 0.02639,
+    "last_seen": "2025-10-31T20:14:18.268116+00:00"
   }
 }

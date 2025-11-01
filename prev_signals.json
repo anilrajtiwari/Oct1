@@ -1,18 +1,10 @@
 {
-  "PONKE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.05663,
-    "last_seen": "2025-10-31T23:12:06.260949+00:00"
-  },
-  "PENGU/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.01819,
-    "last_seen": "2025-10-31T23:12:06.260949+00:00"
+    "price": 6.588e-06,
+    "last_seen": "2025-11-01T00:57:22.079470+00:00"
   }
 }

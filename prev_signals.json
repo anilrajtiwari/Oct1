@@ -1,34 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.001574,
-    "last_seen": "2025-11-02T06:17:34.417652+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.001022,
-    "last_seen": "2025-11-02T06:17:34.417652+00:00"
-  },
-  "SHIB/USDT": {
-    "direction": "SHORT",
+  "BAN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 1.0224e-05,
-    "last_seen": "2025-11-02T06:17:34.417652+00:00"
-  },
-  "KOMA/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01853,
-    "last_seen": "2025-11-02T06:17:34.417652+00:00"
+    "exchange": "mexc",
+    "price": 0.06012,
+    "last_seen": "2025-11-02T07:11:48.370824+00:00"
   }
 }

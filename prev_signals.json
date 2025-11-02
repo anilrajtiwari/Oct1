@@ -1,66 +1,66 @@
 {
-  "ORDI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "okx",
-    "price": 4.718,
-    "last_seen": "2025-11-02T15:11:14.664226+00:00"
-  },
   "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 3,
+    "count": 4,
     "exchange": "gateio",
-    "price": 0.01967,
-    "last_seen": "2025-11-02T15:11:14.664226+00:00"
+    "price": 0.01939,
+    "last_seen": "2025-11-02T16:12:59.067506+00:00"
   },
   "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "mexc",
-    "price": 0.18358,
-    "last_seen": "2025-11-02T15:11:14.664226+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 6.86e-05,
-    "last_seen": "2025-11-02T15:11:14.664226+00:00"
+    "price": 0.18241,
+    "last_seen": "2025-11-02T16:12:59.067506+00:00"
   },
   "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.5269,
-    "last_seen": "2025-11-02T15:11:14.664226+00:00"
-  },
-  "BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 1.3762e-05,
-    "last_seen": "2025-11-02T15:11:14.664226+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.02645,
-    "last_seen": "2025-11-02T15:11:14.664226+00:00"
+    "price": 0.5225,
+    "last_seen": "2025-11-02T16:12:59.067506+00:00"
   },
   "1000CAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.004958,
+    "last_seen": "2025-11-02T16:12:59.067506+00:00"
+  },
+  "PEPE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.005025,
-    "last_seen": "2025-11-02T15:11:14.664226+00:00"
+    "price": 6.5165e-06,
+    "last_seen": "2025-11-02T16:12:59.067506+00:00"
+  },
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.1031,
+    "last_seen": "2025-11-02T16:12:59.067506+00:00"
+  },
+  "MYRO/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0166,
+    "last_seen": "2025-11-02T16:12:59.067506+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.10077,
+    "last_seen": "2025-11-02T16:12:59.067506+00:00"
   }
 }

@@ -1,18 +1,58 @@
 {
-  "ORDI/USDT": {
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 7.004e-05,
+    "last_seen": "2025-11-02T10:11:47.782126+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001551,
+    "last_seen": "2025-11-02T10:11:47.782126+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03342,
+    "last_seen": "2025-11-02T10:11:47.782126+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01164,
+    "last_seen": "2025-11-02T10:11:47.782126+00:00"
+  },
+  "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 4.893,
-    "last_seen": "2025-11-02T09:11:30.908574+00:00"
+    "price": 0.01769,
+    "last_seen": "2025-11-02T10:11:47.782126+00:00"
   },
-  "BOME/USDT": {
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.1282,
+    "last_seen": "2025-11-02T10:11:47.782126+00:00"
+  },
+  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.001013,
-    "last_seen": "2025-11-02T09:11:30.908574+00:00"
+    "price": 0.01999,
+    "last_seen": "2025-11-02T10:11:47.782126+00:00"
   }
 }

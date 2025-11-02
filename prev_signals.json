@@ -1,1 +1,34 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 4.814,
+    "last_seen": "2025-11-02T13:18:43.457940+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.017714,
+    "last_seen": "2025-11-02T13:18:43.457940+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.10311,
+    "last_seen": "2025-11-02T13:18:43.457940+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01981,
+    "last_seen": "2025-11-02T13:18:43.457940+00:00"
+  }
+}

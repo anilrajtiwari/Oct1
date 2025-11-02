@@ -2,57 +2,65 @@
   "ORDI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "okx",
-    "price": 4.797,
-    "last_seen": "2025-11-02T14:10:33.557264+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.017542,
-    "last_seen": "2025-11-02T14:10:33.557264+00:00"
+    "price": 4.718,
+    "last_seen": "2025-11-02T15:11:14.664226+00:00"
   },
   "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.0196,
-    "last_seen": "2025-11-02T14:10:33.557264+00:00"
+    "count": 3,
+    "exchange": "gateio",
+    "price": 0.01967,
+    "last_seen": "2025-11-02T15:11:14.664226+00:00"
   },
   "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.18479,
-    "last_seen": "2025-11-02T14:10:33.557264+00:00"
+    "price": 0.18358,
+    "last_seen": "2025-11-02T15:11:14.664226+00:00"
   },
   "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 6.934e-05,
-    "last_seen": "2025-11-02T14:10:33.557264+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 6.86e-05,
+    "last_seen": "2025-11-02T15:11:14.664226+00:00"
   },
-  "PEOPLE/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.011466,
-    "last_seen": "2025-11-02T14:10:33.557264+00:00"
+    "price": 0.5269,
+    "last_seen": "2025-11-02T15:11:14.664226+00:00"
   },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
+  "BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 1.3762e-05,
+    "last_seen": "2025-11-02T15:11:14.664226+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.07359,
-    "last_seen": "2025-11-02T14:10:33.557264+00:00"
+    "price": 0.02645,
+    "last_seen": "2025-11-02T15:11:14.664226+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.005025,
+    "last_seen": "2025-11-02T15:11:14.664226+00:00"
   }
 }

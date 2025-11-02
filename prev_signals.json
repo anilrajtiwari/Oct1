@@ -1,50 +1,10 @@
 {
-  "ORDI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "mexc",
-    "price": 4.919,
-    "last_seen": "2025-11-02T00:58:10.365800+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 3,
-    "exchange": "gateio",
-    "price": 0.12934,
-    "last_seen": "2025-11-02T00:58:10.365800+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.001552,
-    "last_seen": "2025-11-02T00:58:10.365800+00:00"
-  },
-  "KOMA/USDT": {
+  "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01842,
-    "last_seen": "2025-11-02T00:58:10.365800+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.02015,
-    "last_seen": "2025-11-02T00:58:10.365800+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.00178,
-    "last_seen": "2025-11-02T00:58:10.365800+00:00"
+    "price": 0.1508,
+    "last_seen": "2025-11-02T02:44:21.987971+00:00"
   }
 }

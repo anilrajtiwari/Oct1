@@ -1,34 +1,18 @@
 {
-  "BONK/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 1.3749e-05,
-    "last_seen": "2025-11-02T21:10:27.133354+00:00"
+    "price": 0.18374,
+    "last_seen": "2025-11-02T22:11:14.760439+00:00"
   },
-  "HIPPO/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.001945,
-    "last_seen": "2025-11-02T21:10:27.133354+00:00"
-  },
-  "MOODENG/USDT": {
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.10139,
-    "last_seen": "2025-11-02T21:10:27.133354+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.001747,
-    "last_seen": "2025-11-02T21:10:27.133354+00:00"
+    "exchange": "bitget",
+    "price": 0.01977,
+    "last_seen": "2025-11-02T22:11:14.760439+00:00"
   }
 }

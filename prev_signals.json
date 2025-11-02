@@ -1,10 +1,10 @@
 {
-  "WIF/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.5231,
-    "last_seen": "2025-11-02T18:15:04.258915+00:00"
+    "exchange": "mexc",
+    "price": 6.834e-05,
+    "last_seen": "2025-11-02T19:09:03.836055+00:00"
   }
 }

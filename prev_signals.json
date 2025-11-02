@@ -1,10 +1,18 @@
 {
-  "DOGE/USDT": {
-    "direction": "SHORT",
+  "ORDI/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.18775,
-    "last_seen": "2025-11-02T08:14:19.972390+00:00"
+    "price": 4.893,
+    "last_seen": "2025-11-02T09:11:30.908574+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001013,
+    "last_seen": "2025-11-02T09:11:30.908574+00:00"
   }
 }

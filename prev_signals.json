@@ -1,34 +1,42 @@
 {
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.01797,
-    "last_seen": "2025-11-02T04:16:11.512013+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.02014,
-    "last_seen": "2025-11-02T04:16:11.512013+00:00"
-  },
-  "DOGE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.18624,
-    "last_seen": "2025-11-02T04:16:11.512013+00:00"
-  },
   "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.06133,
+    "last_seen": "2025-11-02T05:12:47.031154+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 7.093e-05,
+    "last_seen": "2025-11-02T05:12:47.031154+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.06405,
-    "last_seen": "2025-11-02T04:16:11.512013+00:00"
+    "price": 0.001574,
+    "last_seen": "2025-11-02T05:12:47.031154+00:00"
+  },
+  "OM/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.1069,
+    "last_seen": "2025-11-02T05:12:47.031154+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.001023,
+    "last_seen": "2025-11-02T05:12:47.031154+00:00"
   }
 }

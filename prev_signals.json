@@ -1,1 +1,18 @@
-{}
+{
+  "MYRO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01626,
+    "last_seen": "2025-11-03T08:18:24.927379+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.06929,
+    "last_seen": "2025-11-03T08:18:24.927379+00:00"
+  }
+}

@@ -1,42 +1,10 @@
 {
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.03814,
-    "last_seen": "2025-11-03T16:15:41.151217+00:00"
-  },
   "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.02299,
-    "last_seen": "2025-11-03T16:15:41.151217+00:00"
-  },
-  "MYRO/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01522,
-    "last_seen": "2025-11-03T16:15:41.151217+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01573,
-    "last_seen": "2025-11-03T16:15:41.151217+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.06532,
-    "last_seen": "2025-11-03T16:15:41.151217+00:00"
+    "price": 0.02278,
+    "last_seen": "2025-11-03T17:11:52.253657+00:00"
   }
 }

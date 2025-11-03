@@ -2,9 +2,33 @@
   "MYRO/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.01621,
+    "last_seen": "2025-11-03T05:13:58.064290+00:00"
+  },
+  "BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.01581,
-    "last_seen": "2025-11-03T04:21:38.348573+00:00"
+    "exchange": "gateio",
+    "price": 1.3299e-05,
+    "last_seen": "2025-11-03T05:13:58.064290+00:00"
+  },
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.09856,
+    "last_seen": "2025-11-03T05:13:58.064290+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02477,
+    "last_seen": "2025-11-03T05:13:58.064290+00:00"
   }
 }

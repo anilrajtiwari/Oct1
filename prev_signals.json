@@ -1,34 +1,74 @@
 {
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.01528,
-    "last_seen": "2025-11-03T21:12:15.637370+00:00"
-  },
   "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.1074,
-    "last_seen": "2025-11-03T21:12:15.637370+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.000834,
-    "last_seen": "2025-11-03T21:12:15.637370+00:00"
+    "price": 0.1088,
+    "last_seen": "2025-11-03T22:12:48.450810+00:00"
   },
-  "MUBARAK/USDT": {
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 6.024e-05,
+    "last_seen": "2025-11-03T22:12:48.450810+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001384,
+    "last_seen": "2025-11-03T22:12:48.450810+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 4.501e-05,
+    "last_seen": "2025-11-03T22:12:48.450810+00:00"
+  },
+  "OM/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.01608,
-    "last_seen": "2025-11-03T21:12:15.637370+00:00"
+    "exchange": "gateio",
+    "price": 0.0936,
+    "last_seen": "2025-11-03T22:12:48.450810+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0225,
+    "last_seen": "2025-11-03T22:12:48.450810+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.08857,
+    "last_seen": "2025-11-03T22:12:48.450810+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001522,
+    "last_seen": "2025-11-03T22:12:48.450810+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01671,
+    "last_seen": "2025-11-03T22:12:48.450810+00:00"
   }
 }

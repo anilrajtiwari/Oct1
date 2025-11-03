@@ -1,18 +1,18 @@
 {
-  "PONKE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.05299,
-    "last_seen": "2025-11-03T11:11:14.369000+00:00"
-  },
   "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.04078,
+    "last_seen": "2025-11-03T12:24:12.831822+00:00"
+  },
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.04065,
-    "last_seen": "2025-11-03T11:11:14.369000+00:00"
+    "exchange": "mexc",
+    "price": 0.17516,
+    "last_seen": "2025-11-03T12:24:12.831822+00:00"
   }
 }

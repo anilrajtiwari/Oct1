@@ -1,18 +1,10 @@
 {
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.04078,
-    "last_seen": "2025-11-03T12:24:12.831822+00:00"
-  },
-  "DOGE/USDT": {
-    "direction": "SHORT",
+  "PENGU/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.17516,
-    "last_seen": "2025-11-03T12:24:12.831822+00:00"
+    "price": 0.01625,
+    "last_seen": "2025-11-03T13:26:23.882145+00:00"
   }
 }

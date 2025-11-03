@@ -2,33 +2,33 @@
   "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.015417,
-    "last_seen": "2025-11-03T20:14:25.439216+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.01528,
+    "last_seen": "2025-11-03T21:12:15.637370+00:00"
   },
   "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.1085,
-    "last_seen": "2025-11-03T20:14:25.439216+00:00"
+    "price": 0.1074,
+    "last_seen": "2025-11-03T21:12:15.637370+00:00"
   },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.06472,
-    "last_seen": "2025-11-03T20:14:25.439216+00:00"
-  },
-  "MEW/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.001513,
-    "last_seen": "2025-11-03T20:14:25.439216+00:00"
+    "price": 0.000834,
+    "last_seen": "2025-11-03T21:12:15.637370+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.01608,
+    "last_seen": "2025-11-03T21:12:15.637370+00:00"
   }
 }

@@ -1,26 +1,26 @@
 {
-  "SHIB/USDT": {
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.09372,
+    "last_seen": "2025-11-03T19:10:30.621826+00:00"
+  },
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 9.41e-06,
-    "last_seen": "2025-11-03T18:17:33.584676+00:00"
+    "price": 0.02307,
+    "last_seen": "2025-11-03T19:10:30.621826+00:00"
   },
-  "FLOKI/USDT": {
+  "DEGEN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 6.139e-05,
-    "last_seen": "2025-11-03T18:17:33.584676+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.091,
-    "last_seen": "2025-11-03T18:17:33.584676+00:00"
+    "exchange": "gateio",
+    "price": 0.001671,
+    "last_seen": "2025-11-03T19:10:30.621826+00:00"
   }
 }

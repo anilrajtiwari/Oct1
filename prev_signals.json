@@ -1,10 +1,18 @@
 {
-  "WIF/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.4445,
-    "last_seen": "2025-11-04T02:27:33.031530+00:00"
+    "exchange": "bitget",
+    "price": 0.01667,
+    "last_seen": "2025-11-04T03:38:48.596444+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.000869,
+    "last_seen": "2025-11-04T03:38:48.596444+00:00"
   }
 }

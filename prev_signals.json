@@ -1,10 +1,26 @@
 {
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
+  "PENGU/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.2639,
-    "last_seen": "2025-11-04T04:15:28.972236+00:00"
+    "exchange": "gateio",
+    "price": 0.015273,
+    "last_seen": "2025-11-04T05:13:30.172076+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.08686,
+    "last_seen": "2025-11-04T05:13:30.172076+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.1239,
+    "last_seen": "2025-11-04T05:13:30.172076+00:00"
   }
 }

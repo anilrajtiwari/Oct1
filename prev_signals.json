@@ -1,42 +1,18 @@
 {
-  "MEME/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "bitget",
-    "price": 0.001374,
-    "last_seen": "2025-11-03T23:11:48.781869+00:00"
+    "price": 6.088e-05,
+    "last_seen": "2025-11-04T00:54:34.003396+00:00"
   },
-  "OM/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.0931,
-    "last_seen": "2025-11-03T23:11:48.781869+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.01676,
-    "last_seen": "2025-11-03T23:11:48.781869+00:00"
-  },
-  "KOMA/USDT": {
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01605,
-    "last_seen": "2025-11-03T23:11:48.781869+00:00"
-  },
-  "PONKE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.04929,
-    "last_seen": "2025-11-03T23:11:48.781869+00:00"
+    "exchange": "bitget",
+    "price": 0.08825,
+    "last_seen": "2025-11-04T00:54:34.003396+00:00"
   }
 }

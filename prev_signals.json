@@ -1,34 +1,10 @@
 {
-  "PENGU/USDT": {
-    "direction": "SHORT",
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.015089,
-    "last_seen": "2025-11-04T15:14:11.168734+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.6523,
-    "last_seen": "2025-11-04T15:14:11.168734+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.253,
-    "last_seen": "2025-11-04T15:14:11.168734+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.04188,
-    "last_seen": "2025-11-04T15:14:11.168734+00:00"
+    "exchange": "mexc",
+    "price": 0.02189,
+    "last_seen": "2025-11-04T16:16:28.787783+00:00"
   }
 }

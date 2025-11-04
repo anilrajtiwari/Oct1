@@ -1,1 +1,50 @@
-{}
+{
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 5.902e-05,
+    "last_seen": "2025-11-04T09:15:14.978391+00:00"
+  },
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01638,
+    "last_seen": "2025-11-04T09:15:14.978391+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.2527,
+    "last_seen": "2025-11-04T09:15:14.978391+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.06275,
+    "last_seen": "2025-11-04T09:15:14.978391+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02195,
+    "last_seen": "2025-11-04T09:15:14.978391+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001483,
+    "last_seen": "2025-11-04T09:15:14.978391+00:00"
+  }
+}

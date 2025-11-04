@@ -1,18 +1,26 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
+  "WIF/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.02092,
-    "last_seen": "2025-11-04T21:12:23.465097+00:00"
+    "price": 0.3957,
+    "last_seen": "2025-11-04T22:11:53.171189+00:00"
   },
-  "MOODENG/USDT": {
-    "direction": "LONG",
+  "PENGU/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.08232,
-    "last_seen": "2025-11-04T21:12:23.465097+00:00"
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01435,
+    "last_seen": "2025-11-04T22:11:53.171189+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.6267,
+    "last_seen": "2025-11-04T22:11:53.171189+00:00"
   }
 }

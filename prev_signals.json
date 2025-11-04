@@ -1,26 +1,18 @@
 {
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.015273,
-    "last_seen": "2025-11-04T05:13:30.172076+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.08686,
-    "last_seen": "2025-11-04T05:13:30.172076+00:00"
-  },
   "POPCAT/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.1239,
-    "last_seen": "2025-11-04T05:13:30.172076+00:00"
+    "price": 0.1229,
+    "last_seen": "2025-11-04T06:19:20.941224+00:00"
+  },
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0922,
+    "last_seen": "2025-11-04T06:19:20.941224+00:00"
   }
 }

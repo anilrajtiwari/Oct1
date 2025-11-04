@@ -1,18 +1,10 @@
 {
-  "KOMA/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01667,
-    "last_seen": "2025-11-04T03:38:48.596444+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.000869,
-    "last_seen": "2025-11-04T03:38:48.596444+00:00"
+    "price": 0.2639,
+    "last_seen": "2025-11-04T04:15:28.972236+00:00"
   }
 }

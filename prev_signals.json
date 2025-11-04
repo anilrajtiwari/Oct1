@@ -1,34 +1,10 @@
 {
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.1042,
-    "last_seen": "2025-11-04T18:17:47.925138+00:00"
-  },
-  "DEGEN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.001523,
-    "last_seen": "2025-11-04T18:17:47.925138+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
+  "WIF/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.000815,
-    "last_seen": "2025-11-04T18:17:47.925138+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.004058,
-    "last_seen": "2025-11-04T18:17:47.925138+00:00"
+    "price": 0.4016,
+    "last_seen": "2025-11-04T19:10:50.844455+00:00"
   }
 }

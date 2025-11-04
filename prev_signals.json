@@ -1,26 +1,18 @@
 {
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "gateio",
-    "price": 0.2531,
-    "last_seen": "2025-11-04T11:11:50.869784+00:00"
-  },
-  "SHIB/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 9.156e-06,
-    "last_seen": "2025-11-04T11:11:50.869784+00:00"
+    "price": 0.03594,
+    "last_seen": "2025-11-04T12:24:57.437711+00:00"
   },
-  "WIF/USDT": {
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.423,
-    "last_seen": "2025-11-04T11:11:50.869784+00:00"
+    "exchange": "okx",
+    "price": 0.08538,
+    "last_seen": "2025-11-04T12:24:57.437711+00:00"
   }
 }

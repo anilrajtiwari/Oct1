@@ -1,34 +1,18 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.001283,
-    "last_seen": "2025-11-04T20:14:39.672297+00:00"
-  },
   "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.02043,
-    "last_seen": "2025-11-04T20:14:39.672297+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.1,
-    "last_seen": "2025-11-04T20:14:39.672297+00:00"
+    "price": 0.02092,
+    "last_seen": "2025-11-04T21:12:23.465097+00:00"
   },
   "MOODENG/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.07927,
-    "last_seen": "2025-11-04T20:14:39.672297+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.08232,
+    "last_seen": "2025-11-04T21:12:23.465097+00:00"
   }
 }

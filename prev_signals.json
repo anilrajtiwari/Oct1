@@ -1,18 +1,10 @@
 {
-  "FLOKI/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 6.088e-05,
-    "last_seen": "2025-11-04T00:54:34.003396+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.08825,
-    "last_seen": "2025-11-04T00:54:34.003396+00:00"
+    "exchange": "gateio",
+    "price": 0.4445,
+    "last_seen": "2025-11-04T02:27:33.031530+00:00"
   }
 }

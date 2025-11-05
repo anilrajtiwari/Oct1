@@ -1,18 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.03589,
-    "last_seen": "2025-11-05T11:11:43.714783+00:00"
-  },
-  "MYRO/USDT": {
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.014115,
-    "last_seen": "2025-11-05T11:11:43.714783+00:00"
+    "exchange": "okx",
+    "price": 0.08528,
+    "last_seen": "2025-11-05T12:23:40.970063+00:00"
   }
 }

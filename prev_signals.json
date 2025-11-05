@@ -1,18 +1,10 @@
 {
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 4,
-    "exchange": "bitget",
-    "price": 0.014412,
-    "last_seen": "2025-11-05T02:29:13.712161+00:00"
-  },
-  "PNUT/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.1059,
-    "last_seen": "2025-11-05T02:29:13.712161+00:00"
+    "exchange": "gateio",
+    "price": 0.2534,
+    "last_seen": "2025-11-05T03:41:17.304922+00:00"
   }
 }

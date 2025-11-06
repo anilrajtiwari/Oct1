@@ -1,10 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "SHORT",
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.001413,
-    "last_seen": "2025-11-06T10:15:16.596647+00:00"
+    "exchange": "gateio",
+    "price": 0.02163,
+    "last_seen": "2025-11-06T11:11:51.403165+00:00"
   }
 }

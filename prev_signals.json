@@ -1,10 +1,18 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "LONG",
+  "BRETT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01782,
-    "last_seen": "2025-11-06T12:23:51.817385+00:00"
+    "exchange": "bitget",
+    "price": 0.02204,
+    "last_seen": "2025-11-06T13:27:24.337476+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.1318,
+    "last_seen": "2025-11-06T13:27:24.337476+00:00"
   }
 }

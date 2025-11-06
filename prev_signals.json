@@ -2,9 +2,17 @@
   "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.257,
+    "last_seen": "2025-11-06T23:12:11.830029+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.2579,
-    "last_seen": "2025-11-06T22:12:18.578257+00:00"
+    "exchange": "mexc",
+    "price": 0.0213,
+    "last_seen": "2025-11-06T23:12:11.830029+00:00"
   }
 }

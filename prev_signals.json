@@ -1,18 +1,10 @@
 {
-  "BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 1.2188e-05,
-    "last_seen": "2025-11-06T09:14:25.846937+00:00"
-  },
-  "VINE/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.03952,
-    "last_seen": "2025-11-06T09:14:25.846937+00:00"
+    "exchange": "bitget",
+    "price": 0.001413,
+    "last_seen": "2025-11-06T10:15:16.596647+00:00"
   }
 }

@@ -1,18 +1,1 @@
-{
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.015116,
-    "last_seen": "2025-11-06T05:13:32.521285+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01735,
-    "last_seen": "2025-11-06T05:13:32.521285+00:00"
-  }
-}
+{}

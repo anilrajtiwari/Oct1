@@ -1,26 +1,26 @@
 {
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.6204,
-    "last_seen": "2025-11-07T10:14:30.279858+00:00"
-  },
-  "BRETT/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.02137,
-    "last_seen": "2025-11-07T10:14:30.279858+00:00"
+    "price": 0.05798,
+    "last_seen": "2025-11-07T11:11:14.549618+00:00"
   },
-  "ACT/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01807,
-    "last_seen": "2025-11-07T10:14:30.279858+00:00"
+    "exchange": "bitget",
+    "price": 0.02066,
+    "last_seen": "2025-11-07T11:11:14.549618+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01402,
+    "last_seen": "2025-11-07T11:11:14.549618+00:00"
   }
 }

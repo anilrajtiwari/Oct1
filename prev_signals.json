@@ -1,18 +1,42 @@
 {
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.257,
-    "last_seen": "2025-11-06T23:12:11.830029+00:00"
-  },
-  "BRETT/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0213,
-    "last_seen": "2025-11-06T23:12:11.830029+00:00"
+    "price": 5.938e-05,
+    "last_seen": "2025-11-07T00:54:54.091829+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.032791,
+    "last_seen": "2025-11-07T00:54:54.091829+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.010237,
+    "last_seen": "2025-11-07T00:54:54.091829+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04027,
+    "last_seen": "2025-11-07T00:54:54.091829+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.1303,
+    "last_seen": "2025-11-07T00:54:54.091829+00:00"
   }
 }

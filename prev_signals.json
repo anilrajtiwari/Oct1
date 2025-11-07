@@ -1,10 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "SHORT",
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.001803,
-    "last_seen": "2025-11-07T20:13:46.046401+00:00"
+    "exchange": "gateio",
+    "price": 0.3086,
+    "last_seen": "2025-11-07T21:09:20.453900+00:00"
   }
 }

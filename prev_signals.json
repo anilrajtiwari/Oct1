@@ -2,17 +2,17 @@
   "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 3,
+    "count": 4,
     "exchange": "mexc",
-    "price": 0.05806,
-    "last_seen": "2025-11-07T13:23:52.106765+00:00"
+    "price": 0.05756,
+    "last_seen": "2025-11-07T14:12:42.909097+00:00"
   },
-  "BRETT/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "gateio",
-    "price": 0.02057,
-    "last_seen": "2025-11-07T13:23:52.106765+00:00"
+    "price": 0.00149,
+    "last_seen": "2025-11-07T14:12:42.909097+00:00"
   }
 }

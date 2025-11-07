@@ -1,18 +1,10 @@
 {
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.1338,
-    "last_seen": "2025-11-07T06:19:10.832744+00:00"
-  },
-  "DOGS/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 4.939e-05,
-    "last_seen": "2025-11-07T06:19:10.832744+00:00"
+    "exchange": "okx",
+    "price": 0.001497,
+    "last_seen": "2025-11-07T07:13:15.161136+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "MYRO/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.015303,
-    "last_seen": "2025-11-08T13:18:50.167780+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.2923,
-    "last_seen": "2025-11-08T13:18:50.167780+00:00"
+    "exchange": "mexc",
+    "price": 0.05591,
+    "last_seen": "2025-11-08T14:10:29.193058+00:00"
   }
 }

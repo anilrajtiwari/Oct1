@@ -1,1 +1,18 @@
-{}
+{
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.6515,
+    "last_seen": "2025-11-08T17:10:18.210274+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.001661,
+    "last_seen": "2025-11-08T17:10:18.210274+00:00"
+  }
+}

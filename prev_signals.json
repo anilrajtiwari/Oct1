@@ -1,1 +1,18 @@
-{}
+{
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 5.529e-05,
+    "last_seen": "2025-11-08T03:31:50.432522+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 7.202,
+    "last_seen": "2025-11-08T03:31:50.432522+00:00"
+  }
+}

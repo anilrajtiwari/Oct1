@@ -1,18 +1,1 @@
-{
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.05756,
-    "last_seen": "2025-11-08T05:12:04.477052+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.293,
-    "last_seen": "2025-11-08T05:12:04.477052+00:00"
-  }
-}
+{}

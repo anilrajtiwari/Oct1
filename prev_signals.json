@@ -1,1 +1,10 @@
-{}
+{
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.004622,
+    "last_seen": "2025-11-08T09:11:52.350834+00:00"
+  }
+}

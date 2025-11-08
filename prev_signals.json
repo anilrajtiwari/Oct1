@@ -1,1 +1,18 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05708,
+    "last_seen": "2025-11-08T07:11:40.508022+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.06643,
+    "last_seen": "2025-11-08T07:11:40.508022+00:00"
+  }
+}

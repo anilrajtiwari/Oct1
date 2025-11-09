@@ -1,10 +1,10 @@
 {
-  "FARTCOIN/USDT": {
+  "AIXBT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.3007,
-    "last_seen": "2025-11-09T04:15:24.731559+00:00"
+    "exchange": "gateio",
+    "price": 0.06269,
+    "last_seen": "2025-11-09T05:12:22.641277+00:00"
   }
 }

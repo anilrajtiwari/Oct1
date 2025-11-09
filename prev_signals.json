@@ -1,10 +1,10 @@
 {
-  "AIXBT/USDT": {
-    "direction": "LONG",
+  "PEPE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.06269,
-    "last_seen": "2025-11-09T05:12:22.641277+00:00"
+    "exchange": "mexc",
+    "price": 5.939e-06,
+    "last_seen": "2025-11-09T06:17:19.243841+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "PONKE/USDT": {
-    "direction": "SHORT",
+  "HIPPO/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.05152,
-    "last_seen": "2025-11-09T10:11:40.536419+00:00"
-  },
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 1.2358e-05,
-    "last_seen": "2025-11-09T10:11:40.536419+00:00"
+    "exchange": "bitget",
+    "price": 0.007103,
+    "last_seen": "2025-11-09T11:10:02.211449+00:00"
   }
 }

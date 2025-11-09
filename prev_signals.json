@@ -1,1 +1,10 @@
-{}
+{
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.12008,
+    "last_seen": "2025-11-09T23:11:31.975663+00:00"
+  }
+}

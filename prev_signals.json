@@ -1,10 +1,10 @@
 {
-  "HIPPO/USDT": {
+  "ORDI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.007103,
-    "last_seen": "2025-11-09T11:10:02.211449+00:00"
+    "exchange": "mexc",
+    "price": 5.105,
+    "last_seen": "2025-11-09T12:20:31.315519+00:00"
   }
 }

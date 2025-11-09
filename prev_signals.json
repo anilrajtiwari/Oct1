@@ -1,10 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 5.939e-06,
-    "last_seen": "2025-11-09T06:17:19.243841+00:00"
+    "price": 0.3006,
+    "last_seen": "2025-11-09T07:11:53.287525+00:00"
   }
 }

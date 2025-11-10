@@ -1,10 +1,10 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
+  "SPX/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 5.344,
-    "last_seen": "2025-11-10T00:57:59.579970+00:00"
+    "exchange": "okx",
+    "price": 0.7266,
+    "last_seen": "2025-11-10T02:46:32.679772+00:00"
   }
 }

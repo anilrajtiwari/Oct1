@@ -1,1 +1,10 @@
-{}
+{
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0218,
+    "last_seen": "2025-11-10T22:12:59.175810+00:00"
+  }
+}

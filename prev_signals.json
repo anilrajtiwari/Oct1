@@ -1,1 +1,10 @@
-{}
+{
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.00167,
+    "last_seen": "2025-11-10T12:24:02.366494+00:00"
+  }
+}

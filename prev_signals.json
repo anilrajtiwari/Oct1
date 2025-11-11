@@ -1,10 +1,26 @@
 {
-  "ACT/USDT": {
-    "direction": "SHORT",
+  "MEME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.02147,
-    "last_seen": "2025-11-11T11:12:11.853078+00:00"
+    "exchange": "okx",
+    "price": 0.001594,
+    "last_seen": "2025-11-11T12:23:25.784897+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0009377,
+    "last_seen": "2025-11-11T12:23:25.784897+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.01967,
+    "last_seen": "2025-11-11T12:23:25.784897+00:00"
   }
 }

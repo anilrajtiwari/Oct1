@@ -1,26 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
+  "MYRO/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.001594,
-    "last_seen": "2025-11-11T12:23:25.784897+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0009377,
-    "last_seen": "2025-11-11T12:23:25.784897+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.01967,
-    "last_seen": "2025-11-11T12:23:25.784897+00:00"
+    "exchange": "bitget",
+    "price": 0.01271,
+    "last_seen": "2025-11-11T13:26:47.288696+00:00"
   }
 }

@@ -1,18 +1,1 @@
-{
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.05553,
-    "last_seen": "2025-11-11T19:10:36.879101+00:00"
-  },
-  "MYRO/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.012061,
-    "last_seen": "2025-11-11T19:10:36.879101+00:00"
-  }
-}
+{}

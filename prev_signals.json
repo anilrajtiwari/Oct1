@@ -1,1 +1,18 @@
-{}
+{
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05869,
+    "last_seen": "2025-11-12T19:11:04.349834+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.1323,
+    "last_seen": "2025-11-12T19:11:04.349834+00:00"
+  }
+}

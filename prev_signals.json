@@ -1,18 +1,10 @@
 {
-  "ORDI/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 4.811,
-    "last_seen": "2025-11-12T21:12:15.868136+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.1345,
-    "last_seen": "2025-11-12T21:12:15.868136+00:00"
+    "price": 9.516e-06,
+    "last_seen": "2025-11-12T22:12:46.735140+00:00"
   }
 }

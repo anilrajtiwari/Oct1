@@ -1,1 +1,18 @@
-{}
+{
+  "1000RATS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.03984,
+    "last_seen": "2025-11-12T02:28:42.987210+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01908,
+    "last_seen": "2025-11-12T02:28:42.987210+00:00"
+  }
+}

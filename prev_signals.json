@@ -1,26 +1,10 @@
 {
-  "OM/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.09363,
-    "last_seen": "2025-11-12T08:17:46.119680+00:00"
-  },
   "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.000912,
-    "last_seen": "2025-11-12T08:17:46.119680+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.01948,
-    "last_seen": "2025-11-12T08:17:46.119680+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.000928,
+    "last_seen": "2025-11-12T09:15:25.049308+00:00"
   }
 }

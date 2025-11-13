@@ -2,17 +2,25 @@
   "BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 1.2535e-05,
-    "last_seen": "2025-11-13T06:19:46.433932+00:00"
+    "price": 1.2507e-05,
+    "last_seen": "2025-11-13T07:13:42.099685+00:00"
   },
-  "VINE/USDT": {
-    "direction": "SHORT",
+  "AIXBT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0428,
-    "last_seen": "2025-11-13T06:19:46.433932+00:00"
+    "exchange": "gateio",
+    "price": 0.06108,
+    "last_seen": "2025-11-13T07:13:42.099685+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.09285,
+    "last_seen": "2025-11-13T07:13:42.099685+00:00"
   }
 }

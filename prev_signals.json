@@ -1,26 +1,10 @@
 {
-  "BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 1.2507e-05,
-    "last_seen": "2025-11-13T07:13:42.099685+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
+  "MYRO/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.06108,
-    "last_seen": "2025-11-13T07:13:42.099685+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.09285,
-    "last_seen": "2025-11-13T07:13:42.099685+00:00"
+    "exchange": "mexc",
+    "price": 0.01142,
+    "last_seen": "2025-11-13T08:17:11.465529+00:00"
   }
 }

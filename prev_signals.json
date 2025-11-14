@@ -1,18 +1,10 @@
 {
-  "HIPPO/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.001605,
-    "last_seen": "2025-11-14T21:12:04.427272+00:00"
-  },
-  "FLOKI/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 5.576e-05,
-    "last_seen": "2025-11-14T21:12:04.427272+00:00"
+    "price": 0.01925,
+    "last_seen": "2025-11-14T22:12:10.453576+00:00"
   }
 }

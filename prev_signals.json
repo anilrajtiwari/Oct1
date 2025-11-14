@@ -1,10 +1,18 @@
 {
-  "PNUT/USDT": {
+  "HIPPO/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.10369,
-    "last_seen": "2025-11-14T19:11:07.529131+00:00"
+    "price": 0.001584,
+    "last_seen": "2025-11-14T20:14:46.438133+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.112,
+    "last_seen": "2025-11-14T20:14:46.438133+00:00"
   }
 }

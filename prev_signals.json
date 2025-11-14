@@ -1,10 +1,10 @@
 {
-  "BRETT/USDT": {
+  "HIPPO/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.01925,
-    "last_seen": "2025-11-14T22:12:10.453576+00:00"
+    "exchange": "gateio",
+    "price": 0.001635,
+    "last_seen": "2025-11-14T23:12:05.408913+00:00"
   }
 }

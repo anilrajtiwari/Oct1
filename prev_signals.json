@@ -1,18 +1,18 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01796,
-    "last_seen": "2025-11-15T12:20:53.935510+00:00"
-  },
   "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 0.1097,
-    "last_seen": "2025-11-15T12:20:53.935510+00:00"
+    "price": 0.1104,
+    "last_seen": "2025-11-15T13:19:41.450936+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.654,
+    "last_seen": "2025-11-15T13:19:41.450936+00:00"
   }
 }

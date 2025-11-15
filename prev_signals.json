@@ -1,10 +1,10 @@
 {
-  "WIF/USDT": {
-    "direction": "SHORT",
+  "SHIB/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.4346,
-    "last_seen": "2025-11-15T15:11:38.291581+00:00"
+    "count": 1,
+    "exchange": "gateio",
+    "price": 9.051e-06,
+    "last_seen": "2025-11-15T16:13:01.042473+00:00"
   }
 }

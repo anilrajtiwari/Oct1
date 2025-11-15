@@ -1,1 +1,10 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.633,
+    "last_seen": "2025-11-15T06:17:33.626961+00:00"
+  }
+}

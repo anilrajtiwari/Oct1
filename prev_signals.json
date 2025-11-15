@@ -1,18 +1,10 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 4.624,
-    "last_seen": "2025-11-15T14:11:27.075724+00:00"
-  },
   "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.4301,
-    "last_seen": "2025-11-15T14:11:27.075724+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.4346,
+    "last_seen": "2025-11-15T15:11:38.291581+00:00"
   }
 }

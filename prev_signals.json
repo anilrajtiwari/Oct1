@@ -1,1 +1,26 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.1637,
+    "last_seen": "2025-11-15T19:09:39.081620+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02971,
+    "last_seen": "2025-11-15T19:09:39.081620+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.5395,
+    "last_seen": "2025-11-15T19:09:39.081620+00:00"
+  }
+}

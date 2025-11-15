@@ -1,10 +1,26 @@
 {
-  "SHIB/USDT": {
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03058,
+    "last_seen": "2025-11-15T17:10:05.453253+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.532,
+    "last_seen": "2025-11-15T17:10:05.453253+00:00"
+  },
+  "HIPPO/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 9.051e-06,
-    "last_seen": "2025-11-15T16:13:01.042473+00:00"
+    "exchange": "bitget",
+    "price": 0.001245,
+    "last_seen": "2025-11-15T17:10:05.453253+00:00"
   }
 }

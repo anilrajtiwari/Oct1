@@ -1,18 +1,10 @@
 {
-  "HIPPO/USDT": {
-    "direction": "SHORT",
+  "1000CAT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.001602,
-    "last_seen": "2025-11-15T08:14:55.687453+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.01719,
-    "last_seen": "2025-11-15T08:14:55.687453+00:00"
+    "exchange": "bitget",
+    "price": 0.003823,
+    "last_seen": "2025-11-15T09:11:57.004246+00:00"
   }
 }

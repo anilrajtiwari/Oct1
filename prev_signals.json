@@ -1,10 +1,58 @@
 {
-  "AIXBT/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.05311,
-    "last_seen": "2025-11-16T13:19:27.226166+00:00"
+    "price": 0.001419,
+    "last_seen": "2025-11-16T14:11:16.354842+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.05615,
+    "last_seen": "2025-11-16T14:11:16.354842+00:00"
+  },
+  "PONKE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.04525,
+    "last_seen": "2025-11-16T14:11:16.354842+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0969,
+    "last_seen": "2025-11-16T14:11:16.354842+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.1067,
+    "last_seen": "2025-11-16T14:11:16.354842+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.003725,
+    "last_seen": "2025-11-16T14:11:16.354842+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.00139,
+    "last_seen": "2025-11-16T14:11:16.354842+00:00"
   }
 }

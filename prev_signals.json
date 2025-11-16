@@ -1,10 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.04102,
-    "last_seen": "2025-11-16T03:45:30.704801+00:00"
+  "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.001129,
+    "last_seen": "2025-11-16T04:19:19.220976+00:00"
   }
 }

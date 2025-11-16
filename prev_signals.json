@@ -1,10 +1,10 @@
 {
-  "SPX/USDT": {
-    "direction": "SHORT",
+  "BOME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bybit",
-    "price": 0.5344,
-    "last_seen": "2025-11-16T10:13:10.987424+00:00"
+    "exchange": "okx",
+    "price": 0.0008172,
+    "last_seen": "2025-11-16T11:11:13.843548+00:00"
   }
 }

@@ -1,34 +1,10 @@
 {
-  "BONK/USDT": {
+  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 1.0575e-05,
-    "last_seen": "2025-11-16T19:10:01.767548+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01711,
-    "last_seen": "2025-11-16T19:10:01.767548+00:00"
-  },
-  "HIPPO/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.00121,
-    "last_seen": "2025-11-16T19:10:01.767548+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.03129,
-    "last_seen": "2025-11-16T19:10:01.767548+00:00"
+    "exchange": "okx",
+    "price": 0.01839,
+    "last_seen": "2025-11-16T20:13:34.054596+00:00"
   }
 }

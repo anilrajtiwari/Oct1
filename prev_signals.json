@@ -1,1 +1,10 @@
-{}
+{
+  "MYRO/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.00848,
+    "last_seen": "2025-11-16T22:11:35.462863+00:00"
+  }
+}

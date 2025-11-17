@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.02117,
-    "last_seen": "2025-11-17T11:12:13.653703+00:00"
+    "exchange": "gateio",
+    "price": 0.01855,
+    "last_seen": "2025-11-17T12:24:08.519632+00:00"
   }
 }

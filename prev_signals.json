@@ -2,33 +2,33 @@
   "OM/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "mexc",
-    "price": 0.08276,
-    "last_seen": "2025-11-17T09:17:36.484517+00:00"
+    "price": 0.08265,
+    "last_seen": "2025-11-17T10:15:34.465159+00:00"
   },
   "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.0522,
-    "last_seen": "2025-11-17T09:17:36.484517+00:00"
+    "count": 3,
+    "exchange": "okx",
+    "price": 0.05211,
+    "last_seen": "2025-11-17T10:15:34.465159+00:00"
   },
   "PIPPIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.02802,
-    "last_seen": "2025-11-17T09:17:36.484517+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.02785,
+    "last_seen": "2025-11-17T10:15:34.465159+00:00"
   },
-  "PENGU/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01289,
-    "last_seen": "2025-11-17T09:17:36.484517+00:00"
+    "exchange": "bitget",
+    "price": 0.01944,
+    "last_seen": "2025-11-17T10:15:34.465159+00:00"
   }
 }

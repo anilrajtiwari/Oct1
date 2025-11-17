@@ -1,10 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
+  "PIPPIN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 4.895e-06,
-    "last_seen": "2025-11-17T00:57:07.843590+00:00"
+    "exchange": "gateio",
+    "price": 0.028452,
+    "last_seen": "2025-11-17T02:30:39.689881+00:00"
   }
 }

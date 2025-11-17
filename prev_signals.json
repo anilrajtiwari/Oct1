@@ -1,10 +1,10 @@
 {
-  "CHILLGUY/USDT": {
+  "VINE/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01855,
-    "last_seen": "2025-11-17T12:24:08.519632+00:00"
+    "price": 0.03016,
+    "last_seen": "2025-11-17T13:27:38.632240+00:00"
   }
 }

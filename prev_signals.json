@@ -1,10 +1,18 @@
 {
-  "VINE/USDT": {
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02728,
+    "last_seen": "2025-11-17T14:13:21.388474+00:00"
+  },
+  "PONKE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.03016,
-    "last_seen": "2025-11-17T13:27:38.632240+00:00"
+    "price": 0.04387,
+    "last_seen": "2025-11-17T14:13:21.388474+00:00"
   }
 }

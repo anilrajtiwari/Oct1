@@ -2,9 +2,17 @@
   "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.03147,
-    "last_seen": "2025-11-17T06:20:02.239634+00:00"
+    "price": 0.03173,
+    "last_seen": "2025-11-17T07:14:13.853521+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.012868,
+    "last_seen": "2025-11-17T07:14:13.853521+00:00"
   }
 }

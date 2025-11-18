@@ -1,1 +1,10 @@
-{}
+{
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001436,
+    "last_seen": "2025-11-18T22:12:51.626306+00:00"
+  }
+}

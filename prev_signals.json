@@ -2,9 +2,17 @@
   "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 0.001436,
-    "last_seen": "2025-11-18T22:12:51.626306+00:00"
+    "price": 0.001439,
+    "last_seen": "2025-11-18T23:12:02.747635+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01782,
+    "last_seen": "2025-11-18T23:12:02.747635+00:00"
   }
 }

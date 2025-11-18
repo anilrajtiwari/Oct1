@@ -2,9 +2,9 @@
   "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.02722,
-    "last_seen": "2025-11-18T10:15:58.822897+00:00"
+    "price": 0.02741,
+    "last_seen": "2025-11-18T11:12:20.484415+00:00"
   }
 }

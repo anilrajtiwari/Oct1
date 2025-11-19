@@ -1,10 +1,26 @@
 {
-  "HIPPO/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
+  "MYRO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.001089,
-    "last_seen": "2025-11-19T20:13:16.174207+00:00"
+    "exchange": "gateio",
+    "price": 0.007807,
+    "last_seen": "2025-11-19T21:10:50.907976+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.009789,
+    "last_seen": "2025-11-19T21:10:50.907976+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0914,
+    "last_seen": "2025-11-19T21:10:50.907976+00:00"
   }
 }

@@ -1,1 +1,10 @@
-{}
+{
+  "HIPPO/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001089,
+    "last_seen": "2025-11-19T20:13:16.174207+00:00"
+  }
+}

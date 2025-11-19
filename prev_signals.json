@@ -1,18 +1,10 @@
 {
-  "SPX/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.5062,
-    "last_seen": "2025-11-19T16:16:40.483222+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
     "exchange": "gateio",
-    "price": 0.01817,
-    "last_seen": "2025-11-19T16:16:40.483222+00:00"
+    "price": 5.012e-05,
+    "last_seen": "2025-11-19T17:12:21.831994+00:00"
   }
 }

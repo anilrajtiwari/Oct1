@@ -1,1 +1,18 @@
-{}
+{
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001411,
+    "last_seen": "2025-11-20T04:15:54.025595+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01776,
+    "last_seen": "2025-11-20T04:15:54.025595+00:00"
+  }
+}

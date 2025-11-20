@@ -1,1 +1,26 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0008033,
+    "last_seen": "2025-11-20T14:13:06.334654+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.3069,
+    "last_seen": "2025-11-20T14:13:06.334654+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02265,
+    "last_seen": "2025-11-20T14:13:06.334654+00:00"
+  }
+}

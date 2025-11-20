@@ -1,10 +1,18 @@
 {
   "FARTCOIN/USDT": {
     "direction": "LONG",
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.2969,
+    "last_seen": "2025-11-20T08:18:17.097875+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.2924,
-    "last_seen": "2025-11-20T07:13:40.526167+00:00"
+    "exchange": "gateio",
+    "price": 0.0007927,
+    "last_seen": "2025-11-20T08:18:17.097875+00:00"
   }
 }

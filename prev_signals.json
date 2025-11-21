@@ -1,18 +1,1 @@
-{
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01782,
-    "last_seen": "2025-11-21T00:55:04.913767+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.1046,
-    "last_seen": "2025-11-21T00:55:04.913767+00:00"
-  }
-}
+{}

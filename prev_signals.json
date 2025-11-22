@@ -1,10 +1,26 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
+  "BRETT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.001267,
-    "last_seen": "2025-11-22T18:16:24.810705+00:00"
+    "exchange": "okx",
+    "price": 0.01335,
+    "last_seen": "2025-11-22T19:09:47.361200+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01569,
+    "last_seen": "2025-11-22T19:09:47.361200+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001153,
+    "last_seen": "2025-11-22T19:09:47.361200+00:00"
   }
 }

@@ -1,1 +1,18 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.13981,
+    "last_seen": "2025-11-22T02:22:35.565523+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.2166,
+    "last_seen": "2025-11-22T02:22:35.565523+00:00"
+  }
+}

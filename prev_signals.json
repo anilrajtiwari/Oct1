@@ -1,26 +1,10 @@
 {
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.0898,
-    "last_seen": "2025-11-22T17:10:36.452282+00:00"
-  },
   "MEME/USDT": {
-    "direction": "SHORT",
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.001276,
-    "last_seen": "2025-11-22T17:10:36.452282+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.1881,
-    "last_seen": "2025-11-22T17:10:36.452282+00:00"
+    "exchange": "bitget",
+    "price": 0.001267,
+    "last_seen": "2025-11-22T18:16:24.810705+00:00"
   }
 }

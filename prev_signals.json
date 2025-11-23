@@ -1,50 +1,10 @@
 {
-  "KOMA/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.0131,
-    "last_seen": "2025-11-23T16:13:56.827150+00:00"
-  },
-  "WIF/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.3377,
-    "last_seen": "2025-11-23T16:13:56.827150+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 4.622e-05,
-    "last_seen": "2025-11-23T16:13:56.827150+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.06349,
-    "last_seen": "2025-11-23T16:13:56.827150+00:00"
-  },
-  "PONKE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.03964,
-    "last_seen": "2025-11-23T16:13:56.827150+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01664,
-    "last_seen": "2025-11-23T16:13:56.827150+00:00"
+    "price": 8.966e-06,
+    "last_seen": "2025-11-23T17:10:47.607586+00:00"
   }
 }

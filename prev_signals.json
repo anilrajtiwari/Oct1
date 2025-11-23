@@ -1,42 +1,42 @@
 {
-  "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.3384,
-    "last_seen": "2025-11-23T12:20:21.952699+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.001294,
-    "last_seen": "2025-11-23T12:20:21.952699+00:00"
-  },
   "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
     "price": 4.46e-05,
-    "last_seen": "2025-11-23T12:20:21.952699+00:00"
+    "last_seen": "2025-11-23T13:18:55.925345+00:00"
   },
-  "OM/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.07416,
-    "last_seen": "2025-11-23T12:20:21.952699+00:00"
+    "exchange": "okx",
+    "price": 8.903e-06,
+    "last_seen": "2025-11-23T13:18:55.925345+00:00"
   },
-  "PONKE/USDT": {
-    "direction": "SHORT",
+  "PIPPIN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.03955,
-    "last_seen": "2025-11-23T12:20:21.952699+00:00"
+    "price": 0.05748,
+    "last_seen": "2025-11-23T13:18:55.925345+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001068,
+    "last_seen": "2025-11-23T13:18:55.925345+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01605,
+    "last_seen": "2025-11-23T13:18:55.925345+00:00"
   }
 }

@@ -1,26 +1,10 @@
 {
-  "OM/USDT": {
-    "direction": "SHORT",
+  "MEME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 3,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.0742,
-    "last_seen": "2025-11-23T06:17:48.233807+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 4.615e-05,
-    "last_seen": "2025-11-23T06:17:48.233807+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0914,
-    "last_seen": "2025-11-23T06:17:48.233807+00:00"
+    "price": 0.001285,
+    "last_seen": "2025-11-23T07:12:33.045898+00:00"
   }
 }

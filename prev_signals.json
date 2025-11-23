@@ -2,57 +2,25 @@
   "OM/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.0734,
-    "last_seen": "2025-11-23T05:12:50.878211+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
+    "count": 3,
     "exchange": "mexc",
-    "price": 0.001298,
-    "last_seen": "2025-11-23T05:12:50.878211+00:00"
+    "price": 0.0742,
+    "last_seen": "2025-11-23T06:17:48.233807+00:00"
   },
-  "CHILLGUY/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01619,
-    "last_seen": "2025-11-23T05:12:50.878211+00:00"
+    "price": 4.615e-05,
+    "last_seen": "2025-11-23T06:17:48.233807+00:00"
   },
-  "PONKE/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.03986,
-    "last_seen": "2025-11-23T05:12:50.878211+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0006906,
-    "last_seen": "2025-11-23T05:12:50.878211+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.04426,
-    "last_seen": "2025-11-23T05:12:50.878211+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.01608,
-    "last_seen": "2025-11-23T05:12:50.878211+00:00"
+    "price": 0.0914,
+    "last_seen": "2025-11-23T06:17:48.233807+00:00"
   }
 }

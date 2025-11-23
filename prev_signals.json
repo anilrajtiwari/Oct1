@@ -1,18 +1,1 @@
-{
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 9e-06,
-    "last_seen": "2025-11-23T19:10:03.149022+00:00"
-  },
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 4.464e-05,
-    "last_seen": "2025-11-23T19:10:03.149022+00:00"
-  }
-}
+{}

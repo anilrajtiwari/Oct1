@@ -1,26 +1,26 @@
 {
-  "1000CAT/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 3,
-    "exchange": "bitget",
-    "price": 0.003337,
-    "last_seen": "2025-11-24T17:12:43.575852+00:00"
+    "count": 1,
+    "exchange": "gateio",
+    "price": 9.348e-06,
+    "last_seen": "2025-11-24T18:19:45.999517+00:00"
   },
-  "PEOPLE/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.01002,
-    "last_seen": "2025-11-24T17:12:43.575852+00:00"
+    "price": 0.5601,
+    "last_seen": "2025-11-24T18:19:45.999517+00:00"
   },
-  "ACT/USDT": {
+  "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.02329,
-    "last_seen": "2025-11-24T17:12:43.575852+00:00"
+    "price": 0.009352,
+    "last_seen": "2025-11-24T18:19:45.999517+00:00"
   }
 }

@@ -1,18 +1,1 @@
-{
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.073,
-    "last_seen": "2025-11-24T21:12:50.141068+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.010343,
-    "last_seen": "2025-11-24T21:12:50.141068+00:00"
-  }
-}
+{}

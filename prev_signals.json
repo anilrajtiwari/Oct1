@@ -1,10 +1,10 @@
 {
-  "BONK/USDT": {
-    "direction": "SHORT",
+  "HIPPO/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 9.664e-06,
-    "last_seen": "2025-11-25T16:16:44.215658+00:00"
+    "exchange": "bitget",
+    "price": 0.001167,
+    "last_seen": "2025-11-25T17:14:19.544888+00:00"
   }
 }

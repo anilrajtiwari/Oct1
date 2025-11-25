@@ -1,1 +1,10 @@
-{}
+{
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.00118,
+    "last_seen": "2025-11-25T08:18:21.124445+00:00"
+  }
+}

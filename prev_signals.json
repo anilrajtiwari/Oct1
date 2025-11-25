@@ -1,26 +1,10 @@
 {
-  "SHIB/USDT": {
+  "MUBARAK/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 8.174e-06,
-    "last_seen": "2025-11-25T11:12:14.236536+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 4.779e-05,
-    "last_seen": "2025-11-25T11:12:14.236536+00:00"
-  },
-  "1000RATS/USDT": {
-    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.04739,
-    "last_seen": "2025-11-25T11:12:14.236536+00:00"
+    "price": 0.01722,
+    "last_seen": "2025-11-25T12:25:07.531650+00:00"
   }
 }

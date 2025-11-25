@@ -1,10 +1,10 @@
 {
-  "KOMA/USDT": {
+  "MYRO/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.01352,
-    "last_seen": "2025-11-25T03:44:47.981047+00:00"
+    "price": 0.00701,
+    "last_seen": "2025-11-25T04:19:38.890825+00:00"
   }
 }

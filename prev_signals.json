@@ -1,10 +1,10 @@
 {
-  "BOME/USDT": {
-    "direction": "LONG",
+  "BONK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0007179,
-    "last_seen": "2025-11-25T15:14:39.713791+00:00"
+    "exchange": "okx",
+    "price": 9.664e-06,
+    "last_seen": "2025-11-25T16:16:44.215658+00:00"
   }
 }

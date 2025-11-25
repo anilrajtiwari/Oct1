@@ -1,10 +1,10 @@
 {
-  "PONKE/USDT": {
+  "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.03743,
-    "last_seen": "2025-11-25T18:19:38.218659+00:00"
+    "price": 0.009588,
+    "last_seen": "2025-11-25T19:11:41.622263+00:00"
   }
 }

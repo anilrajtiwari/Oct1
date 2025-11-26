@@ -1,10 +1,10 @@
 {
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
+  "OM/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.2954,
-    "last_seen": "2025-11-26T05:13:32.423187+00:00"
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.07566,
+    "last_seen": "2025-11-26T06:20:04.862897+00:00"
   }
 }

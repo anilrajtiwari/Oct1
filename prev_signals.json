@@ -1,18 +1,26 @@
 {
-  "SHIB/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 8.526e-06,
-    "last_seen": "2025-11-26T10:15:23.451786+00:00"
-  },
-  "POPCAT/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.1017,
-    "last_seen": "2025-11-26T10:15:23.451786+00:00"
+    "price": 0.295,
+    "last_seen": "2025-11-26T11:12:04.341591+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01694,
+    "last_seen": "2025-11-26T11:12:04.341591+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.003379,
+    "last_seen": "2025-11-26T11:12:04.341591+00:00"
   }
 }

@@ -1,10 +1,18 @@
 {
-  "MYRO/USDT": {
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 8.609e-06,
+    "last_seen": "2025-11-26T23:12:11.654768+00:00"
+  },
+  "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.007499,
-    "last_seen": "2025-11-26T22:13:05.064678+00:00"
+    "price": 0.0141,
+    "last_seen": "2025-11-26T23:12:11.654768+00:00"
   }
 }

@@ -1,18 +1,1 @@
-{
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 4.05,
-    "last_seen": "2025-11-26T00:55:36.684614+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.2977,
-    "last_seen": "2025-11-26T00:55:36.684614+00:00"
-  }
-}
+{}

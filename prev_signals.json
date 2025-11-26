@@ -1,1 +1,26 @@
-{}
+{
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001285,
+    "last_seen": "2025-11-26T04:19:13.174440+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.2937,
+    "last_seen": "2025-11-26T04:19:13.174440+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.1023,
+    "last_seen": "2025-11-26T04:19:13.174440+00:00"
+  }
+}

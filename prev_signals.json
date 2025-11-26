@@ -1,18 +1,1 @@
-{
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.03967,
-    "last_seen": "2025-11-26T16:15:57.281116+00:00"
-  },
-  "OM/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0866,
-    "last_seen": "2025-11-26T16:15:57.281116+00:00"
-  }
-}
+{}

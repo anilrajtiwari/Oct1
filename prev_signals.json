@@ -1,1 +1,10 @@
-{}
+{
+  "MYRO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.007499,
+    "last_seen": "2025-11-26T22:13:05.064678+00:00"
+  }
+}

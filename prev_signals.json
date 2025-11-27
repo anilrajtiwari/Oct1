@@ -1,18 +1,1 @@
-{
-  "KOMA/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01418,
-    "last_seen": "2025-11-27T07:15:25.526418+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01881,
-    "last_seen": "2025-11-27T07:15:25.526418+00:00"
-  }
-}
+{}

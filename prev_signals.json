@@ -1,18 +1,18 @@
 {
-  "KOMA/USDT": {
-    "direction": "SHORT",
+  "SPX/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01435,
-    "last_seen": "2025-11-27T16:15:44.179966+00:00"
+    "exchange": "okx",
+    "price": 0.7213,
+    "last_seen": "2025-11-27T17:11:32.260619+00:00"
   },
-  "PIPPIN/USDT": {
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.05896,
-    "last_seen": "2025-11-27T16:15:44.179966+00:00"
+    "exchange": "okx",
+    "price": 0.07906,
+    "last_seen": "2025-11-27T17:11:32.260619+00:00"
   }
 }

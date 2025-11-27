@@ -1,10 +1,18 @@
 {
-  "1000RATS/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0377,
-    "last_seen": "2025-11-27T14:13:39.949558+00:00"
+    "exchange": "okx",
+    "price": 9.91e-06,
+    "last_seen": "2025-11-27T15:13:32.176351+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.07798,
+    "last_seen": "2025-11-27T15:13:32.176351+00:00"
   }
 }

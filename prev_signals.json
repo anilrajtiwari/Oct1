@@ -1,18 +1,10 @@
 {
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 5.033e-05,
-    "last_seen": "2025-11-27T20:12:21.248105+00:00"
-  },
   "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.01764,
-    "last_seen": "2025-11-27T20:12:21.248105+00:00"
+    "price": 0.01767,
+    "last_seen": "2025-11-27T21:11:48.240088+00:00"
   }
 }

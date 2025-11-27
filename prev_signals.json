@@ -1,18 +1,10 @@
 {
-  "BRETT/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.0187,
-    "last_seen": "2025-11-27T04:16:53.216783+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.010099,
-    "last_seen": "2025-11-27T04:16:53.216783+00:00"
+    "exchange": "gateio",
+    "price": 0.3375,
+    "last_seen": "2025-11-27T05:14:21.993874+00:00"
   }
 }

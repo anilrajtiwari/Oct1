@@ -1,18 +1,10 @@
 {
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.7213,
-    "last_seen": "2025-11-27T17:11:32.260619+00:00"
-  },
-  "MOODENG/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.07906,
-    "last_seen": "2025-11-27T17:11:32.260619+00:00"
+    "exchange": "bitget",
+    "price": 0.03772,
+    "last_seen": "2025-11-27T18:17:36.507881+00:00"
   }
 }

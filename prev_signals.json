@@ -1,10 +1,10 @@
 {
-  "FARTCOIN/USDT": {
+  "KOMA/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.3375,
-    "last_seen": "2025-11-27T05:14:21.993874+00:00"
+    "price": 0.0141,
+    "last_seen": "2025-11-27T06:20:22.738344+00:00"
   }
 }

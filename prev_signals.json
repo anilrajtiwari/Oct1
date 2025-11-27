@@ -1,18 +1,18 @@
 {
-  "1000RATS/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.03759,
-    "last_seen": "2025-11-27T19:10:37.700836+00:00"
+    "count": 1,
+    "exchange": "gateio",
+    "price": 5.033e-05,
+    "last_seen": "2025-11-27T20:12:21.248105+00:00"
   },
-  "FARTCOIN/USDT": {
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.3355,
-    "last_seen": "2025-11-27T19:10:37.700836+00:00"
+    "price": 0.01764,
+    "last_seen": "2025-11-27T20:12:21.248105+00:00"
   }
 }

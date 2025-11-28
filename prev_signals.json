@@ -1,18 +1,1 @@
-{
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.03726,
-    "last_seen": "2025-11-28T17:11:27.165709+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0942,
-    "last_seen": "2025-11-28T17:11:27.165709+00:00"
-  }
-}
+{}

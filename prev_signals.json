@@ -1,18 +1,10 @@
 {
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 5.08e-05,
-    "last_seen": "2025-11-28T22:12:17.430401+00:00"
-  },
-  "MOODENG/USDT": {
+  "OM/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0811,
-    "last_seen": "2025-11-28T22:12:17.430401+00:00"
+    "exchange": "bitget",
+    "price": 0.08212,
+    "last_seen": "2025-11-28T23:12:10.351131+00:00"
   }
 }

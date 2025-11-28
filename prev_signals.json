@@ -2,9 +2,17 @@
   "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.0178,
+    "last_seen": "2025-11-28T21:11:11.960933+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01765,
-    "last_seen": "2025-11-28T20:13:56.421935+00:00"
+    "exchange": "mexc",
+    "price": 0.3432,
+    "last_seen": "2025-11-28T21:11:11.960933+00:00"
   }
 }

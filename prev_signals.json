@@ -1,1 +1,26 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.14786,
+    "last_seen": "2025-11-29T22:11:51.959699+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.81e-05,
+    "last_seen": "2025-11-29T22:11:51.959699+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01724,
+    "last_seen": "2025-11-29T22:11:51.959699+00:00"
+  }
+}

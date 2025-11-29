@@ -1,10 +1,10 @@
 {
-  "ACT/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.02344,
-    "last_seen": "2025-11-29T02:27:01.005723+00:00"
+    "price": 4.881e-05,
+    "last_seen": "2025-11-29T03:41:34.830602+00:00"
   }
 }

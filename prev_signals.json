@@ -1,10 +1,10 @@
 {
-  "FLOKI/USDT": {
+  "DOGS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 4.881e-05,
-    "last_seen": "2025-11-29T03:41:34.830602+00:00"
+    "exchange": "bitget",
+    "price": 4.97e-05,
+    "last_seen": "2025-11-29T04:15:44.608783+00:00"
   }
 }

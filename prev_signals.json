@@ -2,9 +2,17 @@
   "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.01714,
+    "last_seen": "2025-11-29T20:13:59.403758+00:00"
+  },
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.01729,
-    "last_seen": "2025-11-29T19:10:09.674606+00:00"
+    "exchange": "mexc",
+    "price": 8.455e-06,
+    "last_seen": "2025-11-29T20:13:59.403758+00:00"
   }
 }

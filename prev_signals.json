@@ -1,1 +1,18 @@
-{}
+{
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.03508,
+    "last_seen": "2025-11-30T20:13:56.449154+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.011107,
+    "last_seen": "2025-11-30T20:13:56.449154+00:00"
+  }
+}

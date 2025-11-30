@@ -1,1 +1,18 @@
-{}
+{
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03091,
+    "last_seen": "2025-11-30T16:14:32.842864+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.00115,
+    "last_seen": "2025-11-30T16:14:32.842864+00:00"
+  }
+}

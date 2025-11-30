@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
+  "BOME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01677,
-    "last_seen": "2025-11-30T01:02:26.282342+00:00"
+    "exchange": "bitget",
+    "price": 0.0007184,
+    "last_seen": "2025-11-30T03:20:58.418249+00:00"
   }
 }

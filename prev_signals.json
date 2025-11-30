@@ -1,1 +1,10 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.14939,
+    "last_seen": "2025-11-30T12:21:29.377545+00:00"
+  }
+}

@@ -1,10 +1,10 @@
 {
-  "BOME/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0007184,
-    "last_seen": "2025-11-30T03:20:58.418249+00:00"
+    "exchange": "gateio",
+    "price": 4.792e-05,
+    "last_seen": "2025-11-30T04:28:35.387556+00:00"
   }
 }

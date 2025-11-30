@@ -1,18 +1,18 @@
 {
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.010028,
-    "last_seen": "2025-11-30T08:15:24.357014+00:00"
-  },
   "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 4.562e-05,
-    "last_seen": "2025-11-30T08:15:24.357014+00:00"
+    "price": 4.551e-05,
+    "last_seen": "2025-11-30T09:12:30.027913+00:00"
+  },
+  "PONKE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03587,
+    "last_seen": "2025-11-30T09:12:30.027913+00:00"
   }
 }

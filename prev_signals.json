@@ -1,10 +1,10 @@
 {
-  "DEGEN/USDT": {
-    "direction": "SHORT",
+  "FLOKI/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 3,
-    "exchange": "gateio",
-    "price": 0.001367,
-    "last_seen": "2025-11-30T23:11:56.998690+00:00"
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.435e-05,
+    "last_seen": "2025-12-01T01:06:49.006730+00:00"
   }
 }

@@ -1,58 +1,42 @@
 {
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.001191,
-    "last_seen": "2025-12-01T09:20:12.667371+00:00"
-  },
   "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0006477,
-    "last_seen": "2025-12-01T09:20:12.667371+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.0006492,
+    "last_seen": "2025-12-01T10:15:42.176638+00:00"
   },
   "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.009707,
-    "last_seen": "2025-12-01T09:20:12.667371+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.008723,
-    "last_seen": "2025-12-01T09:20:12.667371+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0816,
-    "last_seen": "2025-12-01T09:20:12.667371+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.009886,
+    "last_seen": "2025-12-01T10:15:42.176638+00:00"
   },
   "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.02833,
-    "last_seen": "2025-12-01T09:20:12.667371+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.02836,
+    "last_seen": "2025-12-01T10:15:42.176638+00:00"
   },
   "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.001035,
+    "last_seen": "2025-12-01T10:15:42.176638+00:00"
+  },
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.00103,
-    "last_seen": "2025-12-01T09:20:12.667371+00:00"
+    "price": 8.037e-06,
+    "last_seen": "2025-12-01T10:15:42.176638+00:00"
   }
 }

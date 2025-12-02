@@ -2,25 +2,25 @@
   "OM/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 0.0735,
-    "last_seen": "2025-12-02T04:23:48.331654+00:00"
+    "price": 0.07349,
+    "last_seen": "2025-12-02T05:14:04.117805+00:00"
   },
   "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.07184,
-    "last_seen": "2025-12-02T04:23:48.331654+00:00"
+    "price": 0.07183,
+    "last_seen": "2025-12-02T05:14:04.117805+00:00"
   },
   "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.02019,
-    "last_seen": "2025-12-02T04:23:48.331654+00:00"
+    "price": 0.02025,
+    "last_seen": "2025-12-02T05:14:04.117805+00:00"
   }
 }

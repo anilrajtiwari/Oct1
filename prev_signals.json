@@ -1,18 +1,26 @@
 {
-  "OM/USDT": {
-    "direction": "SHORT",
+  "SHIB/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 3,
-    "exchange": "okx",
-    "price": 0.07342,
-    "last_seen": "2025-12-02T06:20:56.938468+00:00"
+    "count": 1,
+    "exchange": "mexc",
+    "price": 7.956e-06,
+    "last_seen": "2025-12-02T07:16:15.887549+00:00"
   },
-  "BAN/USDT": {
+  "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.06257,
-    "last_seen": "2025-12-02T06:20:56.938468+00:00"
+    "price": 0.00977,
+    "last_seen": "2025-12-02T07:16:15.887549+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02002,
+    "last_seen": "2025-12-02T07:16:15.887549+00:00"
   }
 }

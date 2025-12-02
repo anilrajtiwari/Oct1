@@ -1,18 +1,10 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 7.992e-06,
-    "last_seen": "2025-12-02T12:25:45.937648+00:00"
-  },
-  "OM/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0741,
-    "last_seen": "2025-12-02T12:25:45.937648+00:00"
+    "exchange": "gateio",
+    "price": 8.868e-06,
+    "last_seen": "2025-12-02T13:32:25.614172+00:00"
   }
 }

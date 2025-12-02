@@ -1,18 +1,10 @@
 {
-  "KOMA/USDT": {
+  "MOODENG/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.01363,
-    "last_seen": "2025-12-02T20:15:47.582031+00:00"
-  },
-  "OM/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.07533,
-    "last_seen": "2025-12-02T20:15:47.582031+00:00"
+    "price": 0.07674,
+    "last_seen": "2025-12-02T21:12:45.476347+00:00"
   }
 }

@@ -1,26 +1,10 @@
 {
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.01002,
-    "last_seen": "2025-12-03T15:15:03.088310+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.07696,
-    "last_seen": "2025-12-03T15:15:03.088310+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
+  "PONKE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0007075,
-    "last_seen": "2025-12-03T15:15:03.088310+00:00"
+    "exchange": "mexc",
+    "price": 0.03493,
+    "last_seen": "2025-12-03T16:18:32.528313+00:00"
   }
 }

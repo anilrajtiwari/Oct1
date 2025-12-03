@@ -1,18 +1,26 @@
 {
-  "WIF/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.4068,
-    "last_seen": "2025-12-03T06:20:38.004025+00:00"
+    "exchange": "mexc",
+    "price": 4.687e-06,
+    "last_seen": "2025-12-03T07:16:02.314060+00:00"
   },
-  "BRETT/USDT": {
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.78e-05,
+    "last_seen": "2025-12-03T07:16:02.314060+00:00"
+  },
+  "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.01995,
-    "last_seen": "2025-12-03T06:20:38.004025+00:00"
+    "exchange": "bitget",
+    "price": 0.02065,
+    "last_seen": "2025-12-03T07:16:02.314060+00:00"
   }
 }

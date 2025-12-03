@@ -2,25 +2,25 @@
   "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.02026,
-    "last_seen": "2025-12-03T11:13:03.146506+00:00"
-  },
-  "PEPE/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
+    "count": 3,
     "exchange": "bitget",
-    "price": 4.7411e-06,
-    "last_seen": "2025-12-03T11:13:03.146506+00:00"
+    "price": 0.02013,
+    "last_seen": "2025-12-03T12:25:14.224721+00:00"
   },
-  "KOMA/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01366,
-    "last_seen": "2025-12-03T11:13:03.146506+00:00"
+    "exchange": "mexc",
+    "price": 0.001231,
+    "last_seen": "2025-12-03T12:25:14.224721+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.009737,
+    "last_seen": "2025-12-03T12:25:14.224721+00:00"
   }
 }

@@ -1,10 +1,18 @@
 {
-  "SHIB/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 9.036e-06,
-    "last_seen": "2025-12-03T22:13:55.524919+00:00"
+    "price": 0.02121,
+    "last_seen": "2025-12-03T23:11:12.246137+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.010359,
+    "last_seen": "2025-12-03T23:11:12.246137+00:00"
   }
 }

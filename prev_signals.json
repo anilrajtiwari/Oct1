@@ -1,18 +1,10 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
+  "FLOKI/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.02121,
-    "last_seen": "2025-12-03T23:11:12.246137+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.010359,
-    "last_seen": "2025-12-03T23:11:12.246137+00:00"
+    "exchange": "mexc",
+    "price": 4.993e-05,
+    "last_seen": "2025-12-04T00:56:46.435755+00:00"
   }
 }

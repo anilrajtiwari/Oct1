@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
+  "VINE/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 4.834e-06,
-    "last_seen": "2025-12-04T02:45:06.437173+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.09188,
-    "last_seen": "2025-12-04T02:45:06.437173+00:00"
+    "price": 0.03076,
+    "last_seen": "2025-12-04T03:49:28.391986+00:00"
   }
 }

@@ -2,9 +2,9 @@
   "OM/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "bitget",
-    "price": 0.07763,
-    "last_seen": "2025-12-04T08:19:18.358848+00:00"
+    "price": 0.07754,
+    "last_seen": "2025-12-04T09:17:08.434201+00:00"
   }
 }

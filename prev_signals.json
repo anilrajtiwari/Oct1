@@ -1,26 +1,26 @@
 {
-  "BONK/USDT": {
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.02845,
+    "last_seen": "2025-12-05T21:12:18.368367+00:00"
+  },
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 9.012e-06,
-    "last_seen": "2025-12-05T20:14:57.405264+00:00"
+    "price": 0.01684,
+    "last_seen": "2025-12-05T21:12:18.368367+00:00"
   },
-  "1000RATS/USDT": {
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0288,
-    "last_seen": "2025-12-05T20:14:57.405264+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.009007,
-    "last_seen": "2025-12-05T20:14:57.405264+00:00"
+    "exchange": "okx",
+    "price": 0.07127,
+    "last_seen": "2025-12-05T21:12:18.368367+00:00"
   }
 }

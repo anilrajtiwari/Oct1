@@ -1,26 +1,10 @@
 {
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01919,
-    "last_seen": "2025-12-05T09:14:54.961404+00:00"
-  },
   "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.02969,
-    "last_seen": "2025-12-05T09:14:54.961404+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.02451,
-    "last_seen": "2025-12-05T09:14:54.961404+00:00"
+    "price": 0.02964,
+    "last_seen": "2025-12-05T10:14:17.019685+00:00"
   }
 }

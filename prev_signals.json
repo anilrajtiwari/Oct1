@@ -1,26 +1,26 @@
 {
   "BONK/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 9.01e-06,
-    "last_seen": "2025-12-05T17:13:36.791303+00:00"
+    "price": 9.094e-06,
+    "last_seen": "2025-12-05T18:16:58.883673+00:00"
   },
   "1000BONK/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.009013,
-    "last_seen": "2025-12-05T17:13:36.791303+00:00"
+    "price": 0.009064,
+    "last_seen": "2025-12-05T18:16:58.883673+00:00"
   },
-  "VINE/USDT": {
-    "direction": "LONG",
+  "1000RATS/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.02831,
-    "last_seen": "2025-12-05T17:13:36.791303+00:00"
+    "price": 0.02884,
+    "last_seen": "2025-12-05T18:16:58.883673+00:00"
   }
 }

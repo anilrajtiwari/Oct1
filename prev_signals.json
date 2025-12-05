@@ -2,17 +2,33 @@
   "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.167063,
-    "last_seen": "2025-12-05T15:14:25.221045+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.1645,
+    "last_seen": "2025-12-05T16:16:33.697102+00:00"
   },
-  "OM/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
+    "exchange": "okx",
+    "price": 9.216e-06,
+    "last_seen": "2025-12-05T16:16:33.697102+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0006853,
+    "last_seen": "2025-12-05T16:16:33.697102+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.0773,
-    "last_seen": "2025-12-05T15:14:25.221045+00:00"
+    "price": 0.1,
+    "last_seen": "2025-12-05T16:16:33.697102+00:00"
   }
 }

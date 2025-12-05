@@ -1,34 +1,26 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.1645,
-    "last_seen": "2025-12-05T16:16:33.697102+00:00"
-  },
   "BONK/USDT": {
-    "direction": "SHORT",
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 9.216e-06,
-    "last_seen": "2025-12-05T16:16:33.697102+00:00"
+    "price": 9.01e-06,
+    "last_seen": "2025-12-05T17:13:36.791303+00:00"
   },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0006853,
-    "last_seen": "2025-12-05T16:16:33.697102+00:00"
-  },
-  "POPCAT/USDT": {
+  "1000BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.1,
-    "last_seen": "2025-12-05T16:16:33.697102+00:00"
+    "price": 0.009013,
+    "last_seen": "2025-12-05T17:13:36.791303+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02831,
+    "last_seen": "2025-12-05T17:13:36.791303+00:00"
   }
 }

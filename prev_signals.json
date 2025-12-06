@@ -1,18 +1,26 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "okx",
-    "price": 3.97,
-    "last_seen": "2025-12-06T05:13:09.717988+00:00"
-  },
   "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.02848,
+    "last_seen": "2025-12-06T06:17:58.558106+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.02807,
-    "last_seen": "2025-12-06T05:13:09.717988+00:00"
+    "price": 4.493e-05,
+    "last_seen": "2025-12-06T06:17:58.558106+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0155,
+    "last_seen": "2025-12-06T06:17:58.558106+00:00"
   }
 }

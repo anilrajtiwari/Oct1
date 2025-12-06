@@ -2,9 +2,25 @@
   "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.04064,
+    "last_seen": "2025-12-06T10:12:53.824959+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.04072,
-    "last_seen": "2025-12-06T09:12:50.326027+00:00"
+    "exchange": "gateio",
+    "price": 4.47e-05,
+    "last_seen": "2025-12-06T10:12:53.824959+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0982,
+    "last_seen": "2025-12-06T10:12:53.824959+00:00"
   }
 }

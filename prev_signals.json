@@ -1,26 +1,10 @@
 {
-  "1000RATS/USDT": {
+  "AIXBT/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 4,
-    "exchange": "mexc",
-    "price": 0.02892,
-    "last_seen": "2025-12-06T08:15:55.983470+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "gateio",
-    "price": 0.0157,
-    "last_seen": "2025-12-06T08:15:55.983470+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.02929,
-    "last_seen": "2025-12-06T08:15:55.983470+00:00"
+    "price": 0.04072,
+    "last_seen": "2025-12-06T09:12:50.326027+00:00"
   }
 }

@@ -1,58 +1,26 @@
 {
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.001149,
-    "last_seen": "2025-12-06T03:39:23.294680+00:00"
-  },
   "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 4.486e-05,
-    "last_seen": "2025-12-06T03:39:23.294680+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 4.49e-05,
+    "last_seen": "2025-12-06T04:14:51.763919+00:00"
   },
   "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 3.964,
-    "last_seen": "2025-12-06T03:39:23.294680+00:00"
+    "price": 3.956,
+    "last_seen": "2025-12-06T04:14:51.763919+00:00"
   },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0095,
-    "last_seen": "2025-12-06T03:39:23.294680+00:00"
-  },
-  "PNUT/USDT": {
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.08235,
-    "last_seen": "2025-12-06T03:39:23.294680+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.003194,
-    "last_seen": "2025-12-06T03:39:23.294680+00:00"
-  },
-  "DEGEN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.001357,
-    "last_seen": "2025-12-06T03:39:23.294680+00:00"
+    "price": 0.01547,
+    "last_seen": "2025-12-06T04:14:51.763919+00:00"
   }
 }

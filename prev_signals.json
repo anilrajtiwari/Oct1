@@ -1,10 +1,34 @@
 {
-  "PIPPIN/USDT": {
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 4.61e-05,
+    "last_seen": "2025-12-06T17:10:52.769782+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 4.003,
+    "last_seen": "2025-12-06T17:10:52.769782+00:00"
+  },
+  "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.24885,
-    "last_seen": "2025-12-06T16:14:15.313217+00:00"
+    "price": 0.010988,
+    "last_seen": "2025-12-06T17:10:52.769782+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.003242,
+    "last_seen": "2025-12-06T17:10:52.769782+00:00"
   }
 }

@@ -1,18 +1,1 @@
-{
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.001208,
-    "last_seen": "2025-12-06T22:11:52.955662+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 4.163,
-    "last_seen": "2025-12-06T22:11:52.955662+00:00"
-  }
-}
+{}

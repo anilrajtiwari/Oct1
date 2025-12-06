@@ -1,10 +1,10 @@
 {
-  "AIXBT/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 4,
-    "exchange": "mexc",
-    "price": 0.04093,
-    "last_seen": "2025-12-06T15:11:46.023316+00:00"
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.24885,
+    "last_seen": "2025-12-06T16:14:15.313217+00:00"
   }
 }

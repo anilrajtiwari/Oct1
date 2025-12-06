@@ -1,26 +1,18 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 4.49e-05,
-    "last_seen": "2025-12-06T04:14:51.763919+00:00"
-  },
   "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 3.956,
-    "last_seen": "2025-12-06T04:14:51.763919+00:00"
+    "count": 3,
+    "exchange": "okx",
+    "price": 3.97,
+    "last_seen": "2025-12-06T05:13:09.717988+00:00"
   },
-  "MUBARAK/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01547,
-    "last_seen": "2025-12-06T04:14:51.763919+00:00"
+    "exchange": "mexc",
+    "price": 0.02807,
+    "last_seen": "2025-12-06T05:13:09.717988+00:00"
   }
 }

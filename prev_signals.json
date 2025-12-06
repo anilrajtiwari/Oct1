@@ -1,34 +1,10 @@
 {
   "AIXBT/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 3,
+    "confidence": 0.75,
+    "count": 4,
     "exchange": "mexc",
-    "price": 0.04095,
-    "last_seen": "2025-12-06T14:11:15.892961+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "bitget",
-    "price": 0.003229,
-    "last_seen": "2025-12-06T14:11:15.892961+00:00"
-  },
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 4.433e-06,
-    "last_seen": "2025-12-06T14:11:15.892961+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.010703,
-    "last_seen": "2025-12-06T14:11:15.892961+00:00"
+    "price": 0.04093,
+    "last_seen": "2025-12-06T15:11:46.023316+00:00"
   }
 }

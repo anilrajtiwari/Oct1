@@ -1,10 +1,18 @@
 {
   "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.1067,
+    "last_seen": "2025-12-07T04:27:44.023528+00:00"
+  },
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.11116,
-    "last_seen": "2025-12-07T03:21:16.977341+00:00"
+    "exchange": "gateio",
+    "price": 0.06163,
+    "last_seen": "2025-12-07T04:27:44.023528+00:00"
   }
 }

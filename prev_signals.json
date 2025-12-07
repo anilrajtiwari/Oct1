@@ -1,1 +1,10 @@
-{}
+{
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.11116,
+    "last_seen": "2025-12-07T03:21:16.977341+00:00"
+  }
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.1686,
+    "last_seen": "2025-12-08T00:57:33.043079+00:00"
+  }
+}

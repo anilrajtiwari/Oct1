@@ -1,18 +1,10 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01688,
-    "last_seen": "2025-12-08T02:47:41.405859+00:00"
-  },
-  "ACT/USDT": {
+  "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.02201,
-    "last_seen": "2025-12-08T02:47:41.405859+00:00"
+    "price": 0.04013,
+    "last_seen": "2025-12-08T03:52:23.272557+00:00"
   }
 }

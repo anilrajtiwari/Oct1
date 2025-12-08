@@ -1,1 +1,18 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0007321,
+    "last_seen": "2025-12-08T16:17:18.941483+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.09582,
+    "last_seen": "2025-12-08T16:17:18.941483+00:00"
+  }
+}

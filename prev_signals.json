@@ -1,1 +1,18 @@
-{}
+{
+  "KOMA/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01272,
+    "last_seen": "2025-12-09T00:57:08.993445+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.1017,
+    "last_seen": "2025-12-09T00:57:08.993445+00:00"
+  }
+}

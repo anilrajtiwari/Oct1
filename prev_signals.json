@@ -1,1 +1,18 @@
-{}
+{
+  "KOMA/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01245,
+    "last_seen": "2025-12-09T11:13:01.830971+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001534,
+    "last_seen": "2025-12-09T11:13:01.830971+00:00"
+  }
+}

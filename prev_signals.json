@@ -1,1 +1,26 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.685e-06,
+    "last_seen": "2025-12-10T11:12:50.168915+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.94e-05,
+    "last_seen": "2025-12-10T11:12:50.168915+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0381,
+    "last_seen": "2025-12-10T11:12:50.168915+00:00"
+  }
+}

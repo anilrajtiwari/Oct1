@@ -1,18 +1,1 @@
-{
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.012207,
-    "last_seen": "2025-12-10T09:17:28.516971+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.06101,
-    "last_seen": "2025-12-10T09:17:28.516971+00:00"
-  }
-}
+{}

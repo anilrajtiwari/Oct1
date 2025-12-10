@@ -1,42 +1,18 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 5.002e-05,
-    "last_seen": "2025-12-10T08:19:05.070223+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.01042,
-    "last_seen": "2025-12-10T08:19:05.070223+00:00"
-  },
   "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01231,
-    "last_seen": "2025-12-10T08:19:05.070223+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.012207,
+    "last_seen": "2025-12-10T09:17:28.516971+00:00"
   },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0907,
-    "last_seen": "2025-12-10T08:19:05.070223+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
+  "BAN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.08889,
-    "last_seen": "2025-12-10T08:19:05.070223+00:00"
+    "price": 0.06101,
+    "last_seen": "2025-12-10T09:17:28.516971+00:00"
   }
 }

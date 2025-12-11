@@ -1,18 +1,1 @@
-{
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.009605,
-    "last_seen": "2025-12-11T14:17:08.853337+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.345,
-    "last_seen": "2025-12-11T14:17:08.853337+00:00"
-  }
-}
+{}

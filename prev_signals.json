@@ -2,25 +2,49 @@
   "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.01117,
-    "last_seen": "2025-12-12T21:12:06.235379+00:00"
+    "price": 0.01116,
+    "last_seen": "2025-12-12T22:13:31.488988+00:00"
   },
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 4.68e-05,
-    "last_seen": "2025-12-12T21:12:06.235379+00:00"
-  },
-  "OM/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.07107,
-    "last_seen": "2025-12-12T21:12:06.235379+00:00"
+    "price": 4.604e-05,
+    "last_seen": "2025-12-12T22:13:31.488988+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.06401,
+    "last_seen": "2025-12-12T22:13:31.488988+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.009363,
+    "last_seen": "2025-12-12T22:13:31.488988+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0848,
+    "last_seen": "2025-12-12T22:13:31.488988+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001507,
+    "last_seen": "2025-12-12T22:13:31.488988+00:00"
   }
 }

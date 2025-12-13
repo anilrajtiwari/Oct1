@@ -1,10 +1,10 @@
 {
-  "SHIB/USDT": {
-    "direction": "LONG",
+  "FLOKI/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 8.426e-06,
-    "last_seen": "2025-12-13T12:22:20.097332+00:00"
+    "price": 4.667e-05,
+    "last_seen": "2025-12-13T13:22:33.249147+00:00"
   }
 }

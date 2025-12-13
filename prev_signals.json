@@ -1,10 +1,10 @@
 {
-  "FLOKI/USDT": {
-    "direction": "SHORT",
+  "MOODENG/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 4.667e-05,
-    "last_seen": "2025-12-13T13:22:33.249147+00:00"
+    "exchange": "bitget",
+    "price": 0.08244,
+    "last_seen": "2025-12-13T14:11:50.879189+00:00"
   }
 }

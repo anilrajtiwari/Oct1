@@ -2,17 +2,33 @@
   "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 8.342e-06,
+    "last_seen": "2025-12-13T07:11:59.433077+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 8.323e-06,
-    "last_seen": "2025-12-13T06:18:53.652980+00:00"
+    "price": 0.59,
+    "last_seen": "2025-12-13T07:11:59.433077+00:00"
   },
-  "PEOPLE/USDT": {
+  "PNUT/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.009483,
-    "last_seen": "2025-12-13T06:18:53.652980+00:00"
+    "price": 0.08386,
+    "last_seen": "2025-12-13T07:11:59.433077+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.1008,
+    "last_seen": "2025-12-13T07:11:59.433077+00:00"
   }
 }

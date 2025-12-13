@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
+  "SHIB/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.1004,
-    "last_seen": "2025-12-13T11:10:44.612501+00:00"
+    "exchange": "gateio",
+    "price": 8.426e-06,
+    "last_seen": "2025-12-13T12:22:20.097332+00:00"
   }
 }

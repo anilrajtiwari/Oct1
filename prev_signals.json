@@ -1,10 +1,18 @@
 {
-  "1000RATS/USDT": {
-    "direction": "SHORT",
+  "PONKE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04065,
-    "last_seen": "2025-12-13T18:16:30.580844+00:00"
+    "price": 0.03128,
+    "last_seen": "2025-12-13T19:10:07.522378+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.08395,
+    "last_seen": "2025-12-13T19:10:07.522378+00:00"
   }
 }

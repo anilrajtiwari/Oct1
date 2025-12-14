@@ -1,10 +1,10 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
+  "BOME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 8.166e-06,
-    "last_seen": "2025-12-14T14:12:07.544254+00:00"
+    "exchange": "gateio",
+    "price": 0.0006428,
+    "last_seen": "2025-12-14T15:11:59.016801+00:00"
   }
 }

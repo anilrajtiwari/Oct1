@@ -1,1 +1,26 @@
-{}
+{
+  "VINE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.02895,
+    "last_seen": "2025-12-14T11:10:49.883707+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.000992,
+    "last_seen": "2025-12-14T11:10:49.883707+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02063,
+    "last_seen": "2025-12-14T11:10:49.883707+00:00"
+  }
+}

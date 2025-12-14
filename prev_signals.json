@@ -1,18 +1,1 @@
-{
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.001095,
-    "last_seen": "2025-12-13T23:12:10.311218+00:00"
-  },
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.04165,
-    "last_seen": "2025-12-13T23:12:10.311218+00:00"
-  }
-}
+{}

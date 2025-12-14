@@ -1,34 +1,42 @@
 {
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.02922,
-    "last_seen": "2025-12-14T04:30:50.780789+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.585e-05,
-    "last_seen": "2025-12-14T04:30:50.780789+00:00"
-  },
   "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.0006613,
-    "last_seen": "2025-12-14T04:30:50.780789+00:00"
+    "price": 0.0006558,
+    "last_seen": "2025-12-14T05:14:06.581218+00:00"
   },
-  "PNUT/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.08256,
-    "last_seen": "2025-12-14T04:30:50.780789+00:00"
+    "price": 4.322e-06,
+    "last_seen": "2025-12-14T05:14:06.581218+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04203,
+    "last_seen": "2025-12-14T05:14:06.581218+00:00"
+  },
+  "PONKE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03109,
+    "last_seen": "2025-12-14T05:14:06.581218+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0208,
+    "last_seen": "2025-12-14T05:14:06.581218+00:00"
   }
 }

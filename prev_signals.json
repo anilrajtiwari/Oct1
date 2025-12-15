@@ -1,26 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.06855,
-    "last_seen": "2025-12-15T01:01:02.086404+00:00"
-  },
-  "CHILLGUY/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0179,
-    "last_seen": "2025-12-15T01:01:02.086404+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.07666,
-    "last_seen": "2025-12-15T01:01:02.086404+00:00"
+    "price": 0.04234,
+    "last_seen": "2025-12-15T02:59:52.698520+00:00"
   }
 }

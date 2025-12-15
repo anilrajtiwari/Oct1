@@ -1,66 +1,66 @@
 {
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 8.622e-06,
-    "last_seen": "2025-12-15T19:15:02.470593+00:00"
-  },
   "OM/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.0653,
-    "last_seen": "2025-12-15T19:15:02.470593+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0006055,
-    "last_seen": "2025-12-15T19:15:02.470593+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.00881,
-    "last_seen": "2025-12-15T19:15:02.470593+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.008639,
-    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+    "price": 0.0649,
+    "last_seen": "2025-12-15T20:15:16.760472+00:00"
   },
   "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 0.07582,
-    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+    "price": 0.07498,
+    "last_seen": "2025-12-15T20:15:16.760472+00:00"
   },
-  "AIXBT/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.03277,
-    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+    "exchange": "gateio",
+    "price": 0.12776,
+    "last_seen": "2025-12-15T20:15:16.760472+00:00"
   },
-  "POPCAT/USDT": {
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.000994,
+    "last_seen": "2025-12-15T20:15:16.760472+00:00"
+  },
+  "PONKE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0911,
-    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+    "price": 0.02868,
+    "last_seen": "2025-12-15T20:15:16.760472+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.00989,
+    "last_seen": "2025-12-15T20:15:16.760472+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01485,
+    "last_seen": "2025-12-15T20:15:16.760472+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02699,
+    "last_seen": "2025-12-15T20:15:16.760472+00:00"
   }
 }

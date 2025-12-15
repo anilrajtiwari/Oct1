@@ -1,1 +1,66 @@
-{}
+{
+  "BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 8.622e-06,
+    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+  },
+  "OM/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0653,
+    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0006055,
+    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.00881,
+    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.008639,
+    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.07582,
+    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.03277,
+    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0911,
+    "last_seen": "2025-12-15T19:15:02.470593+00:00"
+  }
+}

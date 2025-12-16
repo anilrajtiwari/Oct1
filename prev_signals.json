@@ -1,34 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.07156,
-    "last_seen": "2025-12-16T05:16:42.400172+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.42139,
-    "last_seen": "2025-12-16T05:16:42.400172+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.5063,
-    "last_seen": "2025-12-16T05:16:42.400172+00:00"
-  },
-  "MEW/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.000888,
-    "last_seen": "2025-12-16T05:16:42.400172+00:00"
+    "exchange": "gateio",
+    "price": 8.616e-06,
+    "last_seen": "2025-12-16T06:21:05.816158+00:00"
   }
 }

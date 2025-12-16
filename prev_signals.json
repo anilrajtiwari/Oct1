@@ -1,10 +1,10 @@
 {
-  "MEW/USDT": {
+  "DEGEN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.000884,
-    "last_seen": "2025-12-16T07:18:11.874211+00:00"
+    "exchange": "okx",
+    "price": 0.001328,
+    "last_seen": "2025-12-16T08:20:02.038351+00:00"
   }
 }

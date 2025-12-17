@@ -1,18 +1,1 @@
-{
-  "BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 8.536e-06,
-    "last_seen": "2025-12-17T04:26:16.586789+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0006031,
-    "last_seen": "2025-12-17T04:26:16.586789+00:00"
-  }
-}
+{}

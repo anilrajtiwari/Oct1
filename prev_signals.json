@@ -2,17 +2,9 @@
   "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.07654,
-    "last_seen": "2025-12-17T07:17:08.158531+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.02043,
-    "last_seen": "2025-12-17T07:17:08.158531+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.07773,
+    "last_seen": "2025-12-17T08:19:30.766487+00:00"
   }
 }

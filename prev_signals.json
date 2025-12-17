@@ -2,9 +2,25 @@
   "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.01691,
+    "last_seen": "2025-12-17T18:20:35.710643+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01723,
-    "last_seen": "2025-12-17T17:17:45.103727+00:00"
+    "exchange": "bitget",
+    "price": 0.08063,
+    "last_seen": "2025-12-17T18:20:35.710643+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3197,
+    "last_seen": "2025-12-17T18:20:35.710643+00:00"
   }
 }

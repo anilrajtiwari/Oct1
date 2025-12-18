@@ -1,10 +1,26 @@
 {
-  "ORDI/USDT": {
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3496,
+    "last_seen": "2025-12-18T10:15:08.765759+00:00"
+  },
+  "PIPPIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 3.92,
-    "last_seen": "2025-12-18T09:19:34.621384+00:00"
+    "price": 0.43845,
+    "last_seen": "2025-12-18T10:15:08.765759+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0264,
+    "last_seen": "2025-12-18T10:15:08.765759+00:00"
   }
 }

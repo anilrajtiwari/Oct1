@@ -1,50 +1,26 @@
 {
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.00911,
-    "last_seen": "2025-12-18T06:20:34.656911+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.07009,
-    "last_seen": "2025-12-18T06:20:34.656911+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.01376,
-    "last_seen": "2025-12-18T06:20:34.656911+00:00"
-  },
-  "SHIB/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 7.434e-06,
-    "last_seen": "2025-12-18T06:20:34.656911+00:00"
-  },
-  "OM/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.0685,
-    "last_seen": "2025-12-18T06:20:34.656911+00:00"
+    "exchange": "mexc",
+    "price": 0.00093,
+    "last_seen": "2025-12-18T07:17:08.161358+00:00"
   },
-  "MEW/USDT": {
-    "direction": "LONG",
+  "DOGS/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.000827,
-    "last_seen": "2025-12-18T06:20:34.656911+00:00"
+    "price": 4.09e-05,
+    "last_seen": "2025-12-18T07:17:08.161358+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.4774,
+    "last_seen": "2025-12-18T07:17:08.161358+00:00"
   }
 }

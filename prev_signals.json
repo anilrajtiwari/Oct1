@@ -1,18 +1,1 @@
-{
-  "SHIB/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 7.172e-06,
-    "last_seen": "2025-12-18T17:17:41.715590+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.008791,
-    "last_seen": "2025-12-18T17:17:41.715590+00:00"
-  }
-}
+{}

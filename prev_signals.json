@@ -1,26 +1,18 @@
 {
-  "SHIB/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 7.552e-06,
-    "last_seen": "2025-12-19T22:13:46.939811+00:00"
+    "exchange": "okx",
+    "price": 4.114e-06,
+    "last_seen": "2025-12-19T23:13:21.539190+00:00"
   },
-  "BONK/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 8.238e-06,
-    "last_seen": "2025-12-19T22:13:46.939811+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 4.151e-05,
-    "last_seen": "2025-12-19T22:13:46.939811+00:00"
+    "price": 0.0005911,
+    "last_seen": "2025-12-19T23:13:21.539190+00:00"
   }
 }

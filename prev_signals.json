@@ -1,58 +1,26 @@
 {
   "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 4.14e-05,
-    "last_seen": "2025-12-18T23:13:41.737101+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.01579,
-    "last_seen": "2025-12-18T23:13:41.737101+00:00"
-  },
-  "DEGEN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.001186,
-    "last_seen": "2025-12-18T23:13:41.737101+00:00"
-  },
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.721e-06,
-    "last_seen": "2025-12-18T23:13:41.737101+00:00"
-  },
-  "PONKE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.02711,
-    "last_seen": "2025-12-18T23:13:41.737101+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.008251,
-    "last_seen": "2025-12-18T23:13:41.737101+00:00"
+    "price": 4.11e-05,
+    "last_seen": "2025-12-19T00:58:47.469225+00:00"
   },
   "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.06786,
-    "last_seen": "2025-12-18T23:13:41.737101+00:00"
+    "price": 0.06726,
+    "last_seen": "2025-12-19T00:58:47.469225+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0005431,
+    "last_seen": "2025-12-19T00:58:47.469225+00:00"
   }
 }

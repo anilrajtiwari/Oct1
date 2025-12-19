@@ -1,10 +1,18 @@
 {
-  "MEW/USDT": {
-    "direction": "SHORT",
+  "BRETT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "okx",
-    "price": 0.000844,
-    "last_seen": "2025-12-19T08:19:18.014897+00:00"
+    "price": 0.0143,
+    "last_seen": "2025-12-19T09:17:18.572714+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01475,
+    "last_seen": "2025-12-19T09:17:18.572714+00:00"
   }
 }

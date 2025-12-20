@@ -1,10 +1,26 @@
 {
-  "PIPPIN/USDT": {
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.08836,
+    "last_seen": "2025-12-20T22:11:46.442436+00:00"
+  },
+  "ACT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.41904,
-    "last_seen": "2025-12-20T21:11:29.164242+00:00"
+    "exchange": "mexc",
+    "price": 0.03876,
+    "last_seen": "2025-12-20T22:11:46.442436+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.001251,
+    "last_seen": "2025-12-20T22:11:46.442436+00:00"
   }
 }

@@ -1,1 +1,10 @@
-{}
+{
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.07394,
+    "last_seen": "2025-12-20T17:10:40.089629+00:00"
+  }
+}

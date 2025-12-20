@@ -1,26 +1,10 @@
 {
-  "BRETT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01439,
-    "last_seen": "2025-12-20T08:16:15.436252+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
+  "MOODENG/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.02836,
-    "last_seen": "2025-12-20T08:16:15.436252+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02989,
-    "last_seen": "2025-12-20T08:16:15.436252+00:00"
+    "price": 0.07445,
+    "last_seen": "2025-12-20T09:13:08.497157+00:00"
   }
 }

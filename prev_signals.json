@@ -1,34 +1,18 @@
 {
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.07339,
-    "last_seen": "2025-12-20T19:10:10.916488+00:00"
-  },
-  "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.3489,
-    "last_seen": "2025-12-20T19:10:10.916488+00:00"
-  },
   "DOGS/USDT": {
-    "direction": "SHORT",
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 4.363e-05,
-    "last_seen": "2025-12-20T19:10:10.916488+00:00"
+    "exchange": "bitget",
+    "price": 4.34e-05,
+    "last_seen": "2025-12-20T20:13:17.141676+00:00"
   },
-  "BOME/USDT": {
+  "ACT/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.0005986,
-    "last_seen": "2025-12-20T19:10:10.916488+00:00"
+    "exchange": "mexc",
+    "price": 0.03948,
+    "last_seen": "2025-12-20T20:13:17.141676+00:00"
   }
 }

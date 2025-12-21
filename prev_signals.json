@@ -1,18 +1,10 @@
 {
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02961,
-    "last_seen": "2025-12-21T17:11:29.359955+00:00"
-  },
-  "BRETT/USDT": {
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01385,
-    "last_seen": "2025-12-21T17:11:29.359955+00:00"
+    "price": 0.07119,
+    "last_seen": "2025-12-21T18:17:33.150712+00:00"
   }
 }

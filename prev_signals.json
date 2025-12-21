@@ -2,41 +2,25 @@
   "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.801,
-    "last_seen": "2025-12-21T22:12:58.757316+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 3.842,
+    "last_seen": "2025-12-21T23:12:17.965745+00:00"
   },
-  "PIPPIN/USDT": {
-    "direction": "LONG",
+  "SHIB/USDT": {
+    "direction": "SHORT",
     "confidence": 1.0,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.41738,
-    "last_seen": "2025-12-21T22:12:58.757316+00:00"
+    "exchange": "mexc",
+    "price": 7.29e-06,
+    "last_seen": "2025-12-21T23:12:17.965745+00:00"
   },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01609,
-    "last_seen": "2025-12-21T22:12:58.757316+00:00"
-  },
-  "PENGU/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.009016,
-    "last_seen": "2025-12-21T22:12:58.757316+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.03428,
-    "last_seen": "2025-12-21T22:12:58.757316+00:00"
+    "exchange": "okx",
+    "price": 8.097e-06,
+    "last_seen": "2025-12-21T23:12:17.965745+00:00"
   }
 }

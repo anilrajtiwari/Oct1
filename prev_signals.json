@@ -1,10 +1,1 @@
-{
-  "DEGEN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.001256,
-    "last_seen": "2025-12-22T08:20:26.527971+00:00"
-  }
-}
+{}

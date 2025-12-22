@@ -1,18 +1,10 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 7.332e-06,
-    "last_seen": "2025-12-22T01:01:38.298747+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
+  "PIPPIN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.02822,
-    "last_seen": "2025-12-22T01:01:38.298747+00:00"
+    "price": 0.397147,
+    "last_seen": "2025-12-22T03:02:38.940690+00:00"
   }
 }

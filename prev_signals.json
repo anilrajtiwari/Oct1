@@ -1,18 +1,10 @@
 {
-  "BONK/USDT": {
+  "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 8.074e-06,
-    "last_seen": "2025-12-22T22:13:28.414141+00:00"
-  },
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 4.098e-05,
-    "last_seen": "2025-12-22T22:13:28.414141+00:00"
+    "exchange": "mexc",
+    "price": 0.009133,
+    "last_seen": "2025-12-22T23:13:02.616462+00:00"
   }
 }

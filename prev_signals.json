@@ -1,26 +1,18 @@
 {
-  "ORDI/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 2,
-    "exchange": "gateio",
-    "price": 3.842,
-    "last_seen": "2025-12-21T23:12:17.965745+00:00"
-  },
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
     "exchange": "mexc",
-    "price": 7.29e-06,
-    "last_seen": "2025-12-21T23:12:17.965745+00:00"
+    "price": 7.332e-06,
+    "last_seen": "2025-12-22T01:01:38.298747+00:00"
   },
-  "BONK/USDT": {
+  "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 8.097e-06,
-    "last_seen": "2025-12-21T23:12:17.965745+00:00"
+    "exchange": "gateio",
+    "price": 0.02822,
+    "last_seen": "2025-12-22T01:01:38.298747+00:00"
   }
 }

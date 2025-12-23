@@ -1,10 +1,10 @@
 {
-  "MOODENG/USDT": {
+  "KOMA/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.07059,
-    "last_seen": "2025-12-23T04:33:07.008105+00:00"
+    "exchange": "gateio",
+    "price": 0.0097,
+    "last_seen": "2025-12-23T05:18:17.413596+00:00"
   }
 }

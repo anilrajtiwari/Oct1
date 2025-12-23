@@ -1,34 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.00095,
-    "last_seen": "2025-12-23T00:58:38.841545+00:00"
-  },
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.15e-05,
-    "last_seen": "2025-12-23T00:58:38.841545+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.02882,
-    "last_seen": "2025-12-23T00:58:38.841545+00:00"
-  },
-  "DEGEN/USDT": {
-    "direction": "SHORT",
+  "MEW/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.001216,
-    "last_seen": "2025-12-23T00:58:38.841545+00:00"
+    "price": 0.00085,
+    "last_seen": "2025-12-23T02:53:31.925353+00:00"
   }
 }

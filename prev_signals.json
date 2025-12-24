@@ -1,1 +1,18 @@
-{}
+{
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.06938,
+    "last_seen": "2025-12-24T12:24:30.573796+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.001168,
+    "last_seen": "2025-12-24T12:24:30.573796+00:00"
+  }
+}

@@ -1,18 +1,18 @@
 {
-  "WIF/USDT": {
+  "1000RATS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.325,
-    "last_seen": "2025-12-25T08:18:32.668743+00:00"
+    "price": 0.0398,
+    "last_seen": "2025-12-25T09:16:21.039748+00:00"
   },
-  "OM/USDT": {
+  "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.07359,
-    "last_seen": "2025-12-25T08:18:32.668743+00:00"
+    "exchange": "mexc",
+    "price": 0.072,
+    "last_seen": "2025-12-25T09:16:21.039748+00:00"
   }
 }

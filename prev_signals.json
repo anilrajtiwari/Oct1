@@ -1,10 +1,18 @@
 {
-  "1000RATS/USDT": {
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.001008,
+    "last_seen": "2025-12-26T18:19:10.260252+00:00"
+  },
+  "PIPPIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0404,
-    "last_seen": "2025-12-26T17:11:47.246626+00:00"
+    "price": 0.46661,
+    "last_seen": "2025-12-26T18:19:10.260252+00:00"
   }
 }

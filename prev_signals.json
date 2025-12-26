@@ -1,18 +1,18 @@
 {
-  "CHILLGUY/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01668,
-    "last_seen": "2025-12-26T12:24:15.432136+00:00"
+    "exchange": "bitget",
+    "price": 0.000975,
+    "last_seen": "2025-12-26T13:28:14.002821+00:00"
   },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
+  "BOME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.0724,
-    "last_seen": "2025-12-26T12:24:15.432136+00:00"
+    "exchange": "bitget",
+    "price": 0.000579,
+    "last_seen": "2025-12-26T13:28:14.002821+00:00"
   }
 }

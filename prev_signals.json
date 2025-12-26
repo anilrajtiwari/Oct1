@@ -1,1 +1,18 @@
-{}
+{
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.000972,
+    "last_seen": "2025-12-26T06:20:48.627304+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.04387,
+    "last_seen": "2025-12-26T06:20:48.627304+00:00"
+  }
+}

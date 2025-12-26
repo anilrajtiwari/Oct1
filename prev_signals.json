@@ -1,10 +1,1 @@
-{
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0005755,
-    "last_seen": "2025-12-26T19:10:35.791892+00:00"
-  }
-}
+{}

@@ -1,18 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.001008,
-    "last_seen": "2025-12-26T18:19:10.260252+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "LONG",
+  "BOME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.46661,
-    "last_seen": "2025-12-26T18:19:10.260252+00:00"
+    "exchange": "gateio",
+    "price": 0.0005755,
+    "last_seen": "2025-12-26T19:10:35.791892+00:00"
   }
 }

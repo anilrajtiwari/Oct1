@@ -1,10 +1,18 @@
 {
-  "PNUT/USDT": {
-    "direction": "LONG",
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.07134,
-    "last_seen": "2025-12-26T11:12:45.091081+00:00"
+    "exchange": "gateio",
+    "price": 0.01668,
+    "last_seen": "2025-12-26T12:24:15.432136+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0724,
+    "last_seen": "2025-12-26T12:24:15.432136+00:00"
   }
 }

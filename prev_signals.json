@@ -1,18 +1,18 @@
 {
-  "1000RATS/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.04204,
-    "last_seen": "2025-12-27T20:14:16.258487+00:00"
+    "exchange": "okx",
+    "price": 0.0010138,
+    "last_seen": "2025-12-27T21:11:38.360581+00:00"
   },
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
+  "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.07774,
-    "last_seen": "2025-12-27T20:14:16.258487+00:00"
+    "price": 0.001024,
+    "last_seen": "2025-12-27T21:11:38.360581+00:00"
   }
 }

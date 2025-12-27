@@ -1,18 +1,42 @@
 {
-  "MEME/USDT": {
+  "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.00103,
+    "last_seen": "2025-12-27T22:12:00.357159+00:00"
+  },
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0010138,
-    "last_seen": "2025-12-27T21:11:38.360581+00:00"
+    "exchange": "mexc",
+    "price": 4.175e-06,
+    "last_seen": "2025-12-27T22:12:00.357159+00:00"
   },
-  "HIPPO/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.001024,
-    "last_seen": "2025-12-27T21:11:38.360581+00:00"
+    "price": 7.99e-06,
+    "last_seen": "2025-12-27T22:12:00.357159+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.247,
+    "last_seen": "2025-12-27T22:12:00.357159+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.008001,
+    "last_seen": "2025-12-27T22:12:00.357159+00:00"
   }
 }

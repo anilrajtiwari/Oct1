@@ -1,1 +1,18 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.175,
+    "last_seen": "2025-12-27T03:52:09.563439+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.00905,
+    "last_seen": "2025-12-27T03:52:09.563439+00:00"
+  }
+}

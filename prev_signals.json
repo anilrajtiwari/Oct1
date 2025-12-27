@@ -1,10 +1,18 @@
 {
-  "POPCAT/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.07916,
-    "last_seen": "2025-12-26T23:13:19.378691+00:00"
+    "exchange": "mexc",
+    "price": 0.0005792,
+    "last_seen": "2025-12-27T00:57:19.772452+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3022,
+    "last_seen": "2025-12-27T00:57:19.772452+00:00"
   }
 }

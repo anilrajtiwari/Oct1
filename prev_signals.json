@@ -1,10 +1,10 @@
 {
-  "BRETT/USDT": {
+  "SPX/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01441,
-    "last_seen": "2025-12-27T11:10:54.242584+00:00"
+    "price": 0.4986,
+    "last_seen": "2025-12-27T12:22:42.812662+00:00"
   }
 }

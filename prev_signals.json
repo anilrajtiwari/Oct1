@@ -1,18 +1,26 @@
 {
-  "ORDI/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 4.175,
-    "last_seen": "2025-12-27T03:52:09.563439+00:00"
+    "price": 0.04117,
+    "last_seen": "2025-12-27T04:26:15.081125+00:00"
   },
-  "PENGU/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.00905,
-    "last_seen": "2025-12-27T03:52:09.563439+00:00"
+    "price": 0.01655,
+    "last_seen": "2025-12-27T04:26:15.081125+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.07121,
+    "last_seen": "2025-12-27T04:26:15.081125+00:00"
   }
 }

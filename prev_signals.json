@@ -1,10 +1,26 @@
 {
-  "PEOPLE/USDT": {
-    "direction": "LONG",
+  "PEPE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.009334,
-    "last_seen": "2025-12-27T14:11:55.870679+00:00"
+    "exchange": "gateio",
+    "price": 4.072e-06,
+    "last_seen": "2025-12-27T15:12:32.265923+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.167,
+    "last_seen": "2025-12-27T15:12:32.265923+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.00089,
+    "last_seen": "2025-12-27T15:12:32.265923+00:00"
   }
 }

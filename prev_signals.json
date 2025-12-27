@@ -1,26 +1,18 @@
 {
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
+  "OM/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.3112,
-    "last_seen": "2025-12-27T07:13:22.118230+00:00"
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.07528,
+    "last_seen": "2025-12-27T08:16:35.913959+00:00"
   },
-  "PONKE/USDT": {
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.02893,
-    "last_seen": "2025-12-27T07:13:22.118230+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.4996,
-    "last_seen": "2025-12-27T07:13:22.118230+00:00"
+    "exchange": "bitget",
+    "price": 0.000888,
+    "last_seen": "2025-12-27T08:16:35.913959+00:00"
   }
 }

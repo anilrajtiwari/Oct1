@@ -1,66 +1,34 @@
 {
-  "PEPE/USDT": {
+  "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 2,
     "exchange": "mexc",
-    "price": 4.143e-06,
-    "last_seen": "2025-12-28T18:18:31.050342+00:00"
-  },
-  "DOGE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.12343,
-    "last_seen": "2025-12-28T18:18:31.050342+00:00"
-  },
-  "SHIB/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 7.285e-06,
-    "last_seen": "2025-12-28T18:18:31.050342+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.009275,
-    "last_seen": "2025-12-28T18:18:31.050342+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.03111,
-    "last_seen": "2025-12-28T18:18:31.050342+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01419,
-    "last_seen": "2025-12-28T18:18:31.050342+00:00"
+    "price": 0.01418,
+    "last_seen": "2025-12-28T19:10:40.175484+00:00"
   },
   "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.0791,
-    "last_seen": "2025-12-28T18:18:31.050342+00:00"
+    "price": 0.0787,
+    "last_seen": "2025-12-28T19:10:40.175484+00:00"
   },
-  "DEGEN/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.001152,
-    "last_seen": "2025-12-28T18:18:31.050342+00:00"
+    "price": 4.035e-05,
+    "last_seen": "2025-12-28T19:10:40.175484+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.000866,
+    "last_seen": "2025-12-28T19:10:40.175484+00:00"
   }
 }

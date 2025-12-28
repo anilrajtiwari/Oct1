@@ -1,1 +1,26 @@
-{}
+{
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 4.051e-05,
+    "last_seen": "2025-12-28T07:14:44.226493+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04176,
+    "last_seen": "2025-12-28T07:14:44.226493+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3188,
+    "last_seen": "2025-12-28T07:14:44.226493+00:00"
+  }
+}

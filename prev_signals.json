@@ -1,26 +1,10 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.286,
-    "last_seen": "2025-12-28T16:15:01.407689+00:00"
-  },
-  "PENGU/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.009464,
-    "last_seen": "2025-12-28T16:15:01.407689+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01448,
-    "last_seen": "2025-12-28T16:15:01.407689+00:00"
+    "price": 4.204e-06,
+    "last_seen": "2025-12-28T17:11:52.046704+00:00"
   }
 }

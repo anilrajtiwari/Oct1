@@ -1,1 +1,10 @@
-{}
+{
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04225,
+    "last_seen": "2025-12-28T15:12:24.377718+00:00"
+  }
+}

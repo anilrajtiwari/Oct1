@@ -1,18 +1,18 @@
 {
-  "ORDI/USDT": {
+  "HIPPO/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.001059,
+    "last_seen": "2025-12-28T13:25:19.623830+00:00"
+  },
+  "VINE/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
     "count": 1,
     "exchange": "mexc",
-    "price": 4.243,
-    "last_seen": "2025-12-28T12:23:11.575029+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.009409,
-    "last_seen": "2025-12-28T12:23:11.575029+00:00"
+    "price": 0.02761,
+    "last_seen": "2025-12-28T13:25:19.623830+00:00"
   }
 }

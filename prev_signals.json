@@ -1,18 +1,1 @@
-{
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.4028,
-    "last_seen": "2025-12-29T08:20:48.943570+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 4.13e-05,
-    "last_seen": "2025-12-29T08:20:48.943570+00:00"
-  }
-}
+{}

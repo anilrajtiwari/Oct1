@@ -1,1 +1,18 @@
-{}
+{
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 3.936e-05,
+    "last_seen": "2025-12-29T21:12:31.355505+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02729,
+    "last_seen": "2025-12-29T21:12:31.355505+00:00"
+  }
+}

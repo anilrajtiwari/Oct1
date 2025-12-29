@@ -2,9 +2,9 @@
   "ACT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.04104,
-    "last_seen": "2025-12-29T10:15:43.886864+00:00"
+    "price": 0.04091,
+    "last_seen": "2025-12-29T11:12:58.656904+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "SHIB/USDT": {
+  "DEGEN/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 7.086e-06,
-    "last_seen": "2025-12-30T21:12:59.526148+00:00"
+    "exchange": "gateio",
+    "price": 0.001151,
+    "last_seen": "2025-12-30T22:13:02.675081+00:00"
   }
 }

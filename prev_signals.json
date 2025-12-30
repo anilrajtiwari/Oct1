@@ -1,18 +1,10 @@
 {
-  "KOMA/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01011,
-    "last_seen": "2025-12-29T23:13:09.900013+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0306,
-    "last_seen": "2025-12-29T23:13:09.900013+00:00"
+    "price": 0.000964,
+    "last_seen": "2025-12-30T00:59:09.521750+00:00"
   }
 }

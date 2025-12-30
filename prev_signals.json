@@ -1,1 +1,10 @@
-{}
+{
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 7.086e-06,
+    "last_seen": "2025-12-30T21:12:59.526148+00:00"
+  }
+}

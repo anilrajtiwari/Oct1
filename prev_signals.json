@@ -1,10 +1,18 @@
 {
-  "BRETT/USDT": {
-    "direction": "LONG",
+  "WIF/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01385,
-    "last_seen": "2025-12-31T04:35:49.559909+00:00"
+    "price": 0.2763,
+    "last_seen": "2025-12-31T05:25:05.119821+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 4.004e-05,
+    "last_seen": "2025-12-31T05:25:05.119821+00:00"
   }
 }

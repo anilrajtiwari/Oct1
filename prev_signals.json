@@ -1,10 +1,10 @@
 {
-  "BOME/USDT": {
+  "1000CAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0005396,
-    "last_seen": "2025-12-31T06:21:00.189580+00:00"
+    "exchange": "bitget",
+    "price": 0.002605,
+    "last_seen": "2025-12-31T07:18:10.896141+00:00"
   }
 }

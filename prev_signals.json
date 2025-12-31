@@ -1,26 +1,10 @@
 {
-  "1000CAT/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
+    "confidence": 1.0,
+    "count": 1,
     "exchange": "bitget",
-    "price": 0.002628,
-    "last_seen": "2025-12-31T08:19:26.894744+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 4.001e-05,
-    "last_seen": "2025-12-31T08:19:26.894744+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01543,
-    "last_seen": "2025-12-31T08:19:26.894744+00:00"
+    "price": 0.04008,
+    "last_seen": "2025-12-31T09:17:36.793192+00:00"
   }
 }

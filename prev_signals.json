@@ -1,10 +1,10 @@
 {
-  "BOME/USDT": {
-    "direction": "SHORT",
+  "BRETT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0005385,
-    "last_seen": "2025-12-31T03:58:26.712034+00:00"
+    "exchange": "bitget",
+    "price": 0.01385,
+    "last_seen": "2025-12-31T04:35:49.559909+00:00"
   }
 }

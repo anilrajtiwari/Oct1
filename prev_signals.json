@@ -2,9 +2,33 @@
   "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.04056,
+    "last_seen": "2025-12-31T10:14:21.989655+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.07886,
+    "last_seen": "2025-12-31T10:14:21.989655+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.01377,
+    "last_seen": "2025-12-31T10:14:21.989655+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.04008,
-    "last_seen": "2025-12-31T09:17:36.793192+00:00"
+    "price": 0.00263,
+    "last_seen": "2025-12-31T10:14:21.989655+00:00"
   }
 }

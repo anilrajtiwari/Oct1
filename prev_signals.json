@@ -1,26 +1,18 @@
 {
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 7.509e-06,
-    "last_seen": "2026-01-01T06:21:41.481600+00:00"
-  },
   "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 0.007504,
-    "last_seen": "2026-01-01T06:21:41.481600+00:00"
+    "price": 0.007508,
+    "last_seen": "2026-01-01T07:17:17.938975+00:00"
   },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
+  "HIPPO/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.03232,
-    "last_seen": "2026-01-01T06:21:41.481600+00:00"
+    "exchange": "mexc",
+    "price": 0.001081,
+    "last_seen": "2026-01-01T07:17:17.938975+00:00"
   }
 }

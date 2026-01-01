@@ -1,18 +1,26 @@
 {
-  "1000BONK/USDT": {
-    "direction": "SHORT",
+  "HIPPO/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 2,
-    "exchange": "bitget",
-    "price": 0.007508,
-    "last_seen": "2026-01-01T07:17:17.938975+00:00"
+    "exchange": "mexc",
+    "price": 0.001079,
+    "last_seen": "2026-01-01T08:19:19.520899+00:00"
   },
-  "HIPPO/USDT": {
+  "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.001081,
-    "last_seen": "2026-01-01T07:17:17.938975+00:00"
+    "price": 0.02756,
+    "last_seen": "2026-01-01T08:19:19.520899+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.03154,
+    "last_seen": "2026-01-01T08:19:19.520899+00:00"
   }
 }

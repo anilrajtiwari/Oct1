@@ -2,17 +2,9 @@
   "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.0171,
-    "last_seen": "2026-01-01T22:13:11.359634+00:00"
-  },
-  "HIPPO/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.001111,
-    "last_seen": "2026-01-01T22:13:11.359634+00:00"
+    "price": 0.01763,
+    "last_seen": "2026-01-01T23:13:26.114293+00:00"
   }
 }

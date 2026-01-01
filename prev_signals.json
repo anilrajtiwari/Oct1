@@ -1,26 +1,10 @@
 {
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0276,
-    "last_seen": "2026-01-01T12:25:08.229237+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01754,
-    "last_seen": "2026-01-01T12:25:08.229237+00:00"
-  },
-  "DEGEN/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.001073,
-    "last_seen": "2026-01-01T12:25:08.229237+00:00"
+    "exchange": "bitget",
+    "price": 0.39457,
+    "last_seen": "2026-01-01T13:28:58.594411+00:00"
   }
 }

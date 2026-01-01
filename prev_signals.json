@@ -2,33 +2,41 @@
   "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.0005521,
-    "last_seen": "2026-01-01T09:17:42.051164+00:00"
+    "price": 0.0005536,
+    "last_seen": "2026-01-01T10:15:01.835471+00:00"
   },
   "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 0.007557,
-    "last_seen": "2026-01-01T09:17:42.051164+00:00"
+    "price": 0.007574,
+    "last_seen": "2026-01-01T10:15:01.835471+00:00"
   },
   "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.000825,
-    "last_seen": "2026-01-01T09:17:42.051164+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.0008263,
+    "last_seen": "2026-01-01T10:15:01.835471+00:00"
   },
   "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.0744,
-    "last_seen": "2026-01-01T09:17:42.051164+00:00"
+    "price": 0.0742,
+    "last_seen": "2026-01-01T10:15:01.835471+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.002826,
+    "last_seen": "2026-01-01T10:15:01.835471+00:00"
   }
 }

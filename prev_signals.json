@@ -2,25 +2,25 @@
   "PONKE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.02772,
-    "last_seen": "2026-01-01T14:13:12.004738+00:00"
+    "price": 0.02793,
+    "last_seen": "2026-01-01T15:14:29.279667+00:00"
   },
   "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 0.0008329,
-    "last_seen": "2026-01-01T14:13:12.004738+00:00"
+    "price": 0.0008375,
+    "last_seen": "2026-01-01T15:14:29.279667+00:00"
   },
   "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.0745,
-    "last_seen": "2026-01-01T14:13:12.004738+00:00"
+    "price": 0.0747,
+    "last_seen": "2026-01-01T15:14:29.279667+00:00"
   }
 }

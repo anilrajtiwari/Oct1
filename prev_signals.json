@@ -1,26 +1,10 @@
 {
-  "OM/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.06879,
-    "last_seen": "2026-01-01T04:41:52.871809+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.06846,
-    "last_seen": "2026-01-01T04:41:52.871809+00:00"
-  },
-  "ACT/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0316,
-    "last_seen": "2026-01-01T04:41:52.871809+00:00"
+    "exchange": "gateio",
+    "price": 0.395929,
+    "last_seen": "2026-01-01T05:21:29.120850+00:00"
   }
 }

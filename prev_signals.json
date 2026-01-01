@@ -1,18 +1,18 @@
 {
-  "ORDI/USDT": {
+  "PEOPLE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 4.511,
-    "last_seen": "2026-01-01T20:15:29.361773+00:00"
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.010193,
+    "last_seen": "2026-01-01T21:13:00.517927+00:00"
   },
-  "BAN/USDT": {
-    "direction": "SHORT",
+  "PNUT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.07471,
-    "last_seen": "2026-01-01T20:15:29.361773+00:00"
+    "price": 0.07335,
+    "last_seen": "2026-01-01T21:13:00.517927+00:00"
   }
 }

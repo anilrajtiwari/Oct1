@@ -1,18 +1,1 @@
-{
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0289,
-    "last_seen": "2026-01-02T10:14:25.135932+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.07635,
-    "last_seen": "2026-01-02T10:14:25.135932+00:00"
-  }
-}
+{}

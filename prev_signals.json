@@ -1,26 +1,10 @@
 {
-  "DOGE/USDT": {
+  "PEOPLE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.1313,
-    "last_seen": "2026-01-02T14:13:57.589623+00:00"
-  },
-  "BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 8.736e-06,
-    "last_seen": "2026-01-02T14:13:57.589623+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.009976,
-    "last_seen": "2026-01-02T14:13:57.589623+00:00"
+    "exchange": "bitget",
+    "price": 0.0107,
+    "last_seen": "2026-01-02T15:14:01.015367+00:00"
   }
 }

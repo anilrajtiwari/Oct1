@@ -2,9 +2,9 @@
   "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 4.34e-05,
-    "last_seen": "2026-01-02T17:12:30.637213+00:00"
+    "price": 4.38e-05,
+    "last_seen": "2026-01-02T18:19:19.292015+00:00"
   }
 }

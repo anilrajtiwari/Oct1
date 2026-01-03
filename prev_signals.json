@@ -1,18 +1,1 @@
-{
-  "DOGE/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.14243,
-    "last_seen": "2026-01-03T15:12:12.420620+00:00"
-  },
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.26e-05,
-    "last_seen": "2026-01-03T15:12:12.420620+00:00"
-  }
-}
+{}

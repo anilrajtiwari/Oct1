@@ -1,1 +1,26 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.14094,
+    "last_seen": "2026-01-03T17:11:44.759126+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.981e-05,
+    "last_seen": "2026-01-03T17:11:44.759126+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04573,
+    "last_seen": "2026-01-03T17:11:44.759126+00:00"
+  }
+}

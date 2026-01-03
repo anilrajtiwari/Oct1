@@ -1,58 +1,74 @@
 {
   "DOGE/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.14332,
-    "last_seen": "2026-01-03T06:19:50.915884+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "mexc",
-    "price": 0.3392,
-    "last_seen": "2026-01-03T06:19:50.915884+00:00"
+    "price": 0.14118,
+    "last_seen": "2026-01-03T07:13:43.661725+00:00"
   },
   "BOME/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
+    "confidence": 0.75,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.0006626,
-    "last_seen": "2026-01-03T06:19:50.915884+00:00"
+    "price": 0.0006522,
+    "last_seen": "2026-01-03T07:13:43.661725+00:00"
   },
-  "VINE/USDT": {
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.002929,
+    "last_seen": "2026-01-03T07:13:43.661725+00:00"
+  },
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.03013,
-    "last_seen": "2026-01-03T06:19:50.915884+00:00"
+    "price": 4.754e-05,
+    "last_seen": "2026-01-03T07:13:43.661725+00:00"
   },
-  "MEW/USDT": {
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.07461,
+    "last_seen": "2026-01-03T07:13:43.661725+00:00"
+  },
+  "PEOPLE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.0009871,
-    "last_seen": "2026-01-03T06:19:50.915884+00:00"
+    "price": 0.010523,
+    "last_seen": "2026-01-03T07:13:43.661725+00:00"
   },
-  "1000CAT/USDT": {
+  "SPX/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.003048,
-    "last_seen": "2026-01-03T06:19:50.915884+00:00"
+    "exchange": "mexc",
+    "price": 0.545,
+    "last_seen": "2026-01-03T07:13:43.661725+00:00"
   },
-  "DEGEN/USDT": {
+  "MOODENG/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.001222,
-    "last_seen": "2026-01-03T06:19:50.915884+00:00"
+    "exchange": "bitget",
+    "price": 0.07498,
+    "last_seen": "2026-01-03T07:13:43.661725+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0913,
+    "last_seen": "2026-01-03T07:13:43.661725+00:00"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "1000RATS/USDT": {
+  "DOGE/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.14243,
+    "last_seen": "2026-01-03T15:12:12.420620+00:00"
+  },
+  "DOGS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.04554,
-    "last_seen": "2026-01-03T14:12:17.998697+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.02815,
-    "last_seen": "2026-01-03T14:12:17.998697+00:00"
+    "exchange": "bitget",
+    "price": 4.26e-05,
+    "last_seen": "2026-01-03T15:12:12.420620+00:00"
   }
 }

@@ -1,26 +1,18 @@
 {
-  "SHIB/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 7.869e-06,
-    "last_seen": "2026-01-03T11:11:12.333859+00:00"
+    "price": 0.001116,
+    "last_seen": "2026-01-03T12:22:56.544707+00:00"
   },
-  "1000RATS/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04577,
-    "last_seen": "2026-01-03T11:11:12.333859+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01018,
-    "last_seen": "2026-01-03T11:11:12.333859+00:00"
+    "price": 0.0006479,
+    "last_seen": "2026-01-03T12:22:56.544707+00:00"
   }
 }

@@ -1,74 +1,42 @@
 {
-  "DOGE/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 3,
     "exchange": "mexc",
-    "price": 0.14118,
-    "last_seen": "2026-01-03T07:13:43.661725+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.0006522,
-    "last_seen": "2026-01-03T07:13:43.661725+00:00"
+    "price": 0.0006442,
+    "last_seen": "2026-01-03T08:17:07.474305+00:00"
   },
   "1000CAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "bitget",
-    "price": 0.002929,
-    "last_seen": "2026-01-03T07:13:43.661725+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 4.754e-05,
-    "last_seen": "2026-01-03T07:13:43.661725+00:00"
+    "price": 0.002933,
+    "last_seen": "2026-01-03T08:17:07.474305+00:00"
   },
   "OM/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.07461,
-    "last_seen": "2026-01-03T07:13:43.661725+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.010523,
-    "last_seen": "2026-01-03T07:13:43.661725+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.0738,
+    "last_seen": "2026-01-03T08:17:07.474305+00:00"
   },
   "SPX/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.545,
-    "last_seen": "2026-01-03T07:13:43.661725+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.07498,
-    "last_seen": "2026-01-03T07:13:43.661725+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.533,
+    "last_seen": "2026-01-03T08:17:07.474305+00:00"
   },
-  "POPCAT/USDT": {
+  "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0913,
-    "last_seen": "2026-01-03T07:13:43.661725+00:00"
+    "price": 0.010477,
+    "last_seen": "2026-01-03T08:17:07.474305+00:00"
   }
 }

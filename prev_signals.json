@@ -1,18 +1,18 @@
 {
-  "PEOPLE/USDT": {
+  "1000RATS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01035,
-    "last_seen": "2026-01-03T13:24:42.640840+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
     "exchange": "mexc",
-    "price": 0.01622,
-    "last_seen": "2026-01-03T13:24:42.640840+00:00"
+    "price": 0.04554,
+    "last_seen": "2026-01-03T14:12:17.998697+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.02815,
+    "last_seen": "2026-01-03T14:12:17.998697+00:00"
   }
 }

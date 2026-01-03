@@ -1,10 +1,26 @@
 {
-  "SPX/USDT": {
+  "BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.5471,
-    "last_seen": "2026-01-03T20:14:15.915337+00:00"
+    "price": 9.088e-06,
+    "last_seen": "2026-01-03T21:11:52.210479+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02045,
+    "last_seen": "2026-01-03T21:11:52.210479+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001232,
+    "last_seen": "2026-01-03T21:11:52.210479+00:00"
   }
 }

@@ -2,41 +2,33 @@
   "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 3,
+    "count": 4,
     "exchange": "mexc",
-    "price": 0.0006442,
-    "last_seen": "2026-01-03T08:17:07.474305+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "bitget",
-    "price": 0.002933,
-    "last_seen": "2026-01-03T08:17:07.474305+00:00"
+    "price": 0.000646,
+    "last_seen": "2026-01-03T09:13:38.003844+00:00"
   },
   "OM/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "gateio",
-    "price": 0.0738,
-    "last_seen": "2026-01-03T08:17:07.474305+00:00"
+    "price": 0.0739,
+    "last_seen": "2026-01-03T09:13:38.003844+00:00"
   },
   "SPX/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
+    "confidence": 1.0,
+    "count": 3,
     "exchange": "mexc",
-    "price": 0.533,
-    "last_seen": "2026-01-03T08:17:07.474305+00:00"
+    "price": 0.5421,
+    "last_seen": "2026-01-03T09:13:38.003844+00:00"
   },
-  "PENGU/USDT": {
+  "1000RATS/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.010477,
-    "last_seen": "2026-01-03T08:17:07.474305+00:00"
+    "exchange": "bitget",
+    "price": 0.04489,
+    "last_seen": "2026-01-03T09:13:38.003844+00:00"
   }
 }

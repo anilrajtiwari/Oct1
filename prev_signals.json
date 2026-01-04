@@ -1,26 +1,18 @@
 {
-  "PEOPLE/USDT": {
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.53e-05,
+    "last_seen": "2026-01-04T03:44:18.122344+00:00"
+  },
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.010676,
-    "last_seen": "2026-01-04T01:06:12.051899+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0010067,
-    "last_seen": "2026-01-04T01:06:12.051899+00:00"
-  },
-  "DEGEN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.001246,
-    "last_seen": "2026-01-04T01:06:12.051899+00:00"
+    "price": 0.08289,
+    "last_seen": "2026-01-04T03:44:18.122344+00:00"
   }
 }

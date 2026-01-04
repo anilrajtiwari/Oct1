@@ -1,18 +1,26 @@
 {
-  "SPX/USDT": {
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.010676,
+    "last_seen": "2026-01-04T01:06:12.051899+00:00"
+  },
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.5727,
-    "last_seen": "2026-01-03T23:13:14.586365+00:00"
+    "price": 0.0010067,
+    "last_seen": "2026-01-04T01:06:12.051899+00:00"
   },
-  "VINE/USDT": {
+  "DEGEN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.03001,
-    "last_seen": "2026-01-03T23:13:14.586365+00:00"
+    "exchange": "gateio",
+    "price": 0.001246,
+    "last_seen": "2026-01-04T01:06:12.051899+00:00"
   }
 }

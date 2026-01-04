@@ -1,26 +1,26 @@
 {
-  "KOMA/USDT": {
-    "direction": "LONG",
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.03195,
+    "last_seen": "2026-01-04T16:14:52.772397+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0121,
-    "last_seen": "2026-01-04T15:12:31.629908+00:00"
+    "price": 0.001268,
+    "last_seen": "2026-01-04T16:14:52.772397+00:00"
   },
-  "OM/USDT": {
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0791,
-    "last_seen": "2026-01-04T15:12:31.629908+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.03176,
-    "last_seen": "2026-01-04T15:12:31.629908+00:00"
+    "exchange": "mexc",
+    "price": 0.0203,
+    "last_seen": "2026-01-04T16:14:52.772397+00:00"
   }
 }

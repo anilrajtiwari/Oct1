@@ -1,26 +1,18 @@
 {
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0007392,
-    "last_seen": "2026-01-04T10:13:17.713326+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.03071,
-    "last_seen": "2026-01-04T10:13:17.713326+00:00"
-  },
-  "POPCAT/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0996,
-    "last_seen": "2026-01-04T10:13:17.713326+00:00"
+    "price": 4.67,
+    "last_seen": "2026-01-04T11:11:15.955862+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01805,
+    "last_seen": "2026-01-04T11:11:15.955862+00:00"
   }
 }

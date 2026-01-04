@@ -1,42 +1,26 @@
 {
-  "KOMA/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01226,
-    "last_seen": "2026-01-04T13:25:31.114554+00:00"
-  },
   "DOGS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 4.8e-05,
-    "last_seen": "2026-01-04T13:25:31.114554+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0007318,
-    "last_seen": "2026-01-04T13:25:31.114554+00:00"
+    "price": 4.95e-05,
+    "last_seen": "2026-01-04T14:12:06.523131+00:00"
   },
   "MOODENG/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.08481,
-    "last_seen": "2026-01-04T13:25:31.114554+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.0866,
+    "last_seen": "2026-01-04T14:12:06.523131+00:00"
   },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
+  "PNUT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.02003,
-    "last_seen": "2026-01-04T13:25:31.114554+00:00"
+    "exchange": "okx",
+    "price": 0.08914,
+    "last_seen": "2026-01-04T14:12:06.523131+00:00"
   }
 }

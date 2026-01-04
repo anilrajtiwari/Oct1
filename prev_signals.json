@@ -1,26 +1,26 @@
 {
-  "BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 1.1723e-05,
-    "last_seen": "2026-01-04T09:13:07.572335+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 5.636e-05,
-    "last_seen": "2026-01-04T09:13:07.572335+00:00"
-  },
-  "PEOPLE/USDT": {
+  "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.011204,
-    "last_seen": "2026-01-04T09:13:07.572335+00:00"
+    "exchange": "bitget",
+    "price": 0.0007392,
+    "last_seen": "2026-01-04T10:13:17.713326+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.03071,
+    "last_seen": "2026-01-04T10:13:17.713326+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0996,
+    "last_seen": "2026-01-04T10:13:17.713326+00:00"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 4.67,
-    "last_seen": "2026-01-04T11:11:15.955862+00:00"
-  },
-  "BRETT/USDT": {
+  "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01805,
-    "last_seen": "2026-01-04T11:11:15.955862+00:00"
+    "exchange": "okx",
+    "price": 0.0889,
+    "last_seen": "2026-01-04T12:23:12.793093+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.03116,
+    "last_seen": "2026-01-04T12:23:12.793093+00:00"
   }
 }

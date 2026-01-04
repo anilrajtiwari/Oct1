@@ -1,26 +1,26 @@
 {
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 4.95e-05,
-    "last_seen": "2026-01-04T14:12:06.523131+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.0866,
-    "last_seen": "2026-01-04T14:12:06.523131+00:00"
-  },
-  "PNUT/USDT": {
+  "KOMA/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.08914,
-    "last_seen": "2026-01-04T14:12:06.523131+00:00"
+    "exchange": "gateio",
+    "price": 0.0121,
+    "last_seen": "2026-01-04T15:12:31.629908+00:00"
+  },
+  "OM/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0791,
+    "last_seen": "2026-01-04T15:12:31.629908+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.03176,
+    "last_seen": "2026-01-04T15:12:31.629908+00:00"
   }
 }

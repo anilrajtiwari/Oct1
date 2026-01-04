@@ -1,26 +1,42 @@
 {
-  "KOMA/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.01237,
-    "last_seen": "2026-01-04T18:18:00.885522+00:00"
-  },
-  "SPX/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.6612,
-    "last_seen": "2026-01-04T18:18:00.885522+00:00"
+    "exchange": "gateio",
+    "price": 6.801e-06,
+    "last_seen": "2026-01-04T19:10:24.726614+00:00"
   },
-  "MEW/USDT": {
+  "WIF/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.3935,
+    "last_seen": "2026-01-04T19:10:24.726614+00:00"
+  },
+  "ORDI/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.001132,
-    "last_seen": "2026-01-04T18:18:00.885522+00:00"
+    "price": 4.748,
+    "last_seen": "2026-01-04T19:10:24.726614+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01147,
+    "last_seen": "2026-01-04T19:10:24.726614+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.365,
+    "last_seen": "2026-01-04T19:10:24.726614+00:00"
   }
 }

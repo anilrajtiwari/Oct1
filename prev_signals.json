@@ -1,34 +1,10 @@
 {
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.03022,
-    "last_seen": "2026-01-04T07:15:54.819516+00:00"
-  },
-  "DOGE/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.15119,
-    "last_seen": "2026-01-04T07:15:54.819516+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0007076,
-    "last_seen": "2026-01-04T07:15:54.819516+00:00"
-  },
   "FARTCOIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.3487,
-    "last_seen": "2026-01-04T07:15:54.819516+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.3467,
+    "last_seen": "2026-01-04T08:17:24.968930+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 4.53e-05,
-    "last_seen": "2026-01-04T03:44:18.122344+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.08289,
-    "last_seen": "2026-01-04T03:44:18.122344+00:00"
+    "price": 0.3556,
+    "last_seen": "2026-01-04T04:42:40.448707+00:00"
   }
 }

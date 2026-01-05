@@ -1,10 +1,10 @@
 {
-  "KOMA/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0118,
-    "last_seen": "2026-01-05T05:30:51.095348+00:00"
+    "price": 0.02414,
+    "last_seen": "2026-01-05T06:26:27.039077+00:00"
   }
 }

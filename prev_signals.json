@@ -1,10 +1,1 @@
-{
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 4.921e-05,
-    "last_seen": "2026-01-05T22:13:58.406371+00:00"
-  }
-}
+{}

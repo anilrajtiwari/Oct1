@@ -1,18 +1,1 @@
-{
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.3883,
-    "last_seen": "2026-01-05T07:22:40.181256+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.08655,
-    "last_seen": "2026-01-05T07:22:40.181256+00:00"
-  }
-}
+{}

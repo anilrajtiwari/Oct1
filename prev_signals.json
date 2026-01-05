@@ -1,10 +1,18 @@
 {
-  "BAN/USDT": {
+  "1000RATS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.07817,
-    "last_seen": "2026-01-05T11:13:31.546102+00:00"
+    "price": 0.04294,
+    "last_seen": "2026-01-05T12:26:48.261462+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01982,
+    "last_seen": "2026-01-05T12:26:48.261462+00:00"
   }
 }

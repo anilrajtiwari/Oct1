@@ -1,18 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
+  "1000CAT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.34009,
-    "last_seen": "2026-01-05T17:16:56.785549+00:00"
-  },
-  "HIPPO/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.00127,
-    "last_seen": "2026-01-05T17:16:56.785549+00:00"
+    "price": 0.003232,
+    "last_seen": "2026-01-05T18:20:59.741394+00:00"
   }
 }

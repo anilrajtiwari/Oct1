@@ -1,18 +1,10 @@
 {
-  "CHILLGUY/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.02395,
-    "last_seen": "2026-01-05T10:17:11.223686+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.012291,
-    "last_seen": "2026-01-05T10:17:11.223686+00:00"
+    "price": 0.07817,
+    "last_seen": "2026-01-05T11:13:31.546102+00:00"
   }
 }

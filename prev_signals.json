@@ -1,10 +1,1 @@
-{
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.04422,
-    "last_seen": "2026-01-06T04:00:44.592082+00:00"
-  }
-}
+{}

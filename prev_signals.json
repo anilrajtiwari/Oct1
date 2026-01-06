@@ -1,1 +1,18 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 6.618e-06,
+    "last_seen": "2026-01-06T21:13:48.602494+00:00"
+  },
+  "WIF/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.4301,
+    "last_seen": "2026-01-06T21:13:48.602494+00:00"
+  }
+}

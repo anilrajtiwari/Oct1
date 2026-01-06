@@ -1,1 +1,18 @@
-{}
+{
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0434,
+    "last_seen": "2026-01-06T01:00:06.185382+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.4254,
+    "last_seen": "2026-01-06T01:00:06.185382+00:00"
+  }
+}

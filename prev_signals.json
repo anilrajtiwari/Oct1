@@ -1,10 +1,10 @@
 {
-  "OM/USDT": {
-    "direction": "LONG",
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "bitget",
-    "price": 0.08234,
-    "last_seen": "2026-01-06T07:20:31.626837+00:00"
+    "price": 0.02074,
+    "last_seen": "2026-01-06T08:20:09.659771+00:00"
   }
 }

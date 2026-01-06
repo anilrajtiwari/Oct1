@@ -1,1 +1,10 @@
-{}
+{
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.08241,
+    "last_seen": "2026-01-06T10:15:25.321298+00:00"
+  }
+}

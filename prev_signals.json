@@ -1,10 +1,10 @@
 {
-  "CHILLGUY/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.02697,
-    "last_seen": "2026-01-06T13:32:53.743669+00:00"
+    "exchange": "bitget",
+    "price": 5.976e-05,
+    "last_seen": "2026-01-06T14:15:54.957790+00:00"
   }
 }

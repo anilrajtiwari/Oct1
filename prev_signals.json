@@ -1,18 +1,18 @@
 {
-  "PEPE/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 6.618e-06,
-    "last_seen": "2026-01-06T21:13:48.602494+00:00"
+    "price": 9.101e-06,
+    "last_seen": "2026-01-06T22:13:46.783255+00:00"
   },
-  "WIF/USDT": {
-    "direction": "LONG",
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.4301,
-    "last_seen": "2026-01-06T21:13:48.602494+00:00"
+    "exchange": "bitget",
+    "price": 0.02061,
+    "last_seen": "2026-01-06T22:13:46.783255+00:00"
   }
 }

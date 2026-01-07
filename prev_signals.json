@@ -1,10 +1,18 @@
 {
-  "POPCAT/USDT": {
-    "direction": "LONG",
+  "1000RATS/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.1055,
-    "last_seen": "2026-01-07T09:21:19.987867+00:00"
+    "exchange": "mexc",
+    "price": 0.04855,
+    "last_seen": "2026-01-07T10:16:05.640129+00:00"
+  },
+  "PONKE/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05779,
+    "last_seen": "2026-01-07T10:16:05.640129+00:00"
   }
 }

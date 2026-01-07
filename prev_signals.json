@@ -1,18 +1,10 @@
 {
-  "OM/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.08168,
-    "last_seen": "2026-01-07T05:19:43.911716+00:00"
-  },
   "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.012798,
-    "last_seen": "2026-01-07T05:19:43.911716+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.013014,
+    "last_seen": "2026-01-07T06:21:58.208706+00:00"
   }
 }

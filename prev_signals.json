@@ -1,10 +1,18 @@
 {
-  "CHILLGUY/USDT": {
+  "OM/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0255,
-    "last_seen": "2026-01-07T04:02:08.990199+00:00"
+    "exchange": "okx",
+    "price": 0.08168,
+    "last_seen": "2026-01-07T05:19:43.911716+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.012798,
+    "last_seen": "2026-01-07T05:19:43.911716+00:00"
   }
 }

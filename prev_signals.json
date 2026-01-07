@@ -1,10 +1,26 @@
 {
-  "PENGU/USDT": {
+  "PONKE/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05694,
+    "last_seen": "2026-01-07T07:19:53.343694+00:00"
+  },
+  "SPX/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.013014,
-    "last_seen": "2026-01-07T06:21:58.208706+00:00"
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.6137,
+    "last_seen": "2026-01-07T07:19:53.343694+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001194,
+    "last_seen": "2026-01-07T07:19:53.343694+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "PONKE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.058,
-    "last_seen": "2026-01-07T11:14:03.057681+00:00"
-  },
-  "AIXBT/USDT": {
+  "1000CAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.04074,
-    "last_seen": "2026-01-07T11:14:03.057681+00:00"
+    "exchange": "bitget",
+    "price": 0.003147,
+    "last_seen": "2026-01-07T12:27:08.600752+00:00"
   }
 }

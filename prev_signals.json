@@ -1,18 +1,18 @@
 {
-  "OM/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.07791,
-    "last_seen": "2026-01-08T22:14:26.042988+00:00"
-  },
-  "PNUT/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.08686,
-    "last_seen": "2026-01-08T22:14:26.042988+00:00"
+    "price": 0.02373,
+    "last_seen": "2026-01-08T23:12:48.697496+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02566,
+    "last_seen": "2026-01-08T23:12:48.697496+00:00"
   }
 }

@@ -1,1 +1,10 @@
-{}
+{
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.29136,
+    "last_seen": "2026-01-08T04:01:04.288758+00:00"
+  }
+}

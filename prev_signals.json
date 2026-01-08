@@ -1,18 +1,26 @@
 {
-  "1000BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.010931,
-    "last_seen": "2026-01-08T09:21:22.718469+00:00"
-  },
   "DEGEN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.001358,
+    "last_seen": "2026-01-08T10:16:43.520331+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.001371,
-    "last_seen": "2026-01-08T09:21:22.718469+00:00"
+    "exchange": "gateio",
+    "price": 0.286319,
+    "last_seen": "2026-01-08T10:16:43.520331+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.01729,
+    "last_seen": "2026-01-08T10:16:43.520331+00:00"
   }
 }

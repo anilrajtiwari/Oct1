@@ -2,33 +2,9 @@
   "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 1.095e-05,
-    "last_seen": "2026-01-08T15:17:32.352241+00:00"
-  },
-  "1000RATS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.05488,
-    "last_seen": "2026-01-08T15:17:32.352241+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.5825,
-    "last_seen": "2026-01-08T15:17:32.352241+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0307,
-    "last_seen": "2026-01-08T15:17:32.352241+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 1.0984e-05,
+    "last_seen": "2026-01-08T16:18:57.978502+00:00"
   }
 }

@@ -1,18 +1,42 @@
 {
-  "SHIB/USDT": {
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.36568,
+    "last_seen": "2026-01-08T21:14:12.784885+00:00"
+  },
+  "BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 1.084e-05,
+    "last_seen": "2026-01-08T21:14:12.784885+00:00"
+  },
+  "1000BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 8.625e-06,
-    "last_seen": "2026-01-08T20:15:23.822584+00:00"
+    "price": 0.010847,
+    "last_seen": "2026-01-08T21:14:12.784885+00:00"
   },
-  "PIPPIN/USDT": {
+  "HIPPO/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001211,
+    "last_seen": "2026-01-08T21:14:12.784885+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.36375,
-    "last_seen": "2026-01-08T20:15:23.822584+00:00"
+    "price": 0.01966,
+    "last_seen": "2026-01-08T21:14:12.784885+00:00"
   }
 }

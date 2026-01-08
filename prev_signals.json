@@ -2,9 +2,9 @@
   "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 1.0984e-05,
-    "last_seen": "2026-01-08T16:18:57.978502+00:00"
+    "count": 3,
+    "exchange": "gateio",
+    "price": 1.0969e-05,
+    "last_seen": "2026-01-08T17:21:19.019505+00:00"
   }
 }

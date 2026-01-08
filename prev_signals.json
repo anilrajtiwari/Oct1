@@ -1,10 +1,10 @@
 {
-  "OM/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.07947,
-    "last_seen": "2026-01-08T06:21:41.234260+00:00"
+    "price": 0.01039,
+    "last_seen": "2026-01-08T07:19:11.088562+00:00"
   }
 }

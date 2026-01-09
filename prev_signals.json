@@ -1,1 +1,10 @@
-{}
+{
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.03111,
+    "last_seen": "2026-01-09T22:14:36.465794+00:00"
+  }
+}

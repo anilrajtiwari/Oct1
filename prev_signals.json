@@ -1,18 +1,1 @@
-{
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 6.288e-06,
-    "last_seen": "2026-01-09T16:17:07.758880+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.03807,
-    "last_seen": "2026-01-09T16:17:07.758880+00:00"
-  }
-}
+{}

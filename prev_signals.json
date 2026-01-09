@@ -1,18 +1,26 @@
 {
-  "BOME/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0007128,
-    "last_seen": "2026-01-09T11:13:39.731513+00:00"
+    "price": 0.02306,
+    "last_seen": "2026-01-09T12:25:56.215542+00:00"
   },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
+  "BRETT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.01985,
-    "last_seen": "2026-01-09T11:13:39.731513+00:00"
+    "exchange": "gateio",
+    "price": 0.01752,
+    "last_seen": "2026-01-09T12:25:56.215542+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001012,
+    "last_seen": "2026-01-09T12:25:56.215542+00:00"
   }
 }

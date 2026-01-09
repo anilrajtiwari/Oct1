@@ -1,1 +1,18 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.07282,
+    "last_seen": "2026-01-09T18:20:15.089975+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03103,
+    "last_seen": "2026-01-09T18:20:15.089975+00:00"
+  }
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0007017,
+    "last_seen": "2026-01-09T15:15:10.572467+00:00"
+  }
+}

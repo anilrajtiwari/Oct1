@@ -1,10 +1,10 @@
 {
-  "VINE/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.03111,
-    "last_seen": "2026-01-09T22:14:36.465794+00:00"
+    "exchange": "mexc",
+    "price": 4.553,
+    "last_seen": "2026-01-09T23:13:30.056209+00:00"
   }
 }

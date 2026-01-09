@@ -1,1 +1,18 @@
-{}
+{
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 4.62e-05,
+    "last_seen": "2026-01-09T04:03:13.429154+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001038,
+    "last_seen": "2026-01-09T04:03:13.429154+00:00"
+  }
+}

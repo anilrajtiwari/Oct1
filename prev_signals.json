@@ -1,10 +1,18 @@
 {
-  "BONK/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 1.0664e-05,
-    "last_seen": "2026-01-10T11:11:44.601547+00:00"
+    "price": 0.001168,
+    "last_seen": "2026-01-10T12:23:05.352386+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001213,
+    "last_seen": "2026-01-10T12:23:05.352386+00:00"
   }
 }

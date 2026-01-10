@@ -1,26 +1,18 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.001151,
-    "last_seen": "2026-01-10T02:50:32.974573+00:00"
-  },
-  "ORDI/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 4.472,
-    "last_seen": "2026-01-10T02:50:32.974573+00:00"
+    "price": 0.3806,
+    "last_seen": "2026-01-10T03:54:06.927745+00:00"
   },
-  "PEOPLE/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01038,
-    "last_seen": "2026-01-10T02:50:32.974573+00:00"
+    "price": 0.07239,
+    "last_seen": "2026-01-10T03:54:06.927745+00:00"
   }
 }

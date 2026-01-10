@@ -1,18 +1,50 @@
 {
-  "WIF/USDT": {
+  "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.3825,
-    "last_seen": "2026-01-10T15:12:46.923373+00:00"
+    "price": 0.1397,
+    "last_seen": "2026-01-10T16:14:41.051104+00:00"
   },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0006975,
+    "last_seen": "2026-01-10T16:14:41.051104+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
     "confidence": 1.0,
     "count": 1,
+    "exchange": "mexc",
+    "price": 0.01037,
+    "last_seen": "2026-01-10T16:14:41.051104+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.08413,
+    "last_seen": "2026-01-10T16:14:41.051104+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.08103,
+    "last_seen": "2026-01-10T16:14:41.051104+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "gateio",
-    "price": 5.217e-05,
-    "last_seen": "2026-01-10T15:12:46.923373+00:00"
+    "price": 0.01996,
+    "last_seen": "2026-01-10T16:14:41.051104+00:00"
   }
 }

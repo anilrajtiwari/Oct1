@@ -1,10 +1,26 @@
 {
-  "BONK/USDT": {
-    "direction": "LONG",
+  "SHIB/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 1.0446e-05,
-    "last_seen": "2026-01-10T07:13:42.905249+00:00"
+    "price": 8.638e-06,
+    "last_seen": "2026-01-10T08:16:53.754177+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 5.161e-05,
+    "last_seen": "2026-01-10T08:16:53.754177+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3708,
+    "last_seen": "2026-01-10T08:16:53.754177+00:00"
   }
 }

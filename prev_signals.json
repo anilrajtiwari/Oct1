@@ -2,17 +2,9 @@
   "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.001168,
-    "last_seen": "2026-01-10T12:23:05.352386+00:00"
-  },
-  "HIPPO/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.001213,
-    "last_seen": "2026-01-10T12:23:05.352386+00:00"
+    "price": 0.00117,
+    "last_seen": "2026-01-10T13:25:11.963962+00:00"
   }
 }

@@ -1,1 +1,50 @@
-{}
+{
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 4.519e-05,
+    "last_seen": "2026-01-10T18:18:39.587466+00:00"
+  },
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0788,
+    "last_seen": "2026-01-10T18:18:39.587466+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0006968,
+    "last_seen": "2026-01-10T18:18:39.587466+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01036,
+    "last_seen": "2026-01-10T18:18:39.587466+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.08425,
+    "last_seen": "2026-01-10T18:18:39.587466+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.08101,
+    "last_seen": "2026-01-10T18:18:39.587466+00:00"
+  }
+}

@@ -1,26 +1,10 @@
 {
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0006921,
-    "last_seen": "2026-01-10T06:19:16.134526+00:00"
-  },
-  "BRETT/USDT": {
+  "BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01754,
-    "last_seen": "2026-01-10T06:19:16.134526+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.000997,
-    "last_seen": "2026-01-10T06:19:16.134526+00:00"
+    "price": 1.0446e-05,
+    "last_seen": "2026-01-10T07:13:42.905249+00:00"
   }
 }

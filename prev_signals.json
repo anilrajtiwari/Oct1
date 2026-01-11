@@ -1,1 +1,10 @@
-{}
+{
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01029,
+    "last_seen": "2026-01-11T05:19:26.244902+00:00"
+  }
+}

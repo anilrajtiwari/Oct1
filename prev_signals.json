@@ -1,18 +1,1 @@
-{
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0006947,
-    "last_seen": "2026-01-10T23:13:08.037986+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01027,
-    "last_seen": "2026-01-10T23:13:08.037986+00:00"
-  }
-}
+{}

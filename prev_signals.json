@@ -1,10 +1,18 @@
 {
   "PEOPLE/USDT": {
-    "direction": "SHORT",
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01029,
-    "last_seen": "2026-01-11T05:19:26.244902+00:00"
+    "exchange": "okx",
+    "price": 0.010234,
+    "last_seen": "2026-01-11T06:20:14.284736+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 4.541e-05,
+    "last_seen": "2026-01-11T06:20:14.284736+00:00"
   }
 }

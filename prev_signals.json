@@ -2,17 +2,17 @@
   "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0011325,
-    "last_seen": "2026-01-11T21:12:05.328165+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.001121,
+    "last_seen": "2026-01-11T22:12:58.178003+00:00"
   },
-  "ACT/USDT": {
-    "direction": "LONG",
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.02466,
-    "last_seen": "2026-01-11T21:12:05.328165+00:00"
+    "exchange": "mexc",
+    "price": 0.32673,
+    "last_seen": "2026-01-11T22:12:58.178003+00:00"
   }
 }

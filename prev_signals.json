@@ -1,18 +1,1 @@
-{
-  "BRETT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01775,
-    "last_seen": "2026-01-11T03:43:23.221686+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.00313,
-    "last_seen": "2026-01-11T03:43:23.221686+00:00"
-  }
-}
+{}

@@ -1,1 +1,10 @@
-{}
+{
+  "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.001214,
+    "last_seen": "2026-01-13T12:27:35.783898+00:00"
+  }
+}

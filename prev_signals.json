@@ -1,1 +1,10 @@
-{}
+{
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01875,
+    "last_seen": "2026-01-14T01:02:22.012022+00:00"
+  }
+}

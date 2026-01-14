@@ -2,9 +2,41 @@
   "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.08849,
-    "last_seen": "2026-01-14T22:14:29.110786+00:00"
+    "count": 3,
+    "exchange": "mexc",
+    "price": 0.08822,
+    "last_seen": "2026-01-14T23:12:44.350497+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 5.032,
+    "last_seen": "2026-01-14T23:12:44.350497+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.32002,
+    "last_seen": "2026-01-14T23:12:44.350497+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0007057,
+    "last_seen": "2026-01-14T23:12:44.350497+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.001064,
+    "last_seen": "2026-01-14T23:12:44.350497+00:00"
   }
 }

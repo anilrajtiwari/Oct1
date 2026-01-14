@@ -1,10 +1,10 @@
 {
-  "PEPE/USDT": {
+  "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 6.264e-06,
-    "last_seen": "2026-01-14T20:13:47.485302+00:00"
+    "price": 0.08853,
+    "last_seen": "2026-01-14T21:14:03.945892+00:00"
   }
 }

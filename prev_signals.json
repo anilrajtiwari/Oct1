@@ -2,9 +2,9 @@
   "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.08853,
-    "last_seen": "2026-01-14T21:14:03.945892+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.08849,
+    "last_seen": "2026-01-14T22:14:29.110786+00:00"
   }
 }

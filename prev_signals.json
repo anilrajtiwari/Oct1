@@ -1,26 +1,10 @@
 {
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.08897,
-    "last_seen": "2026-01-14T11:15:01.931974+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.03776,
-    "last_seen": "2026-01-14T11:15:01.931974+00:00"
-  },
-  "WIF/USDT": {
+  "DOGS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.419,
-    "last_seen": "2026-01-14T11:15:01.931974+00:00"
+    "price": 4.9e-05,
+    "last_seen": "2026-01-14T12:26:29.891775+00:00"
   }
 }

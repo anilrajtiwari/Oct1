@@ -2,9 +2,25 @@
   "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.318639,
+    "last_seen": "2026-01-15T22:14:59.124899+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 4.44e-05,
+    "last_seen": "2026-01-15T22:14:59.124899+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.318136,
-    "last_seen": "2026-01-15T21:14:48.345266+00:00"
+    "price": 0.001117,
+    "last_seen": "2026-01-15T22:14:59.124899+00:00"
   }
 }

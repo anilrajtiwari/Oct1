@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.08239,
-    "last_seen": "2026-01-15T02:57:07.192607+00:00"
-  },
   "HIPPO/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
+    "confidence": 0.75,
+    "count": 2,
     "exchange": "bitget",
-    "price": 0.001198,
-    "last_seen": "2026-01-15T02:57:07.192607+00:00"
+    "price": 0.001154,
+    "last_seen": "2026-01-15T04:02:34.384246+00:00"
   }
 }

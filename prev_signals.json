@@ -1,10 +1,26 @@
 {
   "PEPE/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 3,
-    "exchange": "mexc",
-    "price": 6.081e-06,
-    "last_seen": "2026-01-15T07:19:55.264620+00:00"
+    "confidence": 0.75,
+    "count": 4,
+    "exchange": "okx",
+    "price": 6.072e-06,
+    "last_seen": "2026-01-15T08:19:51.390647+00:00"
+  },
+  "DOGE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.143892,
+    "last_seen": "2026-01-15T08:19:51.390647+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.02244,
+    "last_seen": "2026-01-15T08:19:51.390647+00:00"
   }
 }

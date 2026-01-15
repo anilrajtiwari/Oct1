@@ -1,10 +1,18 @@
 {
-  "PEPE/USDT": {
+  "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 6.23e-06,
-    "last_seen": "2026-01-15T00:58:36.585644+00:00"
+    "exchange": "gateio",
+    "price": 0.08239,
+    "last_seen": "2026-01-15T02:57:07.192607+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001198,
+    "last_seen": "2026-01-15T02:57:07.192607+00:00"
   }
 }

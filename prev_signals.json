@@ -1,18 +1,1 @@
-{
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.012606,
-    "last_seen": "2026-01-15T09:20:47.322647+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.03609,
-    "last_seen": "2026-01-15T09:20:47.322647+00:00"
-  }
-}
+{}

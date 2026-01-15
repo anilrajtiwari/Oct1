@@ -1,26 +1,10 @@
 {
   "PEPE/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
+    "confidence": 1.0,
+    "count": 3,
     "exchange": "mexc",
-    "price": 6.087e-06,
-    "last_seen": "2026-01-15T06:21:35.617837+00:00"
-  },
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 4.654e-05,
-    "last_seen": "2026-01-15T06:21:35.617837+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02537,
-    "last_seen": "2026-01-15T06:21:35.617837+00:00"
+    "price": 6.081e-06,
+    "last_seen": "2026-01-15T07:19:55.264620+00:00"
   }
 }

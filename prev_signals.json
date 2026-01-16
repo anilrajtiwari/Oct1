@@ -1,18 +1,10 @@
 {
-  "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.3863,
-    "last_seen": "2026-01-16T21:13:47.982285+00:00"
-  },
   "FARTCOIN/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.3763,
-    "last_seen": "2026-01-16T21:13:47.982285+00:00"
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.3784,
+    "last_seen": "2026-01-16T22:13:45.659389+00:00"
   }
 }

@@ -1,50 +1,50 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.31677,
-    "last_seen": "2026-01-16T07:19:21.356325+00:00"
-  },
   "OM/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.07479,
-    "last_seen": "2026-01-16T07:19:21.356325+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.07496,
+    "last_seen": "2026-01-16T08:19:21.223106+00:00"
   },
   "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
     "price": 0.01056,
-    "last_seen": "2026-01-16T07:19:21.356325+00:00"
+    "last_seen": "2026-01-16T08:19:21.223106+00:00"
   },
   "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.012149,
-    "last_seen": "2026-01-16T07:19:21.356325+00:00"
+    "price": 0.012202,
+    "last_seen": "2026-01-16T08:19:21.223106+00:00"
   },
   "HIPPO/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.001136,
-    "last_seen": "2026-01-16T07:19:21.356325+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.001147,
+    "last_seen": "2026-01-16T08:19:21.223106+00:00"
   },
   "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 0.0009886,
-    "last_seen": "2026-01-16T07:19:21.356325+00:00"
+    "price": 0.0009898,
+    "last_seen": "2026-01-16T08:19:21.223106+00:00"
+  },
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 5.9554e-06,
+    "last_seen": "2026-01-16T08:19:21.223106+00:00"
   }
 }

@@ -1,18 +1,26 @@
 {
-  "HIPPO/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.001121,
-    "last_seen": "2026-01-15T23:13:42.402108+00:00"
-  },
-  "MEW/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.000986,
-    "last_seen": "2026-01-15T23:13:42.402108+00:00"
+    "exchange": "mexc",
+    "price": 5.904e-06,
+    "last_seen": "2026-01-16T01:01:08.468668+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.03403,
+    "last_seen": "2026-01-16T01:01:08.468668+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0939,
+    "last_seen": "2026-01-16T01:01:08.468668+00:00"
   }
 }

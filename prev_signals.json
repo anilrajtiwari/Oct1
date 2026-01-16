@@ -1,1 +1,10 @@
-{}
+{
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.30138,
+    "last_seen": "2026-01-16T16:18:20.800108+00:00"
+  }
+}

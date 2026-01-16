@@ -1,26 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "huobi",
-    "price": 0.31569,
-    "last_seen": "2026-01-16T04:04:01.968397+00:00"
-  },
   "HIPPO/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.00113,
-    "last_seen": "2026-01-16T04:04:01.968397+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 4.961e-05,
-    "last_seen": "2026-01-16T04:04:01.968397+00:00"
+    "count": 3,
+    "exchange": "gateio",
+    "price": 0.001124,
+    "last_seen": "2026-01-16T05:19:32.623146+00:00"
   }
 }

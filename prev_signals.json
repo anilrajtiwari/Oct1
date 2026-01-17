@@ -1,10 +1,26 @@
 {
   "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.001128,
+    "last_seen": "2026-01-17T13:24:53.064689+00:00"
+  },
+  "BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "gateio",
-    "price": 0.001114,
-    "last_seen": "2026-01-17T12:22:57.772345+00:00"
+    "price": 1.0476e-05,
+    "last_seen": "2026-01-17T13:24:53.064689+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05047,
+    "last_seen": "2026-01-17T13:24:53.064689+00:00"
   }
 }

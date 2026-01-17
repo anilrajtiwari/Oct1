@@ -1,18 +1,10 @@
 {
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0006719,
-    "last_seen": "2026-01-17T11:11:37.393832+00:00"
-  },
   "HIPPO/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
+    "confidence": 0.75,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.001117,
-    "last_seen": "2026-01-17T11:11:37.393832+00:00"
+    "price": 0.001114,
+    "last_seen": "2026-01-17T12:22:57.772345+00:00"
   }
 }

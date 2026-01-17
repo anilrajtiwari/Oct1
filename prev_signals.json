@@ -1,1 +1,10 @@
-{}
+{
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.3876,
+    "last_seen": "2026-01-17T09:13:22.351507+00:00"
+  }
+}

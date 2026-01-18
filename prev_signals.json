@@ -1,18 +1,1 @@
-{
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.02134,
-    "last_seen": "2026-01-18T08:17:10.958796+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01625,
-    "last_seen": "2026-01-18T08:17:10.958796+00:00"
-  }
-}
+{}

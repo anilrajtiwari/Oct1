@@ -1,18 +1,34 @@
 {
-  "AIXBT/USDT": {
-    "direction": "SHORT",
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.03341,
-    "last_seen": "2026-01-18T06:19:55.521684+00:00"
+    "exchange": "bitget",
+    "price": 0.02124,
+    "last_seen": "2026-01-18T07:14:43.022079+00:00"
   },
-  "MUBARAK/USDT": {
+  "SPX/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.5457,
+    "last_seen": "2026-01-18T07:14:43.022079+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.08222,
+    "last_seen": "2026-01-18T07:14:43.022079+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0213,
-    "last_seen": "2026-01-18T06:19:55.521684+00:00"
+    "price": 0.001083,
+    "last_seen": "2026-01-18T07:14:43.022079+00:00"
   }
 }

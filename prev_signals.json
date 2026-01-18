@@ -1,1 +1,18 @@
-{}
+{
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.07539,
+    "last_seen": "2026-01-18T05:18:03.848140+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3459,
+    "last_seen": "2026-01-18T05:18:03.848140+00:00"
+  }
+}

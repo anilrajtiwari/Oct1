@@ -1,34 +1,18 @@
 {
   "CHILLGUY/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.02124,
-    "last_seen": "2026-01-18T07:14:43.022079+00:00"
+    "exchange": "gateio",
+    "price": 0.02134,
+    "last_seen": "2026-01-18T08:17:10.958796+00:00"
   },
-  "SPX/USDT": {
-    "direction": "LONG",
+  "BRETT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.5457,
-    "last_seen": "2026-01-18T07:14:43.022079+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.08222,
-    "last_seen": "2026-01-18T07:14:43.022079+00:00"
-  },
-  "HIPPO/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.001083,
-    "last_seen": "2026-01-18T07:14:43.022079+00:00"
+    "exchange": "gateio",
+    "price": 0.01625,
+    "last_seen": "2026-01-18T08:17:10.958796+00:00"
   }
 }

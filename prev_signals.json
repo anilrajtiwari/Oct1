@@ -2,9 +2,25 @@
   "ACT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.02534,
+    "last_seen": "2026-01-18T17:11:31.305252+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.02552,
-    "last_seen": "2026-01-18T16:15:05.631150+00:00"
+    "price": 0.329671,
+    "last_seen": "2026-01-18T17:11:31.305252+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.010207,
+    "last_seen": "2026-01-18T17:11:31.305252+00:00"
   }
 }

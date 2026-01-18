@@ -1,18 +1,10 @@
 {
-  "WIF/USDT": {
+  "ACT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.3725,
-    "last_seen": "2026-01-18T15:12:34.430705+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.010269,
-    "last_seen": "2026-01-18T15:12:34.430705+00:00"
+    "exchange": "gateio",
+    "price": 0.02552,
+    "last_seen": "2026-01-18T16:15:05.631150+00:00"
   }
 }

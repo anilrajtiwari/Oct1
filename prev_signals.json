@@ -1,26 +1,10 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.02156,
-    "last_seen": "2026-01-18T12:23:05.319158+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "SHORT",
+  "BOME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.07586,
-    "last_seen": "2026-01-18T12:23:05.319158+00:00"
-  },
-  "OM/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.07645,
-    "last_seen": "2026-01-18T12:23:05.319158+00:00"
+    "exchange": "huobi",
+    "price": 0.000649,
+    "last_seen": "2026-01-18T13:24:33.627103+00:00"
   }
 }

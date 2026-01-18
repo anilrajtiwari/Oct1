@@ -1,26 +1,10 @@
 {
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "mexc",
-    "price": 0.5548,
-    "last_seen": "2026-01-18T01:05:05.933911+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "LONG",
+  "BAN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 5.089,
-    "last_seen": "2026-01-18T01:05:05.933911+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0006589,
-    "last_seen": "2026-01-18T01:05:05.933911+00:00"
+    "exchange": "gateio",
+    "price": 0.07364,
+    "last_seen": "2026-01-18T03:30:04.380748+00:00"
   }
 }

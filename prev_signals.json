@@ -1,18 +1,18 @@
 {
-  "DEGEN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.001152,
-    "last_seen": "2026-01-19T05:25:35.751651+00:00"
-  },
   "PEOPLE/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.009459,
-    "last_seen": "2026-01-19T05:25:35.751651+00:00"
+    "price": 0.009485,
+    "last_seen": "2026-01-19T06:26:27.554265+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.010235,
+    "last_seen": "2026-01-19T06:26:27.554265+00:00"
   }
 }

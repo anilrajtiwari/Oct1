@@ -1,42 +1,18 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 4,
-    "exchange": "mexc",
-    "price": 5.256e-06,
-    "last_seen": "2026-01-19T19:14:37.946720+00:00"
-  },
   "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 4,
-    "exchange": "mexc",
-    "price": 0.01051,
-    "last_seen": "2026-01-19T19:14:37.946720+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 3,
+    "count": 5,
     "exchange": "gateio",
-    "price": 0.07104,
-    "last_seen": "2026-01-19T19:14:37.946720+00:00"
+    "price": 0.010497,
+    "last_seen": "2026-01-19T20:15:22.046409+00:00"
   },
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 9.395e-06,
-    "last_seen": "2026-01-19T19:14:37.946720+00:00"
-  },
-  "1000BONK/USDT": {
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.009412,
-    "last_seen": "2026-01-19T19:14:37.946720+00:00"
+    "price": 0.000981,
+    "last_seen": "2026-01-19T20:15:22.046409+00:00"
   }
 }

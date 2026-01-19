@@ -1,10 +1,18 @@
 {
-  "BAN/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.08368,
-    "last_seen": "2026-01-19T14:20:15.206719+00:00"
+    "exchange": "mexc",
+    "price": 7.893e-06,
+    "last_seen": "2026-01-19T15:18:42.184174+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 4.438e-05,
+    "last_seen": "2026-01-19T15:18:42.184174+00:00"
   }
 }

@@ -1,10 +1,42 @@
 {
-  "BONK/USDT": {
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 7.773e-06,
+    "last_seen": "2026-01-20T22:15:07.218081+00:00"
+  },
+  "OM/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0655,
+    "last_seen": "2026-01-20T22:15:07.218081+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0168,
+    "last_seen": "2026-01-20T22:15:07.218081+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.009656,
+    "last_seen": "2026-01-20T22:15:07.218081+00:00"
+  },
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
     "count": 1,
-    "exchange": "gateio",
-    "price": 8.942e-06,
-    "last_seen": "2026-01-20T21:14:39.231822+00:00"
+    "exchange": "okx",
+    "price": 0.0008816,
+    "last_seen": "2026-01-20T22:15:07.218081+00:00"
   }
 }

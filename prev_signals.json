@@ -1,10 +1,10 @@
 {
-  "HIPPO/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.000959,
-    "last_seen": "2026-01-20T20:06:52.004068+00:00"
+    "exchange": "gateio",
+    "price": 8.942e-06,
+    "last_seen": "2026-01-20T21:14:39.231822+00:00"
   }
 }

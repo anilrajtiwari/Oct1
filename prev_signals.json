@@ -1,18 +1,10 @@
 {
-  "MEW/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 3,
-    "exchange": "mexc",
-    "price": 0.000911,
-    "last_seen": "2026-01-20T10:19:15.484785+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.06801,
-    "last_seen": "2026-01-20T10:19:15.484785+00:00"
+    "exchange": "gateio",
+    "price": 0.276555,
+    "last_seen": "2026-01-20T11:17:40.726751+00:00"
   }
 }

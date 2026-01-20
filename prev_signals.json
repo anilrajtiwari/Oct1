@@ -1,10 +1,10 @@
 {
-  "MEW/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0009349,
-    "last_seen": "2026-01-20T06:23:28.718727+00:00"
+    "exchange": "gateio",
+    "price": 0.4745,
+    "last_seen": "2026-01-20T07:22:06.159975+00:00"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "PEPE/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 5.075e-06,
-    "last_seen": "2026-01-20T16:23:55.320711+00:00"
+    "price": 0.4326,
+    "last_seen": "2026-01-20T17:22:42.807983+00:00"
   },
-  "1000BONK/USDT": {
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.00902,
-    "last_seen": "2026-01-20T16:23:55.320711+00:00"
+    "price": 0.000894,
+    "last_seen": "2026-01-20T17:22:42.807983+00:00"
   }
 }

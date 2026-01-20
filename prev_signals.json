@@ -1,18 +1,18 @@
 {
-  "WIF/USDT": {
-    "direction": "LONG",
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.3479,
-    "last_seen": "2026-01-20T04:08:49.347671+00:00"
+    "exchange": "bitget",
+    "price": 0.3038,
+    "last_seen": "2026-01-20T05:23:37.100464+00:00"
   },
-  "FLOKI/USDT": {
+  "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 4.489e-05,
-    "last_seen": "2026-01-20T04:08:49.347671+00:00"
+    "exchange": "okx",
+    "price": 0.01457,
+    "last_seen": "2026-01-20T05:23:37.100464+00:00"
   }
 }

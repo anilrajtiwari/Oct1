@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.07574,
-    "last_seen": "2026-01-21T21:22:00.514139+00:00"
-  },
   "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 5.2628e-06,
-    "last_seen": "2026-01-21T21:22:00.514139+00:00"
+    "price": 5.2427e-06,
+    "last_seen": "2026-01-21T22:16:57.734211+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "BONK/USDT": {
+  "PEOPLE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 9.032e-06,
-    "last_seen": "2026-01-21T09:25:19.067016+00:00"
+    "exchange": "huobi",
+    "price": 0.00949,
+    "last_seen": "2026-01-21T10:18:58.762112+00:00"
   }
 }

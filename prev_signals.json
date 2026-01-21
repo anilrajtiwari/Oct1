@@ -1,18 +1,18 @@
 {
-  "SPX/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.439,
-    "last_seen": "2026-01-21T01:02:00.261080+00:00"
+    "exchange": "huobi",
+    "price": 5.05e-06,
+    "last_seen": "2026-01-21T03:27:02.049170+00:00"
   },
-  "MUBARAK/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01988,
-    "last_seen": "2026-01-21T01:02:00.261080+00:00"
+    "price": 0.00895,
+    "last_seen": "2026-01-21T03:27:02.049170+00:00"
   }
 }

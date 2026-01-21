@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 5.05e-06,
-    "last_seen": "2026-01-21T03:27:02.049170+00:00"
-  },
-  "KOMA/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.00895,
-    "last_seen": "2026-01-21T03:27:02.049170+00:00"
+    "exchange": "bitget",
+    "price": 4.12e-05,
+    "last_seen": "2026-01-21T04:37:50.674402+00:00"
   }
 }

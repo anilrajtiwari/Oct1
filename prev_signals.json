@@ -1,10 +1,10 @@
 {
-  "FLOKI/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 4.355e-05,
-    "last_seen": "2026-01-22T18:20:09.021077+00:00"
+    "exchange": "okx",
+    "price": 0.01379,
+    "last_seen": "2026-01-22T19:19:15.386025+00:00"
   }
 }

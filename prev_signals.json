@@ -2,9 +2,9 @@
   "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.010114,
-    "last_seen": "2026-01-22T06:22:45.810350+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.010048,
+    "last_seen": "2026-01-22T07:21:25.892601+00:00"
   }
 }

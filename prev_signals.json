@@ -1,26 +1,18 @@
 {
-  "BAN/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.07557,
-    "last_seen": "2026-01-21T23:18:00.634374+00:00"
+    "exchange": "huobi",
+    "price": 9.292e-06,
+    "last_seen": "2026-01-22T01:01:25.322589+00:00"
   },
-  "OM/USDT": {
+  "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.06726,
-    "last_seen": "2026-01-21T23:18:00.634374+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.009619,
-    "last_seen": "2026-01-21T23:18:00.634374+00:00"
+    "price": 0.009243,
+    "last_seen": "2026-01-22T01:01:25.322589+00:00"
   }
 }

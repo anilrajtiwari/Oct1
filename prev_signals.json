@@ -1,18 +1,1 @@
-{
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 9.292e-06,
-    "last_seen": "2026-01-22T01:01:25.322589+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.009243,
-    "last_seen": "2026-01-22T01:01:25.322589+00:00"
-  }
-}
+{}

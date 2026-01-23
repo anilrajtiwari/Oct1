@@ -1,10 +1,1 @@
-{
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 7.939e-06,
-    "last_seen": "2026-01-23T16:19:11.832111+00:00"
-  }
-}
+{}

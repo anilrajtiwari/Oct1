@@ -1,18 +1,10 @@
 {
-  "WIF/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.3353,
-    "last_seen": "2026-01-23T01:01:41.552131+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.02314,
-    "last_seen": "2026-01-23T01:01:41.552131+00:00"
+    "exchange": "huobi",
+    "price": 4.9779e-06,
+    "last_seen": "2026-01-23T03:02:38.655064+00:00"
   }
 }

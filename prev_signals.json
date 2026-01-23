@@ -1,10 +1,26 @@
 {
-  "PEPE/USDT": {
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01655,
+    "last_seen": "2026-01-23T04:35:56.736115+00:00"
+  },
+  "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "huobi",
-    "price": 4.9779e-06,
-    "last_seen": "2026-01-23T03:02:38.655064+00:00"
+    "price": 0.010017,
+    "last_seen": "2026-01-23T04:35:56.736115+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02733,
+    "last_seen": "2026-01-23T04:35:56.736115+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "1000RATS/USDT": {
+  "PONKE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04461,
-    "last_seen": "2026-01-23T14:18:29.235429+00:00"
-  },
-  "OM/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.06593,
-    "last_seen": "2026-01-23T14:18:29.235429+00:00"
+    "price": 0.04341,
+    "last_seen": "2026-01-23T15:17:47.412236+00:00"
   }
 }

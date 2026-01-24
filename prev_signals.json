@@ -1,10 +1,18 @@
 {
-  "DEGEN/USDT": {
+  "BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "okx",
+    "price": 8.909e-06,
+    "last_seen": "2026-01-24T19:11:13.885088+00:00"
+  },
+  "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.001056,
-    "last_seen": "2026-01-24T18:18:59.655528+00:00"
+    "exchange": "gateio",
+    "price": 0.02724,
+    "last_seen": "2026-01-24T19:11:13.885088+00:00"
   }
 }

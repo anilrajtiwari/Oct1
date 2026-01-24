@@ -1,18 +1,26 @@
 {
-  "ORDI/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 3.969,
-    "last_seen": "2026-01-24T02:54:00.810704+00:00"
+    "exchange": "mexc",
+    "price": 5.065e-06,
+    "last_seen": "2026-01-24T03:57:08.106534+00:00"
   },
-  "MOODENG/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.06824,
-    "last_seen": "2026-01-24T02:54:00.810704+00:00"
+    "price": 0.00859,
+    "last_seen": "2026-01-24T03:57:08.106534+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01373,
+    "last_seen": "2026-01-24T03:57:08.106534+00:00"
   }
 }

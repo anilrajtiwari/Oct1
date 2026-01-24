@@ -1,18 +1,18 @@
 {
-  "WIF/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.3382,
-    "last_seen": "2026-01-24T11:11:46.884059+00:00"
+    "exchange": "okx",
+    "price": 0.0010743,
+    "last_seen": "2026-01-24T12:23:23.614869+00:00"
   },
-  "BAN/USDT": {
-    "direction": "LONG",
+  "ACT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.07373,
-    "last_seen": "2026-01-24T11:11:46.884059+00:00"
+    "exchange": "gateio",
+    "price": 0.02312,
+    "last_seen": "2026-01-24T12:23:23.614869+00:00"
   }
 }

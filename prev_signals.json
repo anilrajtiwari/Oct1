@@ -1,18 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "SHORT",
+  "1000BONK/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0010743,
-    "last_seen": "2026-01-24T12:23:23.614869+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.02312,
-    "last_seen": "2026-01-24T12:23:23.614869+00:00"
+    "exchange": "bitget",
+    "price": 0.00895,
+    "last_seen": "2026-01-24T13:26:40.812919+00:00"
   }
 }

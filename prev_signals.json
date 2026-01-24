@@ -1,18 +1,18 @@
 {
-  "BOME/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0005874,
-    "last_seen": "2026-01-24T00:59:10.899151+00:00"
+    "price": 3.969,
+    "last_seen": "2026-01-24T02:54:00.810704+00:00"
   },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
+  "MOODENG/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.299,
-    "last_seen": "2026-01-24T00:59:10.899151+00:00"
+    "exchange": "gateio",
+    "price": 0.06824,
+    "last_seen": "2026-01-24T02:54:00.810704+00:00"
   }
 }

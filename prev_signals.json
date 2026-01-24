@@ -1,10 +1,10 @@
 {
-  "KOMA/USDT": {
-    "direction": "SHORT",
+  "POPCAT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.00864,
-    "last_seen": "2026-01-24T07:14:49.394245+00:00"
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.0783,
+    "last_seen": "2026-01-24T08:17:09.530436+00:00"
   }
 }

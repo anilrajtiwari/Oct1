@@ -1,26 +1,10 @@
 {
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "huobi",
-    "price": 8.92e-06,
-    "last_seen": "2026-01-24T20:14:06.724662+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 4.301e-05,
-    "last_seen": "2026-01-24T20:14:06.724662+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
+  "ACT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.3919,
-    "last_seen": "2026-01-24T20:14:06.724662+00:00"
+    "price": 0.02295,
+    "last_seen": "2026-01-24T21:11:45.650191+00:00"
   }
 }

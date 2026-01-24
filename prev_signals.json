@@ -1,26 +1,18 @@
 {
-  "BONK/USDT": {
-    "direction": "LONG",
+  "WIF/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 8.973e-06,
-    "last_seen": "2026-01-24T10:13:45.444053+00:00"
+    "exchange": "huobi",
+    "price": 0.3382,
+    "last_seen": "2026-01-24T11:11:46.884059+00:00"
   },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01604,
-    "last_seen": "2026-01-24T10:13:45.444053+00:00"
-  },
-  "BRETT/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.01356,
-    "last_seen": "2026-01-24T10:13:45.444053+00:00"
+    "price": 0.07373,
+    "last_seen": "2026-01-24T11:11:46.884059+00:00"
   }
 }

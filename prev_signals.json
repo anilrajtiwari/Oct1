@@ -1,18 +1,18 @@
 {
   "BONK/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 8.775e-06,
-    "last_seen": "2026-01-25T10:13:56.074367+00:00"
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "okx",
+    "price": 8.786e-06,
+    "last_seen": "2026-01-25T11:11:39.305390+00:00"
   },
-  "1000BONK/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.008784,
-    "last_seen": "2026-01-25T10:13:56.074367+00:00"
+    "exchange": "huobi",
+    "price": 5.0363e-06,
+    "last_seen": "2026-01-25T11:11:39.305390+00:00"
   }
 }

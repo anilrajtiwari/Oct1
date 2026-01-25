@@ -1,26 +1,10 @@
 {
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.01282,
-    "last_seen": "2026-01-25T17:11:51.375508+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.0736,
-    "last_seen": "2026-01-25T17:11:51.375508+00:00"
-  },
   "BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 8.53e-06,
-    "last_seen": "2026-01-25T17:11:51.375508+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 8.49e-06,
+    "last_seen": "2026-01-25T18:18:59.939397+00:00"
   }
 }

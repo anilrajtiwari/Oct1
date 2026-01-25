@@ -1,18 +1,50 @@
 {
-  "FARTCOIN/USDT": {
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.11911,
+    "last_seen": "2026-01-25T22:13:13.397526+00:00"
+  },
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.2748,
-    "last_seen": "2026-01-25T21:12:10.061495+00:00"
+    "price": 8.365e-06,
+    "last_seen": "2026-01-25T22:13:13.397526+00:00"
   },
-  "VINE/USDT": {
-    "direction": "LONG",
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.745,
+    "last_seen": "2026-01-25T22:13:13.397526+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.02855,
+    "last_seen": "2026-01-25T22:13:13.397526+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.02598,
-    "last_seen": "2026-01-25T21:12:10.061495+00:00"
+    "price": 0.01799,
+    "last_seen": "2026-01-25T22:13:13.397526+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02117,
+    "last_seen": "2026-01-25T22:13:13.397526+00:00"
   }
 }

@@ -1,26 +1,18 @@
 {
-  "MOODENG/USDT": {
+  "ACT/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 2,
-    "exchange": "okx",
-    "price": 0.0676,
-    "last_seen": "2026-01-25T14:12:47.040021+00:00"
+    "exchange": "mexc",
+    "price": 0.0227,
+    "last_seen": "2026-01-25T15:12:59.601291+00:00"
   },
-  "1000RATS/USDT": {
-    "direction": "SHORT",
+  "PEPE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04073,
-    "last_seen": "2026-01-25T14:12:47.040021+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02282,
-    "last_seen": "2026-01-25T14:12:47.040021+00:00"
+    "price": 4.913e-06,
+    "last_seen": "2026-01-25T15:12:59.601291+00:00"
   }
 }

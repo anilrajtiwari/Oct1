@@ -1,10 +1,18 @@
 {
-  "BRETT/USDT": {
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.2748,
+    "last_seen": "2026-01-25T21:12:10.061495+00:00"
+  },
+  "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.01241,
-    "last_seen": "2026-01-25T20:15:11.607480+00:00"
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02598,
+    "last_seen": "2026-01-25T21:12:10.061495+00:00"
   }
 }

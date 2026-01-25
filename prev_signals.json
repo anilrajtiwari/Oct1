@@ -2,17 +2,49 @@
   "1000BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.008803,
+    "last_seen": "2026-01-25T03:47:01.163328+00:00"
+  },
+  "PEPE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.00888,
-    "last_seen": "2026-01-25T01:07:02.775866+00:00"
+    "price": 4.941e-06,
+    "last_seen": "2026-01-25T03:47:01.163328+00:00"
   },
-  "VINE/USDT": {
-    "direction": "SHORT",
+  "BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 8.792e-06,
+    "last_seen": "2026-01-25T03:47:01.163328+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 4.247e-05,
+    "last_seen": "2026-01-25T03:47:01.163328+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.02752,
-    "last_seen": "2026-01-25T01:07:02.775866+00:00"
+    "price": 0.0133,
+    "last_seen": "2026-01-25T03:47:01.163328+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01948,
+    "last_seen": "2026-01-25T03:47:01.163328+00:00"
   }
 }

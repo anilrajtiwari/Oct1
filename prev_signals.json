@@ -1,18 +1,50 @@
 {
   "BONK/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "okx",
-    "price": 8.786e-06,
-    "last_seen": "2026-01-25T11:11:39.305390+00:00"
+    "confidence": 0.75,
+    "count": 3,
+    "exchange": "huobi",
+    "price": 8.748e-06,
+    "last_seen": "2026-01-25T12:24:36.344440+00:00"
   },
-  "PEPE/USDT": {
-    "direction": "SHORT",
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.06653,
+    "last_seen": "2026-01-25T12:24:36.344440+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 5.0363e-06,
-    "last_seen": "2026-01-25T11:11:39.305390+00:00"
+    "exchange": "bitget",
+    "price": 0.0005777,
+    "last_seen": "2026-01-25T12:24:36.344440+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.07202,
+    "last_seen": "2026-01-25T12:24:36.344440+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01314,
+    "last_seen": "2026-01-25T12:24:36.344440+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0763,
+    "last_seen": "2026-01-25T12:24:36.344440+00:00"
   }
 }

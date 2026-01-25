@@ -2,49 +2,65 @@
   "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 3,
+    "count": 4,
     "exchange": "huobi",
-    "price": 8.748e-06,
-    "last_seen": "2026-01-25T12:24:36.344440+00:00"
+    "price": 8.765e-06,
+    "last_seen": "2026-01-25T13:27:47.940377+00:00"
   },
   "OM/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.06653,
-    "last_seen": "2026-01-25T12:24:36.344440+00:00"
+    "price": 0.06658,
+    "last_seen": "2026-01-25T13:27:47.940377+00:00"
   },
   "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0005777,
-    "last_seen": "2026-01-25T12:24:36.344440+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.07202,
-    "last_seen": "2026-01-25T12:24:36.344440+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.0005756,
+    "last_seen": "2026-01-25T13:27:47.940377+00:00"
   },
   "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01314,
-    "last_seen": "2026-01-25T12:24:36.344440+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.01321,
+    "last_seen": "2026-01-25T13:27:47.940377+00:00"
   },
-  "POPCAT/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
+    "exchange": "gateio",
+    "price": 4.24e-05,
+    "last_seen": "2026-01-25T13:27:47.940377+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "bitget",
-    "price": 0.0763,
-    "last_seen": "2026-01-25T12:24:36.344440+00:00"
+    "price": 0.008768,
+    "last_seen": "2026-01-25T13:27:47.940377+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02795,
+    "last_seen": "2026-01-25T13:27:47.940377+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.06779,
+    "last_seen": "2026-01-25T13:27:47.940377+00:00"
   }
 }

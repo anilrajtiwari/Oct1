@@ -2,9 +2,9 @@
   "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 0.01255,
-    "last_seen": "2026-01-25T19:11:36.341327+00:00"
+    "price": 0.01241,
+    "last_seen": "2026-01-25T20:15:11.607480+00:00"
   }
 }

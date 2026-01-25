@@ -1,18 +1,10 @@
 {
-  "KOMA/USDT": {
-    "direction": "SHORT",
+  "POPCAT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.00835,
-    "last_seen": "2026-01-25T06:20:15.474013+00:00"
-  },
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.04122,
-    "last_seen": "2026-01-25T06:20:15.474013+00:00"
+    "exchange": "okx",
+    "price": 0.07651,
+    "last_seen": "2026-01-25T07:16:13.071763+00:00"
   }
 }

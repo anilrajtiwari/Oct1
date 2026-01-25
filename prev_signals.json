@@ -2,17 +2,81 @@
   "ACT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "mexc",
-    "price": 0.0227,
-    "last_seen": "2026-01-25T15:12:59.601291+00:00"
+    "price": 0.02195,
+    "last_seen": "2026-01-25T16:15:55.778578+00:00"
   },
   "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 4.795e-06,
+    "last_seen": "2026-01-25T16:15:55.778578+00:00"
+  },
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 4.913e-06,
-    "last_seen": "2026-01-25T15:12:59.601291+00:00"
+    "price": 0.06404,
+    "last_seen": "2026-01-25T16:15:55.778578+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01556,
+    "last_seen": "2026-01-25T16:15:55.778578+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.06967,
+    "last_seen": "2026-01-25T16:15:55.778578+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02953,
+    "last_seen": "2026-01-25T16:15:55.778578+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01271,
+    "last_seen": "2026-01-25T16:15:55.778578+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.06567,
+    "last_seen": "2026-01-25T16:15:55.778578+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.000859,
+    "last_seen": "2026-01-25T16:15:55.778578+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0737,
+    "last_seen": "2026-01-25T16:15:55.778578+00:00"
   }
 }

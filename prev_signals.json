@@ -2,9 +2,9 @@
   "OM/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.0656,
-    "last_seen": "2026-01-26T22:14:54.290649+00:00"
+    "price": 0.0657,
+    "last_seen": "2026-01-26T23:15:11.275952+00:00"
   }
 }

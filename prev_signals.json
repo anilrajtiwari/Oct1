@@ -1,10 +1,26 @@
 {
-  "FARTCOIN/USDT": {
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.12108,
+    "last_seen": "2026-01-26T10:19:01.582882+00:00"
+  },
+  "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
+    "exchange": "gateio",
+    "price": 0.02998,
+    "last_seen": "2026-01-26T10:19:01.582882+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.2836,
-    "last_seen": "2026-01-26T09:26:37.890518+00:00"
+    "price": 0.0267,
+    "last_seen": "2026-01-26T10:19:01.582882+00:00"
   }
 }

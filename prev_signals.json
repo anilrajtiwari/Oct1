@@ -1,10 +1,10 @@
 {
-  "PONKE/USDT": {
-    "direction": "SHORT",
+  "MOODENG/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0391,
-    "last_seen": "2026-01-26T20:17:00.564469+00:00"
+    "exchange": "huobi",
+    "price": 0.06772,
+    "last_seen": "2026-01-26T21:16:14.873717+00:00"
   }
 }

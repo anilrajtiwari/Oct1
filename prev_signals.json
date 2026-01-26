@@ -1,10 +1,18 @@
 {
-  "ORDI/USDT": {
+  "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 3.842,
-    "last_seen": "2026-01-26T14:21:27.017408+00:00"
+    "price": 0.03061,
+    "last_seen": "2026-01-26T15:21:14.129043+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.02244,
+    "last_seen": "2026-01-26T15:21:14.129043+00:00"
   }
 }

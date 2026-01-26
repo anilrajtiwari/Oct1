@@ -1,10 +1,10 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "bitget",
-    "price": 3.902,
-    "last_seen": "2026-01-26T16:22:49.249249+00:00"
+    "exchange": "gateio",
+    "price": 0.07199,
+    "last_seen": "2026-01-26T17:23:30.685823+00:00"
   }
 }

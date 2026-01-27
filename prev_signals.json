@@ -1,10 +1,10 @@
 {
-  "OM/USDT": {
-    "direction": "SHORT",
+  "SPX/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "gateio",
-    "price": 0.0657,
-    "last_seen": "2026-01-26T23:15:11.275952+00:00"
+    "price": 0.3782,
+    "last_seen": "2026-01-27T01:04:28.898179+00:00"
   }
 }

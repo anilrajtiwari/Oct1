@@ -1,18 +1,10 @@
 {
-  "SHIB/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 7.855e-06,
-    "last_seen": "2026-01-27T20:15:28.548466+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.307,
-    "last_seen": "2026-01-27T20:15:28.548466+00:00"
+    "price": 3.972,
+    "last_seen": "2026-01-27T21:11:33.843609+00:00"
   }
 }

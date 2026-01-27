@@ -1,18 +1,1 @@
-{
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 5.1155e-06,
-    "last_seen": "2026-01-27T03:31:07.587536+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.06867,
-    "last_seen": "2026-01-27T03:31:07.587536+00:00"
-  }
-}
+{}

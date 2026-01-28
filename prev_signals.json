@@ -1,1 +1,18 @@
-{}
+{
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03127,
+    "last_seen": "2026-01-28T06:23:58.912256+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.06952,
+    "last_seen": "2026-01-28T06:23:58.912256+00:00"
+  }
+}

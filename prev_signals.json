@@ -1,10 +1,10 @@
 {
-  "DOGS/USDT": {
+  "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 3.86e-05,
-    "last_seen": "2026-01-28T01:01:05.541092+00:00"
+    "exchange": "gateio",
+    "price": 0.03118,
+    "last_seen": "2026-01-28T03:04:37.098386+00:00"
   }
 }

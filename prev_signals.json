@@ -1,10 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "LONG",
+  "DOGS/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.05903,
-    "last_seen": "2026-01-27T23:14:25.876237+00:00"
+    "exchange": "bitget",
+    "price": 3.86e-05,
+    "last_seen": "2026-01-28T01:01:05.541092+00:00"
   }
 }

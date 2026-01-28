@@ -1,1 +1,18 @@
-{}
+{
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.3195,
+    "last_seen": "2026-01-28T20:19:59.225829+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.06901,
+    "last_seen": "2026-01-28T20:19:59.225829+00:00"
+  }
+}

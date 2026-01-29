@@ -1,26 +1,18 @@
 {
-  "VINE/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.02596,
-    "last_seen": "2026-01-29T07:35:11.957660+00:00"
-  },
-  "OM/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0626,
-    "last_seen": "2026-01-29T07:35:11.957660+00:00"
+    "price": 8.488e-06,
+    "last_seen": "2026-01-29T08:28:59.856700+00:00"
   },
-  "POPCAT/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.07224,
-    "last_seen": "2026-01-29T07:35:11.957660+00:00"
+    "exchange": "mexc",
+    "price": 4.054e-05,
+    "last_seen": "2026-01-29T08:28:59.856700+00:00"
   }
 }

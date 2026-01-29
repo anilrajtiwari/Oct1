@@ -1,1 +1,10 @@
-{}
+{
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01405,
+    "last_seen": "2026-01-29T16:32:18.633540+00:00"
+  }
+}

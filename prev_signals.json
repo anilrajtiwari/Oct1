@@ -1,1 +1,18 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 4.809e-06,
+    "last_seen": "2026-01-29T04:01:21.406050+00:00"
+  },
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.00778,
+    "last_seen": "2026-01-29T04:01:21.406050+00:00"
+  }
+}

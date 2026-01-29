@@ -1,26 +1,26 @@
 {
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 3.953e-05,
-    "last_seen": "2026-01-29T17:31:16.464814+00:00"
-  },
-  "MEME/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.000977,
-    "last_seen": "2026-01-29T17:31:16.464814+00:00"
+    "exchange": "mexc",
+    "price": 0.3192,
+    "last_seen": "2026-01-29T18:32:03.629116+00:00"
   },
-  "ACT/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01959,
-    "last_seen": "2026-01-29T17:31:16.464814+00:00"
+    "price": 0.01396,
+    "last_seen": "2026-01-29T18:32:03.629116+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.008121,
+    "last_seen": "2026-01-29T18:32:03.629116+00:00"
   }
 }

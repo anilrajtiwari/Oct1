@@ -2,17 +2,25 @@
   "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.000962,
-    "last_seen": "2026-01-29T20:20:30.983119+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.00098,
+    "last_seen": "2026-01-29T21:19:24.640798+00:00"
   },
-  "MOODENG/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.06243,
-    "last_seen": "2026-01-29T20:20:30.983119+00:00"
+    "price": 0.2941,
+    "last_seen": "2026-01-29T21:19:24.640798+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0193,
+    "last_seen": "2026-01-29T21:19:24.640798+00:00"
   }
 }

@@ -1,18 +1,1 @@
-{
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 8.488e-06,
-    "last_seen": "2026-01-29T08:28:59.856700+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 4.054e-05,
-    "last_seen": "2026-01-29T08:28:59.856700+00:00"
-  }
-}
+{}

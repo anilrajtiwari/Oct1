@@ -1,10 +1,18 @@
 {
-  "MOODENG/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0602,
-    "last_seen": "2026-01-30T05:10:50.232414+00:00"
+    "exchange": "gateio",
+    "price": 0.3196,
+    "last_seen": "2026-01-30T06:37:30.779174+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0177,
+    "last_seen": "2026-01-30T06:37:30.779174+00:00"
   }
 }

@@ -1,26 +1,10 @@
 {
-  "WIF/USDT": {
+  "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.2891,
-    "last_seen": "2026-01-30T11:22:15.492854+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.008767,
-    "last_seen": "2026-01-30T11:22:15.492854+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0648,
-    "last_seen": "2026-01-30T11:22:15.492854+00:00"
+    "exchange": "bitget",
+    "price": 0.02444,
+    "last_seen": "2026-01-30T12:32:59.384915+00:00"
   }
 }

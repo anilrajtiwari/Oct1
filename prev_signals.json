@@ -1,18 +1,1 @@
-{
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.5913e-06,
-    "last_seen": "2026-01-30T14:28:42.814569+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.252,
-    "last_seen": "2026-01-30T14:28:42.814569+00:00"
-  }
-}
+{}

@@ -1,1 +1,18 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 4.41e-06,
+    "last_seen": "2026-01-31T12:26:44.236119+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.06328,
+    "last_seen": "2026-01-31T12:26:44.236119+00:00"
+  }
+}

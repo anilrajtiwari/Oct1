@@ -2,9 +2,9 @@
   "KOMA/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.00767,
-    "last_seen": "2026-01-31T14:17:13.311853+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.00768,
+    "last_seen": "2026-01-31T15:15:25.493810+00:00"
   }
 }

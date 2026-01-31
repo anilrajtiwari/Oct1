@@ -1,26 +1,42 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.007178,
+    "last_seen": "2026-01-31T20:15:43.914327+00:00"
+  },
+  "BONK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.000811,
-    "last_seen": "2026-01-31T19:15:54.751481+00:00"
+    "price": 6.9e-06,
+    "last_seen": "2026-01-31T20:15:43.914327+00:00"
   },
-  "ORDI/USDT": {
+  "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 3.0,
-    "last_seen": "2026-01-31T19:15:54.751481+00:00"
+    "price": 0.006908,
+    "last_seen": "2026-01-31T20:15:43.914327+00:00"
   },
-  "PEOPLE/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0072,
-    "last_seen": "2026-01-31T19:15:54.751481+00:00"
+    "price": 0.2231,
+    "last_seen": "2026-01-31T20:15:43.914327+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.000694,
+    "last_seen": "2026-01-31T20:15:43.914327+00:00"
   }
 }

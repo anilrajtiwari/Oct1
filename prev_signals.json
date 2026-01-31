@@ -1,10 +1,1 @@
-{
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.4187e-06,
-    "last_seen": "2026-01-31T10:15:47.505718+00:00"
-  }
-}
+{}

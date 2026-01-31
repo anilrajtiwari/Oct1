@@ -1,10 +1,10 @@
 {
-  "ACT/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.01712,
-    "last_seen": "2026-01-31T01:06:34.819396+00:00"
+    "exchange": "bitget",
+    "price": 0.0662,
+    "last_seen": "2026-01-31T03:58:23.333085+00:00"
   }
 }

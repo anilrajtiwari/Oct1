@@ -1,10 +1,42 @@
 {
-  "POPCAT/USDT": {
-    "direction": "SHORT",
+  "PEPE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0662,
-    "last_seen": "2026-01-31T03:58:23.333085+00:00"
+    "exchange": "mexc",
+    "price": 4.55e-06,
+    "last_seen": "2026-01-31T05:00:11.239326+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 3.847e-05,
+    "last_seen": "2026-01-31T05:00:11.239326+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 3.579,
+    "last_seen": "2026-01-31T05:00:11.239326+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.008732,
+    "last_seen": "2026-01-31T05:00:11.239326+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3239,
+    "last_seen": "2026-01-31T05:00:11.239326+00:00"
   }
 }

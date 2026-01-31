@@ -1,18 +1,50 @@
 {
-  "FARTCOIN/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.2198,
-    "last_seen": "2026-01-31T21:13:44.319818+00:00"
+    "price": 0.000839,
+    "last_seen": "2026-01-31T22:14:11.964923+00:00"
   },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 3.08e-05,
+    "last_seen": "2026-01-31T22:14:11.964923+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.000702,
+    "last_seen": "2026-01-31T22:14:11.964923+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01188,
-    "last_seen": "2026-01-31T21:13:44.319818+00:00"
+    "price": 0.0547,
+    "last_seen": "2026-01-31T22:14:11.964923+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.01495,
+    "last_seen": "2026-01-31T22:14:11.964923+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.000801,
+    "last_seen": "2026-01-31T22:14:11.964923+00:00"
   }
 }

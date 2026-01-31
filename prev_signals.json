@@ -1,10 +1,26 @@
 {
-  "ACT/USDT": {
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.000811,
+    "last_seen": "2026-01-31T19:15:54.751481+00:00"
+  },
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.01512,
-    "last_seen": "2026-01-31T18:20:33.235087+00:00"
+    "price": 3.0,
+    "last_seen": "2026-01-31T19:15:54.751481+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0072,
+    "last_seen": "2026-01-31T19:15:54.751481+00:00"
   }
 }

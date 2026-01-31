@@ -1,18 +1,10 @@
 {
-  "PIPPIN/USDT": {
+  "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.23537,
-    "last_seen": "2026-01-30T23:17:56.205354+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01438,
-    "last_seen": "2026-01-30T23:17:56.205354+00:00"
+    "price": 0.01712,
+    "last_seen": "2026-01-31T01:06:34.819396+00:00"
   }
 }

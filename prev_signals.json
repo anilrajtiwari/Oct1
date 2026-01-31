@@ -1,10 +1,10 @@
 {
-  "1000RATS/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.06517,
-    "last_seen": "2026-01-31T09:19:44.537542+00:00"
+    "count": 1,
+    "exchange": "bitget",
+    "price": 4.4187e-06,
+    "last_seen": "2026-01-31T10:15:47.505718+00:00"
   }
 }

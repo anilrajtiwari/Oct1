@@ -1,10 +1,1 @@
-{
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.243609,
-    "last_seen": "2026-01-31T05:39:13.663338+00:00"
-  }
-}
+{}

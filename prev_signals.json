@@ -2,9 +2,25 @@
   "KOMA/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "gateio",
-    "price": 0.00768,
-    "last_seen": "2026-01-31T15:15:25.493810+00:00"
+    "price": 0.00766,
+    "last_seen": "2026-01-31T16:16:56.390193+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.000866,
+    "last_seen": "2026-01-31T16:16:56.390193+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.00769,
+    "last_seen": "2026-01-31T16:16:56.390193+00:00"
   }
 }

@@ -1,18 +1,26 @@
 {
-  "AIXBT/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "huobi",
-    "price": 0.02509,
-    "last_seen": "2026-02-01T09:22:42.379763+00:00"
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.000847,
+    "last_seen": "2026-02-01T10:17:05.429568+00:00"
   },
-  "OM/USDT": {
-    "direction": "LONG",
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0527,
-    "last_seen": "2026-02-01T09:22:42.379763+00:00"
+    "price": 0.178421,
+    "last_seen": "2026-02-01T10:17:05.429568+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.05654,
+    "last_seen": "2026-02-01T10:17:05.429568+00:00"
   }
 }

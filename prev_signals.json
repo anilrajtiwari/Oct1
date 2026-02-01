@@ -2,9 +2,17 @@
   "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "huobi",
+    "price": 0.02509,
+    "last_seen": "2026-02-01T09:22:42.379763+00:00"
+  },
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.02532,
-    "last_seen": "2026-02-01T08:22:10.369112+00:00"
+    "price": 0.0527,
+    "last_seen": "2026-02-01T09:22:42.379763+00:00"
   }
 }

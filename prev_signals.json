@@ -1,1 +1,18 @@
-{}
+{
+  "HIPPO/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.000725,
+    "last_seen": "2026-02-01T04:23:06.511998+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01564,
+    "last_seen": "2026-02-01T04:23:06.511998+00:00"
+  }
+}

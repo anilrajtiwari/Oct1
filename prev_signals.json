@@ -1,18 +1,26 @@
 {
-  "PEPE/USDT": {
+  "BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 7.253e-06,
+    "last_seen": "2026-02-02T17:32:17.553708+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 3.58e-05,
+    "last_seen": "2026-02-02T17:32:17.553708+00:00"
+  },
+  "MEW/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 4.327e-06,
-    "last_seen": "2026-02-02T16:26:46.407180+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.1995,
-    "last_seen": "2026-02-02T16:26:46.407180+00:00"
+    "price": 0.000722,
+    "last_seen": "2026-02-02T17:32:17.553708+00:00"
   }
 }

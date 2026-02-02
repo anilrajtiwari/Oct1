@@ -1,26 +1,10 @@
 {
-  "BONK/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 7.253e-06,
-    "last_seen": "2026-02-02T17:32:17.553708+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 3.58e-05,
-    "last_seen": "2026-02-02T17:32:17.553708+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.000722,
-    "last_seen": "2026-02-02T17:32:17.553708+00:00"
+    "exchange": "bitget",
+    "price": 0.07076,
+    "last_seen": "2026-02-02T18:30:49.178962+00:00"
   }
 }

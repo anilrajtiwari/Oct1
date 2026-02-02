@@ -1,1 +1,10 @@
-{}
+{
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.007361,
+    "last_seen": "2026-02-02T05:58:18.669221+00:00"
+  }
+}

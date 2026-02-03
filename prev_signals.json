@@ -1,18 +1,10 @@
 {
   "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.01202,
-    "last_seen": "2026-02-03T11:27:46.654189+00:00"
-  },
-  "BAN/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.06939,
-    "last_seen": "2026-02-03T11:27:46.654189+00:00"
+    "exchange": "bitget",
+    "price": 0.01215,
+    "last_seen": "2026-02-03T12:37:04.860185+00:00"
   }
 }

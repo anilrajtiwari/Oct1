@@ -1,34 +1,18 @@
 {
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.336e-05,
-    "last_seen": "2026-02-03T18:43:26.787062+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01124,
-    "last_seen": "2026-02-03T18:43:26.787062+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.006846,
-    "last_seen": "2026-02-03T18:43:26.787062+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
+  "OM/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.05384,
-    "last_seen": "2026-02-03T18:43:26.787062+00:00"
+    "price": 0.04954,
+    "last_seen": "2026-02-03T19:40:36.218257+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.05321,
+    "last_seen": "2026-02-03T19:40:36.218257+00:00"
   }
 }

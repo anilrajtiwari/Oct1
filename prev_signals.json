@@ -1,10 +1,10 @@
 {
-  "AIXBT/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.02483,
-    "last_seen": "2026-02-03T20:26:48.676157+00:00"
+    "exchange": "mexc",
+    "price": 3.196,
+    "last_seen": "2026-02-03T21:26:10.491336+00:00"
   }
 }

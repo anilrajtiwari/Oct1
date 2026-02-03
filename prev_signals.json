@@ -2,9 +2,25 @@
   "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.01534,
+    "last_seen": "2026-02-03T17:45:27.589702+00:00"
+  },
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0485,
+    "last_seen": "2026-02-03T17:45:27.589702+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01579,
-    "last_seen": "2026-02-03T16:42:08.369927+00:00"
+    "price": 0.05274,
+    "last_seen": "2026-02-03T17:45:27.589702+00:00"
   }
 }

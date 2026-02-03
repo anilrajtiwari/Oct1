@@ -1,10 +1,10 @@
 {
-  "CHILLGUY/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01215,
-    "last_seen": "2026-02-03T12:37:04.860185+00:00"
+    "exchange": "mexc",
+    "price": 3.139,
+    "last_seen": "2026-02-03T13:58:06.059927+00:00"
   }
 }

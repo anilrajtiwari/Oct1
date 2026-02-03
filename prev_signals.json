@@ -2,17 +2,25 @@
   "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 0.06948,
-    "last_seen": "2026-02-03T08:27:54.350772+00:00"
+    "price": 0.06925,
+    "last_seen": "2026-02-03T09:31:27.023209+00:00"
   },
   "MEW/USDT": {
-    "direction": "SHORT",
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.000706,
-    "last_seen": "2026-02-03T08:27:54.350772+00:00"
+    "exchange": "okx",
+    "price": 0.0006943,
+    "last_seen": "2026-02-03T09:31:27.023209+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.05604,
+    "last_seen": "2026-02-03T09:31:27.023209+00:00"
   }
 }

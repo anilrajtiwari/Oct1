@@ -1,18 +1,42 @@
 {
-  "BOME/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0004855,
-    "last_seen": "2026-02-02T23:19:41.542243+00:00"
+    "exchange": "gateio",
+    "price": 3.542e-05,
+    "last_seen": "2026-02-03T01:14:09.871178+00:00"
   },
-  "HIPPO/USDT": {
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0709,
+    "last_seen": "2026-02-03T01:14:09.871178+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01216,
+    "last_seen": "2026-02-03T01:14:09.871178+00:00"
+  },
+  "FARTCOIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.000743,
-    "last_seen": "2026-02-02T23:19:41.542243+00:00"
+    "price": 0.2206,
+    "last_seen": "2026-02-03T01:14:09.871178+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.002097,
+    "last_seen": "2026-02-03T01:14:09.871178+00:00"
   }
 }

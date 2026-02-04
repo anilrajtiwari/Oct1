@@ -1,34 +1,82 @@
 {
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.01996,
-    "last_seen": "2026-02-04T18:36:25.627794+00:00"
-  },
   "1000RATS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.05632,
+    "last_seen": "2026-02-04T19:34:03.462348+00:00"
+  },
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.05728,
-    "last_seen": "2026-02-04T18:36:25.627794+00:00"
+    "price": 6.643e-06,
+    "last_seen": "2026-02-04T19:34:03.462348+00:00"
   },
-  "ACT/USDT": {
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.2482,
+    "last_seen": "2026-02-04T19:34:03.462348+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.415e-05,
+    "last_seen": "2026-02-04T19:34:03.462348+00:00"
+  },
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.01633,
-    "last_seen": "2026-02-04T18:36:25.627794+00:00"
+    "price": 0.0008098,
+    "last_seen": "2026-02-04T19:34:03.462348+00:00"
   },
-  "DEGEN/USDT": {
+  "OM/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04835,
+    "last_seen": "2026-02-04T19:34:03.462348+00:00"
+  },
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.000782,
-    "last_seen": "2026-02-04T18:36:25.627794+00:00"
+    "price": 0.01118,
+    "last_seen": "2026-02-04T19:34:03.462348+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0004696,
+    "last_seen": "2026-02-04T19:34:03.462348+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.007581,
+    "last_seen": "2026-02-04T19:34:03.462348+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05279,
+    "last_seen": "2026-02-04T19:34:03.462348+00:00"
   }
 }

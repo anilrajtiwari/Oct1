@@ -2,9 +2,9 @@
   "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.0576,
-    "last_seen": "2026-02-04T06:39:10.946833+00:00"
+    "price": 0.0578,
+    "last_seen": "2026-02-04T07:39:06.421444+00:00"
   }
 }

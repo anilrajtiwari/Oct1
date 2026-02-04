@@ -1,26 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.05833,
-    "last_seen": "2026-02-04T05:42:16.440461+00:00"
-  },
-  "OM/USDT": {
-    "direction": "LONG",
+  "POPCAT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0497,
-    "last_seen": "2026-02-04T05:42:16.440461+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.007752,
-    "last_seen": "2026-02-04T05:42:16.440461+00:00"
+    "price": 0.0576,
+    "last_seen": "2026-02-04T06:39:10.946833+00:00"
   }
 }

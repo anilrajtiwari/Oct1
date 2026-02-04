@@ -1,18 +1,18 @@
 {
-  "VINE/USDT": {
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.01487,
+    "last_seen": "2026-02-04T23:19:00.598575+00:00"
+  },
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.02029,
-    "last_seen": "2026-02-04T22:17:52.992115+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01489,
-    "last_seen": "2026-02-04T22:17:52.992115+00:00"
+    "price": 0.01124,
+    "last_seen": "2026-02-04T23:19:00.598575+00:00"
   }
 }

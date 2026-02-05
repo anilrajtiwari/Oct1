@@ -1,18 +1,26 @@
 {
   "ACT/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
-    "count": 2,
+    "confidence": 0.75,
+    "count": 3,
     "exchange": "mexc",
-    "price": 0.01448,
-    "last_seen": "2026-02-05T20:23:33.371524+00:00"
+    "price": 0.0145,
+    "last_seen": "2026-02-05T21:21:14.694905+00:00"
   },
-  "POPCAT/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0461,
-    "last_seen": "2026-02-05T20:23:33.371524+00:00"
+    "exchange": "mexc",
+    "price": 0.1833,
+    "last_seen": "2026-02-05T21:21:14.694905+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02026,
+    "last_seen": "2026-02-05T21:21:14.694905+00:00"
   }
 }

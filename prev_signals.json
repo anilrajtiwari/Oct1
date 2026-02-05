@@ -2,33 +2,9 @@
   "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 3,
+    "count": 4,
     "exchange": "okx",
-    "price": 0.01386,
-    "last_seen": "2026-02-05T11:29:30.170577+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.04904,
-    "last_seen": "2026-02-05T11:29:30.170577+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.000627,
-    "last_seen": "2026-02-05T11:29:30.170577+00:00"
-  },
-  "DEGEN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.000731,
-    "last_seen": "2026-02-05T11:29:30.170577+00:00"
+    "price": 0.01389,
+    "last_seen": "2026-02-05T12:38:26.866536+00:00"
   }
 }

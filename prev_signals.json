@@ -2,33 +2,17 @@
   "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 5.905e-06,
+    "last_seen": "2026-02-05T19:33:10.509721+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "mexc",
-    "price": 5.798e-06,
-    "last_seen": "2026-02-05T18:37:13.320102+00:00"
-  },
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 6.07e-06,
-    "last_seen": "2026-02-05T18:37:13.320102+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.000708,
-    "last_seen": "2026-02-05T18:37:13.320102+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.000584,
-    "last_seen": "2026-02-05T18:37:13.320102+00:00"
+    "price": 0.01514,
+    "last_seen": "2026-02-05T19:33:10.509721+00:00"
   }
 }

@@ -1,66 +1,18 @@
 {
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 6.705e-06,
-    "last_seen": "2026-02-05T06:45:46.706462+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.000783,
-    "last_seen": "2026-02-05T06:45:46.706462+00:00"
-  },
   "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 3.017,
-    "last_seen": "2026-02-05T06:45:46.706462+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.007016,
-    "last_seen": "2026-02-05T06:45:46.706462+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.00673,
-    "last_seen": "2026-02-05T06:45:46.706462+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.00818,
-    "last_seen": "2026-02-05T06:45:46.706462+00:00"
+    "price": 3.021,
+    "last_seen": "2026-02-05T07:44:06.571778+00:00"
   },
   "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.04992,
-    "last_seen": "2026-02-05T06:45:46.706462+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0006405,
-    "last_seen": "2026-02-05T06:45:46.706462+00:00"
+    "price": 0.04986,
+    "last_seen": "2026-02-05T07:44:06.571778+00:00"
   }
 }

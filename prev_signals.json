@@ -1,10 +1,10 @@
 {
-  "HIPPO/USDT": {
-    "direction": "LONG",
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.000709,
-    "last_seen": "2026-02-06T18:35:56.342534+00:00"
+    "price": 0.007001,
+    "last_seen": "2026-02-06T19:32:51.430339+00:00"
   }
 }

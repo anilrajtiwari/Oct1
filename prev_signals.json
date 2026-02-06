@@ -2,17 +2,49 @@
   "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.06801,
-    "last_seen": "2026-02-06T09:34:41.637866+00:00"
+    "price": 0.06898,
+    "last_seen": "2026-02-06T10:31:12.563486+00:00"
   },
   "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.01315,
+    "last_seen": "2026-02-06T10:31:12.563486+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.19,
+    "last_seen": "2026-02-06T10:31:12.563486+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02047,
+    "last_seen": "2026-02-06T10:31:12.563486+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001792,
+    "last_seen": "2026-02-06T10:31:12.563486+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01289,
-    "last_seen": "2026-02-06T09:34:41.637866+00:00"
+    "price": 0.000683,
+    "last_seen": "2026-02-06T10:31:12.563486+00:00"
   }
 }

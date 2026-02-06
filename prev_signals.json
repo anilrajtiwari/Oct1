@@ -1,18 +1,10 @@
 {
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 6.1e-06,
-    "last_seen": "2026-02-06T11:27:05.184510+00:00"
-  },
-  "KOMA/USDT": {
+  "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.00709,
-    "last_seen": "2026-02-06T11:27:05.184510+00:00"
+    "price": 0.02052,
+    "last_seen": "2026-02-06T12:36:54.089523+00:00"
   }
 }

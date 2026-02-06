@@ -1,1 +1,34 @@
-{}
+{
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 5.803e-06,
+    "last_seen": "2026-02-06T08:31:30.543406+00:00"
+  },
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.00685,
+    "last_seen": "2026-02-06T08:31:30.543406+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.006449,
+    "last_seen": "2026-02-06T08:31:30.543406+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001728,
+    "last_seen": "2026-02-06T08:31:30.543406+00:00"
+  }
+}

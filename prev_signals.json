@@ -1,18 +1,1 @@
-{
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.07019,
-    "last_seen": "2026-02-07T14:18:05.530828+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.04996,
-    "last_seen": "2026-02-07T14:18:05.530828+00:00"
-  }
-}
+{}

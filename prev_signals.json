@@ -1,10 +1,10 @@
 {
-  "ORDI/USDT": {
+  "AIXBT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 2.904,
-    "last_seen": "2026-02-06T23:17:24.427844+00:00"
+    "exchange": "huobi",
+    "price": 0.02125,
+    "last_seen": "2026-02-07T01:08:31.504016+00:00"
   }
 }

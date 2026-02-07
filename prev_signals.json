@@ -1,10 +1,10 @@
 {
-  "AIXBT/USDT": {
-    "direction": "LONG",
+  "BAN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.02125,
-    "last_seen": "2026-02-07T01:08:31.504016+00:00"
+    "exchange": "bitget",
+    "price": 0.07029,
+    "last_seen": "2026-02-07T04:00:48.109821+00:00"
   }
 }

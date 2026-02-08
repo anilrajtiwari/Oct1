@@ -1,18 +1,18 @@
 {
   "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01067,
-    "last_seen": "2026-02-08T04:27:11.854249+00:00"
-  },
-  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01461,
-    "last_seen": "2026-02-08T04:27:11.854249+00:00"
+    "price": 0.0107,
+    "last_seen": "2026-02-08T05:56:40.802736+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02096,
+    "last_seen": "2026-02-08T05:56:40.802736+00:00"
   }
 }

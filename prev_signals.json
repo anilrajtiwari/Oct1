@@ -1,10 +1,18 @@
 {
-  "PNUT/USDT": {
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.000602,
+    "last_seen": "2026-02-08T20:16:53.271990+00:00"
+  },
+  "DEGEN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.04902,
-    "last_seen": "2026-02-08T19:19:47.745980+00:00"
+    "price": 0.000728,
+    "last_seen": "2026-02-08T20:16:53.271990+00:00"
   }
 }

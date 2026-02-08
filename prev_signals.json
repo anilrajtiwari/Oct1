@@ -1,10 +1,18 @@
 {
-  "BONK/USDT": {
-    "direction": "LONG",
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04871,
+    "last_seen": "2026-02-08T22:18:13.595951+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 6.277e-06,
-    "last_seen": "2026-02-08T21:18:49.255394+00:00"
+    "price": 0.04573,
+    "last_seen": "2026-02-08T22:18:13.595951+00:00"
   }
 }

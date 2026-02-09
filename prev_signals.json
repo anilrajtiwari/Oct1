@@ -1,10 +1,18 @@
 {
-  "DEGEN/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.000687,
-    "last_seen": "2026-02-09T12:44:36.461894+00:00"
+    "price": 0.01008,
+    "last_seen": "2026-02-09T14:09:17.737111+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01406,
+    "last_seen": "2026-02-09T14:09:17.737111+00:00"
   }
 }

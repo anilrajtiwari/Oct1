@@ -1,26 +1,10 @@
 {
-  "BAN/USDT": {
+  "PIPPIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.07476,
-    "last_seen": "2026-02-09T15:45:55.444976+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.04796,
-    "last_seen": "2026-02-09T15:45:55.444976+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.02005,
-    "last_seen": "2026-02-09T15:45:55.444976+00:00"
+    "exchange": "bitget",
+    "price": 0.27665,
+    "last_seen": "2026-02-09T17:43:54.701810+00:00"
   }
 }

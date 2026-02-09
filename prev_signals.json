@@ -1,10 +1,10 @@
 {
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
+  "DEGEN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.006429,
-    "last_seen": "2026-02-09T11:40:53.930955+00:00"
+    "exchange": "gateio",
+    "price": 0.000687,
+    "last_seen": "2026-02-09T12:44:36.461894+00:00"
   }
 }

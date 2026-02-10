@@ -1,10 +1,10 @@
 {
-  "PENGU/USDT": {
+  "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "huobi",
-    "price": 0.00619,
-    "last_seen": "2026-02-10T08:40:31.194788+00:00"
+    "price": 0.04654,
+    "last_seen": "2026-02-10T09:52:18.488053+00:00"
   }
 }

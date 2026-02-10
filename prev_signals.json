@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "LONG",
+  "PENGU/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.01356,
-    "last_seen": "2026-02-10T07:54:15.467926+00:00"
+    "exchange": "huobi",
+    "price": 0.00619,
+    "last_seen": "2026-02-10T08:40:31.194788+00:00"
   }
 }

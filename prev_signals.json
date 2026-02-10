@@ -1,1 +1,10 @@
-{}
+{
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.000714,
+    "last_seen": "2026-02-10T01:24:15.091044+00:00"
+  }
+}

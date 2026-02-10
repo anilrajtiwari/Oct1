@@ -1,10 +1,1 @@
-{
-  "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.2153,
-    "last_seen": "2026-02-10T19:58:02.781213+00:00"
-  }
-}
+{}

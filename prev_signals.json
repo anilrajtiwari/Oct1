@@ -1,1 +1,10 @@
-{}
+{
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01356,
+    "last_seen": "2026-02-10T07:54:15.467926+00:00"
+  }
+}

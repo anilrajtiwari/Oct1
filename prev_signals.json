@@ -1,18 +1,18 @@
 {
-  "PENGU/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.006082,
-    "last_seen": "2026-02-10T21:35:25.861681+00:00"
+    "exchange": "huobi",
+    "price": 0.39228,
+    "last_seen": "2026-02-10T22:31:17.273440+00:00"
   },
-  "PNUT/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.04583,
-    "last_seen": "2026-02-10T21:35:25.861681+00:00"
+    "exchange": "mexc",
+    "price": 0.00632,
+    "last_seen": "2026-02-10T22:31:17.273440+00:00"
   }
 }

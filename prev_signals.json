@@ -1,10 +1,10 @@
 {
-  "PEPE/USDT": {
+  "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 3.5064e-06,
-    "last_seen": "2026-02-11T16:54:49.237138+00:00"
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01746,
+    "last_seen": "2026-02-11T17:52:13.133466+00:00"
   }
 }

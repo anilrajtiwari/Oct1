@@ -1,18 +1,10 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
+  "PIPPIN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.00945,
-    "last_seen": "2026-02-11T12:44:33.015141+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01763,
-    "last_seen": "2026-02-11T12:44:33.015141+00:00"
+    "exchange": "gateio",
+    "price": 0.456138,
+    "last_seen": "2026-02-11T14:10:33.070983+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.0443,
-    "last_seen": "2026-02-11T09:45:33.482969+00:00"
+    "exchange": "mexc",
+    "price": 2.855e-05,
+    "last_seen": "2026-02-11T10:40:38.733566+00:00"
   }
 }

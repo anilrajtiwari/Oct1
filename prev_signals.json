@@ -1,18 +1,1 @@
-{
-  "DEGEN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "gateio",
-    "price": 0.000656,
-    "last_seen": "2026-02-11T20:30:24.946470+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "huobi",
-    "price": 0.01887,
-    "last_seen": "2026-02-11T20:30:24.946470+00:00"
-  }
-}
+{}

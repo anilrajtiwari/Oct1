@@ -1,1 +1,10 @@
-{}
+{
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0443,
+    "last_seen": "2026-02-11T09:45:33.482969+00:00"
+  }
+}

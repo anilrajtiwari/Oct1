@@ -2,9 +2,25 @@
   "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "bitget",
+    "price": 2.865e-05,
+    "last_seen": "2026-02-11T11:38:19.653254+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0006484,
+    "last_seen": "2026-02-11T11:38:19.653254+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 2.855e-05,
-    "last_seen": "2026-02-11T10:40:38.733566+00:00"
+    "price": 0.44435,
+    "last_seen": "2026-02-11T11:38:19.653254+00:00"
   }
 }

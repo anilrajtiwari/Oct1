@@ -1,26 +1,18 @@
 {
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 2.865e-05,
-    "last_seen": "2026-02-11T11:38:19.653254+00:00"
-  },
-  "MEME/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0006484,
-    "last_seen": "2026-02-11T11:38:19.653254+00:00"
+    "exchange": "bitget",
+    "price": 0.00945,
+    "last_seen": "2026-02-11T12:44:33.015141+00:00"
   },
-  "PIPPIN/USDT": {
-    "direction": "LONG",
+  "VINE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.44435,
-    "last_seen": "2026-02-11T11:38:19.653254+00:00"
+    "price": 0.01763,
+    "last_seen": "2026-02-11T12:44:33.015141+00:00"
   }
 }

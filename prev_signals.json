@@ -1,18 +1,1 @@
-{
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.000687,
-    "last_seen": "2026-02-12T15:42:41.473676+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.04963,
-    "last_seen": "2026-02-12T15:42:41.473676+00:00"
-  }
-}
+{}

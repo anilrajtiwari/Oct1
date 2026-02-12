@@ -1,10 +1,18 @@
 {
   "1000CAT/USDT": {
     "direction": "LONG",
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.001834,
+    "last_seen": "2026-02-12T08:35:45.711838+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.001836,
-    "last_seen": "2026-02-12T07:50:19.920512+00:00"
+    "exchange": "mexc",
+    "price": 0.48794,
+    "last_seen": "2026-02-12T08:35:45.711838+00:00"
   }
 }

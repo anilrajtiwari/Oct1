@@ -1,18 +1,10 @@
 {
-  "SPX/USDT": {
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.2724,
-    "last_seen": "2026-02-12T21:26:08.350893+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "gateio",
-    "price": 0.04921,
-    "last_seen": "2026-02-12T21:26:08.350893+00:00"
+    "price": 0.01467,
+    "last_seen": "2026-02-12T22:23:13.965584+00:00"
   }
 }

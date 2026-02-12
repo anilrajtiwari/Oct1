@@ -1,1 +1,26 @@
-{}
+{
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.53333,
+    "last_seen": "2026-02-12T11:34:35.274852+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.2945,
+    "last_seen": "2026-02-12T11:34:35.274852+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01867,
+    "last_seen": "2026-02-12T11:34:35.274852+00:00"
+  }
+}

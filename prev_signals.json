@@ -1,42 +1,42 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.50038,
-    "last_seen": "2026-02-12T05:59:20.393487+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.00993,
-    "last_seen": "2026-02-12T05:59:20.393487+00:00"
-  },
   "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.006207,
-    "last_seen": "2026-02-12T05:59:20.393487+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.006229,
+    "last_seen": "2026-02-12T06:59:00.233686+00:00"
   },
   "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 0.04667,
-    "last_seen": "2026-02-12T05:59:20.393487+00:00"
+    "price": 0.04719,
+    "last_seen": "2026-02-12T06:59:00.233686+00:00"
   },
   "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.04486,
+    "last_seen": "2026-02-12T06:59:00.233686+00:00"
+  },
+  "BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 6.065e-06,
+    "last_seen": "2026-02-12T06:59:00.233686+00:00"
+  },
+  "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04459,
-    "last_seen": "2026-02-12T05:59:20.393487+00:00"
+    "price": 0.006068,
+    "last_seen": "2026-02-12T06:59:00.233686+00:00"
   }
 }

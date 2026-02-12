@@ -1,26 +1,18 @@
 {
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 2.839e-05,
-    "last_seen": "2026-02-12T20:25:19.232387+00:00"
-  },
   "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.2715,
-    "last_seen": "2026-02-12T20:25:19.232387+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.2724,
+    "last_seen": "2026-02-12T21:26:08.350893+00:00"
   },
   "MOODENG/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.0491,
-    "last_seen": "2026-02-12T20:25:19.232387+00:00"
+    "price": 0.04921,
+    "last_seen": "2026-02-12T21:26:08.350893+00:00"
   }
 }

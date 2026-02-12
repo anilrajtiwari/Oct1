@@ -1,1 +1,10 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0003945,
+    "last_seen": "2026-02-12T19:45:11.380096+00:00"
+  }
+}

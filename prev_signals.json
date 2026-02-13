@@ -1,10 +1,10 @@
 {
-  "MOODENG/USDT": {
-    "direction": "LONG",
+  "SPX/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0509,
-    "last_seen": "2026-02-13T12:36:20.186168+00:00"
+    "exchange": "gateio",
+    "price": 0.283,
+    "last_seen": "2026-02-13T13:56:28.754197+00:00"
   }
 }

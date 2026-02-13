@@ -1,10 +1,18 @@
 {
-  "PNUT/USDT": {
-    "direction": "LONG",
+  "DOGE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.04696,
-    "last_seen": "2026-02-13T09:35:24.290234+00:00"
+    "exchange": "huobi",
+    "price": 0.093838,
+    "last_seen": "2026-02-13T10:31:45.786418+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.09372,
+    "last_seen": "2026-02-13T10:31:45.786418+00:00"
   }
 }

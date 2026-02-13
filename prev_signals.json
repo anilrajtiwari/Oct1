@@ -1,18 +1,1 @@
-{
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.2792,
-    "last_seen": "2026-02-13T01:18:15.113869+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.05137,
-    "last_seen": "2026-02-13T01:18:15.113869+00:00"
-  }
-}
+{}

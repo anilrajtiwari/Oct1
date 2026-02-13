@@ -1,26 +1,18 @@
 {
-  "MEME/USDT": {
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.000709,
-    "last_seen": "2026-02-13T15:34:00.265199+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.01516,
+    "last_seen": "2026-02-13T16:34:31.840719+00:00"
   },
-  "SPX/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.2988,
-    "last_seen": "2026-02-13T15:34:00.265199+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01491,
-    "last_seen": "2026-02-13T15:34:00.265199+00:00"
+    "price": 0.62768,
+    "last_seen": "2026-02-13T16:34:31.840719+00:00"
   }
 }

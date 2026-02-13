@@ -2,25 +2,17 @@
   "DEGEN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "gateio",
-    "price": 0.000733,
-    "last_seen": "2026-02-13T19:36:40.509856+00:00"
+    "price": 0.000738,
+    "last_seen": "2026-02-13T20:27:48.502292+00:00"
   },
-  "DOGS/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 2.945e-05,
-    "last_seen": "2026-02-13T19:36:40.509856+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.1895,
-    "last_seen": "2026-02-13T19:36:40.509856+00:00"
+    "exchange": "mexc",
+    "price": 0.0007093,
+    "last_seen": "2026-02-13T20:27:48.502292+00:00"
   }
 }

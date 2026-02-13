@@ -1,10 +1,10 @@
 {
-  "DOGE/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.09691,
-    "last_seen": "2026-02-13T22:24:21.289945+00:00"
+    "exchange": "huobi",
+    "price": 0.221,
+    "last_seen": "2026-02-13T23:22:52.657546+00:00"
   }
 }

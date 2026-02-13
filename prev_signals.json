@@ -1,18 +1,26 @@
 {
-  "DEGEN/USDT": {
-    "direction": "LONG",
+  "WIF/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 3,
+    "count": 1,
     "exchange": "gateio",
-    "price": 0.000738,
-    "last_seen": "2026-02-13T20:27:48.502292+00:00"
+    "price": 0.2224,
+    "last_seen": "2026-02-13T21:27:17.248191+00:00"
   },
-  "MEME/USDT": {
+  "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
+    "exchange": "gateio",
+    "price": 0.00789,
+    "last_seen": "2026-02-13T21:27:17.248191+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.0007093,
-    "last_seen": "2026-02-13T20:27:48.502292+00:00"
+    "price": 0.01586,
+    "last_seen": "2026-02-13T21:27:17.248191+00:00"
   }
 }

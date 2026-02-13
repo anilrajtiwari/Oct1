@@ -1,18 +1,10 @@
 {
-  "1000RATS/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04663,
-    "last_seen": "2026-02-13T05:54:23.039874+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.48746,
-    "last_seen": "2026-02-13T05:54:23.039874+00:00"
+    "price": 0.2761,
+    "last_seen": "2026-02-13T06:48:28.534175+00:00"
   }
 }

@@ -1,1 +1,10 @@
-{}
+{
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.04696,
+    "last_seen": "2026-02-13T09:35:24.290234+00:00"
+  }
+}

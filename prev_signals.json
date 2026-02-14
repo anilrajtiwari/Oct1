@@ -2,9 +2,9 @@
   "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 0.05831,
-    "last_seen": "2026-02-14T17:19:48.719854+00:00"
+    "price": 0.05945,
+    "last_seen": "2026-02-14T18:21:16.808533+00:00"
   }
 }

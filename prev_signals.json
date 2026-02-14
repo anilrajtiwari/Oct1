@@ -1,10 +1,18 @@
 {
-  "AIXBT/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.02072,
-    "last_seen": "2026-02-14T05:39:01.363721+00:00"
+    "exchange": "mexc",
+    "price": 0.2233,
+    "last_seen": "2026-02-14T06:34:15.171226+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0513,
+    "last_seen": "2026-02-14T06:34:15.171226+00:00"
   }
 }

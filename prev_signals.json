@@ -1,18 +1,18 @@
 {
-  "WIF/USDT": {
-    "direction": "SHORT",
+  "PEOPLE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.2276,
-    "last_seen": "2026-02-14T09:22:57.524082+00:00"
+    "price": 0.00687,
+    "last_seen": "2026-02-14T10:17:41.326818+00:00"
   },
-  "POPCAT/USDT": {
+  "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.05217,
-    "last_seen": "2026-02-14T09:22:57.524082+00:00"
+    "exchange": "mexc",
+    "price": 0.0497,
+    "last_seen": "2026-02-14T10:17:41.326818+00:00"
   }
 }

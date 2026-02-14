@@ -1,26 +1,18 @@
 {
-  "CHILLGUY/USDT": {
+  "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01239,
-    "last_seen": "2026-02-14T20:16:10.632506+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.02125,
+    "last_seen": "2026-02-14T21:16:18.943665+00:00"
   },
-  "VINE/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.02137,
-    "last_seen": "2026-02-14T20:16:10.632506+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.06092,
-    "last_seen": "2026-02-14T20:16:10.632506+00:00"
+    "price": 0.0925,
+    "last_seen": "2026-02-14T21:16:18.943665+00:00"
   }
 }

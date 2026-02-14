@@ -1,18 +1,18 @@
 {
-  "FLOKI/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "huobi",
-    "price": 3.14e-05,
-    "last_seen": "2026-02-14T14:19:00.498611+00:00"
+    "price": 6.596e-06,
+    "last_seen": "2026-02-14T15:17:47.456175+00:00"
   },
-  "1000RATS/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.04925,
-    "last_seen": "2026-02-14T14:19:00.498611+00:00"
+    "exchange": "gateio",
+    "price": 0.000727,
+    "last_seen": "2026-02-14T15:17:47.456175+00:00"
   }
 }

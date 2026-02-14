@@ -1,26 +1,10 @@
 {
-  "WIF/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.2211,
-    "last_seen": "2026-02-14T01:11:05.960833+00:00"
-  },
-  "1000RATS/USDT": {
-    "direction": "LONG",
+  "BAN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04818,
-    "last_seen": "2026-02-14T01:11:05.960833+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.02009,
-    "last_seen": "2026-02-14T01:11:05.960833+00:00"
+    "price": 0.0957,
+    "last_seen": "2026-02-14T04:02:18.236657+00:00"
   }
 }

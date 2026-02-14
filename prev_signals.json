@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
-    "direction": "LONG",
+  "WIF/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "huobi",
-    "price": 0.0512,
-    "last_seen": "2026-02-14T07:29:04.015181+00:00"
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.2265,
+    "last_seen": "2026-02-14T08:21:28.284965+00:00"
   }
 }

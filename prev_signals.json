@@ -1,10 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "SHORT",
+  "AIXBT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0957,
-    "last_seen": "2026-02-14T04:02:18.236657+00:00"
+    "exchange": "okx",
+    "price": 0.02072,
+    "last_seen": "2026-02-14T05:39:01.363721+00:00"
   }
 }

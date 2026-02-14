@@ -2,17 +2,33 @@
   "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.2313,
-    "last_seen": "2026-02-14T11:16:12.222694+00:00"
+    "price": 0.2323,
+    "last_seen": "2026-02-14T12:26:50.635053+00:00"
   },
   "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.05291,
-    "last_seen": "2026-02-14T11:16:12.222694+00:00"
+    "price": 0.05306,
+    "last_seen": "2026-02-14T12:26:50.635053+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 3.01e-05,
+    "last_seen": "2026-02-14T12:26:50.635053+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.0554,
+    "last_seen": "2026-02-14T12:26:50.635053+00:00"
   }
 }

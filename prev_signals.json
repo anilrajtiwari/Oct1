@@ -1,1 +1,10 @@
-{}
+{
+  "OM/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0592,
+    "last_seen": "2026-02-15T14:19:46.494026+00:00"
+  }
+}

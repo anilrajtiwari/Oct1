@@ -1,18 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.04695,
-    "last_seen": "2026-02-15T19:19:17.859615+00:00"
-  },
-  "DOGS/USDT": {
+  "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 2.855e-05,
-    "last_seen": "2026-02-15T19:19:17.859615+00:00"
+    "exchange": "gateio",
+    "price": 0.01899,
+    "last_seen": "2026-02-15T20:16:09.700189+00:00"
   }
 }

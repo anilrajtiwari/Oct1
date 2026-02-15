@@ -2,33 +2,33 @@
   "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.11486,
-    "last_seen": "2026-02-15T09:23:40.351191+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.00727,
-    "last_seen": "2026-02-15T09:23:40.351191+00:00"
+    "price": 0.11283,
+    "last_seen": "2026-02-15T10:17:45.631196+00:00"
   },
   "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.007589,
-    "last_seen": "2026-02-15T09:23:40.351191+00:00"
+    "price": 0.007514,
+    "last_seen": "2026-02-15T10:17:45.631196+00:00"
   },
-  "FARTCOIN/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.2106,
-    "last_seen": "2026-02-15T09:23:40.351191+00:00"
+    "exchange": "mexc",
+    "price": 3.351e-05,
+    "last_seen": "2026-02-15T10:17:45.631196+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0006887,
+    "last_seen": "2026-02-15T10:17:45.631196+00:00"
   }
 }

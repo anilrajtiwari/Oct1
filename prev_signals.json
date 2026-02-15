@@ -2,9 +2,41 @@
   "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.01917,
+    "last_seen": "2026-02-15T21:16:24.699900+00:00"
+  },
+  "OM/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0569,
+    "last_seen": "2026-02-15T21:16:24.699900+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01129,
+    "last_seen": "2026-02-15T21:16:24.699900+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0004302,
+    "last_seen": "2026-02-15T21:16:24.699900+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01899,
-    "last_seen": "2026-02-15T20:16:09.700189+00:00"
+    "price": 0.006971,
+    "last_seen": "2026-02-15T21:16:24.699900+00:00"
   }
 }

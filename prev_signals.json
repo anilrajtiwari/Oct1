@@ -1,10 +1,10 @@
 {
-  "DOGE/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 3,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.11376,
-    "last_seen": "2026-02-15T11:16:26.247941+00:00"
+    "price": 3.341e-05,
+    "last_seen": "2026-02-15T12:28:52.854920+00:00"
   }
 }

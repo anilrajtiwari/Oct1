@@ -1,26 +1,10 @@
 {
-  "BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 7.168e-06,
-    "last_seen": "2026-02-15T07:33:06.267191+00:00"
-  },
-  "FARTCOIN/USDT": {
+  "MEW/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.2145,
-    "last_seen": "2026-02-15T07:33:06.267191+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01585,
-    "last_seen": "2026-02-15T07:33:06.267191+00:00"
+    "price": 0.000682,
+    "last_seen": "2026-02-15T08:22:32.476743+00:00"
   }
 }

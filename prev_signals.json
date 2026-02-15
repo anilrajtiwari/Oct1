@@ -2,17 +2,25 @@
   "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.00777,
-    "last_seen": "2026-02-15T16:18:48.604204+00:00"
+    "price": 0.00774,
+    "last_seen": "2026-02-15T17:18:54.505276+00:00"
   },
-  "MOODENG/USDT": {
+  "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.05654,
-    "last_seen": "2026-02-15T16:18:48.604204+00:00"
+    "price": 0.0004318,
+    "last_seen": "2026-02-15T17:18:54.505276+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0175,
+    "last_seen": "2026-02-15T17:18:54.505276+00:00"
   }
 }

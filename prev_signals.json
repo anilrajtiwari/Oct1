@@ -2,17 +2,41 @@
   "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.11223,
-    "last_seen": "2026-02-14T23:15:54.100123+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.11258,
+    "last_seen": "2026-02-15T01:17:24.555922+00:00"
   },
-  "MEW/USDT": {
+  "PONKE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.000712,
-    "last_seen": "2026-02-14T23:15:54.100123+00:00"
+    "exchange": "mexc",
+    "price": 0.03767,
+    "last_seen": "2026-02-15T01:17:24.555922+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.007705,
+    "last_seen": "2026-02-15T01:17:24.555922+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.2173,
+    "last_seen": "2026-02-15T01:17:24.555922+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02077,
+    "last_seen": "2026-02-15T01:17:24.555922+00:00"
   }
 }

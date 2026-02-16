@@ -1,1 +1,18 @@
-{}
+{
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.227e-05,
+    "last_seen": "2026-02-16T21:21:07.160132+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 2.819,
+    "last_seen": "2026-02-16T21:21:07.160132+00:00"
+  }
+}

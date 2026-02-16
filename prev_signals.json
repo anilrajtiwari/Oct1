@@ -1,1 +1,10 @@
-{}
+{
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.05364,
+    "last_seen": "2026-02-16T06:01:54.420557+00:00"
+  }
+}

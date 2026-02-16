@@ -1,10 +1,10 @@
 {
-  "FLOKI/USDT": {
+  "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 3.23e-05,
-    "last_seen": "2026-02-16T22:19:07.456907+00:00"
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01564,
+    "last_seen": "2026-02-16T23:21:07.061332+00:00"
   }
 }

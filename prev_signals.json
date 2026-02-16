@@ -1,10 +1,1 @@
-{
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.000443,
-    "last_seen": "2026-02-16T08:36:16.728236+00:00"
-  }
-}
+{}

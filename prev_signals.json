@@ -1,10 +1,18 @@
 {
-  "MUBARAK/USDT": {
+  "SHIB/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
+    "exchange": "okx",
+    "price": 6.466e-06,
+    "last_seen": "2026-02-17T15:42:55.314785+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.01894,
-    "last_seen": "2026-02-17T14:51:24.581561+00:00"
+    "price": 0.05004,
+    "last_seen": "2026-02-17T15:42:55.314785+00:00"
   }
 }

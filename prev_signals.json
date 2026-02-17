@@ -1,10 +1,1 @@
-{
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01564,
-    "last_seen": "2026-02-16T23:21:07.061332+00:00"
-  }
-}
+{}

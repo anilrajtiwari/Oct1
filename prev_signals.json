@@ -1,10 +1,10 @@
 {
-  "HIPPO/USDT": {
-    "direction": "LONG",
+  "PENGU/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.000674,
-    "last_seen": "2026-02-17T10:36:48.353526+00:00"
+    "exchange": "huobi",
+    "price": 0.007068,
+    "last_seen": "2026-02-17T11:33:37.908325+00:00"
   }
 }

@@ -1,10 +1,18 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
+  "SPX/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01906,
-    "last_seen": "2026-02-18T15:42:42.031283+00:00"
+    "exchange": "mexc",
+    "price": 0.3546,
+    "last_seen": "2026-02-18T16:53:03.981597+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.059,
+    "last_seen": "2026-02-18T16:53:03.981597+00:00"
   }
 }

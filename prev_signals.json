@@ -1,1 +1,10 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.10109,
+    "last_seen": "2026-02-18T05:55:58.984293+00:00"
+  }
+}

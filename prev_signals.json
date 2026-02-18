@@ -1,1 +1,18 @@
-{}
+{
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0007058,
+    "last_seen": "2026-02-18T12:39:15.453765+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01901,
+    "last_seen": "2026-02-18T12:39:15.453765+00:00"
+  }
+}

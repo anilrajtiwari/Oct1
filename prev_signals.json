@@ -1,1 +1,18 @@
-{}
+{
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 6.315e-06,
+    "last_seen": "2026-02-18T21:28:24.405941+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.00671,
+    "last_seen": "2026-02-18T21:28:24.405941+00:00"
+  }
+}

@@ -2,41 +2,41 @@
   "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "gateio",
-    "price": 2.595,
-    "last_seen": "2026-02-19T15:39:55.007014+00:00"
-  },
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 6.103e-06,
-    "last_seen": "2026-02-19T15:39:55.007014+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 2.984e-05,
-    "last_seen": "2026-02-19T15:39:55.007014+00:00"
+    "price": 2.564,
+    "last_seen": "2026-02-19T16:41:20.417099+00:00"
   },
   "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.00659,
-    "last_seen": "2026-02-19T15:39:55.007014+00:00"
+    "price": 0.006559,
+    "last_seen": "2026-02-19T16:41:20.417099+00:00"
   },
   "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.04694,
+    "last_seen": "2026-02-19T16:41:20.417099+00:00"
+  },
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04716,
-    "last_seen": "2026-02-19T15:39:55.007014+00:00"
+    "price": 0.2156,
+    "last_seen": "2026-02-19T16:41:20.417099+00:00"
+  },
+  "PONKE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03175,
+    "last_seen": "2026-02-19T16:41:20.417099+00:00"
   }
 }

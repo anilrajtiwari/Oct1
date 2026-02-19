@@ -1,18 +1,1 @@
-{
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.0006668,
-    "last_seen": "2026-02-19T20:22:59.806402+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 2.554,
-    "last_seen": "2026-02-19T20:22:59.806402+00:00"
-  }
-}
+{}

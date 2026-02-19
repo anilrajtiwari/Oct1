@@ -2,9 +2,41 @@
   "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 2.595,
+    "last_seen": "2026-02-19T15:39:55.007014+00:00"
+  },
+  "BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 6.103e-06,
+    "last_seen": "2026-02-19T15:39:55.007014+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 2.984e-05,
+    "last_seen": "2026-02-19T15:39:55.007014+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 2.588,
-    "last_seen": "2026-02-19T14:03:44.016574+00:00"
+    "price": 0.00659,
+    "last_seen": "2026-02-19T15:39:55.007014+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04716,
+    "last_seen": "2026-02-19T15:39:55.007014+00:00"
   }
 }

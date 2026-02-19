@@ -1,10 +1,10 @@
 {
-  "PIPPIN/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.480843,
-    "last_seen": "2026-02-19T06:49:27.235317+00:00"
+    "exchange": "bitget",
+    "price": 0.0105,
+    "last_seen": "2026-02-19T07:43:46.140277+00:00"
   }
 }

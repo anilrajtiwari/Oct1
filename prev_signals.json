@@ -2,9 +2,9 @@
   "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.12652,
-    "last_seen": "2026-02-20T18:34:10.587121+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.12663,
+    "last_seen": "2026-02-20T19:31:58.330905+00:00"
   }
 }

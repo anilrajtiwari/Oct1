@@ -1,1 +1,18 @@
-{}
+{
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.006494,
+    "last_seen": "2026-02-21T11:15:30.404828+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001868,
+    "last_seen": "2026-02-21T11:15:30.404828+00:00"
+  }
+}

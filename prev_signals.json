@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
-    "direction": "LONG",
+  "MOODENG/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.05169,
-    "last_seen": "2026-02-21T06:31:11.037122+00:00"
+    "exchange": "gateio",
+    "price": 0.05804,
+    "last_seen": "2026-02-21T07:26:24.924349+00:00"
   }
 }

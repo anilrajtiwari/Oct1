@@ -2,9 +2,17 @@
   "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 4.198e-06,
+    "last_seen": "2026-02-21T19:18:15.002116+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 4.1985e-06,
-    "last_seen": "2026-02-21T18:22:08.444419+00:00"
+    "exchange": "mexc",
+    "price": 0.00766,
+    "last_seen": "2026-02-21T19:18:15.002116+00:00"
   }
 }

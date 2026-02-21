@@ -1,1 +1,26 @@
-{}
+{
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.2265,
+    "last_seen": "2026-02-21T05:05:03.677112+00:00"
+  },
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.00739,
+    "last_seen": "2026-02-21T05:05:03.677112+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.1859,
+    "last_seen": "2026-02-21T05:05:03.677112+00:00"
+  }
+}

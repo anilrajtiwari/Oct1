@@ -1,18 +1,42 @@
 {
-  "FARTCOIN/USDT": {
+  "OM/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.1866,
-    "last_seen": "2026-02-21T15:17:11.474695+00:00"
+    "exchange": "gateio",
+    "price": 0.0638,
+    "last_seen": "2026-02-21T16:18:35.757899+00:00"
   },
-  "VINE/USDT": {
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0004157,
+    "last_seen": "2026-02-21T16:18:35.757899+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.006826,
+    "last_seen": "2026-02-21T16:18:35.757899+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02017,
+    "last_seen": "2026-02-21T16:18:35.757899+00:00"
+  },
+  "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.01849,
-    "last_seen": "2026-02-21T15:17:11.474695+00:00"
+    "price": 0.05164,
+    "last_seen": "2026-02-21T16:18:35.757899+00:00"
   }
 }

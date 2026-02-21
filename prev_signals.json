@@ -1,1 +1,26 @@
-{}
+{
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.05657,
+    "last_seen": "2026-02-21T21:15:13.102637+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.05157,
+    "last_seen": "2026-02-21T21:15:13.102637+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.000675,
+    "last_seen": "2026-02-21T21:15:13.102637+00:00"
+  }
+}

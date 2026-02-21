@@ -1,26 +1,26 @@
 {
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.05657,
-    "last_seen": "2026-02-21T21:15:13.102637+00:00"
-  },
   "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 0.05157,
-    "last_seen": "2026-02-21T21:15:13.102637+00:00"
+    "price": 0.05154,
+    "last_seen": "2026-02-21T22:14:50.369785+00:00"
   },
-  "DEGEN/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.000675,
-    "last_seen": "2026-02-21T21:15:13.102637+00:00"
+    "exchange": "mexc",
+    "price": 4.17e-06,
+    "last_seen": "2026-02-21T22:14:50.369785+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.1847,
+    "last_seen": "2026-02-21T22:14:50.369785+00:00"
   }
 }

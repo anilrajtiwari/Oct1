@@ -1,18 +1,18 @@
 {
-  "MEME/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0006679,
-    "last_seen": "2026-02-22T04:08:26.587098+00:00"
+    "exchange": "huobi",
+    "price": 6.272e-06,
+    "last_seen": "2026-02-22T05:45:03.979501+00:00"
   },
-  "ORDI/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 2.579,
-    "last_seen": "2026-02-22T04:08:26.587098+00:00"
+    "exchange": "mexc",
+    "price": 4.074e-06,
+    "last_seen": "2026-02-22T05:45:03.979501+00:00"
   }
 }

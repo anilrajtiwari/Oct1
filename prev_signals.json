@@ -1,34 +1,26 @@
 {
   "DOGE/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 6,
-    "exchange": "okx",
-    "price": 0.09498,
-    "last_seen": "2026-02-22T21:16:25.279716+00:00"
+    "confidence": 0.75,
+    "count": 7,
+    "exchange": "gateio",
+    "price": 0.09532,
+    "last_seen": "2026-02-22T22:15:17.583403+00:00"
   },
-  "PEOPLE/USDT": {
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.012e-06,
+    "last_seen": "2026-02-22T22:15:17.583403+00:00"
+  },
+  "1000CAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.00643,
-    "last_seen": "2026-02-22T21:16:25.279716+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.006522,
-    "last_seen": "2026-02-22T21:16:25.279716+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.04594,
-    "last_seen": "2026-02-22T21:16:25.279716+00:00"
+    "price": 0.001729,
+    "last_seen": "2026-02-22T22:15:17.583403+00:00"
   }
 }

@@ -1,18 +1,34 @@
 {
   "DOGE/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 5,
-    "exchange": "huobi",
-    "price": 0.094892,
-    "last_seen": "2026-02-22T20:16:23.568696+00:00"
+    "confidence": 1.0,
+    "count": 6,
+    "exchange": "okx",
+    "price": 0.09498,
+    "last_seen": "2026-02-22T21:16:25.279716+00:00"
   },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01024,
-    "last_seen": "2026-02-22T20:16:23.568696+00:00"
+    "price": 0.00643,
+    "last_seen": "2026-02-22T21:16:25.279716+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.006522,
+    "last_seen": "2026-02-22T21:16:25.279716+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.04594,
+    "last_seen": "2026-02-22T21:16:25.279716+00:00"
   }
 }

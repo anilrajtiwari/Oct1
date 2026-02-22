@@ -1,18 +1,26 @@
 {
-  "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.2168,
-    "last_seen": "2026-02-22T06:36:21.834323+00:00"
-  },
-  "ORDI/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 2.573,
-    "last_seen": "2026-02-22T06:36:21.834323+00:00"
+    "price": 6.255e-06,
+    "last_seen": "2026-02-22T07:30:59.095430+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.1805,
+    "last_seen": "2026-02-22T07:30:59.095430+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0149,
+    "last_seen": "2026-02-22T07:30:59.095430+00:00"
   }
 }

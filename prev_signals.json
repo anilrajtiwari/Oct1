@@ -1,18 +1,18 @@
 {
-  "SHIB/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "huobi",
-    "price": 6.272e-06,
-    "last_seen": "2026-02-22T05:45:03.979501+00:00"
+    "price": 0.2168,
+    "last_seen": "2026-02-22T06:36:21.834323+00:00"
   },
-  "PEPE/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 4.074e-06,
-    "last_seen": "2026-02-22T05:45:03.979501+00:00"
+    "exchange": "gateio",
+    "price": 2.573,
+    "last_seen": "2026-02-22T06:36:21.834323+00:00"
   }
 }

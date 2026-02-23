@@ -1,18 +1,130 @@
 {
-  "DOGE/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0924,
-    "last_seen": "2026-02-23T04:14:39.429217+00:00"
+    "exchange": "gateio",
+    "price": 6.01e-06,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
   },
-  "KOMA/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.00668,
-    "last_seen": "2026-02-23T04:14:39.429217+00:00"
+    "price": 0.2035,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 5.868e-06,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.000639,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 2.66e-05,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 2.403,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0003798,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.006292,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.005881,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04435,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01855,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.00692,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01421,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0005715,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04712,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.000627,
+    "last_seen": "2026-02-23T06:00:23.718669+00:00"
   }
 }

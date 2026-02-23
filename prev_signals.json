@@ -1,1 +1,26 @@
-{}
+{
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.04417,
+    "last_seen": "2026-02-23T17:55:24.900607+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.00686,
+    "last_seen": "2026-02-23T17:55:24.900607+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0005736,
+    "last_seen": "2026-02-23T17:55:24.900607+00:00"
+  }
+}

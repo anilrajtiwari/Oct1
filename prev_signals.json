@@ -1,130 +1,98 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 6.01e-06,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
-  },
   "WIF/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.2035,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.2062,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   },
   "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 5.868e-06,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "price": 5.958e-06,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   },
   "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 0.000639,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "price": 0.000648,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   },
   "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 2.66e-05,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 2.403,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 2.691e-05,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   },
   "BOME/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0003798,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.006292,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "price": 0.000383,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   },
   "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.005881,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "price": 0.005968,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   },
   "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.04435,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "price": 0.04468,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   },
   "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01855,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.0187,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   },
   "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.00692,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "price": 0.00693,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   },
   "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.01421,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0005715,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "price": 0.01417,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   },
   "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.04712,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "price": 0.04754,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   },
-  "DEGEN/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.000627,
-    "last_seen": "2026-02-23T06:00:23.718669+00:00"
+    "exchange": "bitget",
+    "price": 2.847e-05,
+    "last_seen": "2026-02-23T07:05:29.084874+00:00"
   }
 }

@@ -1,10 +1,1 @@
-{
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 2.66e-05,
-    "last_seen": "2026-02-23T15:38:43.076129+00:00"
-  }
-}
+{}

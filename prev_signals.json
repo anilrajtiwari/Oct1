@@ -1,26 +1,26 @@
 {
-  "PNUT/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.04417,
-    "last_seen": "2026-02-23T17:55:24.900607+00:00"
+    "exchange": "mexc",
+    "price": 0.09379,
+    "last_seen": "2026-02-23T18:50:31.822449+00:00"
   },
-  "BRETT/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.00686,
-    "last_seen": "2026-02-23T17:55:24.900607+00:00"
+    "exchange": "gateio",
+    "price": 2.816e-05,
+    "last_seen": "2026-02-23T18:50:31.822449+00:00"
   },
-  "MEW/USDT": {
+  "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0005736,
-    "last_seen": "2026-02-23T17:55:24.900607+00:00"
+    "exchange": "gateio",
+    "price": 0.01647,
+    "last_seen": "2026-02-23T18:50:31.822449+00:00"
   }
 }

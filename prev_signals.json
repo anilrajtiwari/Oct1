@@ -1,10 +1,18 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "LONG",
+  "BAN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.01359,
-    "last_seen": "2026-02-24T07:44:46.406382+00:00"
+    "exchange": "gateio",
+    "price": 0.12229,
+    "last_seen": "2026-02-24T08:36:25.539353+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.2737,
+    "last_seen": "2026-02-24T08:36:25.539353+00:00"
   }
 }

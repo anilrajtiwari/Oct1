@@ -1,10 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "LONG",
+  "PNUT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 3.885e-06,
-    "last_seen": "2026-02-24T04:09:55.919209+00:00"
+    "exchange": "gateio",
+    "price": 0.04311,
+    "last_seen": "2026-02-24T05:54:23.712532+00:00"
   }
 }

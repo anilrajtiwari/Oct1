@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.12229,
-    "last_seen": "2026-02-24T08:36:25.539353+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.2737,
-    "last_seen": "2026-02-24T08:36:25.539353+00:00"
+    "price": 0.0067,
+    "last_seen": "2026-02-24T09:42:35.244315+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "CHILLGUY/USDT": {
+  "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01009,
-    "last_seen": "2026-02-25T01:17:44.921263+00:00"
+    "exchange": "okx",
+    "price": 0.04796,
+    "last_seen": "2026-02-25T04:11:55.053819+00:00"
   }
 }

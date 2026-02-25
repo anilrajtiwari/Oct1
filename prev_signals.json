@@ -1,18 +1,1 @@
-{
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.01456,
-    "last_seen": "2026-02-25T20:27:20.800215+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.3307,
-    "last_seen": "2026-02-25T20:27:20.800215+00:00"
-  }
-}
+{}

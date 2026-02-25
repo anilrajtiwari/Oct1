@@ -1,10 +1,10 @@
 {
-  "PIPPIN/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.81248,
-    "last_seen": "2026-02-24T23:23:23.042280+00:00"
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01009,
+    "last_seen": "2026-02-25T01:17:44.921263+00:00"
   }
 }

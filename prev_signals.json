@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 3,
-    "exchange": "mexc",
-    "price": 0.01428,
-    "last_seen": "2026-02-25T10:41:31.583046+00:00"
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 6.01e-06,
+    "last_seen": "2026-02-25T11:34:46.742702+00:00"
   }
 }

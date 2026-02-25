@@ -1,10 +1,1 @@
-{
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.169,
-    "last_seen": "2026-02-25T17:56:51.650724+00:00"
-  }
-}
+{}

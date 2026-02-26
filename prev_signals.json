@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.04857,
-    "last_seen": "2026-02-26T19:38:07.230012+00:00"
+    "exchange": "gateio",
+    "price": 0.000623,
+    "last_seen": "2026-02-26T20:27:28.719294+00:00"
   }
 }

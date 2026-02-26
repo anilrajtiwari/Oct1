@@ -1,10 +1,10 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
+  "POPCAT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 2.409,
-    "last_seen": "2026-02-26T18:39:32.373956+00:00"
+    "price": 0.04857,
+    "last_seen": "2026-02-26T19:38:07.230012+00:00"
   }
 }

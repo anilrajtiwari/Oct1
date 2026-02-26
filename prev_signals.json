@@ -2,33 +2,9 @@
   "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.007118,
-    "last_seen": "2026-02-26T06:48:36.158700+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.1706,
-    "last_seen": "2026-02-26T06:48:36.158700+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.02009,
-    "last_seen": "2026-02-26T06:48:36.158700+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0006158,
-    "last_seen": "2026-02-26T06:48:36.158700+00:00"
+    "price": 0.007124,
+    "last_seen": "2026-02-26T07:45:14.485579+00:00"
   }
 }

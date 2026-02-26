@@ -1,10 +1,10 @@
 {
-  "PENGU/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 3,
-    "exchange": "mexc",
-    "price": 0.007201,
-    "last_seen": "2026-02-26T08:35:59.847388+00:00"
+    "count": 1,
+    "exchange": "bitget",
+    "price": 3.016e-05,
+    "last_seen": "2026-02-26T09:40:03.808007+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.01333,
-    "last_seen": "2026-02-26T17:52:57.600960+00:00"
+    "price": 2.409,
+    "last_seen": "2026-02-26T18:39:32.373956+00:00"
   }
 }

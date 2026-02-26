@@ -2,9 +2,17 @@
   "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "huobi",
+    "price": 0.006947,
+    "last_seen": "2026-02-26T23:22:02.606857+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.006907,
-    "last_seen": "2026-02-26T22:23:33.111846+00:00"
+    "exchange": "bitget",
+    "price": 0.0003898,
+    "last_seen": "2026-02-26T23:22:02.606857+00:00"
   }
 }

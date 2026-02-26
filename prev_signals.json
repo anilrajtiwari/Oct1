@@ -2,9 +2,17 @@
   "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.0006219,
+    "last_seen": "2026-02-26T21:25:24.933006+00:00"
+  },
+  "BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.000623,
-    "last_seen": "2026-02-26T20:27:28.719294+00:00"
+    "price": 6.068e-06,
+    "last_seen": "2026-02-26T21:25:24.933006+00:00"
   }
 }

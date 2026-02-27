@@ -1,10 +1,10 @@
 {
-  "SHIB/USDT": {
+  "MEW/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 6.028e-06,
-    "last_seen": "2026-02-27T06:40:53.415908+00:00"
+    "exchange": "mexc",
+    "price": 0.0006219,
+    "last_seen": "2026-02-27T07:40:27.729485+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "FLOKI/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 2.873e-05,
-    "last_seen": "2026-02-27T16:30:24.626055+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.656397,
-    "last_seen": "2026-02-27T16:30:24.626055+00:00"
+    "exchange": "bitget",
+    "price": 0.00698,
+    "last_seen": "2026-02-27T17:27:38.997601+00:00"
   }
 }

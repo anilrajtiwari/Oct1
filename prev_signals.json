@@ -1,1 +1,10 @@
-{}
+{
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.02229,
+    "last_seen": "2026-02-27T13:54:10.967619+00:00"
+  }
+}

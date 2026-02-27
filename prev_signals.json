@@ -1,18 +1,42 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01015,
-    "last_seen": "2026-02-27T08:31:49.170073+00:00"
-  },
   "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.0003996,
+    "last_seen": "2026-02-27T09:32:53.445937+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 2.841e-05,
+    "last_seen": "2026-02-27T09:32:53.445937+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.1766,
+    "last_seen": "2026-02-27T09:32:53.445937+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.0003993,
-    "last_seen": "2026-02-27T08:31:49.170073+00:00"
+    "price": 0.001767,
+    "last_seen": "2026-02-27T09:32:53.445937+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0007074,
+    "last_seen": "2026-02-27T09:32:53.445937+00:00"
   }
 }

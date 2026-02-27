@@ -1,1 +1,10 @@
-{}
+{
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 6.028e-06,
+    "last_seen": "2026-02-27T06:40:53.415908+00:00"
+  }
+}

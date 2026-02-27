@@ -1,10 +1,10 @@
 {
-  "BRETT/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.00698,
-    "last_seen": "2026-02-27T17:27:38.997601+00:00"
+    "exchange": "mexc",
+    "price": 5.781e-06,
+    "last_seen": "2026-02-27T18:29:46.997618+00:00"
   }
 }

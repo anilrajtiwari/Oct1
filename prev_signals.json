@@ -1,1 +1,18 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 2.482,
+    "last_seen": "2026-02-27T15:31:30.179804+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04547,
+    "last_seen": "2026-02-27T15:31:30.179804+00:00"
+  }
+}

@@ -1,10 +1,18 @@
 {
-  "CHILLGUY/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.00975,
-    "last_seen": "2026-02-27T19:27:52.055876+00:00"
+    "exchange": "huobi",
+    "price": 3.6766e-06,
+    "last_seen": "2026-02-27T20:19:59.817714+00:00"
+  },
+  "WIF/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.2048,
+    "last_seen": "2026-02-27T20:19:59.817714+00:00"
   }
 }

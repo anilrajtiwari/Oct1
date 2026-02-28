@@ -2,9 +2,9 @@
   "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.1899,
-    "last_seen": "2026-02-28T20:16:23.526582+00:00"
+    "count": 2,
+    "exchange": "huobi",
+    "price": 0.192,
+    "last_seen": "2026-02-28T21:13:26.828979+00:00"
   }
 }

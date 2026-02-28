@@ -1,1 +1,18 @@
-{}
+{
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.000557,
+    "last_seen": "2026-02-28T10:14:56.104381+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.04142,
+    "last_seen": "2026-02-28T10:14:56.104381+00:00"
+  }
+}

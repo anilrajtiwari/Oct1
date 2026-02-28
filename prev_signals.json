@@ -2,25 +2,17 @@
   "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "okx",
-    "price": 3.47e-06,
-    "last_seen": "2026-02-28T12:26:17.045720+00:00"
+    "price": 3.462e-06,
+    "last_seen": "2026-02-28T13:31:50.905840+00:00"
   },
-  "CHILLGUY/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.00917,
-    "last_seen": "2026-02-28T12:26:17.045720+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.04137,
-    "last_seen": "2026-02-28T12:26:17.045720+00:00"
+    "exchange": "huobi",
+    "price": 2.643e-05,
+    "last_seen": "2026-02-28T13:31:50.905840+00:00"
   }
 }

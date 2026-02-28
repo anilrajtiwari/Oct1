@@ -1,10 +1,10 @@
 {
-  "ACT/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.01323,
-    "last_seen": "2026-02-28T06:26:28.261954+00:00"
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.11153,
+    "last_seen": "2026-02-28T07:20:38.585941+00:00"
   }
 }

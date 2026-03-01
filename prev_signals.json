@@ -1,18 +1,1 @@
-{
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 5.709e-06,
-    "last_seen": "2026-03-01T01:19:47.854341+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01665,
-    "last_seen": "2026-03-01T01:19:47.854341+00:00"
-  }
-}
+{}

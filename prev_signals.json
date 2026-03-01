@@ -2,9 +2,25 @@
   "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.01303,
-    "last_seen": "2026-03-01T22:15:06.674141+00:00"
+    "price": 0.013,
+    "last_seen": "2026-03-01T23:15:46.405466+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 2.384,
+    "last_seen": "2026-03-01T23:15:46.405466+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04833,
+    "last_seen": "2026-03-01T23:15:46.405466+00:00"
   }
 }

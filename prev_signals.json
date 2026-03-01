@@ -1,18 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "LONG",
+  "PEPE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.56049,
-    "last_seen": "2026-03-01T20:16:35.512339+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.02012,
-    "last_seen": "2026-03-01T20:16:35.512339+00:00"
+    "price": 3.408e-06,
+    "last_seen": "2026-03-01T21:15:06.927361+00:00"
   }
 }

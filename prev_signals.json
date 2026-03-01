@@ -1,10 +1,10 @@
 {
-  "PEPE/USDT": {
+  "ACT/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "mexc",
-    "price": 3.408e-06,
-    "last_seen": "2026-03-01T21:15:06.927361+00:00"
+    "exchange": "gateio",
+    "price": 0.01303,
+    "last_seen": "2026-03-01T22:15:06.674141+00:00"
   }
 }

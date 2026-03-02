@@ -1,10 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "SHORT",
+  "BAN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.03497,
-    "last_seen": "2026-03-02T17:38:43.683134+00:00"
+    "price": 0.10742,
+    "last_seen": "2026-03-02T18:34:09.677315+00:00"
   }
 }

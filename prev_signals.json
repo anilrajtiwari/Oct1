@@ -2,9 +2,9 @@
   "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.01311,
-    "last_seen": "2026-03-02T07:43:45.796328+00:00"
+    "count": 3,
+    "exchange": "bitget",
+    "price": 0.0131,
+    "last_seen": "2026-03-02T08:33:40.703434+00:00"
   }
 }

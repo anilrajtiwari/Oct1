@@ -1,10 +1,10 @@
 {
-  "SHIB/USDT": {
+  "HIPPO/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 5.414e-06,
-    "last_seen": "2026-03-03T06:39:13.797271+00:00"
+    "exchange": "gateio",
+    "price": 0.000727,
+    "last_seen": "2026-03-03T07:37:10.230403+00:00"
   }
 }

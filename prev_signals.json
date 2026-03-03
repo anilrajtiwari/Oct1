@@ -1,10 +1,10 @@
 {
-  "AIXBT/USDT": {
-    "direction": "LONG",
+  "PENGU/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.02536,
-    "last_seen": "2026-03-03T14:38:01.189243+00:00"
+    "exchange": "okx",
+    "price": 0.006901,
+    "last_seen": "2026-03-03T15:39:54.640530+00:00"
   }
 }

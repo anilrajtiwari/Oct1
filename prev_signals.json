@@ -1,10 +1,10 @@
 {
-  "DEGEN/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.000687,
-    "last_seen": "2026-03-03T05:42:51.329889+00:00"
+    "exchange": "huobi",
+    "price": 5.414e-06,
+    "last_seen": "2026-03-03T06:39:13.797271+00:00"
   }
 }

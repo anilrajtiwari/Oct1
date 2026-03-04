@@ -1,10 +1,10 @@
 {
-  "CHILLGUY/USDT": {
+  "PONKE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01101,
-    "last_seen": "2026-03-04T18:35:29.388657+00:00"
+    "exchange": "mexc",
+    "price": 0.03065,
+    "last_seen": "2026-03-04T19:32:50.743643+00:00"
   }
 }

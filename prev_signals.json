@@ -1,18 +1,10 @@
 {
-  "MEME/USDT": {
+  "BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0006275,
-    "last_seen": "2026-03-05T07:36:51.481729+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.10594,
-    "last_seen": "2026-03-05T07:36:51.481729+00:00"
+    "exchange": "gateio",
+    "price": 6.179e-06,
+    "last_seen": "2026-03-05T08:30:39.457590+00:00"
   }
 }

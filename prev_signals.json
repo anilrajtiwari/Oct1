@@ -1,18 +1,26 @@
 {
-  "ORDI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 2.541,
-    "last_seen": "2026-03-04T23:22:36.241159+00:00"
-  },
-  "PENGU/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.007198,
-    "last_seen": "2026-03-04T23:22:36.241159+00:00"
+    "price": 0.0004191,
+    "last_seen": "2026-03-05T01:12:47.371132+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04806,
+    "last_seen": "2026-03-05T01:12:47.371132+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.02902,
+    "last_seen": "2026-03-05T01:12:47.371132+00:00"
   }
 }

@@ -1,18 +1,1 @@
-{
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01026,
-    "last_seen": "2026-03-06T08:27:39.441488+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0004072,
-    "last_seen": "2026-03-06T08:27:39.441488+00:00"
-  }
-}
+{}

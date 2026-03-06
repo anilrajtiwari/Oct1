@@ -1,10 +1,10 @@
 {
-  "SHIB/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 5.548e-06,
-    "last_seen": "2026-03-06T11:22:11.661036+00:00"
+    "exchange": "okx",
+    "price": 0.0006085,
+    "last_seen": "2026-03-06T12:33:48.821790+00:00"
   }
 }

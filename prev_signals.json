@@ -2,33 +2,33 @@
   "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 4,
+    "count": 5,
     "exchange": "gateio",
-    "price": 0.0003933,
-    "last_seen": "2026-03-06T22:19:10.586299+00:00"
+    "price": 0.0003944,
+    "last_seen": "2026-03-06T23:20:28.498418+00:00"
   },
   "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.0005987,
-    "last_seen": "2026-03-06T22:19:10.586299+00:00"
+    "price": 0.0006,
+    "last_seen": "2026-03-06T23:20:28.498418+00:00"
   },
   "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
     "price": 0.01338,
-    "last_seen": "2026-03-06T22:19:10.586299+00:00"
+    "last_seen": "2026-03-06T23:20:28.498418+00:00"
   },
-  "DEGEN/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.000694,
-    "last_seen": "2026-03-06T22:19:10.586299+00:00"
+    "price": 0.006985,
+    "last_seen": "2026-03-06T23:20:28.498418+00:00"
   }
 }

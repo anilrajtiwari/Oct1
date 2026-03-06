@@ -1,10 +1,10 @@
 {
-  "BONK/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 6.179e-06,
-    "last_seen": "2026-03-05T08:30:39.457590+00:00"
+    "price": 2.899e-05,
+    "last_seen": "2026-03-06T06:36:08.214492+00:00"
   }
 }

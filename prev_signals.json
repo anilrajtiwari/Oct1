@@ -1,1 +1,10 @@
-{}
+{
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.006863,
+    "last_seen": "2026-03-07T17:14:36.584134+00:00"
+  }
+}

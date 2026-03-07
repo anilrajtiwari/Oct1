@@ -1,10 +1,10 @@
 {
-  "KOMA/USDT": {
-    "direction": "SHORT",
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.007457,
-    "last_seen": "2026-03-07T08:19:58.454639+00:00"
+    "exchange": "gateio",
+    "price": 0.00977,
+    "last_seen": "2026-03-07T09:21:08.119251+00:00"
   }
 }

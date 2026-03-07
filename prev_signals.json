@@ -1,1 +1,18 @@
-{}
+{
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.0069,
+    "last_seen": "2026-03-07T11:13:28.322832+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.04938,
+    "last_seen": "2026-03-07T11:13:28.322832+00:00"
+  }
+}

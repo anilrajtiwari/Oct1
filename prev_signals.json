@@ -1,1 +1,18 @@
-{}
+{
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 2.634e-05,
+    "last_seen": "2026-03-08T21:15:44.232128+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.11887,
+    "last_seen": "2026-03-08T21:15:44.232128+00:00"
+  }
+}

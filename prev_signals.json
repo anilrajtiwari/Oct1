@@ -1,18 +1,42 @@
 {
-  "SPX/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.3026,
-    "last_seen": "2026-03-08T06:32:06.893656+00:00"
-  },
-  "HIPPO/USDT": {
-    "direction": "LONG",
     "confidence": 1.0,
     "count": 1,
+    "exchange": "okx",
+    "price": 5.633e-06,
+    "last_seen": "2026-03-08T07:26:07.645949+00:00"
+  },
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.007227,
+    "last_seen": "2026-03-08T07:26:07.645949+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.00674,
+    "last_seen": "2026-03-08T07:26:07.645949+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "gateio",
-    "price": 0.000714,
-    "last_seen": "2026-03-08T06:32:06.893656+00:00"
+    "price": 0.01684,
+    "last_seen": "2026-03-08T07:26:07.645949+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0005641,
+    "last_seen": "2026-03-08T07:26:07.645949+00:00"
   }
 }

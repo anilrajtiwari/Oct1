@@ -1,42 +1,18 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.198e-06,
-    "last_seen": "2026-03-08T05:38:00.901726+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 2.72e-05,
-    "last_seen": "2026-03-08T05:38:00.901726+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0003758,
-    "last_seen": "2026-03-08T05:38:00.901726+00:00"
-  },
   "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 0.3051,
-    "last_seen": "2026-03-08T05:38:00.901726+00:00"
+    "price": 0.3026,
+    "last_seen": "2026-03-08T06:32:06.893656+00:00"
   },
-  "1000CAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
+  "HIPPO/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.00153,
-    "last_seen": "2026-03-08T05:38:00.901726+00:00"
+    "exchange": "gateio",
+    "price": 0.000714,
+    "last_seen": "2026-03-08T06:32:06.893656+00:00"
   }
 }

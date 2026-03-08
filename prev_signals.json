@@ -1,18 +1,1 @@
-{
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 3.1798e-06,
-    "last_seen": "2026-03-08T19:18:19.096251+00:00"
-  },
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 2.634e-05,
-    "last_seen": "2026-03-08T19:18:19.096251+00:00"
-  }
-}
+{}

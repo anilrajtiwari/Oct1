@@ -1,26 +1,10 @@
 {
-  "PONKE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.02958,
-    "last_seen": "2026-03-10T11:26:28.040864+00:00"
-  },
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 6e-06,
-    "last_seen": "2026-03-10T11:26:28.040864+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
+  "ACT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.04545,
-    "last_seen": "2026-03-10T11:26:28.040864+00:00"
+    "price": 0.01323,
+    "last_seen": "2026-03-10T12:37:41.090787+00:00"
   }
 }

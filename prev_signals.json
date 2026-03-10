@@ -1,10 +1,10 @@
 {
-  "PENGU/USDT": {
+  "PONKE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.007263,
-    "last_seen": "2026-03-10T09:35:19.724959+00:00"
+    "price": 0.02964,
+    "last_seen": "2026-03-10T10:30:37.288593+00:00"
   }
 }

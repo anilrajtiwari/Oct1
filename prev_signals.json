@@ -1,10 +1,10 @@
 {
-  "MOODENG/USDT": {
+  "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04932,
-    "last_seen": "2026-03-10T08:31:10.620884+00:00"
+    "price": 0.007263,
+    "last_seen": "2026-03-10T09:35:19.724959+00:00"
   }
 }

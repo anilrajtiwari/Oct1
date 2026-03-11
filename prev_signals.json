@@ -1,10 +1,10 @@
 {
-  "DEGEN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.000712,
-    "last_seen": "2026-03-11T10:30:27.102210+00:00"
+    "price": 3.018e-05,
+    "last_seen": "2026-03-11T11:26:47.968509+00:00"
   }
 }

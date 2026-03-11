@@ -1,18 +1,1 @@
-{
-  "PEPE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.349e-06,
-    "last_seen": "2026-03-11T21:24:26.053997+00:00"
-  },
-  "WIF/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.1661,
-    "last_seen": "2026-03-11T21:24:26.053997+00:00"
-  }
-}
+{}

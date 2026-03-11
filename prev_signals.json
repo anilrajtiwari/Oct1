@@ -1,26 +1,10 @@
 {
-  "WIF/USDT": {
+  "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.1645,
-    "last_seen": "2026-03-11T01:08:24.349483+00:00"
-  },
-  "KOMA/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.008432,
-    "last_seen": "2026-03-11T01:08:24.349483+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.11318,
-    "last_seen": "2026-03-11T01:08:24.349483+00:00"
+    "price": 0.0004184,
+    "last_seen": "2026-03-11T04:01:39.251096+00:00"
   }
 }

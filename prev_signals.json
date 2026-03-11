@@ -1,10 +1,10 @@
 {
-  "WIF/USDT": {
+  "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.1704,
-    "last_seen": "2026-03-11T14:00:05.394670+00:00"
+    "price": 0.0134,
+    "last_seen": "2026-03-11T14:45:05.021637+00:00"
   }
 }

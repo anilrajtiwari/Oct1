@@ -1,10 +1,18 @@
 {
-  "DOGS/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 3.018e-05,
-    "last_seen": "2026-03-11T11:26:47.968509+00:00"
+    "exchange": "okx",
+    "price": 0.007495,
+    "last_seen": "2026-03-11T12:37:41.621186+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.3008,
+    "last_seen": "2026-03-11T12:37:41.621186+00:00"
   }
 }

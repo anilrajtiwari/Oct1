@@ -1,10 +1,18 @@
 {
-  "MEME/USDT": {
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 5.926e-06,
+    "last_seen": "2026-03-12T19:37:09.348002+00:00"
+  },
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0006252,
-    "last_seen": "2026-03-12T18:40:28.778059+00:00"
+    "price": 0.0156,
+    "last_seen": "2026-03-12T19:37:09.348002+00:00"
   }
 }

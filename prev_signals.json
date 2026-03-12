@@ -2,9 +2,9 @@
   "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.1641,
-    "last_seen": "2026-03-12T08:32:30.034672+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.165,
+    "last_seen": "2026-03-12T09:34:43.342957+00:00"
   }
 }

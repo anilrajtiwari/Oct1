@@ -1,1 +1,18 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.000436,
+    "last_seen": "2026-03-12T12:36:46.321767+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.007289,
+    "last_seen": "2026-03-12T12:36:46.321767+00:00"
+  }
+}

@@ -1,10 +1,10 @@
 {
-  "ACT/USDT": {
-    "direction": "SHORT",
+  "ORDI/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01352,
-    "last_seen": "2026-03-12T13:57:11.494212+00:00"
+    "exchange": "mexc",
+    "price": 2.464,
+    "last_seen": "2026-03-12T14:43:08.078717+00:00"
   }
 }

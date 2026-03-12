@@ -1,18 +1,1 @@
-{
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 3.248e-05,
-    "last_seen": "2026-03-12T10:30:57.468272+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.007375,
-    "last_seen": "2026-03-12T10:30:57.468272+00:00"
-  }
-}
+{}

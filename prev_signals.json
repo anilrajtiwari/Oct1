@@ -1,10 +1,10 @@
 {
-  "BAN/USDT": {
+  "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.11278,
-    "last_seen": "2026-03-11T23:18:06.625274+00:00"
+    "exchange": "gateio",
+    "price": 0.007073,
+    "last_seen": "2026-03-12T01:05:27.310669+00:00"
   }
 }

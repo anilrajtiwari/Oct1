@@ -1,10 +1,10 @@
 {
-  "BAN/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.11633,
-    "last_seen": "2026-03-13T20:24:08.713632+00:00"
+    "exchange": "gateio",
+    "price": 0.361539,
+    "last_seen": "2026-03-13T21:25:04.630321+00:00"
   }
 }

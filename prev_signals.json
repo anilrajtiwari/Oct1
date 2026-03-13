@@ -1,18 +1,10 @@
 {
-  "SHIB/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 5.996e-06,
-    "last_seen": "2026-03-13T09:31:26.679727+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.3257,
-    "last_seen": "2026-03-13T09:31:26.679727+00:00"
+    "price": 0.36177,
+    "last_seen": "2026-03-13T10:27:14.816528+00:00"
   }
 }

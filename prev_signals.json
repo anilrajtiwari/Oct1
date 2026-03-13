@@ -1,10 +1,10 @@
 {
-  "ACT/USDT": {
-    "direction": "SHORT",
+  "KOMA/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01404,
-    "last_seen": "2026-03-13T06:40:27.563635+00:00"
+    "exchange": "mexc",
+    "price": 0.008662,
+    "last_seen": "2026-03-13T07:39:22.784617+00:00"
   }
 }

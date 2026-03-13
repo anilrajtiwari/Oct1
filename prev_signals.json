@@ -1,10 +1,26 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 3.18e-05,
-    "last_seen": "2026-03-13T13:54:22.709008+00:00"
+    "price": 0.01009,
+    "last_seen": "2026-03-13T14:37:13.792667+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01531,
+    "last_seen": "2026-03-13T14:37:13.792667+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0554,
+    "last_seen": "2026-03-13T14:37:13.792667+00:00"
   }
 }

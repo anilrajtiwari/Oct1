@@ -1,26 +1,18 @@
 {
-  "CHILLGUY/USDT": {
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.000473,
+    "last_seen": "2026-03-13T15:35:07.275743+00:00"
+  },
+  "FARTCOIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01009,
-    "last_seen": "2026-03-13T14:37:13.792667+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01531,
-    "last_seen": "2026-03-13T14:37:13.792667+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0554,
-    "last_seen": "2026-03-13T14:37:13.792667+00:00"
+    "price": 0.1679,
+    "last_seen": "2026-03-13T15:35:07.275743+00:00"
   }
 }

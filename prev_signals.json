@@ -1,10 +1,1 @@
-{
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01351,
-    "last_seen": "2026-03-14T10:19:16.191400+00:00"
-  }
-}
+{}

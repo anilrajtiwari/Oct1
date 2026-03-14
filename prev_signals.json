@@ -1,18 +1,10 @@
 {
-  "WIF/USDT": {
+  "SPX/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.1652,
-    "last_seen": "2026-03-14T15:19:36.539207+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0526,
-    "last_seen": "2026-03-14T15:19:36.539207+00:00"
+    "exchange": "bitget",
+    "price": 0.3034,
+    "last_seen": "2026-03-14T16:20:53.201319+00:00"
   }
 }

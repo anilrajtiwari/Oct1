@@ -1,1 +1,10 @@
-{}
+{
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.05229,
+    "last_seen": "2026-03-14T12:29:40.974917+00:00"
+  }
+}

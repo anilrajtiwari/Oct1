@@ -1,18 +1,10 @@
 {
-  "WIF/USDT": {
+  "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.1673,
-    "last_seen": "2026-03-13T23:20:30.848666+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.1594,
-    "last_seen": "2026-03-13T23:20:30.848666+00:00"
+    "exchange": "mexc",
+    "price": 0.0004513,
+    "last_seen": "2026-03-14T01:10:30.902564+00:00"
   }
 }

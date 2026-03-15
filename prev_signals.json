@@ -1,10 +1,10 @@
 {
-  "DOGS/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 3.093e-05,
-    "last_seen": "2026-03-15T08:26:47.686027+00:00"
+    "exchange": "bitget",
+    "price": 3.37e-06,
+    "last_seen": "2026-03-15T09:25:58.229359+00:00"
   }
 }

@@ -1,1 +1,10 @@
-{}
+{
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.3488,
+    "last_seen": "2026-03-15T01:22:20.887026+00:00"
+  }
+}

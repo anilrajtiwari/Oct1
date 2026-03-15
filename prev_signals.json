@@ -1,10 +1,10 @@
 {
-  "PIPPIN/USDT": {
+  "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.36521,
-    "last_seen": "2026-03-15T13:41:18.404786+00:00"
+    "exchange": "mexc",
+    "price": 0.0548,
+    "last_seen": "2026-03-15T14:22:56.416584+00:00"
   }
 }

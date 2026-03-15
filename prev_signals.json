@@ -1,18 +1,10 @@
 {
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.05585,
-    "last_seen": "2026-03-15T20:18:56.199859+00:00"
-  },
-  "KOMA/USDT": {
+  "DEGEN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.007646,
-    "last_seen": "2026-03-15T20:18:56.199859+00:00"
+    "price": 0.0008349,
+    "last_seen": "2026-03-15T21:20:06.015128+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.00948,
-    "last_seen": "2026-03-15T23:20:41.924450+00:00"
-  },
   "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.0072,
-    "last_seen": "2026-03-15T23:20:41.924450+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.007278,
+    "last_seen": "2026-03-16T01:21:51.578960+00:00"
   }
 }

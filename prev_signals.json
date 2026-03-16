@@ -1,26 +1,18 @@
 {
-  "FLOKI/USDT": {
+  "PIPPIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 3.15e-05,
-    "last_seen": "2026-03-16T15:56:55.678126+00:00"
+    "exchange": "mexc",
+    "price": 0.29766,
+    "last_seen": "2026-03-16T16:54:39.120101+00:00"
   },
-  "BOME/USDT": {
+  "SPX/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.000473,
-    "last_seen": "2026-03-16T15:56:55.678126+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.007429,
-    "last_seen": "2026-03-16T15:56:55.678126+00:00"
+    "exchange": "huobi",
+    "price": 0.3318,
+    "last_seen": "2026-03-16T16:54:39.120101+00:00"
   }
 }

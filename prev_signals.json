@@ -1,34 +1,34 @@
 {
   "ORDI/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 2.706,
-    "last_seen": "2026-03-16T11:40:40.628520+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0006142,
-    "last_seen": "2026-03-16T11:40:40.628520+00:00"
+    "count": 3,
+    "exchange": "gateio",
+    "price": 2.708,
+    "last_seen": "2026-03-16T12:46:58.819012+00:00"
   },
   "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 0.00811,
-    "last_seen": "2026-03-16T11:40:40.628520+00:00"
+    "price": 0.008106,
+    "last_seen": "2026-03-16T12:46:58.819012+00:00"
   },
-  "POPCAT/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "huobi",
-    "price": 0.0575,
-    "last_seen": "2026-03-16T11:40:40.628520+00:00"
+    "price": 0.188,
+    "last_seen": "2026-03-16T12:46:58.819012+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.185e-05,
+    "last_seen": "2026-03-16T12:46:58.819012+00:00"
   }
 }

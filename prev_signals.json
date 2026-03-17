@@ -1,10 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
+  "MEME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.16699,
-    "last_seen": "2026-03-17T05:53:42.158572+00:00"
+    "exchange": "huobi",
+    "price": 0.00061,
+    "last_seen": "2026-03-17T06:53:28.761415+00:00"
   }
 }

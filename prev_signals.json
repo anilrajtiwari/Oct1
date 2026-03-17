@@ -1,26 +1,18 @@
 {
-  "WIF/USDT": {
-    "direction": "LONG",
+  "BOME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.1858,
-    "last_seen": "2026-03-17T14:14:36.795161+00:00"
+    "exchange": "gateio",
+    "price": 0.0004632,
+    "last_seen": "2026-03-17T15:56:13.525590+00:00"
   },
-  "BOME/USDT": {
+  "AIXBT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.0004612,
-    "last_seen": "2026-03-17T14:14:36.795161+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.3375,
-    "last_seen": "2026-03-17T14:14:36.795161+00:00"
+    "price": 0.02655,
+    "last_seen": "2026-03-17T15:56:13.525590+00:00"
   }
 }

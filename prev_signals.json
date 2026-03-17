@@ -1,34 +1,10 @@
 {
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.3457,
-    "last_seen": "2026-03-17T04:09:48.457469+00:00"
-  },
-  "WIF/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.1877,
-    "last_seen": "2026-03-17T04:09:48.457469+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0004709,
-    "last_seen": "2026-03-17T04:09:48.457469+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.007447,
-    "last_seen": "2026-03-17T04:09:48.457469+00:00"
+    "price": 0.16699,
+    "last_seen": "2026-03-17T05:53:42.158572+00:00"
   }
 }

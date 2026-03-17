@@ -1,10 +1,18 @@
 {
-  "ORDI/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 2.694,
-    "last_seen": "2026-03-17T17:54:09.980309+00:00"
+    "exchange": "gateio",
+    "price": 3.12e-05,
+    "last_seen": "2026-03-17T18:48:35.759239+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.00975,
+    "last_seen": "2026-03-17T18:48:35.759239+00:00"
   }
 }

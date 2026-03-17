@@ -1,1 +1,10 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 2.694,
+    "last_seen": "2026-03-17T17:54:09.980309+00:00"
+  }
+}

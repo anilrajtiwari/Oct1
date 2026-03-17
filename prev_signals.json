@@ -1,18 +1,1 @@
-{
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0004632,
-    "last_seen": "2026-03-17T15:56:13.525590+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.02655,
-    "last_seen": "2026-03-17T15:56:13.525590+00:00"
-  }
-}
+{}

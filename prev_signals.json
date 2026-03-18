@@ -1,1 +1,26 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.12182,
+    "last_seen": "2026-03-18T01:17:33.505100+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.3451,
+    "last_seen": "2026-03-18T01:17:33.505100+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001812,
+    "last_seen": "2026-03-18T01:17:33.505100+00:00"
+  }
+}

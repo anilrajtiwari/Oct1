@@ -1,1 +1,18 @@
-{}
+{
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 2.971e-05,
+    "last_seen": "2026-03-18T19:43:16.353707+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0007584,
+    "last_seen": "2026-03-18T19:43:16.353707+00:00"
+  }
+}

@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "SHIB/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "gateio",
-    "price": 0.01438,
-    "last_seen": "2026-03-19T06:46:17.991109+00:00"
+    "price": 5.754e-06,
+    "last_seen": "2026-03-19T07:41:11.831385+00:00"
   }
 }

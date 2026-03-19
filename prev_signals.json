@@ -1,10 +1,10 @@
 {
-  "FARTCOIN/USDT": {
+  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.20407,
-    "last_seen": "2026-03-19T04:14:03.352897+00:00"
+    "exchange": "mexc",
+    "price": 0.0144,
+    "last_seen": "2026-03-19T05:53:24.359658+00:00"
   }
 }

@@ -1,10 +1,18 @@
 {
-  "BRETT/USDT": {
-    "direction": "LONG",
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.00842,
+    "last_seen": "2026-03-19T10:31:30.684025+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.007037,
-    "last_seen": "2026-03-19T09:34:45.816367+00:00"
+    "exchange": "gateio",
+    "price": 0.0529,
+    "last_seen": "2026-03-19T10:31:30.684025+00:00"
   }
 }

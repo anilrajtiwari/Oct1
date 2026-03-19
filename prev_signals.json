@@ -1,26 +1,18 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 2.79e-05,
-    "last_seen": "2026-03-19T18:43:08.075485+00:00"
-  },
-  "CHILLGUY/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.00802,
-    "last_seen": "2026-03-19T18:43:08.075485+00:00"
+    "exchange": "bitget",
+    "price": 2.451,
+    "last_seen": "2026-03-19T19:41:22.912735+00:00"
   },
-  "1000BONK/USDT": {
+  "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.005895,
-    "last_seen": "2026-03-19T18:43:08.075485+00:00"
+    "exchange": "gateio",
+    "price": 0.02306,
+    "last_seen": "2026-03-19T19:41:22.912735+00:00"
   }
 }

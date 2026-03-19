@@ -1,34 +1,26 @@
 {
-  "ORDI/USDT": {
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 2.79e-05,
+    "last_seen": "2026-03-19T18:43:08.075485+00:00"
+  },
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 2.452,
-    "last_seen": "2026-03-19T17:48:36.643975+00:00"
+    "price": 0.00802,
+    "last_seen": "2026-03-19T18:43:08.075485+00:00"
   },
-  "HIPPO/USDT": {
-    "direction": "LONG",
+  "1000BONK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0005862,
-    "last_seen": "2026-03-19T17:48:36.643975+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0006056,
-    "last_seen": "2026-03-19T17:48:36.643975+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01351,
-    "last_seen": "2026-03-19T17:48:36.643975+00:00"
+    "price": 0.005895,
+    "last_seen": "2026-03-19T18:43:08.075485+00:00"
   }
 }

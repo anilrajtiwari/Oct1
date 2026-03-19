@@ -2,9 +2,9 @@
   "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0144,
-    "last_seen": "2026-03-19T05:53:24.359658+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.01438,
+    "last_seen": "2026-03-19T06:46:17.991109+00:00"
   }
 }

@@ -1,18 +1,1 @@
-{
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.007869,
-    "last_seen": "2026-03-20T15:35:18.011549+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.001613,
-    "last_seen": "2026-03-20T15:35:18.011549+00:00"
-  }
-}
+{}

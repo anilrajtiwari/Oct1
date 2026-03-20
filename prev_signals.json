@@ -1,34 +1,18 @@
 {
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 5.997e-06,
-    "last_seen": "2026-03-20T01:12:42.438251+00:00"
-  },
-  "CHILLGUY/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.00809,
-    "last_seen": "2026-03-20T01:12:42.438251+00:00"
+    "price": 0.307,
+    "last_seen": "2026-03-20T04:06:04.416295+00:00"
   },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
+  "MUBARAK/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.005983,
-    "last_seen": "2026-03-20T01:12:42.438251+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.02378,
-    "last_seen": "2026-03-20T01:12:42.438251+00:00"
+    "exchange": "okx",
+    "price": 0.01407,
+    "last_seen": "2026-03-20T04:06:04.416295+00:00"
   }
 }

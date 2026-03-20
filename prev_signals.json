@@ -1,10 +1,34 @@
 {
-  "POPCAT/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.0524,
-    "last_seen": "2026-03-19T23:21:55.949300+00:00"
+    "exchange": "gateio",
+    "price": 5.997e-06,
+    "last_seen": "2026-03-20T01:12:42.438251+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.00809,
+    "last_seen": "2026-03-20T01:12:42.438251+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.005983,
+    "last_seen": "2026-03-20T01:12:42.438251+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02378,
+    "last_seen": "2026-03-20T01:12:42.438251+00:00"
   }
 }

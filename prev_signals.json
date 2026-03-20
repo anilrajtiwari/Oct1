@@ -1,10 +1,18 @@
 {
-  "VINE/USDT": {
-    "direction": "SHORT",
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0004135,
+    "last_seen": "2026-03-20T18:35:14.722491+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01575,
-    "last_seen": "2026-03-20T17:30:23.655302+00:00"
+    "price": 0.01353,
+    "last_seen": "2026-03-20T18:35:14.722491+00:00"
   }
 }

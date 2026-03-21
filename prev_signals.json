@@ -1,10 +1,10 @@
 {
-  "VINE/USDT": {
+  "AIXBT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0175,
-    "last_seen": "2026-03-21T20:16:29.058757+00:00"
+    "exchange": "gateio",
+    "price": 0.02631,
+    "last_seen": "2026-03-21T21:17:14.554371+00:00"
   }
 }

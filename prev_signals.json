@@ -1,18 +1,10 @@
 {
-  "KOMA/USDT": {
-    "direction": "SHORT",
+  "VINE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.006667,
-    "last_seen": "2026-03-21T19:17:56.572434+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01396,
-    "last_seen": "2026-03-21T19:17:56.572434+00:00"
+    "exchange": "bitget",
+    "price": 0.0175,
+    "last_seen": "2026-03-21T20:16:29.058757+00:00"
   }
 }

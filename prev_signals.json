@@ -1,18 +1,10 @@
 {
-  "HIPPO/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.00056,
-    "last_seen": "2026-03-22T04:11:37.616102+00:00"
-  },
-  "PIPPIN/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.09641,
-    "last_seen": "2026-03-22T04:11:37.616102+00:00"
+    "exchange": "huobi",
+    "price": 0.173,
+    "last_seen": "2026-03-22T05:46:36.496370+00:00"
   }
 }

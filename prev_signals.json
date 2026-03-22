@@ -1,10 +1,18 @@
 {
-  "BOME/USDT": {
-    "direction": "LONG",
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.2934,
+    "last_seen": "2026-03-22T10:18:55.152847+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0004013,
-    "last_seen": "2026-03-22T09:24:10.036236+00:00"
+    "price": 0.05057,
+    "last_seen": "2026-03-22T10:18:55.152847+00:00"
   }
 }

@@ -1,26 +1,10 @@
 {
-  "SHIB/USDT": {
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 5.668e-06,
-    "last_seen": "2026-03-22T22:16:49.697113+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0005404,
-    "last_seen": "2026-03-22T22:16:49.697113+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01325,
-    "last_seen": "2026-03-22T22:16:49.697113+00:00"
+    "exchange": "gateio",
+    "price": 0.0005799,
+    "last_seen": "2026-03-22T23:19:21.800763+00:00"
   }
 }

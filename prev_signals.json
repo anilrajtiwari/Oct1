@@ -1,10 +1,18 @@
 {
-  "PNUT/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.04271,
-    "last_seen": "2026-03-22T14:20:13.167908+00:00"
+    "exchange": "bitget",
+    "price": 0.2943,
+    "last_seen": "2026-03-22T15:18:23.458469+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0005879,
+    "last_seen": "2026-03-22T15:18:23.458469+00:00"
   }
 }

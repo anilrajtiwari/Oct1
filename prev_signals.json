@@ -1,18 +1,26 @@
 {
-  "WIF/USDT": {
+  "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 2,
     "exchange": "mexc",
-    "price": 0.1892,
-    "last_seen": "2026-03-23T20:30:01.889982+00:00"
+    "price": 0.01579,
+    "last_seen": "2026-03-23T21:28:30.429785+00:00"
   },
-  "VINE/USDT": {
+  "PEPE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 3.501e-06,
+    "last_seen": "2026-03-23T21:28:30.429785+00:00"
+  },
+  "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01587,
-    "last_seen": "2026-03-23T20:30:01.889982+00:00"
+    "price": 0.007053,
+    "last_seen": "2026-03-23T21:28:30.429785+00:00"
   }
 }

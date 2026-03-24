@@ -1,10 +1,1 @@
-{
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01566,
-    "last_seen": "2026-03-24T19:50:31.136472+00:00"
-  }
-}
+{}

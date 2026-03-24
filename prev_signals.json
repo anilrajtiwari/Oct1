@@ -1,18 +1,1 @@
-{
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.2858,
-    "last_seen": "2026-03-24T17:49:24.844761+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.04774,
-    "last_seen": "2026-03-24T17:49:24.844761+00:00"
-  }
-}
+{}

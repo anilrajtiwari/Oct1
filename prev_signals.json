@@ -1,1 +1,18 @@
-{}
+{
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02429,
+    "last_seen": "2026-03-24T04:09:51.411827+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0006348,
+    "last_seen": "2026-03-24T04:09:51.411827+00:00"
+  }
+}

@@ -1,10 +1,1 @@
-{
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0158,
-    "last_seen": "2026-03-25T11:35:59.913209+00:00"
-  }
-}
+{}

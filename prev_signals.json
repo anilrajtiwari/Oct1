@@ -1,26 +1,18 @@
 {
-  "WIF/USDT": {
+  "HIPPO/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.1946,
-    "last_seen": "2026-03-25T16:01:17.329745+00:00"
+    "price": 0.0006379,
+    "last_seen": "2026-03-25T17:05:09.419323+00:00"
   },
-  "BAN/USDT": {
+  "KOMA/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.05891,
-    "last_seen": "2026-03-25T16:01:17.329745+00:00"
-  },
-  "HIPPO/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0005422,
-    "last_seen": "2026-03-25T16:01:17.329745+00:00"
+    "price": 0.0063,
+    "last_seen": "2026-03-25T17:05:09.419323+00:00"
   }
 }

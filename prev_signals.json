@@ -1,10 +1,10 @@
 {
-  "ORDI/USDT": {
+  "DOGS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 2.3586,
-    "last_seen": "2026-03-25T18:44:09.833863+00:00"
+    "exchange": "gateio",
+    "price": 2.925e-05,
+    "last_seen": "2026-03-25T19:40:32.728500+00:00"
   }
 }

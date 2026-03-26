@@ -1,18 +1,26 @@
 {
-  "BONK/USDT": {
+  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 6.097e-06,
-    "last_seen": "2026-03-26T04:26:11.609256+00:00"
+    "exchange": "kucoin",
+    "price": 0.01219,
+    "last_seen": "2026-03-26T06:07:54.619050+00:00"
   },
-  "MUBARAK/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01253,
-    "last_seen": "2026-03-26T04:26:11.609256+00:00"
+    "exchange": "huobi",
+    "price": 0.05764,
+    "last_seen": "2026-03-26T06:07:54.619050+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.00776,
+    "last_seen": "2026-03-26T06:07:54.619050+00:00"
   }
 }

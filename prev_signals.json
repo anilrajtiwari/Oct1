@@ -2,33 +2,9 @@
   "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "mexc",
-    "price": 0.0005634,
-    "last_seen": "2026-03-26T18:53:32.545135+00:00"
-  },
-  "DOGE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.090994,
-    "last_seen": "2026-03-26T18:53:32.545135+00:00"
-  },
-  "WIF/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1945,
-    "last_seen": "2026-03-26T18:53:32.545135+00:00"
-  },
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 2.681e-05,
-    "last_seen": "2026-03-26T18:53:32.545135+00:00"
+    "price": 0.0005613,
+    "last_seen": "2026-03-26T19:51:15.176637+00:00"
   }
 }

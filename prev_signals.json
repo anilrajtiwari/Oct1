@@ -2,9 +2,25 @@
   "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 3.3e-06,
+    "last_seen": "2026-03-27T16:43:48.053750+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 3.304e-06,
-    "last_seen": "2026-03-27T15:43:26.391897+00:00"
+    "price": 0.0005167,
+    "last_seen": "2026-03-27T16:43:48.053750+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.04744,
+    "last_seen": "2026-03-27T16:43:48.053750+00:00"
   }
 }

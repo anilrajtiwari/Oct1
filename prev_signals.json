@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "LONG",
+  "MOODENG/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 3.271e-06,
-    "last_seen": "2026-03-27T22:22:51.047473+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00783,
-    "last_seen": "2026-03-27T22:22:51.047473+00:00"
+    "price": 0.04489,
+    "last_seen": "2026-03-27T23:23:58.302826+00:00"
   }
 }

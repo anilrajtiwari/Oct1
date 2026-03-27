@@ -1,10 +1,18 @@
 {
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
+  "1000RATS/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.006326,
-    "last_seen": "2026-03-27T11:36:15.733881+00:00"
+    "exchange": "bitget",
+    "price": 0.06187,
+    "last_seen": "2026-03-27T12:41:29.275998+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 2.334,
+    "last_seen": "2026-03-27T12:41:29.275998+00:00"
   }
 }

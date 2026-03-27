@@ -1,18 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.06329,
-    "last_seen": "2026-03-27T14:05:40.208798+00:00"
-  },
-  "POPCAT/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04773,
-    "last_seen": "2026-03-27T14:05:40.208798+00:00"
+    "price": 3.304e-06,
+    "last_seen": "2026-03-27T15:43:26.391897+00:00"
   }
 }

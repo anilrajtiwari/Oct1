@@ -1,26 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.000564,
-    "last_seen": "2026-03-27T04:27:11.935543+00:00"
-  },
-  "FARTCOIN/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.1731,
-    "last_seen": "2026-03-27T04:27:11.935543+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
     "exchange": "gateio",
-    "price": 0.01617,
-    "last_seen": "2026-03-27T04:27:11.935543+00:00"
+    "price": 0.006424,
+    "last_seen": "2026-03-27T06:08:21.037250+00:00"
   }
 }

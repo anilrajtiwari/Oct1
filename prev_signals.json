@@ -1,18 +1,18 @@
 {
-  "PEPE/USDT": {
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.00779,
+    "last_seen": "2026-03-28T04:11:40.369031+00:00"
+  },
+  "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 3.266e-06,
-    "last_seen": "2026-03-28T01:15:06.067732+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.000559,
-    "last_seen": "2026-03-28T01:15:06.067732+00:00"
+    "price": 0.01524,
+    "last_seen": "2026-03-28T04:11:40.369031+00:00"
   }
 }

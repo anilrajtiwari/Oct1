@@ -1,10 +1,18 @@
 {
-  "MOODENG/USDT": {
+  "PEPE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 3.266e-06,
+    "last_seen": "2026-03-28T01:15:06.067732+00:00"
+  },
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04489,
-    "last_seen": "2026-03-27T23:23:58.302826+00:00"
+    "price": 0.000559,
+    "last_seen": "2026-03-28T01:15:06.067732+00:00"
   }
 }

@@ -1,1 +1,34 @@
-{}
+{
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.176,
+    "last_seen": "2026-03-28T13:44:42.976413+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.06387,
+    "last_seen": "2026-03-28T13:44:42.976413+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.006455,
+    "last_seen": "2026-03-28T13:44:42.976413+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.000688,
+    "last_seen": "2026-03-28T13:44:42.976413+00:00"
+  }
+}

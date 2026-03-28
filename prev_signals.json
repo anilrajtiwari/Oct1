@@ -1,50 +1,26 @@
 {
-  "PEPE/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 3,
-    "exchange": "gateio",
-    "price": 3.329e-06,
-    "last_seen": "2026-03-28T09:29:35.567970+00:00"
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0005217,
+    "last_seen": "2026-03-28T10:23:41.705029+00:00"
   },
-  "FLOKI/USDT": {
+  "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "kucoin",
-    "price": 2.8747e-05,
-    "last_seen": "2026-03-28T09:29:35.567970+00:00"
+    "price": 0.00583,
+    "last_seen": "2026-03-28T10:23:41.705029+00:00"
   },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.0003807,
-    "last_seen": "2026-03-28T09:29:35.567970+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.006444,
-    "last_seen": "2026-03-28T09:29:35.567970+00:00"
-  },
-  "WIF/USDT": {
+  "1000CAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.1744,
-    "last_seen": "2026-03-28T09:29:35.567970+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.05683,
-    "last_seen": "2026-03-28T09:29:35.567970+00:00"
+    "exchange": "bitget",
+    "price": 0.001521,
+    "last_seen": "2026-03-28T10:23:41.705029+00:00"
   }
 }

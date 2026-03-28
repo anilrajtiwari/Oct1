@@ -1,34 +1,26 @@
 {
-  "DOGE/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.09021,
-    "last_seen": "2026-03-28T05:51:24.104984+00:00"
+    "exchange": "gateio",
+    "price": 5.688e-06,
+    "last_seen": "2026-03-28T06:46:53.827364+00:00"
   },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0003759,
-    "last_seen": "2026-03-28T05:51:24.104984+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.000556,
-    "last_seen": "2026-03-28T05:51:24.104984+00:00"
-  },
-  "POPCAT/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0506,
-    "last_seen": "2026-03-28T05:51:24.104984+00:00"
+    "price": 0.00622,
+    "last_seen": "2026-03-28T06:46:53.827364+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.007293,
+    "last_seen": "2026-03-28T06:46:53.827364+00:00"
   }
 }

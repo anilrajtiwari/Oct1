@@ -1,26 +1,10 @@
 {
-  "MEME/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0005217,
-    "last_seen": "2026-03-28T10:23:41.705029+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00583,
-    "last_seen": "2026-03-28T10:23:41.705029+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.001521,
-    "last_seen": "2026-03-28T10:23:41.705029+00:00"
+    "exchange": "okx",
+    "price": 3.313e-06,
+    "last_seen": "2026-03-28T11:21:40.103181+00:00"
   }
 }

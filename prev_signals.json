@@ -1,1 +1,26 @@
-{}
+{
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.178,
+    "last_seen": "2026-03-28T19:24:06.652690+00:00"
+  },
+  "BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 5.832e-06,
+    "last_seen": "2026-03-28T19:24:06.652690+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.000689,
+    "last_seen": "2026-03-28T19:24:06.652690+00:00"
+  }
+}

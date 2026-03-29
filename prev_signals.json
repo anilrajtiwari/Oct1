@@ -2,9 +2,17 @@
   "DEGEN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
     "price": 0.000672,
-    "last_seen": "2026-03-29T10:24:24.945206+00:00"
+    "last_seen": "2026-03-29T11:22:05.101464+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0562,
+    "last_seen": "2026-03-29T11:22:05.101464+00:00"
   }
 }

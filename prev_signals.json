@@ -2,17 +2,33 @@
   "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.000369,
-    "last_seen": "2026-03-29T14:26:59.727620+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.0003661,
+    "last_seen": "2026-03-29T15:23:14.818718+00:00"
   },
-  "POPCAT/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.04635,
-    "last_seen": "2026-03-29T14:26:59.727620+00:00"
+    "exchange": "mexc",
+    "price": 2.729e-05,
+    "last_seen": "2026-03-29T15:23:14.818718+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.05712,
+    "last_seen": "2026-03-29T15:23:14.818718+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.2655,
+    "last_seen": "2026-03-29T15:23:14.818718+00:00"
   }
 }

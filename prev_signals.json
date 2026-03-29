@@ -1,10 +1,18 @@
 {
-  "VINE/USDT": {
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.03833,
+    "last_seen": "2026-03-29T06:07:50.024340+00:00"
+  },
+  "DEGEN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01507,
-    "last_seen": "2026-03-29T04:30:21.948275+00:00"
+    "price": 0.000677,
+    "last_seen": "2026-03-29T06:07:50.024340+00:00"
   }
 }

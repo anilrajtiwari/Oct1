@@ -2,9 +2,33 @@
   "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "huobi",
+    "price": 0.2683,
+    "last_seen": "2026-03-29T13:46:37.003898+00:00"
+  },
+  "PEPE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.2676,
-    "last_seen": "2026-03-29T12:33:41.759282+00:00"
+    "exchange": "gateio",
+    "price": 3.252e-06,
+    "last_seen": "2026-03-29T13:46:37.003898+00:00"
+  },
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.005937,
+    "last_seen": "2026-03-29T13:46:37.003898+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.167,
+    "last_seen": "2026-03-29T13:46:37.003898+00:00"
   }
 }

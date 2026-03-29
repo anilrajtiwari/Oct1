@@ -1,34 +1,18 @@
 {
-  "SPX/USDT": {
+  "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "huobi",
-    "price": 0.2683,
-    "last_seen": "2026-03-29T13:46:37.003898+00:00"
+    "price": 0.000369,
+    "last_seen": "2026-03-29T14:26:59.727620+00:00"
   },
-  "PEPE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 3.252e-06,
-    "last_seen": "2026-03-29T13:46:37.003898+00:00"
-  },
-  "KOMA/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.005937,
-    "last_seen": "2026-03-29T13:46:37.003898+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.167,
-    "last_seen": "2026-03-29T13:46:37.003898+00:00"
+    "price": 0.04635,
+    "last_seen": "2026-03-29T14:26:59.727620+00:00"
   }
 }

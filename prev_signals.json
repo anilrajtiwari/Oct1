@@ -1,18 +1,1 @@
-{
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0005122,
-    "last_seen": "2026-03-30T10:08:05.517452+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0005618,
-    "last_seen": "2026-03-30T10:08:05.517452+00:00"
-  }
-}
+{}

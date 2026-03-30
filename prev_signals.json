@@ -1,1 +1,26 @@
-{}
+{
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 2.698e-05,
+    "last_seen": "2026-03-30T16:01:17.217913+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.06192,
+    "last_seen": "2026-03-30T16:01:17.217913+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01197,
+    "last_seen": "2026-03-30T16:01:17.217913+00:00"
+  }
+}

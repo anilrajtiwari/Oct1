@@ -1,18 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04899,
-    "last_seen": "2026-03-30T06:25:41.431695+00:00"
-  },
-  "MUBARAK/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01109,
-    "last_seen": "2026-03-30T06:25:41.431695+00:00"
+    "exchange": "huobi",
+    "price": 0.000516,
+    "last_seen": "2026-03-30T08:17:58.189335+00:00"
   }
 }

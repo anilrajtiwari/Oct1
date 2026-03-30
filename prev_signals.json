@@ -1,18 +1,18 @@
 {
-  "PENGU/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.006231,
-    "last_seen": "2026-03-29T23:24:19.388223+00:00"
+    "exchange": "kucoin",
+    "price": 0.000507,
+    "last_seen": "2026-03-30T01:25:14.864516+00:00"
   },
-  "SPX/USDT": {
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.2626,
-    "last_seen": "2026-03-29T23:24:19.388223+00:00"
+    "exchange": "kucoin",
+    "price": 0.000558,
+    "last_seen": "2026-03-30T01:25:14.864516+00:00"
   }
 }

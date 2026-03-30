@@ -1,18 +1,10 @@
 {
-  "SPX/USDT": {
-    "direction": "SHORT",
+  "ORDI/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.2664,
-    "last_seen": "2026-03-30T18:46:59.599016+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.000544,
-    "last_seen": "2026-03-30T18:46:59.599016+00:00"
+    "price": 2.1841,
+    "last_seen": "2026-03-30T19:49:54.374228+00:00"
   }
 }

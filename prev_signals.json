@@ -1,18 +1,1 @@
-{
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.06196,
-    "last_seen": "2026-03-30T16:59:14.438636+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0477,
-    "last_seen": "2026-03-30T16:59:14.438636+00:00"
-  }
-}
+{}

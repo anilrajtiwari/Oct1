@@ -1,26 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05088,
-    "last_seen": "2026-04-01T16:02:47.875568+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01163,
-    "last_seen": "2026-04-01T16:02:47.875568+00:00"
-  },
   "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.01188,
-    "last_seen": "2026-04-01T16:02:47.875568+00:00"
+    "price": 0.012,
+    "last_seen": "2026-04-01T17:43:12.082023+00:00"
   }
 }

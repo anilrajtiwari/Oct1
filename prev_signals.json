@@ -1,34 +1,26 @@
 {
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.03928,
-    "last_seen": "2026-04-01T14:26:32.876516+00:00"
-  },
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 5.971e-06,
-    "last_seen": "2026-04-01T14:26:32.876516+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 2.83e-05,
-    "last_seen": "2026-04-01T14:26:32.876516+00:00"
-  },
-  "DEGEN/USDT": {
+  "PIPPIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.000691,
-    "last_seen": "2026-04-01T14:26:32.876516+00:00"
+    "price": 0.05088,
+    "last_seen": "2026-04-01T16:02:47.875568+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01163,
+    "last_seen": "2026-04-01T16:02:47.875568+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01188,
+    "last_seen": "2026-04-01T16:02:47.875568+00:00"
   }
 }

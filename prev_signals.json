@@ -1,18 +1,18 @@
 {
-  "FLOKI/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 2.7782e-05,
-    "last_seen": "2026-04-01T22:28:44.379517+00:00"
+    "price": 0.04972,
+    "last_seen": "2026-04-01T23:29:43.551605+00:00"
   },
-  "PNUT/USDT": {
+  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04071,
-    "last_seen": "2026-04-01T22:28:44.379517+00:00"
+    "price": 0.01156,
+    "last_seen": "2026-04-01T23:29:43.551605+00:00"
   }
 }

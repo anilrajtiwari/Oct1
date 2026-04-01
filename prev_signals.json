@@ -1,26 +1,58 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 2.343,
+    "last_seen": "2026-04-01T10:00:41.110662+00:00"
+  },
+  "PEPE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 5.981e-06,
-    "last_seen": "2026-04-01T08:10:26.516517+00:00"
+    "price": 3.432e-06,
+    "last_seen": "2026-04-01T10:00:41.110662+00:00"
   },
-  "BONK/USDT": {
-    "direction": "SHORT",
+  "WIF/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.1774,
+    "last_seen": "2026-04-01T10:00:41.110662+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 5.962e-06,
-    "last_seen": "2026-04-01T08:10:26.516517+00:00"
+    "price": 0.0005263,
+    "last_seen": "2026-04-01T10:00:41.110662+00:00"
   },
-  "ORDI/USDT": {
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04021,
+    "last_seen": "2026-04-01T10:00:41.110662+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0453,
+    "last_seen": "2026-04-01T10:00:41.110662+00:00"
+  },
+  "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 2.357,
-    "last_seen": "2026-04-01T08:10:26.516517+00:00"
+    "price": 0.04812,
+    "last_seen": "2026-04-01T10:00:41.110662+00:00"
   }
 }

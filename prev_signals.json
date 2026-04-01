@@ -1,10 +1,18 @@
 {
-  "1000RATS/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04196,
-    "last_seen": "2026-04-01T21:34:44.329642+00:00"
+    "price": 2.7782e-05,
+    "last_seen": "2026-04-01T22:28:44.379517+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04071,
+    "last_seen": "2026-04-01T22:28:44.379517+00:00"
   }
 }

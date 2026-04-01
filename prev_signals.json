@@ -1,18 +1,18 @@
 {
   "MUBARAK/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
+    "confidence": 1.0,
+    "count": 3,
     "exchange": "kucoin",
-    "price": 0.01141,
-    "last_seen": "2026-03-31T23:26:52.789028+00:00"
+    "price": 0.01146,
+    "last_seen": "2026-04-01T01:29:30.798962+00:00"
   },
-  "VINE/USDT": {
+  "MEW/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.01732,
-    "last_seen": "2026-03-31T23:26:52.789028+00:00"
+    "exchange": "okx",
+    "price": 0.0005622,
+    "last_seen": "2026-04-01T01:29:30.798962+00:00"
   }
 }

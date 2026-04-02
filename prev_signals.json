@@ -1,34 +1,26 @@
 {
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.1596,
-    "last_seen": "2026-04-02T10:43:47.162342+00:00"
-  },
-  "ORDI/USDT": {
+  "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 2.3342,
-    "last_seen": "2026-04-02T10:43:47.162342+00:00"
+    "exchange": "bitget",
+    "price": 0.08981,
+    "last_seen": "2026-04-02T11:39:56.999705+00:00"
   },
-  "PNUT/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04024,
-    "last_seen": "2026-04-02T10:43:47.162342+00:00"
+    "exchange": "mexc",
+    "price": 3.291e-06,
+    "last_seen": "2026-04-02T11:39:56.999705+00:00"
   },
-  "AIXBT/USDT": {
+  "ACT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.02195,
-    "last_seen": "2026-04-02T10:43:47.162342+00:00"
+    "price": 0.01149,
+    "last_seen": "2026-04-02T11:39:56.999705+00:00"
   }
 }

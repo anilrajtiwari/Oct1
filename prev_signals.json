@@ -1,18 +1,42 @@
 {
-  "BOME/USDT": {
-    "direction": "LONG",
+  "KOMA/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "gateio",
-    "price": 0.000365,
-    "last_seen": "2026-04-02T19:43:27.653154+00:00"
+    "price": 0.006299,
+    "last_seen": "2026-04-02T20:26:41.846000+00:00"
   },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04038,
+    "last_seen": "2026-04-02T20:26:41.846000+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.00754,
-    "last_seen": "2026-04-02T19:43:27.653154+00:00"
+    "price": 0.264,
+    "last_seen": "2026-04-02T20:26:41.846000+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01776,
+    "last_seen": "2026-04-02T20:26:41.846000+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0006565,
+    "last_seen": "2026-04-02T20:26:41.846000+00:00"
   }
 }

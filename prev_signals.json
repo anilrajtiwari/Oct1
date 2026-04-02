@@ -1,34 +1,26 @@
 {
-  "PEOPLE/USDT": {
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.005929,
+    "last_seen": "2026-04-02T09:53:29.154002+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.1597,
+    "last_seen": "2026-04-02T09:53:29.154002+00:00"
+  },
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00626,
-    "last_seen": "2026-04-02T08:56:59.112156+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.2617,
-    "last_seen": "2026-04-02T08:56:59.112156+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.005923,
-    "last_seen": "2026-04-02T08:56:59.112156+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.04511,
-    "last_seen": "2026-04-02T08:56:59.112156+00:00"
+    "price": 0.0489,
+    "last_seen": "2026-04-02T09:53:29.154002+00:00"
   }
 }

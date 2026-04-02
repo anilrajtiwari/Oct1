@@ -1,1 +1,18 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 3.351e-06,
+    "last_seen": "2026-04-02T16:46:46.839074+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 2.3412,
+    "last_seen": "2026-04-02T16:46:46.839074+00:00"
+  }
+}

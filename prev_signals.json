@@ -1,34 +1,10 @@
 {
-  "KOMA/USDT": {
+  "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00638,
-    "last_seen": "2026-04-02T22:24:17.573525+00:00"
-  },
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.03817,
-    "last_seen": "2026-04-02T22:24:17.573525+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.006085,
-    "last_seen": "2026-04-02T22:24:17.573525+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.01169,
-    "last_seen": "2026-04-02T22:24:17.573525+00:00"
+    "price": 0.04079,
+    "last_seen": "2026-04-02T23:26:03.897770+00:00"
   }
 }

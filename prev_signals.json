@@ -1,18 +1,18 @@
 {
-  "DOGE/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.09357,
-    "last_seen": "2026-04-02T17:42:52.320464+00:00"
+    "price": 0.03793,
+    "last_seen": "2026-04-02T18:43:04.715134+00:00"
   },
-  "MOODENG/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.04456,
-    "last_seen": "2026-04-02T17:42:52.320464+00:00"
+    "price": 0.0003651,
+    "last_seen": "2026-04-02T18:43:04.715134+00:00"
   }
 }

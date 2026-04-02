@@ -1,26 +1,42 @@
 {
-  "DOGE/USDT": {
+  "ORDI/USDT": {
     "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 2.233,
+    "last_seen": "2026-04-02T12:49:25.780259+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.2591,
+    "last_seen": "2026-04-02T12:49:25.780259+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.08981,
-    "last_seen": "2026-04-02T11:39:56.999705+00:00"
+    "price": 0.005625,
+    "last_seen": "2026-04-02T12:49:25.780259+00:00"
   },
-  "PEPE/USDT": {
+  "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 3.291e-06,
-    "last_seen": "2026-04-02T11:39:56.999705+00:00"
+    "exchange": "kucoin",
+    "price": 0.04029,
+    "last_seen": "2026-04-02T12:49:25.780259+00:00"
   },
-  "ACT/USDT": {
+  "HIPPO/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01149,
-    "last_seen": "2026-04-02T11:39:56.999705+00:00"
+    "price": 0.0005291,
+    "last_seen": "2026-04-02T12:49:25.780259+00:00"
   }
 }

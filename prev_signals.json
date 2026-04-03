@@ -1,10 +1,18 @@
 {
-  "PEPE/USDT": {
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.06512,
+    "last_seen": "2026-04-03T16:30:03.325943+00:00"
+  },
+  "FARTCOIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 3.452e-06,
-    "last_seen": "2026-04-03T15:34:22.431573+00:00"
+    "price": 0.1666,
+    "last_seen": "2026-04-03T16:30:03.325943+00:00"
   }
 }

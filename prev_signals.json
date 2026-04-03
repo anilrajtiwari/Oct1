@@ -1,1 +1,18 @@
-{}
+{
+  "BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 5.737e-06,
+    "last_seen": "2026-04-03T21:25:51.122757+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0003605,
+    "last_seen": "2026-04-03T21:25:51.122757+00:00"
+  }
+}

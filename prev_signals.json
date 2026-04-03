@@ -1,18 +1,10 @@
 {
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.000554,
-    "last_seen": "2026-04-03T08:43:37.345245+00:00"
-  },
-  "KOMA/USDT": {
-    "direction": "SHORT",
+  "PIPPIN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.006423,
-    "last_seen": "2026-04-03T08:43:37.345245+00:00"
+    "exchange": "huobi",
+    "price": 0.05914,
+    "last_seen": "2026-04-03T09:45:49.605673+00:00"
   }
 }

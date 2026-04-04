@@ -1,18 +1,18 @@
 {
-  "WIF/USDT": {
+  "KOMA/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.181,
-    "last_seen": "2026-04-04T21:23:38.096284+00:00"
+    "exchange": "kucoin",
+    "price": 0.00636,
+    "last_seen": "2026-04-04T22:20:35.135718+00:00"
   },
-  "PIPPIN/USDT": {
-    "direction": "LONG",
+  "ORDI/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.04103,
-    "last_seen": "2026-04-04T21:23:38.096284+00:00"
+    "exchange": "huobi",
+    "price": 2.502,
+    "last_seen": "2026-04-04T22:20:35.135718+00:00"
   }
 }

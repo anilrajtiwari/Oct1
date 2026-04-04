@@ -2,9 +2,9 @@
   "HIPPO/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0004344,
-    "last_seen": "2026-04-04T19:25:43.594250+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.000437,
+    "last_seen": "2026-04-04T20:20:50.072112+00:00"
   }
 }

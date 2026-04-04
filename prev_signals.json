@@ -1,26 +1,10 @@
 {
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0003716,
-    "last_seen": "2026-04-04T04:09:01.924689+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.005665,
-    "last_seen": "2026-04-04T04:09:01.924689+00:00"
-  },
-  "MOODENG/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04539,
-    "last_seen": "2026-04-04T04:09:01.924689+00:00"
+    "exchange": "bitget",
+    "price": 0.1619,
+    "last_seen": "2026-04-04T05:51:51.445912+00:00"
   }
 }

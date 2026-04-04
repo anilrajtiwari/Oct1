@@ -1,10 +1,18 @@
 {
-  "HIPPO/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.181,
+    "last_seen": "2026-04-04T21:23:38.096284+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.000437,
-    "last_seen": "2026-04-04T20:20:50.072112+00:00"
+    "price": 0.04103,
+    "last_seen": "2026-04-04T21:23:38.096284+00:00"
   }
 }

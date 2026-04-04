@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05195,
-    "last_seen": "2026-04-04T17:23:33.531969+00:00"
-  },
-  "FARTCOIN/USDT": {
+  "AIXBT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1665,
-    "last_seen": "2026-04-04T17:23:33.531969+00:00"
+    "exchange": "gateio",
+    "price": 0.02231,
+    "last_seen": "2026-04-04T18:28:36.339320+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.379e-06,
-    "last_seen": "2026-04-04T12:33:41.529025+00:00"
-  },
-  "1000RATS/USDT": {
-    "direction": "SHORT",
+  "VINE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.03681,
-    "last_seen": "2026-04-04T12:33:41.529025+00:00"
+    "price": 0.01825,
+    "last_seen": "2026-04-04T13:46:31.015892+00:00"
   }
 }

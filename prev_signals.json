@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05853,
-    "last_seen": "2026-04-03T23:26:10.052597+00:00"
-  },
-  "HIPPO/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0005293,
-    "last_seen": "2026-04-03T23:26:10.052597+00:00"
+    "price": 0.00759,
+    "last_seen": "2026-04-04T01:16:18.195509+00:00"
   }
 }

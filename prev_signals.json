@@ -1,10 +1,1 @@
-{
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01825,
-    "last_seen": "2026-04-04T13:46:31.015892+00:00"
-  }
-}
+{}

@@ -1,18 +1,18 @@
 {
-  "MEME/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.0004918,
-    "last_seen": "2026-04-05T07:50:52.085688+00:00"
+    "exchange": "bitget",
+    "price": 0.09025,
+    "last_seen": "2026-04-05T08:34:10.747326+00:00"
   },
-  "SPX/USDT": {
-    "direction": "LONG",
+  "BOME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.2576,
-    "last_seen": "2026-04-05T07:50:52.085688+00:00"
+    "exchange": "mexc",
+    "price": 0.0003696,
+    "last_seen": "2026-04-05T08:34:10.747326+00:00"
   }
 }

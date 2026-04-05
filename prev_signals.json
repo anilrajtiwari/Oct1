@@ -1,18 +1,1 @@
-{
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.006233,
-    "last_seen": "2026-04-05T11:23:12.663324+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0489,
-    "last_seen": "2026-04-05T11:23:12.663324+00:00"
-  }
-}
+{}

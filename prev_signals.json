@@ -1,26 +1,18 @@
 {
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.000548,
-    "last_seen": "2026-04-05T06:10:49.953594+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.006489,
-    "last_seen": "2026-04-05T06:10:49.953594+00:00"
+    "price": 0.0004918,
+    "last_seen": "2026-04-05T07:50:52.085688+00:00"
   },
-  "MUBARAK/USDT": {
+  "SPX/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.011,
-    "last_seen": "2026-04-05T06:10:49.953594+00:00"
+    "exchange": "bitget",
+    "price": 0.2576,
+    "last_seen": "2026-04-05T07:50:52.085688+00:00"
   }
 }

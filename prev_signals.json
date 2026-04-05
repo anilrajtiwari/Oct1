@@ -1,26 +1,42 @@
 {
-  "DOGE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.09028,
-    "last_seen": "2026-04-05T09:31:36.156755+00:00"
-  },
-  "BONK/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 5.519e-06,
-    "last_seen": "2026-04-05T09:31:36.156755+00:00"
+    "exchange": "mexc",
+    "price": 3.329e-06,
+    "last_seen": "2026-04-05T10:25:27.955014+00:00"
   },
-  "ACT/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01195,
-    "last_seen": "2026-04-05T09:31:36.156755+00:00"
+    "price": 2.633e-05,
+    "last_seen": "2026-04-05T10:25:27.955014+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 2.344,
+    "last_seen": "2026-04-05T10:25:27.955014+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.03949,
+    "last_seen": "2026-04-05T10:25:27.955014+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0005388,
+    "last_seen": "2026-04-05T10:25:27.955014+00:00"
   }
 }

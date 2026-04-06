@@ -1,10 +1,26 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "LONG",
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02322,
+    "last_seen": "2026-04-06T22:27:12.096667+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04493,
-    "last_seen": "2026-04-06T21:31:05.249351+00:00"
+    "price": 0.00626,
+    "last_seen": "2026-04-06T22:27:12.096667+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01781,
+    "last_seen": "2026-04-06T22:27:12.096667+00:00"
   }
 }

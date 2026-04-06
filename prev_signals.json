@@ -1,18 +1,1 @@
-{
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0003902,
-    "last_seen": "2026-04-06T12:47:32.239858+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.2898,
-    "last_seen": "2026-04-06T12:47:32.239858+00:00"
-  }
-}
+{}

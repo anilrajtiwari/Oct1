@@ -1,1 +1,10 @@
-{}
+{
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01201,
+    "last_seen": "2026-04-06T18:43:53.486315+00:00"
+  }
+}

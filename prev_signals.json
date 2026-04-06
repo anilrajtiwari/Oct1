@@ -1,26 +1,26 @@
 {
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02322,
-    "last_seen": "2026-04-06T22:27:12.096667+00:00"
-  },
-  "BRETT/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00626,
-    "last_seen": "2026-04-06T22:27:12.096667+00:00"
+    "price": 2.599e-05,
+    "last_seen": "2026-04-06T23:28:03.046039+00:00"
   },
-  "VINE/USDT": {
+  "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01781,
-    "last_seen": "2026-04-06T22:27:12.096667+00:00"
+    "price": 0.006133,
+    "last_seen": "2026-04-06T23:28:03.046039+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01182,
+    "last_seen": "2026-04-06T23:28:03.046039+00:00"
   }
 }

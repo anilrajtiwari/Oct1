@@ -1,1 +1,10 @@
-{}
+{
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.1746,
+    "last_seen": "2026-04-07T18:49:03.344924+00:00"
+  }
+}

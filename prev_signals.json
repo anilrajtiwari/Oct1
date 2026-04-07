@@ -1,10 +1,10 @@
 {
-  "MOODENG/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04739,
-    "last_seen": "2026-04-07T09:59:54.546794+00:00"
+    "exchange": "huobi",
+    "price": 0.03461,
+    "last_seen": "2026-04-07T10:54:28.705481+00:00"
   }
 }

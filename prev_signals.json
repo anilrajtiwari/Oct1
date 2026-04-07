@@ -1,10 +1,10 @@
 {
-  "HIPPO/USDT": {
-    "direction": "SHORT",
+  "SPX/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0003673,
-    "last_seen": "2026-04-07T20:37:21.317665+00:00"
+    "exchange": "bitget",
+    "price": 0.289,
+    "last_seen": "2026-04-07T21:36:00.225818+00:00"
   }
 }

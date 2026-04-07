@@ -1,18 +1,1 @@
-{
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.000494,
-    "last_seen": "2026-04-07T16:05:54.306688+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.000363,
-    "last_seen": "2026-04-07T16:05:54.306688+00:00"
-  }
-}
+{}

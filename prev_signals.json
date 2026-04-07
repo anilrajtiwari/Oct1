@@ -1,26 +1,18 @@
 {
-  "DOGS/USDT": {
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 2.342,
+    "last_seen": "2026-04-07T01:23:28.632478+00:00"
+  },
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 2.599e-05,
-    "last_seen": "2026-04-06T23:28:03.046039+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.006133,
-    "last_seen": "2026-04-06T23:28:03.046039+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01182,
-    "last_seen": "2026-04-06T23:28:03.046039+00:00"
+    "exchange": "mexc",
+    "price": 0.006406,
+    "last_seen": "2026-04-07T01:23:28.632478+00:00"
   }
 }

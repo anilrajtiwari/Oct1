@@ -1,18 +1,26 @@
 {
   "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04236,
+    "last_seen": "2026-04-08T19:14:18.487182+00:00"
+  },
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0429,
-    "last_seen": "2026-04-08T18:00:09.777069+00:00"
+    "price": 0.0333,
+    "last_seen": "2026-04-08T19:14:18.487182+00:00"
   },
-  "MUBARAK/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01206,
-    "last_seen": "2026-04-08T18:00:09.777069+00:00"
+    "exchange": "kucoin",
+    "price": 0.00681,
+    "last_seen": "2026-04-08T19:14:18.487182+00:00"
   }
 }

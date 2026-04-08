@@ -1,42 +1,10 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 6.11e-06,
-    "last_seen": "2026-04-08T10:00:39.088459+00:00"
-  },
-  "BOME/USDT": {
+  "MUBARAK/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.000406,
-    "last_seen": "2026-04-08T10:00:39.088459+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0439,
-    "last_seen": "2026-04-08T10:00:39.088459+00:00"
-  },
-  "HIPPO/USDT": {
-    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.00022,
-    "last_seen": "2026-04-08T10:00:39.088459+00:00"
-  },
-  "DEGEN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.000757,
-    "last_seen": "2026-04-08T10:00:39.088459+00:00"
+    "price": 0.01244,
+    "last_seen": "2026-04-08T10:56:48.979702+00:00"
   }
 }

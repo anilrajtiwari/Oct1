@@ -1,1 +1,18 @@
-{}
+{
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.00706,
+    "last_seen": "2026-04-08T04:29:51.893579+00:00"
+  },
+  "HIPPO/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0003519,
+    "last_seen": "2026-04-08T04:29:51.893579+00:00"
+  }
+}

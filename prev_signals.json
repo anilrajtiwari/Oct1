@@ -1,1 +1,42 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.05483,
+    "last_seen": "2026-04-09T23:31:58.596014+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0003932,
+    "last_seen": "2026-04-09T23:31:58.596014+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.006922,
+    "last_seen": "2026-04-09T23:31:58.596014+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0425,
+    "last_seen": "2026-04-09T23:31:58.596014+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.02572,
+    "last_seen": "2026-04-09T23:31:58.596014+00:00"
+  }
+}

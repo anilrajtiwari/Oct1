@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01151,
-    "last_seen": "2026-04-09T04:26:07.686072+00:00"
+    "exchange": "kucoin",
+    "price": 0.01705,
+    "last_seen": "2026-04-09T06:16:29.352476+00:00"
   }
 }

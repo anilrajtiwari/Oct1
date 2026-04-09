@@ -1,18 +1,26 @@
 {
-  "PEOPLE/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00662,
-    "last_seen": "2026-04-09T13:00:38.257008+00:00"
+    "exchange": "mexc",
+    "price": 5.836e-06,
+    "last_seen": "2026-04-09T14:58:10.737507+00:00"
   },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
+  "PENGU/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01184,
-    "last_seen": "2026-04-09T13:00:38.257008+00:00"
+    "price": 0.006719,
+    "last_seen": "2026-04-09T14:58:10.737507+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0007444,
+    "last_seen": "2026-04-09T14:58:10.737507+00:00"
   }
 }

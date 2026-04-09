@@ -1,34 +1,10 @@
 {
   "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
+    "direction": "SHORT",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01699,
-    "last_seen": "2026-04-09T08:13:17.571598+00:00"
-  },
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.459e-06,
-    "last_seen": "2026-04-09T08:13:17.571598+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.000509,
-    "last_seen": "2026-04-09T08:13:17.571598+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.000599,
-    "last_seen": "2026-04-09T08:13:17.571598+00:00"
+    "price": 0.01693,
+    "last_seen": "2026-04-09T10:04:35.622788+00:00"
   }
 }

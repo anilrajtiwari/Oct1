@@ -1,10 +1,18 @@
 {
-  "1000RATS/USDT": {
-    "direction": "LONG",
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.03673,
-    "last_seen": "2026-04-09T11:46:18.612523+00:00"
+    "exchange": "kucoin",
+    "price": 0.00662,
+    "last_seen": "2026-04-09T13:00:38.257008+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01184,
+    "last_seen": "2026-04-09T13:00:38.257008+00:00"
   }
 }

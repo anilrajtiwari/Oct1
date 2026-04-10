@@ -1,26 +1,10 @@
 {
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 2.8009e-05,
-    "last_seen": "2026-04-10T11:00:40.825137+00:00"
-  },
-  "BOME/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0003938,
-    "last_seen": "2026-04-10T11:00:40.825137+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.001659,
-    "last_seen": "2026-04-10T11:00:40.825137+00:00"
+    "exchange": "gateio",
+    "price": 0.3128,
+    "last_seen": "2026-04-10T11:50:57.190786+00:00"
   }
 }

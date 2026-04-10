@@ -1,18 +1,18 @@
 {
-  "POPCAT/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.05174,
-    "last_seen": "2026-04-10T14:12:13.683387+00:00"
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 3.4567e-06,
+    "last_seen": "2026-04-10T15:42:28.195273+00:00"
   },
-  "MUBARAK/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01145,
-    "last_seen": "2026-04-10T14:12:13.683387+00:00"
+    "price": 0.02943,
+    "last_seen": "2026-04-10T15:42:28.195273+00:00"
   }
 }

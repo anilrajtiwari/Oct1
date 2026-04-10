@@ -1,26 +1,10 @@
 {
-  "PIPPIN/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.03027,
-    "last_seen": "2026-04-10T22:27:33.669883+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.00709,
-    "last_seen": "2026-04-10T22:27:33.669883+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.05097,
-    "last_seen": "2026-04-10T22:27:33.669883+00:00"
+    "exchange": "bitget",
+    "price": 3.6255e-06,
+    "last_seen": "2026-04-10T23:27:51.443268+00:00"
   }
 }

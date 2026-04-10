@@ -1,10 +1,10 @@
 {
-  "SPX/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.3128,
-    "last_seen": "2026-04-10T11:50:57.190786+00:00"
+    "exchange": "okx",
+    "price": 0.05138,
+    "last_seen": "2026-04-10T12:46:32.655925+00:00"
   }
 }

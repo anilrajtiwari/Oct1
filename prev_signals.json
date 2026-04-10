@@ -1,34 +1,10 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "kucoin",
-    "price": 2.824e-05,
-    "last_seen": "2026-04-10T20:26:12.779156+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "gateio",
-    "price": 0.006756,
-    "last_seen": "2026-04-10T20:26:12.779156+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.05103,
-    "last_seen": "2026-04-10T20:26:12.779156+00:00"
-  },
   "ACT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.01275,
-    "last_seen": "2026-04-10T20:26:12.779156+00:00"
+    "price": 0.01284,
+    "last_seen": "2026-04-10T21:29:16.423851+00:00"
   }
 }

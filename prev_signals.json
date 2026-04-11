@@ -1,1 +1,10 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 2.408,
+    "last_seen": "2026-04-11T16:26:43.698091+00:00"
+  }
+}

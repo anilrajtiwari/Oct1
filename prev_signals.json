@@ -1,18 +1,1 @@
-{
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.00657,
-    "last_seen": "2026-04-11T11:23:33.687570+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.02515,
-    "last_seen": "2026-04-11T11:23:33.687570+00:00"
-  }
-}
+{}

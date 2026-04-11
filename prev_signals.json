@@ -1,10 +1,10 @@
 {
-  "VINE/USDT": {
-    "direction": "LONG",
+  "BRETT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01725,
-    "last_seen": "2026-04-11T17:24:55.785780+00:00"
+    "exchange": "bitget",
+    "price": 0.00687,
+    "last_seen": "2026-04-11T18:31:03.909564+00:00"
   }
 }

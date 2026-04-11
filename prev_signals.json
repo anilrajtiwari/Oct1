@@ -1,1 +1,10 @@
-{}
+{
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.3201,
+    "last_seen": "2026-04-11T08:32:41.236795+00:00"
+  }
+}

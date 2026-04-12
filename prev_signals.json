@@ -1,26 +1,18 @@
 {
-  "ORDI/USDT": {
+  "PENGU/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
+    "confidence": 1.0,
+    "count": 1,
     "exchange": "bitget",
-    "price": 2.281,
-    "last_seen": "2026-04-12T10:30:45.946471+00:00"
+    "price": 0.006549,
+    "last_seen": "2026-04-12T11:27:56.763272+00:00"
   },
-  "DEGEN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.0007273,
-    "last_seen": "2026-04-12T10:30:45.946471+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
+  "MUBARAK/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.006616,
-    "last_seen": "2026-04-12T10:30:45.946471+00:00"
+    "exchange": "mexc",
+    "price": 0.01144,
+    "last_seen": "2026-04-12T11:27:56.763272+00:00"
   }
 }

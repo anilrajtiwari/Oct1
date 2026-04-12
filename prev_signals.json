@@ -1,1 +1,42 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 2.238,
+    "last_seen": "2026-04-12T23:26:23.833471+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.07435,
+    "last_seen": "2026-04-12T23:26:23.833471+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.007075,
+    "last_seen": "2026-04-12T23:26:23.833471+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0005601,
+    "last_seen": "2026-04-12T23:26:23.833471+00:00"
+  },
+  "DEGEN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.000717,
+    "last_seen": "2026-04-12T23:26:23.833471+00:00"
+  }
+}

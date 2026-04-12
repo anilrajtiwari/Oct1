@@ -1,34 +1,10 @@
 {
-  "DOGE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.091418,
-    "last_seen": "2026-04-12T06:20:16.697920+00:00"
-  },
-  "WIF/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.1913,
-    "last_seen": "2026-04-12T06:20:16.697920+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01326,
-    "last_seen": "2026-04-12T06:20:16.697920+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01209,
-    "last_seen": "2026-04-12T06:20:16.697920+00:00"
+    "exchange": "okx",
+    "price": 5.707e-06,
+    "last_seen": "2026-04-12T07:58:57.109579+00:00"
   }
 }

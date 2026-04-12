@@ -1,26 +1,18 @@
 {
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0369,
-    "last_seen": "2026-04-12T01:29:30.526252+00:00"
-  },
   "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05954,
-    "last_seen": "2026-04-12T01:29:30.526252+00:00"
-  },
-  "DEGEN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0007308,
-    "last_seen": "2026-04-12T01:29:30.526252+00:00"
+    "exchange": "bitget",
+    "price": 0.06124,
+    "last_seen": "2026-04-12T04:40:34.952189+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 2.4311,
+    "last_seen": "2026-04-12T04:40:34.952189+00:00"
   }
 }

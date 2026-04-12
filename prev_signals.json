@@ -1,18 +1,18 @@
 {
-  "PNUT/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.04031,
-    "last_seen": "2026-04-12T19:34:20.968041+00:00"
+    "exchange": "bitget",
+    "price": 0.1903,
+    "last_seen": "2026-04-12T20:26:02.455062+00:00"
   },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
+  "MOODENG/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.2005,
-    "last_seen": "2026-04-12T19:34:20.968041+00:00"
+    "price": 0.05188,
+    "last_seen": "2026-04-12T20:26:02.455062+00:00"
   }
 }

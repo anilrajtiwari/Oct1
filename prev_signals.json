@@ -1,18 +1,1 @@
-{
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.013,
-    "last_seen": "2026-04-14T08:22:16.047719+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.006826,
-    "last_seen": "2026-04-14T08:22:16.047719+00:00"
-  }
-}
+{}

@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.08138,
-    "last_seen": "2026-04-14T17:59:13.883372+00:00"
-  },
-  "SPX/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.32,
-    "last_seen": "2026-04-14T17:59:13.883372+00:00"
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.1862,
+    "last_seen": "2026-04-14T19:08:58.171680+00:00"
   }
 }

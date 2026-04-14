@@ -2,9 +2,25 @@
   "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.08672,
-    "last_seen": "2026-04-14T22:38:18.126058+00:00"
+    "price": 0.08677,
+    "last_seen": "2026-04-14T23:36:29.003853+00:00"
+  },
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.1926,
+    "last_seen": "2026-04-14T23:36:29.003853+00:00"
+  },
+  "KOMA/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.008818,
+    "last_seen": "2026-04-14T23:36:29.003853+00:00"
   }
 }

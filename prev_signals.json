@@ -1,10 +1,18 @@
 {
-  "DOGS/USDT": {
+  "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 2.879e-05,
-    "last_seen": "2026-04-14T01:28:57.685603+00:00"
+    "exchange": "kucoin",
+    "price": 0.01677,
+    "last_seen": "2026-04-14T04:39:17.699112+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01332,
+    "last_seen": "2026-04-14T04:39:17.699112+00:00"
   }
 }

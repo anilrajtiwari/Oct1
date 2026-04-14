@@ -1,26 +1,18 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 3.5216e-06,
-    "last_seen": "2026-04-14T16:56:11.496318+00:00"
-  },
   "BAN/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.08124,
-    "last_seen": "2026-04-14T16:56:11.496318+00:00"
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.08138,
+    "last_seen": "2026-04-14T17:59:13.883372+00:00"
   },
   "SPX/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.3194,
-    "last_seen": "2026-04-14T16:56:11.496318+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.32,
+    "last_seen": "2026-04-14T17:59:13.883372+00:00"
   }
 }

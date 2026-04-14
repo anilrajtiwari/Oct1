@@ -1,10 +1,18 @@
 {
   "WIF/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.1862,
-    "last_seen": "2026-04-14T19:08:58.171680+00:00"
+    "price": 0.1916,
+    "last_seen": "2026-04-14T20:43:47.176445+00:00"
+  },
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 3.6289e-06,
+    "last_seen": "2026-04-14T20:43:47.176445+00:00"
   }
 }

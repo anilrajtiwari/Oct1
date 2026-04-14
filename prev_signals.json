@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0132,
-    "last_seen": "2026-04-13T23:36:01.710028+00:00"
+    "exchange": "bitget",
+    "price": 2.879e-05,
+    "last_seen": "2026-04-14T01:28:57.685603+00:00"
   }
 }

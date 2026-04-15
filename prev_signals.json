@@ -1,18 +1,1 @@
-{
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01641,
-    "last_seen": "2026-04-15T13:01:22.491093+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01312,
-    "last_seen": "2026-04-15T13:01:22.491093+00:00"
-  }
-}
+{}

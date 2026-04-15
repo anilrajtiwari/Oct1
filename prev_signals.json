@@ -1,1 +1,18 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 3.337,
+    "last_seen": "2026-04-15T23:35:22.378542+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01374,
+    "last_seen": "2026-04-15T23:35:22.378542+00:00"
+  }
+}

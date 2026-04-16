@@ -1,26 +1,10 @@
 {
-  "KOMA/USDT": {
-    "direction": "SHORT",
+  "PNUT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.009021,
-    "last_seen": "2026-04-16T01:31:22.410110+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.000587,
-    "last_seen": "2026-04-16T01:31:22.410110+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01392,
-    "last_seen": "2026-04-16T01:31:22.410110+00:00"
+    "exchange": "huobi",
+    "price": 0.05688,
+    "last_seen": "2026-04-16T04:45:35.048981+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "PEOPLE/USDT": {
+  "ORDI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.008166,
-    "last_seen": "2026-04-16T15:19:30.650533+00:00"
+    "exchange": "mexc",
+    "price": 8.237,
+    "last_seen": "2026-04-16T17:04:20.538130+00:00"
   }
 }

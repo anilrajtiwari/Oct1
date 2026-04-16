@@ -2,9 +2,17 @@
   "ORDI/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
-    "count": 2,
+    "count": 3,
+    "exchange": "huobi",
+    "price": 8.388,
+    "last_seen": "2026-04-16T19:59:44.166664+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "mexc",
-    "price": 8.823,
-    "last_seen": "2026-04-16T18:59:37.790485+00:00"
+    "price": 0.0088,
+    "last_seen": "2026-04-16T19:59:44.166664+00:00"
   }
 }

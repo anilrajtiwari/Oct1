@@ -1,18 +1,26 @@
 {
-  "ORDI/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
-    "count": 3,
-    "exchange": "huobi",
-    "price": 8.388,
-    "last_seen": "2026-04-16T19:59:44.166664+00:00"
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0005565,
+    "last_seen": "2026-04-16T20:45:37.150622+00:00"
   },
-  "PEOPLE/USDT": {
+  "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0088,
-    "last_seen": "2026-04-16T19:59:44.166664+00:00"
+    "price": 0.02266,
+    "last_seen": "2026-04-16T20:45:37.150622+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.06039,
+    "last_seen": "2026-04-16T20:45:37.150622+00:00"
   }
 }

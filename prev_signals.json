@@ -1,26 +1,26 @@
 {
   "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.010587,
+    "last_seen": "2026-04-17T12:56:57.485075+00:00"
+  },
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.010326,
-    "last_seen": "2026-04-17T11:43:34.697513+00:00"
+    "exchange": "gateio",
+    "price": 0.0005803,
+    "last_seen": "2026-04-17T12:56:57.485075+00:00"
   },
-  "SPX/USDT": {
+  "1000RATS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.3385,
-    "last_seen": "2026-04-17T11:43:34.697513+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05269,
-    "last_seen": "2026-04-17T11:43:34.697513+00:00"
+    "price": 0.04688,
+    "last_seen": "2026-04-17T12:56:57.485075+00:00"
   }
 }

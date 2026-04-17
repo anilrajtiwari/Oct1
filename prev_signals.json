@@ -1,26 +1,18 @@
 {
-  "CHILLGUY/USDT": {
+  "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01354,
-    "last_seen": "2026-04-17T16:44:29.716239+00:00"
+    "price": 0.00796,
+    "last_seen": "2026-04-17T17:41:39.976988+00:00"
   },
-  "SPX/USDT": {
+  "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.3684,
-    "last_seen": "2026-04-17T16:44:29.716239+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.06343,
-    "last_seen": "2026-04-17T16:44:29.716239+00:00"
+    "exchange": "kucoin",
+    "price": 0.02182,
+    "last_seen": "2026-04-17T17:41:39.976988+00:00"
   }
 }

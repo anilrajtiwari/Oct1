@@ -1,1 +1,26 @@
-{}
+{
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.00898,
+    "last_seen": "2026-04-17T01:28:52.492654+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 3.048e-05,
+    "last_seen": "2026-04-17T01:28:52.492654+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.00849,
+    "last_seen": "2026-04-17T01:28:52.492654+00:00"
+  }
+}

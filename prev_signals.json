@@ -1,1 +1,18 @@
-{}
+{
+  "WIF/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.2203,
+    "last_seen": "2026-04-17T23:31:56.555478+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.00063,
+    "last_seen": "2026-04-17T23:31:56.555478+00:00"
+  }
+}

@@ -1,1 +1,18 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0005421,
+    "last_seen": "2026-04-17T08:22:44.377943+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.3464,
+    "last_seen": "2026-04-17T08:22:44.377943+00:00"
+  }
+}

@@ -1,10 +1,10 @@
 {
-  "PEOPLE/USDT": {
+  "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00837,
-    "last_seen": "2026-04-17T18:44:35.315257+00:00"
+    "exchange": "gateio",
+    "price": 0.06331,
+    "last_seen": "2026-04-17T19:53:29.267223+00:00"
   }
 }

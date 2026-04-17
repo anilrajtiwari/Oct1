@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.06331,
-    "last_seen": "2026-04-17T19:53:29.267223+00:00"
+    "exchange": "bitget",
+    "price": 0.000532,
+    "last_seen": "2026-04-17T20:36:36.045377+00:00"
   }
 }

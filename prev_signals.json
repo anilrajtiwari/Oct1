@@ -1,18 +1,10 @@
 {
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.00796,
-    "last_seen": "2026-04-17T17:41:39.976988+00:00"
-  },
-  "VINE/USDT": {
+  "PEOPLE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.02182,
-    "last_seen": "2026-04-17T17:41:39.976988+00:00"
+    "price": 0.00837,
+    "last_seen": "2026-04-17T18:44:35.315257+00:00"
   }
 }

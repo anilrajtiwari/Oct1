@@ -1,1 +1,18 @@
-{}
+{
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0005529,
+    "last_seen": "2026-04-18T16:29:33.877883+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0006009,
+    "last_seen": "2026-04-18T16:29:33.877883+00:00"
+  }
+}

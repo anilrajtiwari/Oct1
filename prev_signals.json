@@ -1,18 +1,1 @@
-{
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 6.209e-06,
-    "last_seen": "2026-04-18T09:39:57.317684+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.007651,
-    "last_seen": "2026-04-18T09:39:57.317684+00:00"
-  }
-}
+{}

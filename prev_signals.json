@@ -1,18 +1,10 @@
 {
-  "KOMA/USDT": {
+  "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01035,
-    "last_seen": "2026-04-18T01:22:25.599275+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0618,
-    "last_seen": "2026-04-18T01:22:25.599275+00:00"
+    "price": 0.07991,
+    "last_seen": "2026-04-18T04:25:29.263883+00:00"
   }
 }

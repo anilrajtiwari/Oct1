@@ -1,1 +1,10 @@
-{}
+{
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.05675,
+    "last_seen": "2026-04-18T12:39:45.181234+00:00"
+  }
+}

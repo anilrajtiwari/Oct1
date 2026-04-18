@@ -1,18 +1,18 @@
 {
-  "WIF/USDT": {
+  "KOMA/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.2203,
-    "last_seen": "2026-04-17T23:31:56.555478+00:00"
+    "price": 0.01035,
+    "last_seen": "2026-04-18T01:22:25.599275+00:00"
   },
-  "MEW/USDT": {
-    "direction": "LONG",
+  "POPCAT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00063,
-    "last_seen": "2026-04-17T23:31:56.555478+00:00"
+    "price": 0.0618,
+    "last_seen": "2026-04-18T01:22:25.599275+00:00"
   }
 }

@@ -1,1 +1,18 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0716,
+    "last_seen": "2026-04-18T07:55:27.168753+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3666,
+    "last_seen": "2026-04-18T07:55:27.168753+00:00"
+  }
+}

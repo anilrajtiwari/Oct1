@@ -1,1 +1,26 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 4.583,
+    "last_seen": "2026-04-19T08:02:28.820416+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.3684,
+    "last_seen": "2026-04-19T08:02:28.820416+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.007111,
+    "last_seen": "2026-04-19T08:02:28.820416+00:00"
+  }
+}

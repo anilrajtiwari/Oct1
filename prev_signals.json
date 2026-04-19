@@ -1,1 +1,18 @@
-{}
+{
+  "VINE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0196,
+    "last_seen": "2026-04-19T18:35:24.567170+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0544,
+    "last_seen": "2026-04-19T18:35:24.567170+00:00"
+  }
+}

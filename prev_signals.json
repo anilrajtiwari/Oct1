@@ -1,10 +1,18 @@
 {
-  "PNUT/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.05776,
-    "last_seen": "2026-04-19T19:36:18.117899+00:00"
+    "exchange": "gateio",
+    "price": 3.707e-06,
+    "last_seen": "2026-04-19T20:27:51.058286+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0005757,
+    "last_seen": "2026-04-19T20:27:51.058286+00:00"
   }
 }

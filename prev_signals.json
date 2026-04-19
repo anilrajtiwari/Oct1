@@ -1,50 +1,10 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 6.212e-06,
-    "last_seen": "2026-04-19T09:39:26.875815+00:00"
-  },
   "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 3.8851e-06,
-    "last_seen": "2026-04-19T09:39:26.875815+00:00"
-  },
-  "KOMA/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.008564,
-    "last_seen": "2026-04-19T09:39:26.875815+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.005961,
-    "last_seen": "2026-04-19T09:39:26.875815+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.05192,
-    "last_seen": "2026-04-19T09:39:26.875815+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.06002,
-    "last_seen": "2026-04-19T09:39:26.875815+00:00"
+    "price": 3.8932e-06,
+    "last_seen": "2026-04-19T10:32:16.824957+00:00"
   }
 }

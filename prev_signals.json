@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 3.707e-06,
-    "last_seen": "2026-04-19T20:27:51.058286+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0005757,
-    "last_seen": "2026-04-19T20:27:51.058286+00:00"
+    "exchange": "mexc",
+    "price": 0.0005699,
+    "last_seen": "2026-04-19T21:27:19.858435+00:00"
   }
 }

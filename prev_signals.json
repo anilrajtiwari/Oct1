@@ -1,26 +1,10 @@
 {
-  "WIF/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.1946,
-    "last_seen": "2026-04-19T22:26:17.282428+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05371,
-    "last_seen": "2026-04-19T22:26:17.282428+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.05861,
-    "last_seen": "2026-04-19T22:26:17.282428+00:00"
+    "exchange": "mexc",
+    "price": 4.226,
+    "last_seen": "2026-04-19T23:28:30.743061+00:00"
   }
 }

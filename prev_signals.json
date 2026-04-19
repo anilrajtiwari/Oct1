@@ -1,18 +1,1 @@
-{
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01933,
-    "last_seen": "2026-04-19T16:29:37.633822+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0532,
-    "last_seen": "2026-04-19T16:29:37.633822+00:00"
-  }
-}
+{}

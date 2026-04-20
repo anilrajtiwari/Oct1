@@ -1,34 +1,18 @@
 {
-  "ORDI/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 5.003,
-    "last_seen": "2026-04-20T04:51:36.209930+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.3102,
-    "last_seen": "2026-04-20T04:51:36.209930+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.05462,
-    "last_seen": "2026-04-20T04:51:36.209930+00:00"
+    "price": 0.2008,
+    "last_seen": "2026-04-20T07:11:57.082205+00:00"
   },
-  "POPCAT/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.05926,
-    "last_seen": "2026-04-20T04:51:36.209930+00:00"
+    "exchange": "mexc",
+    "price": 0.007239,
+    "last_seen": "2026-04-20T07:11:57.082205+00:00"
   }
 }

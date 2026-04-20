@@ -1,10 +1,18 @@
 {
-  "ORDI/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 4.226,
-    "last_seen": "2026-04-19T23:28:30.743061+00:00"
+    "exchange": "gateio",
+    "price": 0.006732,
+    "last_seen": "2026-04-20T01:47:20.555499+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0005699,
+    "last_seen": "2026-04-20T01:47:20.555499+00:00"
   }
 }

@@ -1,18 +1,26 @@
 {
-  "KOMA/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0085,
-    "last_seen": "2026-04-20T11:12:42.289121+00:00"
+    "price": 0.2029,
+    "last_seen": "2026-04-20T13:06:46.572644+00:00"
   },
-  "BRETT/USDT": {
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01998,
+    "last_seen": "2026-04-20T13:06:46.572644+00:00"
+  },
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00712,
-    "last_seen": "2026-04-20T11:12:42.289121+00:00"
+    "price": 0.05429,
+    "last_seen": "2026-04-20T13:06:46.572644+00:00"
   }
 }

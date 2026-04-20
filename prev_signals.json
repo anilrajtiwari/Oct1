@@ -1,26 +1,18 @@
 {
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.06742,
-    "last_seen": "2026-04-20T17:52:05.257323+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.007357,
-    "last_seen": "2026-04-20T17:52:05.257323+00:00"
-  },
-  "BRETT/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.007156,
-    "last_seen": "2026-04-20T17:52:05.257323+00:00"
+    "price": 4.675,
+    "last_seen": "2026-04-20T18:53:05.331062+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0005868,
+    "last_seen": "2026-04-20T18:53:05.331062+00:00"
   }
 }

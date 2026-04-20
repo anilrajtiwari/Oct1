@@ -1,10 +1,18 @@
 {
   "BAN/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
+    "confidence": 1.0,
+    "count": 3,
     "exchange": "kucoin",
-    "price": 0.06766,
-    "last_seen": "2026-04-20T22:35:30.389015+00:00"
+    "price": 0.06867,
+    "last_seen": "2026-04-20T23:35:42.548726+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.007482,
+    "last_seen": "2026-04-20T23:35:42.548726+00:00"
   }
 }

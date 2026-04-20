@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.06746,
-    "last_seen": "2026-04-20T19:55:56.203191+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.05741,
-    "last_seen": "2026-04-20T19:55:56.203191+00:00"
+    "price": 4.3789,
+    "last_seen": "2026-04-20T20:37:46.148641+00:00"
   }
 }

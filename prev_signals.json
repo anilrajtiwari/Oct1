@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
+  "MUBARAK/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 3.684e-06,
-    "last_seen": "2026-04-21T06:30:39.557849+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.007014,
-    "last_seen": "2026-04-21T06:30:39.557849+00:00"
+    "exchange": "okx",
+    "price": 0.01346,
+    "last_seen": "2026-04-21T08:28:06.779052+00:00"
   }
 }

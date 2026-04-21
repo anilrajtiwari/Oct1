@@ -1,1 +1,10 @@
-{}
+{
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.05585,
+    "last_seen": "2026-04-21T18:58:28.159984+00:00"
+  }
+}

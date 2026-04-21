@@ -1,1 +1,18 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 3.684e-06,
+    "last_seen": "2026-04-21T06:30:39.557849+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.007014,
+    "last_seen": "2026-04-21T06:30:39.557849+00:00"
+  }
+}

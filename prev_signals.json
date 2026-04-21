@@ -1,26 +1,18 @@
 {
-  "WIF/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.1922,
-    "last_seen": "2026-04-21T20:01:30.601789+00:00"
-  },
   "BAN/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0726,
-    "last_seen": "2026-04-21T20:01:30.601789+00:00"
+    "price": 0.07415,
+    "last_seen": "2026-04-21T20:57:03.709310+00:00"
   },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
+  "SPX/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.007202,
-    "last_seen": "2026-04-21T20:01:30.601789+00:00"
+    "exchange": "kucoin",
+    "price": 0.3353,
+    "last_seen": "2026-04-21T20:57:03.709310+00:00"
   }
 }

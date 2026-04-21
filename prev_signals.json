@@ -1,18 +1,1 @@
-{
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00741,
-    "last_seen": "2026-04-21T21:38:40.620887+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01398,
-    "last_seen": "2026-04-21T21:38:40.620887+00:00"
-  }
-}
+{}

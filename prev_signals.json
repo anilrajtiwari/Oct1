@@ -1,10 +1,18 @@
 {
-  "MUBARAK/USDT": {
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.00735,
+    "last_seen": "2026-04-21T10:11:56.978776+00:00"
+  },
+  "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.01346,
-    "last_seen": "2026-04-21T08:28:06.779052+00:00"
+    "price": 0.05566,
+    "last_seen": "2026-04-21T10:11:56.978776+00:00"
   }
 }

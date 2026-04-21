@@ -1,1 +1,10 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0742,
+    "last_seen": "2026-04-21T13:01:19.103866+00:00"
+  }
+}

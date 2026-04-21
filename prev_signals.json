@@ -1,18 +1,18 @@
 {
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.07415,
-    "last_seen": "2026-04-21T20:57:03.709310+00:00"
-  },
-  "SPX/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.3353,
-    "last_seen": "2026-04-21T20:57:03.709310+00:00"
+    "price": 0.00741,
+    "last_seen": "2026-04-21T21:38:40.620887+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01398,
+    "last_seen": "2026-04-21T21:38:40.620887+00:00"
   }
 }

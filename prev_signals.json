@@ -1,18 +1,10 @@
 {
-  "BRETT/USDT": {
-    "direction": "LONG",
+  "BOME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.007274,
-    "last_seen": "2026-04-22T06:31:15.023284+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01381,
-    "last_seen": "2026-04-22T06:31:15.023284+00:00"
+    "price": 0.000562,
+    "last_seen": "2026-04-22T08:25:51.398006+00:00"
   }
 }

@@ -1,26 +1,10 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 3.407e-05,
-    "last_seen": "2026-04-22T16:04:37.723836+00:00"
-  },
   "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.05884,
-    "last_seen": "2026-04-22T16:04:37.723836+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "gateio",
-    "price": 0.01458,
-    "last_seen": "2026-04-22T16:04:37.723836+00:00"
+    "price": 0.0583,
+    "last_seen": "2026-04-22T17:53:29.786700+00:00"
   }
 }

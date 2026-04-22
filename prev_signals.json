@@ -1,18 +1,1 @@
-{
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.007764,
-    "last_seen": "2026-04-22T20:04:22.725969+00:00"
-  },
-  "WIF/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.1965,
-    "last_seen": "2026-04-22T20:04:22.725969+00:00"
-  }
-}
+{}

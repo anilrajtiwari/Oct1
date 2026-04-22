@@ -1,1 +1,10 @@
-{}
+{
+  "BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 6.458e-06,
+    "last_seen": "2026-04-22T14:49:03.259026+00:00"
+  }
+}

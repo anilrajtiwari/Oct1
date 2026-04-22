@@ -1,10 +1,10 @@
 {
-  "PNUT/USDT": {
-    "direction": "SHORT",
+  "WIF/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.05619,
-    "last_seen": "2026-04-21T23:29:48.204519+00:00"
+    "exchange": "bitget",
+    "price": 0.1957,
+    "last_seen": "2026-04-22T01:27:36.455660+00:00"
   }
 }

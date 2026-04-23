@@ -1,26 +1,18 @@
 {
-  "AIXBT/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.02746,
-    "last_seen": "2026-04-23T15:14:21.913829+00:00"
+    "exchange": "kucoin",
+    "price": 0.00874,
+    "last_seen": "2026-04-23T17:11:18.282161+00:00"
   },
-  "VINE/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01919,
-    "last_seen": "2026-04-23T15:14:21.913829+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01386,
-    "last_seen": "2026-04-23T15:14:21.913829+00:00"
+    "exchange": "kucoin",
+    "price": 4.5058,
+    "last_seen": "2026-04-23T17:11:18.282161+00:00"
   }
 }

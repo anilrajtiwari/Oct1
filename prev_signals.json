@@ -2,33 +2,17 @@
   "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 4.376,
-    "last_seen": "2026-04-23T18:56:33.733933+00:00"
+    "count": 3,
+    "exchange": "bitget",
+    "price": 4.55,
+    "last_seen": "2026-04-23T20:03:16.351852+00:00"
   },
-  "PEPE/USDT": {
+  "PEOPLE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 3.9063e-06,
-    "last_seen": "2026-04-23T18:56:33.733933+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.008605,
-    "last_seen": "2026-04-23T18:56:33.733933+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05896,
-    "last_seen": "2026-04-23T18:56:33.733933+00:00"
+    "price": 0.00781,
+    "last_seen": "2026-04-23T20:03:16.351852+00:00"
   }
 }

@@ -1,10 +1,18 @@
 {
-  "ORDI/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 4.333,
-    "last_seen": "2026-04-23T10:15:39.136256+00:00"
+    "exchange": "kucoin",
+    "price": 3.9542e-06,
+    "last_seen": "2026-04-23T11:55:01.683819+00:00"
+  },
+  "BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 6.314e-06,
+    "last_seen": "2026-04-23T11:55:01.683819+00:00"
   }
 }

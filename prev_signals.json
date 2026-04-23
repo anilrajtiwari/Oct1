@@ -1,50 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 3.8188e-06,
-    "last_seen": "2026-04-23T01:46:04.954787+00:00"
-  },
-  "KOMA/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.008463,
-    "last_seen": "2026-04-23T01:46:04.954787+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0005531,
-    "last_seen": "2026-04-23T01:46:04.954787+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00739,
-    "last_seen": "2026-04-23T01:46:04.954787+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.3415,
-    "last_seen": "2026-04-23T01:46:04.954787+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.05828,
-    "last_seen": "2026-04-23T01:46:04.954787+00:00"
+    "price": 0.08634,
+    "last_seen": "2026-04-23T04:44:54.035271+00:00"
   }
 }

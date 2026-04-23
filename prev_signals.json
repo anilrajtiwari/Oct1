@@ -1,34 +1,18 @@
 {
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.00774,
-    "last_seen": "2026-04-23T21:38:39.500176+00:00"
-  },
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.8224e-06,
-    "last_seen": "2026-04-23T21:38:39.500176+00:00"
-  },
-  "BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 6.363e-06,
-    "last_seen": "2026-04-23T21:38:39.500176+00:00"
-  },
   "1000BONK/USDT": {
-    "direction": "SHORT",
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.006366,
-    "last_seen": "2026-04-23T21:38:39.500176+00:00"
+    "price": 0.006346,
+    "last_seen": "2026-04-23T22:36:01.738563+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.364e-05,
+    "last_seen": "2026-04-23T22:36:01.738563+00:00"
   }
 }

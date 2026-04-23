@@ -1,18 +1,34 @@
 {
-  "KOMA/USDT": {
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 4.376,
+    "last_seen": "2026-04-23T18:56:33.733933+00:00"
+  },
+  "PEPE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 3.9063e-06,
+    "last_seen": "2026-04-23T18:56:33.733933+00:00"
+  },
+  "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00874,
-    "last_seen": "2026-04-23T17:11:18.282161+00:00"
+    "price": 0.008605,
+    "last_seen": "2026-04-23T18:56:33.733933+00:00"
   },
-  "ORDI/USDT": {
+  "PNUT/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 4.5058,
-    "last_seen": "2026-04-23T17:11:18.282161+00:00"
+    "price": 0.05896,
+    "last_seen": "2026-04-23T18:56:33.733933+00:00"
   }
 }

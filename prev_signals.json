@@ -1,10 +1,18 @@
 {
-  "AIXBT/USDT": {
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0983,
+    "last_seen": "2026-04-24T19:45:00.933898+00:00"
+  },
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.02682,
-    "last_seen": "2026-04-24T18:38:15.728955+00:00"
+    "price": 4.4188,
+    "last_seen": "2026-04-24T19:45:00.933898+00:00"
   }
 }

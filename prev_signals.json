@@ -1,1 +1,18 @@
-{}
+{
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 6.243e-06,
+    "last_seen": "2026-04-24T16:00:00.138511+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03829,
+    "last_seen": "2026-04-24T16:00:00.138511+00:00"
+  }
+}

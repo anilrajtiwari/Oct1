@@ -1,10 +1,18 @@
 {
-  "AIXBT/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01291,
+    "last_seen": "2026-04-24T17:44:22.867685+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.02834,
-    "last_seen": "2026-04-24T16:55:17.377681+00:00"
+    "price": 0.01407,
+    "last_seen": "2026-04-24T17:44:22.867685+00:00"
   }
 }

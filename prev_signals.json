@@ -1,1 +1,18 @@
-{}
+{
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01332,
+    "last_seen": "2026-04-24T07:00:33.532883+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0141,
+    "last_seen": "2026-04-24T07:00:33.532883+00:00"
+  }
+}

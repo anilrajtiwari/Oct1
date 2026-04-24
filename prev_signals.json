@@ -1,1 +1,50 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0981,
+    "last_seen": "2026-04-24T11:54:05.484117+00:00"
+  },
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 6.186e-06,
+    "last_seen": "2026-04-24T11:54:05.484117+00:00"
+  },
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.1813,
+    "last_seen": "2026-04-24T11:54:05.484117+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.000507,
+    "last_seen": "2026-04-24T11:54:05.484117+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0006152,
+    "last_seen": "2026-04-24T11:54:05.484117+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.06147,
+    "last_seen": "2026-04-24T11:54:05.484117+00:00"
+  }
+}

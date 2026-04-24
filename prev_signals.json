@@ -1,10 +1,10 @@
 {
-  "ACT/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.01385,
-    "last_seen": "2026-04-23T23:37:57.527188+00:00"
+    "exchange": "mexc",
+    "price": 0.0005681,
+    "last_seen": "2026-04-24T01:31:52.816213+00:00"
   }
 }

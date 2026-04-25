@@ -1,18 +1,10 @@
 {
-  "ORDI/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 4.736,
-    "last_seen": "2026-04-25T08:01:12.033571+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
+  "MEW/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.007934,
-    "last_seen": "2026-04-25T08:01:12.033571+00:00"
+    "price": 0.0006167,
+    "last_seen": "2026-04-25T08:56:09.726162+00:00"
   }
 }

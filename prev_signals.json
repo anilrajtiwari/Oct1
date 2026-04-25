@@ -1,10 +1,26 @@
 {
-  "PIPPIN/USDT": {
+  "ORDI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0299,
-    "last_seen": "2026-04-25T09:43:47.466387+00:00"
+    "price": 4.723,
+    "last_seen": "2026-04-25T10:36:24.156081+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.08754,
+    "last_seen": "2026-04-25T10:36:24.156081+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.007924,
+    "last_seen": "2026-04-25T10:36:24.156081+00:00"
   }
 }

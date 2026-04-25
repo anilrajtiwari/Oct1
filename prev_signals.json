@@ -1,10 +1,10 @@
 {
-  "MEW/USDT": {
-    "direction": "SHORT",
+  "PIPPIN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0006167,
-    "last_seen": "2026-04-25T08:56:09.726162+00:00"
+    "price": 0.0299,
+    "last_seen": "2026-04-25T09:43:47.466387+00:00"
   }
 }

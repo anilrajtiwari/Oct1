@@ -1,1 +1,10 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.097463,
+    "last_seen": "2026-04-25T19:39:09.251548+00:00"
+  }
+}

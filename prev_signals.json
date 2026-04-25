@@ -1,26 +1,26 @@
 {
-  "PEPE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 3.8238e-06,
-    "last_seen": "2026-04-25T16:32:20.466417+00:00"
-  },
   "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.1774,
-    "last_seen": "2026-04-25T16:32:20.466417+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.1765,
+    "last_seen": "2026-04-25T17:31:59.787886+00:00"
   },
-  "KOMA/USDT": {
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.03068,
+    "last_seen": "2026-04-25T17:31:59.787886+00:00"
+  },
+  "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.008292,
-    "last_seen": "2026-04-25T16:32:20.466417+00:00"
+    "price": 0.01517,
+    "last_seen": "2026-04-25T17:31:59.787886+00:00"
   }
 }

@@ -1,1 +1,18 @@
-{}
+{
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.3838,
+    "last_seen": "2026-04-26T14:43:32.340169+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01375,
+    "last_seen": "2026-04-26T14:43:32.340169+00:00"
+  }
+}

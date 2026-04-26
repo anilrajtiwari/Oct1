@@ -2,17 +2,25 @@
   "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.09857,
-    "last_seen": "2026-04-26T10:38:01.086097+00:00"
+    "price": 0.09847,
+    "last_seen": "2026-04-26T11:34:16.425431+00:00"
   },
-  "POPCAT/USDT": {
+  "ORDI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0603,
-    "last_seen": "2026-04-26T10:38:01.086097+00:00"
+    "price": 4.719,
+    "last_seen": "2026-04-26T11:34:16.425431+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.20236,
+    "last_seen": "2026-04-26T11:34:16.425431+00:00"
   }
 }

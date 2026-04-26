@@ -1,18 +1,18 @@
 {
-  "SPX/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.3838,
-    "last_seen": "2026-04-26T14:43:32.340169+00:00"
+    "price": 0.06149,
+    "last_seen": "2026-04-26T15:35:30.584726+00:00"
   },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01375,
-    "last_seen": "2026-04-26T14:43:32.340169+00:00"
+    "price": 0.01622,
+    "last_seen": "2026-04-26T15:35:30.584726+00:00"
   }
 }

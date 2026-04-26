@@ -1,34 +1,10 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 6.223e-06,
-    "last_seen": "2026-04-26T20:29:18.099847+00:00"
-  },
-  "KOMA/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.008166,
-    "last_seen": "2026-04-26T20:29:18.099847+00:00"
-  },
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.03716,
-    "last_seen": "2026-04-26T20:29:18.099847+00:00"
-  },
   "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.0591,
-    "last_seen": "2026-04-26T20:29:18.099847+00:00"
+    "price": 0.0592,
+    "last_seen": "2026-04-26T21:30:21.997359+00:00"
   }
 }

@@ -1,10 +1,18 @@
 {
-  "BAN/USDT": {
+  "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.07154,
-    "last_seen": "2026-04-27T16:23:56.356049+00:00"
+    "exchange": "huobi",
+    "price": 0.010006,
+    "last_seen": "2026-04-27T18:01:07.485455+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.376,
+    "last_seen": "2026-04-27T18:01:07.485455+00:00"
   }
 }

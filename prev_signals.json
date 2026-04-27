@@ -1,18 +1,1 @@
-{
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 3.2558e-05,
-    "last_seen": "2026-04-27T10:07:22.570670+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 4.339,
-    "last_seen": "2026-04-27T10:07:22.570670+00:00"
-  }
-}
+{}

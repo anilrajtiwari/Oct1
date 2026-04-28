@@ -1,1 +1,18 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.07296,
+    "last_seen": "2026-04-28T23:45:45.572601+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01488,
+    "last_seen": "2026-04-28T23:45:45.572601+00:00"
+  }
+}

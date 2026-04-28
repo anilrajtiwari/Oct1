@@ -1,1 +1,10 @@
-{}
+{
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01135,
+    "last_seen": "2026-04-28T05:26:33.281560+00:00"
+  }
+}

@@ -1,1 +1,18 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.0005045,
+    "last_seen": "2026-04-28T12:21:25.009418+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.00749,
+    "last_seen": "2026-04-28T12:21:25.009418+00:00"
+  }
+}

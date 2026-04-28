@@ -1,1 +1,18 @@
-{}
+{
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.007373,
+    "last_seen": "2026-04-28T17:30:55.994887+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01436,
+    "last_seen": "2026-04-28T17:30:55.994887+00:00"
+  }
+}

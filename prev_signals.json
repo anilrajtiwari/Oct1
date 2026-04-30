@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "LONG",
+  "SPX/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.01332,
-    "last_seen": "2026-04-30T20:06:07.589569+00:00"
+    "price": 0.357,
+    "last_seen": "2026-04-30T21:49:01.208148+00:00"
   }
 }

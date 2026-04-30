@@ -1,18 +1,1 @@
-{
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.3559,
-    "last_seen": "2026-04-30T22:42:55.965314+00:00"
-  },
-  "KOMA/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00694,
-    "last_seen": "2026-04-30T22:42:55.965314+00:00"
-  }
-}
+{}

@@ -1,10 +1,10 @@
 {
   "MUBARAK/USDT": {
-    "direction": "SHORT",
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01347,
-    "last_seen": "2026-04-30T18:05:11.810382+00:00"
+    "exchange": "okx",
+    "price": 0.01332,
+    "last_seen": "2026-04-30T20:06:07.589569+00:00"
   }
 }

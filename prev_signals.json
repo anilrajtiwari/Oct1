@@ -2,9 +2,25 @@
   "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 3,
+    "count": 4,
+    "exchange": "okx",
+    "price": 0.007826,
+    "last_seen": "2026-05-01T20:02:12.763413+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "gateio",
-    "price": 0.00776,
-    "last_seen": "2026-05-01T18:58:12.810578+00:00"
+    "price": 3.198e-05,
+    "last_seen": "2026-05-01T20:02:12.763413+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0005915,
+    "last_seen": "2026-05-01T20:02:12.763413+00:00"
   }
 }

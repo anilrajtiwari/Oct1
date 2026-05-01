@@ -1,1 +1,10 @@
-{}
+{
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.007724,
+    "last_seen": "2026-05-01T16:45:35.645659+00:00"
+  }
+}

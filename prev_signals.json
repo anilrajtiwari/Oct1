@@ -1,1 +1,10 @@
-{}
+{
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05648,
+    "last_seen": "2026-05-01T02:01:50.588593+00:00"
+  }
+}

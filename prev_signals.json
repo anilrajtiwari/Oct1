@@ -1,26 +1,26 @@
 {
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 4,
-    "exchange": "okx",
-    "price": 0.007826,
-    "last_seen": "2026-05-01T20:02:12.763413+00:00"
-  },
-  "DOGS/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 3.198e-05,
-    "last_seen": "2026-05-01T20:02:12.763413+00:00"
+    "exchange": "huobi",
+    "price": 3.9619e-06,
+    "last_seen": "2026-05-01T21:44:10.340474+00:00"
   },
-  "MEW/USDT": {
+  "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0005915,
-    "last_seen": "2026-05-01T20:02:12.763413+00:00"
+    "exchange": "mexc",
+    "price": 0.05592,
+    "last_seen": "2026-05-01T21:44:10.340474+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05836,
+    "last_seen": "2026-05-01T21:44:10.340474+00:00"
   }
 }

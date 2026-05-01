@@ -1,18 +1,1 @@
-{
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.009599,
-    "last_seen": "2026-05-01T11:52:04.956358+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.03095,
-    "last_seen": "2026-05-01T11:52:04.956358+00:00"
-  }
-}
+{}

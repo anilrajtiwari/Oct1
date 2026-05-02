@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "kucoin",
-    "price": 0.0569,
-    "last_seen": "2026-05-02T11:38:54.153659+00:00"
+    "price": 0.07244,
+    "last_seen": "2026-05-02T12:46:51.821714+00:00"
   }
 }

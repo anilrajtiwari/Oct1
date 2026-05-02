@@ -1,1 +1,10 @@
-{}
+{
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01483,
+    "last_seen": "2026-05-02T16:37:24.849306+00:00"
+  }
+}

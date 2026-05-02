@@ -1,26 +1,10 @@
 {
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.05612,
-    "last_seen": "2026-05-02T10:42:59.991845+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.007674,
-    "last_seen": "2026-05-02T10:42:59.991845+00:00"
-  },
   "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.0568,
-    "last_seen": "2026-05-02T10:42:59.991845+00:00"
+    "price": 0.0569,
+    "last_seen": "2026-05-02T11:38:54.153659+00:00"
   }
 }

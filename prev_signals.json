@@ -2,9 +2,33 @@
   "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.0393,
-    "last_seen": "2026-05-02T22:31:18.328801+00:00"
+    "price": 0.03895,
+    "last_seen": "2026-05-02T23:35:13.918309+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 3.25e-05,
+    "last_seen": "2026-05-02T23:35:13.918309+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01595,
+    "last_seen": "2026-05-02T23:35:13.918309+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.00798,
+    "last_seen": "2026-05-02T23:35:13.918309+00:00"
   }
 }

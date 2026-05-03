@@ -1,10 +1,18 @@
 {
-  "DOGE/USDT": {
-    "direction": "SHORT",
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.07565,
+    "last_seen": "2026-05-03T21:34:11.818416+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.10902,
-    "last_seen": "2026-05-03T20:33:54.751351+00:00"
+    "price": 0.014628,
+    "last_seen": "2026-05-03T21:34:11.818416+00:00"
   }
 }

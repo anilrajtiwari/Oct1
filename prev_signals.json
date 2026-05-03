@@ -1,26 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.07742,
-    "last_seen": "2026-05-03T10:45:47.805714+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
     "confidence": 1.0,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0559,
-    "last_seen": "2026-05-03T10:45:47.805714+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0578,
-    "last_seen": "2026-05-03T10:45:47.805714+00:00"
+    "exchange": "okx",
+    "price": 0.01459,
+    "last_seen": "2026-05-03T11:36:49.035843+00:00"
   }
 }

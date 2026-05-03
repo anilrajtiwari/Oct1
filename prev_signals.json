@@ -2,9 +2,17 @@
   "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.07544,
+    "last_seen": "2026-05-03T16:38:13.204092+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.07594,
-    "last_seen": "2026-05-03T15:39:07.629985+00:00"
+    "price": 0.01467,
+    "last_seen": "2026-05-03T16:38:13.204092+00:00"
   }
 }

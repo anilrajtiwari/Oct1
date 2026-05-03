@@ -1,10 +1,10 @@
 {
-  "SHIB/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 6.174e-06,
-    "last_seen": "2026-05-03T19:47:13.789099+00:00"
+    "exchange": "gateio",
+    "price": 0.10902,
+    "last_seen": "2026-05-03T20:33:54.751351+00:00"
   }
 }

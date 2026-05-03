@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.07717,
-    "last_seen": "2026-05-03T12:45:59.984776+00:00"
-  },
-  "SPX/USDT": {
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.3732,
-    "last_seen": "2026-05-03T12:45:59.984776+00:00"
+    "exchange": "okx",
+    "price": 0.01475,
+    "last_seen": "2026-05-03T14:07:35.844423+00:00"
   }
 }

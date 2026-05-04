@@ -1,1 +1,26 @@
-{}
+{
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.309e-05,
+    "last_seen": "2026-05-04T08:17:42.256760+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.21183,
+    "last_seen": "2026-05-04T08:17:42.256760+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.06029,
+    "last_seen": "2026-05-04T08:17:42.256760+00:00"
+  }
+}

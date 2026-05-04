@@ -1,10 +1,42 @@
 {
-  "DOGE/USDT": {
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.007562,
+    "last_seen": "2026-05-04T15:04:45.810161+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 5.0525,
+    "last_seen": "2026-05-04T15:04:45.810161+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.06133,
+    "last_seen": "2026-05-04T15:04:45.810161+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01707,
+    "last_seen": "2026-05-04T15:04:45.810161+00:00"
+  },
+  "ACT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.11075,
-    "last_seen": "2026-05-04T12:19:23.067863+00:00"
+    "price": 0.01604,
+    "last_seen": "2026-05-04T15:04:45.810161+00:00"
   }
 }

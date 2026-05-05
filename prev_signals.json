@@ -1,1 +1,26 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 4.0918e-06,
+    "last_seen": "2026-05-05T13:12:04.882369+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.000629,
+    "last_seen": "2026-05-05T13:12:04.882369+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.06251,
+    "last_seen": "2026-05-05T13:12:04.882369+00:00"
+  }
+}

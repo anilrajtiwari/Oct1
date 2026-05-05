@@ -1,18 +1,18 @@
 {
-  "DOGE/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.11127,
-    "last_seen": "2026-05-05T19:06:07.887344+00:00"
+    "exchange": "huobi",
+    "price": 5.221,
+    "last_seen": "2026-05-05T20:54:26.996262+00:00"
   },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
+  "PENGU/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.03406,
-    "last_seen": "2026-05-05T19:06:07.887344+00:00"
+    "exchange": "huobi",
+    "price": 0.011475,
+    "last_seen": "2026-05-05T20:54:26.996262+00:00"
   }
 }

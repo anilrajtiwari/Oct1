@@ -1,10 +1,10 @@
 {
-  "KOMA/USDT": {
-    "direction": "SHORT",
+  "DOGE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.007462,
-    "last_seen": "2026-05-06T08:07:57.250963+00:00"
+    "exchange": "kucoin",
+    "price": 0.11106,
+    "last_seen": "2026-05-06T10:57:22.563907+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.06562,
-    "last_seen": "2026-05-06T05:22:00.723357+00:00"
+    "exchange": "gateio",
+    "price": 0.007462,
+    "last_seen": "2026-05-06T08:07:57.250963+00:00"
   }
 }

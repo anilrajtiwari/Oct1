@@ -1,18 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
+  "PNUT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.000597,
-    "last_seen": "2026-05-07T19:26:44.946309+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.2434,
-    "last_seen": "2026-05-07T19:26:44.946309+00:00"
+    "exchange": "bitget",
+    "price": 0.05995,
+    "last_seen": "2026-05-07T20:58:39.542515+00:00"
   }
 }

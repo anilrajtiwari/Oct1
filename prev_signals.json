@@ -1,10 +1,26 @@
 {
-  "MEW/USDT": {
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 6.37e-06,
+    "last_seen": "2026-05-08T17:02:48.752011+00:00"
+  },
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.000631,
-    "last_seen": "2026-05-08T15:14:26.799253+00:00"
+    "price": 0.2228,
+    "last_seen": "2026-05-08T17:02:48.752011+00:00"
+  },
+  "BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 7.035e-06,
+    "last_seen": "2026-05-08T17:02:48.752011+00:00"
   }
 }

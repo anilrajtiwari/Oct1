@@ -1,10 +1,26 @@
 {
-  "SPX/USDT": {
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.676e-05,
+    "last_seen": "2026-05-08T20:46:47.269737+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0006374,
+    "last_seen": "2026-05-08T20:46:47.269737+00:00"
+  },
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.4355,
-    "last_seen": "2026-05-08T19:04:45.684509+00:00"
+    "price": 0.066,
+    "last_seen": "2026-05-08T20:46:47.269737+00:00"
   }
 }

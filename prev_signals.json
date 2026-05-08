@@ -1,42 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 4.3384e-06,
-    "last_seen": "2026-05-08T21:51:08.752110+00:00"
-  },
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 7.342e-06,
-    "last_seen": "2026-05-08T21:51:08.752110+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.4464,
-    "last_seen": "2026-05-08T21:51:08.752110+00:00"
-  },
-  "1000BONK/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.007341,
-    "last_seen": "2026-05-08T21:51:08.752110+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.009016,
-    "last_seen": "2026-05-08T21:51:08.752110+00:00"
+    "price": 0.0006403,
+    "last_seen": "2026-05-08T22:45:56.703045+00:00"
   }
 }

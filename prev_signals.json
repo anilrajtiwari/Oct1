@@ -1,10 +1,10 @@
 {
-  "BONK/USDT": {
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 6.976e-06,
-    "last_seen": "2026-05-08T13:08:26.747264+00:00"
+    "exchange": "bitget",
+    "price": 0.000631,
+    "last_seen": "2026-05-08T15:14:26.799253+00:00"
   }
 }

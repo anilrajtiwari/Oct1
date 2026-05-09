@@ -1,26 +1,18 @@
 {
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
+  "DEGEN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 2,
-    "exchange": "kucoin",
-    "price": 0.00853,
-    "last_seen": "2026-05-09T18:45:27.854199+00:00"
+    "exchange": "gateio",
+    "price": 0.00073,
+    "last_seen": "2026-05-09T19:52:02.123466+00:00"
   },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00712,
-    "last_seen": "2026-05-09T18:45:27.854199+00:00"
-  },
-  "DEGEN/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0007314,
-    "last_seen": "2026-05-09T18:45:27.854199+00:00"
+    "price": 0.01513,
+    "last_seen": "2026-05-09T19:52:02.123466+00:00"
   }
 }

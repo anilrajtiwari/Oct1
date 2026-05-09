@@ -1,26 +1,18 @@
 {
-  "1000RATS/USDT": {
-    "direction": "SHORT",
+  "KOMA/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.04024,
-    "last_seen": "2026-05-09T11:42:47.303383+00:00"
+    "exchange": "gateio",
+    "price": 0.008483,
+    "last_seen": "2026-05-09T12:54:34.017470+00:00"
   },
-  "PENGU/USDT": {
-    "direction": "SHORT",
+  "BAN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.010339,
-    "last_seen": "2026-05-09T11:42:47.303383+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.06246,
-    "last_seen": "2026-05-09T11:42:47.303383+00:00"
+    "exchange": "mexc",
+    "price": 0.07059,
+    "last_seen": "2026-05-09T12:54:34.017470+00:00"
   }
 }

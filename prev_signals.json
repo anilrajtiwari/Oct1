@@ -1,26 +1,26 @@
 {
-  "BRETT/USDT": {
-    "direction": "LONG",
+  "1000RATS/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.009266,
-    "last_seen": "2026-05-09T10:48:12.761454+00:00"
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04024,
+    "last_seen": "2026-05-09T11:42:47.303383+00:00"
   },
-  "BAN/USDT": {
-    "direction": "LONG",
+  "PENGU/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.07192,
-    "last_seen": "2026-05-09T10:48:12.761454+00:00"
+    "price": 0.010339,
+    "last_seen": "2026-05-09T11:42:47.303383+00:00"
   },
-  "CHILLGUY/USDT": {
+  "PNUT/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.01586,
-    "last_seen": "2026-05-09T10:48:12.761454+00:00"
+    "exchange": "huobi",
+    "price": 0.06246,
+    "last_seen": "2026-05-09T11:42:47.303383+00:00"
   }
 }

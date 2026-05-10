@@ -1,18 +1,1 @@
-{
-  "1000RATS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.03889,
-    "last_seen": "2026-05-09T23:38:36.989772+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.01575,
-    "last_seen": "2026-05-09T23:38:36.989772+00:00"
-  }
-}
+{}

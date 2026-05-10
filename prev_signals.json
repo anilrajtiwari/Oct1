@@ -2,17 +2,41 @@
   "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "kucoin",
-    "price": 3.656e-05,
-    "last_seen": "2026-05-10T07:57:25.478914+00:00"
+    "price": 3.6609e-05,
+    "last_seen": "2026-05-10T09:24:04.739292+00:00"
   },
-  "SHIB/USDT": {
+  "BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 7.318e-06,
+    "last_seen": "2026-05-10T09:24:04.739292+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.07505,
+    "last_seen": "2026-05-10T09:24:04.739292+00:00"
+  },
+  "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 6.453e-06,
-    "last_seen": "2026-05-10T07:57:25.478914+00:00"
+    "price": 0.00938,
+    "last_seen": "2026-05-10T09:24:04.739292+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0006823,
+    "last_seen": "2026-05-10T09:24:04.739292+00:00"
   }
 }

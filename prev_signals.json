@@ -1,42 +1,34 @@
 {
-  "FLOKI/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 3,
+    "count": 1,
     "exchange": "kucoin",
-    "price": 3.6609e-05,
-    "last_seen": "2026-05-10T09:24:04.739292+00:00"
+    "price": 4.2978e-06,
+    "last_seen": "2026-05-10T10:55:38.820541+00:00"
   },
-  "BONK/USDT": {
+  "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 7.318e-06,
-    "last_seen": "2026-05-10T09:24:04.739292+00:00"
+    "exchange": "okx",
+    "price": 0.0006039,
+    "last_seen": "2026-05-10T10:55:38.820541+00:00"
   },
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.07505,
-    "last_seen": "2026-05-10T09:24:04.739292+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00938,
-    "last_seen": "2026-05-10T09:24:04.739292+00:00"
+    "price": 0.0085,
+    "last_seen": "2026-05-10T10:55:38.820541+00:00"
   },
-  "MEW/USDT": {
-    "direction": "LONG",
+  "POPCAT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0006823,
-    "last_seen": "2026-05-10T09:24:04.739292+00:00"
+    "exchange": "okx",
+    "price": 0.07171,
+    "last_seen": "2026-05-10T10:55:38.820541+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 6.85e-05,
-    "last_seen": "2026-05-10T12:55:27.389860+00:00"
-  },
   "1000BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.00729,
-    "last_seen": "2026-05-10T12:55:27.389860+00:00"
+    "price": 0.007297,
+    "last_seen": "2026-05-10T14:18:03.197335+00:00"
   }
 }

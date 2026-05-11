@@ -1,10 +1,10 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
+  "SHIB/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 7.04e-05,
-    "last_seen": "2026-05-11T18:51:57.328845+00:00"
+    "price": 6.64e-06,
+    "last_seen": "2026-05-11T20:27:35.209674+00:00"
   }
 }

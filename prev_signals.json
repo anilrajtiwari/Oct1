@@ -1,18 +1,10 @@
 {
-  "PENGU/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.009775,
-    "last_seen": "2026-05-12T13:54:02.031105+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01029,
-    "last_seen": "2026-05-12T13:54:02.031105+00:00"
+    "exchange": "mexc",
+    "price": 0.2314,
+    "last_seen": "2026-05-12T16:13:59.235229+00:00"
   }
 }

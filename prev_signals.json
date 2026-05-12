@@ -1,18 +1,18 @@
 {
-  "MEME/USDT": {
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.009775,
+    "last_seen": "2026-05-12T13:54:02.031105+00:00"
+  },
+  "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.000602,
-    "last_seen": "2026-05-12T11:12:49.286811+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01678,
-    "last_seen": "2026-05-12T11:12:49.286811+00:00"
+    "price": 0.01029,
+    "last_seen": "2026-05-12T13:54:02.031105+00:00"
   }
 }

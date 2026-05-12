@@ -1,10 +1,18 @@
 {
-  "PNUT/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.06107,
-    "last_seen": "2026-05-12T08:33:24.888698+00:00"
+    "exchange": "kucoin",
+    "price": 0.000602,
+    "last_seen": "2026-05-12T11:12:49.286811+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.01678,
+    "last_seen": "2026-05-12T11:12:49.286811+00:00"
   }
 }

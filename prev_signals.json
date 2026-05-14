@@ -2,17 +2,25 @@
   "SHIB/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 6.266e-06,
-    "last_seen": "2026-05-14T09:27:51.608254+00:00"
+    "price": 6.248e-06,
+    "last_seen": "2026-05-14T11:45:00.901157+00:00"
   },
-  "DOGS/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 6.114e-05,
-    "last_seen": "2026-05-14T09:27:51.608254+00:00"
+    "price": 0.2315,
+    "last_seen": "2026-05-14T11:45:00.901157+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.06243,
+    "last_seen": "2026-05-14T11:45:00.901157+00:00"
   }
 }

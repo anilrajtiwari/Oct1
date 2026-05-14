@@ -1,10 +1,18 @@
 {
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.0006167,
-    "last_seen": "2026-05-14T06:16:40.374080+00:00"
+    "exchange": "mexc",
+    "price": 6.266e-06,
+    "last_seen": "2026-05-14T09:27:51.608254+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 6.114e-05,
+    "last_seen": "2026-05-14T09:27:51.608254+00:00"
   }
 }

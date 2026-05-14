@@ -2,41 +2,17 @@
   "BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 6.936e-06,
-    "last_seen": "2026-05-14T20:24:35.273226+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.517e-05,
-    "last_seen": "2026-05-14T20:24:35.273226+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "huobi",
-    "price": 0.21868,
-    "last_seen": "2026-05-14T20:24:35.273226+00:00"
+    "price": 6.958e-06,
+    "last_seen": "2026-05-14T22:02:01.238722+00:00"
   },
-  "ACT/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.01564,
-    "last_seen": "2026-05-14T20:24:35.273226+00:00"
-  },
-  "DEGEN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.001148,
-    "last_seen": "2026-05-14T20:24:35.273226+00:00"
+    "price": 0.0006283,
+    "last_seen": "2026-05-14T22:02:01.238722+00:00"
   }
 }

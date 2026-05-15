@@ -1,50 +1,18 @@
 {
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.06062,
-    "last_seen": "2026-05-15T13:30:20.664947+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0005696,
-    "last_seen": "2026-05-15T13:30:20.664947+00:00"
-  },
-  "KOMA/USDT": {
+  "ORDI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.007009,
-    "last_seen": "2026-05-15T13:30:20.664947+00:00"
+    "price": 4.363,
+    "last_seen": "2026-05-15T15:57:23.302606+00:00"
   },
-  "PNUT/USDT": {
-    "direction": "LONG",
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.05891,
-    "last_seen": "2026-05-15T13:30:20.664947+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.05527,
-    "last_seen": "2026-05-15T13:30:20.664947+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01449,
-    "last_seen": "2026-05-15T13:30:20.664947+00:00"
+    "exchange": "kucoin",
+    "price": 0.02415,
+    "last_seen": "2026-05-15T15:57:23.302606+00:00"
   }
 }

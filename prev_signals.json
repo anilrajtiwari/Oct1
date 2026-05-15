@@ -1,18 +1,58 @@
 {
-  "ORDI/USDT": {
-    "direction": "LONG",
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.015475,
+    "last_seen": "2026-05-15T17:23:11.132030+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 4.363,
-    "last_seen": "2026-05-15T15:57:23.302606+00:00"
+    "price": 0.007479,
+    "last_seen": "2026-05-15T17:23:11.132030+00:00"
   },
-  "PIPPIN/USDT": {
+  "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.02415,
-    "last_seen": "2026-05-15T15:57:23.302606+00:00"
+    "price": 0.009264,
+    "last_seen": "2026-05-15T17:23:11.132030+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3898,
+    "last_seen": "2026-05-15T17:23:11.132030+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.20219,
+    "last_seen": "2026-05-15T17:23:11.132030+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05529,
+    "last_seen": "2026-05-15T17:23:11.132030+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001969,
+    "last_seen": "2026-05-15T17:23:11.132030+00:00"
   }
 }

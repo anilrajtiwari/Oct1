@@ -1,42 +1,58 @@
 {
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.05731,
-    "last_seen": "2026-05-16T11:44:31.888734+00:00"
-  },
   "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0005326,
-    "last_seen": "2026-05-16T11:44:31.888734+00:00"
-  },
-  "KOMA/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.006689,
-    "last_seen": "2026-05-16T11:44:31.888734+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.07558,
-    "last_seen": "2026-05-16T11:44:31.888734+00:00"
+    "count": 2,
+    "exchange": "huobi",
+    "price": 0.0005285,
+    "last_seen": "2026-05-16T12:59:06.427509+00:00"
   },
   "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.0005604,
+    "last_seen": "2026-05-16T12:59:06.427509+00:00"
+  },
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.10846,
+    "last_seen": "2026-05-16T12:59:06.427509+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.0005614,
-    "last_seen": "2026-05-16T11:44:31.888734+00:00"
+    "price": 0.007116,
+    "last_seen": "2026-05-16T12:59:06.427509+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.008438,
+    "last_seen": "2026-05-16T12:59:06.427509+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.3689,
+    "last_seen": "2026-05-16T12:59:06.427509+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.05755,
+    "last_seen": "2026-05-16T12:59:06.427509+00:00"
   }
 }

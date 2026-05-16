@@ -1,18 +1,10 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 5.504e-05,
-    "last_seen": "2026-05-16T15:49:56.109517+00:00"
-  },
   "MUBARAK/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
+    "confidence": 1.0,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.01407,
-    "last_seen": "2026-05-16T15:49:56.109517+00:00"
+    "price": 0.01405,
+    "last_seen": "2026-05-16T16:46:16.415235+00:00"
   }
 }

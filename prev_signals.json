@@ -2,25 +2,17 @@
   "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 5,
-    "exchange": "gateio",
-    "price": 0.006755,
-    "last_seen": "2026-05-16T21:40:49.909614+00:00"
+    "count": 6,
+    "exchange": "kucoin",
+    "price": 0.00668,
+    "last_seen": "2026-05-16T22:37:21.982639+00:00"
   },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "gateio",
-    "price": 0.01409,
-    "last_seen": "2026-05-16T21:40:49.909614+00:00"
-  },
-  "BOME/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0005886,
-    "last_seen": "2026-05-16T21:40:49.909614+00:00"
+    "price": 0.3864,
+    "last_seen": "2026-05-16T22:37:21.982639+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "KOMA/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 6,
-    "exchange": "kucoin",
-    "price": 0.00668,
-    "last_seen": "2026-05-16T22:37:21.982639+00:00"
-  },
-  "SPX/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.3864,
-    "last_seen": "2026-05-16T22:37:21.982639+00:00"
+    "price": 0.06019,
+    "last_seen": "2026-05-16T23:42:37.760695+00:00"
   }
 }

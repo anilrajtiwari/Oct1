@@ -1,18 +1,18 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.255,
-    "last_seen": "2026-05-17T16:46:13.004783+00:00"
-  },
   "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.01414,
-    "last_seen": "2026-05-17T16:46:13.004783+00:00"
+    "price": 0.01415,
+    "last_seen": "2026-05-17T17:49:46.977700+00:00"
+  },
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 5.784e-06,
+    "last_seen": "2026-05-17T17:49:46.977700+00:00"
   }
 }

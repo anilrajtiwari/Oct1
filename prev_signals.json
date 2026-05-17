@@ -1,34 +1,18 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 5.842e-06,
-    "last_seen": "2026-05-17T12:56:38.317958+00:00"
-  },
-  "FLOKI/USDT": {
+  "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 3.1529e-05,
-    "last_seen": "2026-05-17T12:56:38.317958+00:00"
+    "price": 0.07471,
+    "last_seen": "2026-05-17T14:23:03.936190+00:00"
   },
-  "SPX/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.3703,
-    "last_seen": "2026-05-17T12:56:38.317958+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01415,
-    "last_seen": "2026-05-17T12:56:38.317958+00:00"
+    "price": 0.00811,
+    "last_seen": "2026-05-17T14:23:03.936190+00:00"
   }
 }

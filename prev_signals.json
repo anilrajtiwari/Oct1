@@ -1,18 +1,1 @@
-{
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 5.811e-06,
-    "last_seen": "2026-05-17T08:58:48.087958+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.000535,
-    "last_seen": "2026-05-17T08:58:48.087958+00:00"
-  }
-}
+{}

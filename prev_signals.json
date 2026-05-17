@@ -1,26 +1,18 @@
 {
-  "BAN/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.07477,
-    "last_seen": "2026-05-17T15:51:45.263405+00:00"
+    "count": 1,
+    "exchange": "bitget",
+    "price": 4.255,
+    "last_seen": "2026-05-17T16:46:13.004783+00:00"
   },
-  "BOME/USDT": {
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0005719,
-    "last_seen": "2026-05-17T15:51:45.263405+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05272,
-    "last_seen": "2026-05-17T15:51:45.263405+00:00"
+    "price": 0.01414,
+    "last_seen": "2026-05-17T16:46:13.004783+00:00"
   }
 }

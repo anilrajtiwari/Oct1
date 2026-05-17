@@ -2,17 +2,25 @@
   "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.07471,
-    "last_seen": "2026-05-17T14:23:03.936190+00:00"
+    "price": 0.07477,
+    "last_seen": "2026-05-17T15:51:45.263405+00:00"
   },
-  "BRETT/USDT": {
+  "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00811,
-    "last_seen": "2026-05-17T14:23:03.936190+00:00"
+    "price": 0.0005719,
+    "last_seen": "2026-05-17T15:51:45.263405+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.05272,
+    "last_seen": "2026-05-17T15:51:45.263405+00:00"
   }
 }

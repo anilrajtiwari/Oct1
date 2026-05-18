@@ -1,18 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00051,
-    "last_seen": "2026-05-18T17:26:00.030218+00:00"
-  },
   "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01424,
-    "last_seen": "2026-05-18T17:26:00.030218+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.01375,
+    "last_seen": "2026-05-18T19:25:12.252514+00:00"
   }
 }

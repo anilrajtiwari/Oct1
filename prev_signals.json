@@ -1,10 +1,18 @@
 {
-  "BAN/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.07366,
-    "last_seen": "2026-05-18T14:27:58.917527+00:00"
+    "price": 0.00051,
+    "last_seen": "2026-05-18T17:26:00.030218+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01424,
+    "last_seen": "2026-05-18T17:26:00.030218+00:00"
   }
 }

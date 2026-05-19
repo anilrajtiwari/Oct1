@@ -1,10 +1,26 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
+  "KOMA/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "gateio",
-    "price": 0.01395,
-    "last_seen": "2026-05-19T16:45:54.985155+00:00"
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.00639,
+    "last_seen": "2026-05-19T18:53:59.534570+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.3501,
+    "last_seen": "2026-05-19T18:53:59.534570+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.04943,
+    "last_seen": "2026-05-19T18:53:59.534570+00:00"
   }
 }

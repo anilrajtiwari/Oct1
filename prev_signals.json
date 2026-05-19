@@ -1,10 +1,10 @@
 {
   "CHILLGUY/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01354,
-    "last_seen": "2026-05-19T13:51:05.071706+00:00"
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.01395,
+    "last_seen": "2026-05-19T16:45:54.985155+00:00"
   }
 }

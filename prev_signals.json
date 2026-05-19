@@ -1,26 +1,34 @@
 {
   "KOMA/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00639,
-    "last_seen": "2026-05-19T18:53:59.534570+00:00"
+    "price": 0.00643,
+    "last_seen": "2026-05-19T20:25:26.277682+00:00"
   },
-  "SPX/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.3501,
-    "last_seen": "2026-05-19T18:53:59.534570+00:00"
+    "exchange": "mexc",
+    "price": 2.966e-05,
+    "last_seen": "2026-05-19T20:25:26.277682+00:00"
   },
-  "MOODENG/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04943,
-    "last_seen": "2026-05-19T18:53:59.534570+00:00"
+    "price": 0.000511,
+    "last_seen": "2026-05-19T20:25:26.277682+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.0006096,
+    "last_seen": "2026-05-19T20:25:26.277682+00:00"
   }
 }

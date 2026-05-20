@@ -1,26 +1,10 @@
 {
-  "SPX/USDT": {
-    "direction": "SHORT",
+  "DOGE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.3624,
-    "last_seen": "2026-05-20T21:43:15.154209+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05018,
-    "last_seen": "2026-05-20T21:43:15.154209+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0005599,
-    "last_seen": "2026-05-20T21:43:15.154209+00:00"
+    "price": 0.10317,
+    "last_seen": "2026-05-20T23:06:04.006617+00:00"
   }
 }

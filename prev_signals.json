@@ -1,18 +1,10 @@
 {
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 2.966e-05,
-    "last_seen": "2026-05-19T23:55:33.376468+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
+  "BAN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.02356,
-    "last_seen": "2026-05-19T23:55:33.376468+00:00"
+    "price": 0.07432,
+    "last_seen": "2026-05-20T02:13:18.933806+00:00"
   }
 }

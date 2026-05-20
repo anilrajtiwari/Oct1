@@ -1,10 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "LONG",
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.07432,
-    "last_seen": "2026-05-20T02:13:18.933806+00:00"
+    "price": 0.1859,
+    "last_seen": "2026-05-20T06:40:55.565867+00:00"
   }
 }

@@ -1,10 +1,1 @@
-{
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0165,
-    "last_seen": "2026-05-21T16:35:40.791106+00:00"
-  }
-}
+{}

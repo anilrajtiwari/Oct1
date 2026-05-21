@@ -1,1 +1,10 @@
-{}
+{
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0005521,
+    "last_seen": "2026-05-21T10:31:44.950764+00:00"
+  }
+}

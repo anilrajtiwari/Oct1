@@ -2,25 +2,9 @@
   "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 4,
+    "count": 5,
     "exchange": "kucoin",
-    "price": 0.07473,
-    "last_seen": "2026-05-22T06:40:59.072491+00:00"
-  },
-  "DOGE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.10526,
-    "last_seen": "2026-05-22T06:40:59.072491+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.01402,
-    "last_seen": "2026-05-22T06:40:59.072491+00:00"
+    "price": 0.07483,
+    "last_seen": "2026-05-22T10:17:17.596477+00:00"
   }
 }

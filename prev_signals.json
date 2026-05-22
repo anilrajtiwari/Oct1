@@ -1,10 +1,1 @@
-{
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 5,
-    "exchange": "kucoin",
-    "price": 0.07483,
-    "last_seen": "2026-05-22T10:17:17.596477+00:00"
-  }
-}
+{}

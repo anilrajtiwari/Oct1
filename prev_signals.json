@@ -1,18 +1,1 @@
-{
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.09553,
-    "last_seen": "2026-05-23T17:55:17.871824+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0128,
-    "last_seen": "2026-05-23T17:55:17.871824+00:00"
-  }
-}
+{}

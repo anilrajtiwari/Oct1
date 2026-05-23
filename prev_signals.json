@@ -1,10 +1,18 @@
 {
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
+  "AIXBT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.02775,
+    "last_seen": "2026-05-23T08:15:49.664728+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.17765,
-    "last_seen": "2026-05-23T05:59:50.361166+00:00"
+    "price": 0.01261,
+    "last_seen": "2026-05-23T08:15:49.664728+00:00"
   }
 }

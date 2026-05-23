@@ -1,10 +1,18 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.09626,
+    "last_seen": "2026-05-23T22:43:51.514640+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 4.065,
-    "last_seen": "2026-05-23T21:45:07.868567+00:00"
+    "price": 0.007326,
+    "last_seen": "2026-05-23T22:43:51.514640+00:00"
   }
 }

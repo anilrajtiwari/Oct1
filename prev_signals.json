@@ -1,18 +1,10 @@
 {
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0005399,
-    "last_seen": "2026-05-24T11:08:08.849506+00:00"
-  },
   "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.000521,
-    "last_seen": "2026-05-24T11:08:08.849506+00:00"
+    "price": 0.000524,
+    "last_seen": "2026-05-24T13:00:53.010558+00:00"
   }
 }

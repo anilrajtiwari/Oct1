@@ -1,26 +1,18 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 3.917,
-    "last_seen": "2026-05-24T15:56:07.569569+00:00"
-  },
-  "SPX/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.3471,
-    "last_seen": "2026-05-24T15:56:07.569569+00:00"
+    "exchange": "bitget",
+    "price": 0.10212,
+    "last_seen": "2026-05-24T16:53:10.202716+00:00"
   },
-  "PNUT/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05339,
-    "last_seen": "2026-05-24T15:56:07.569569+00:00"
+    "exchange": "huobi",
+    "price": 0.0005042,
+    "last_seen": "2026-05-24T16:53:10.202716+00:00"
   }
 }

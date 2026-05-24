@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.09626,
-    "last_seen": "2026-05-23T22:43:51.514640+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "gateio",
-    "price": 0.007326,
-    "last_seen": "2026-05-23T22:43:51.514640+00:00"
+    "price": 0.0005202,
+    "last_seen": "2026-05-23T23:49:28.050206+00:00"
   }
 }

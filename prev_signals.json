@@ -1,18 +1,10 @@
 {
-  "DOGE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.10212,
-    "last_seen": "2026-05-24T16:53:10.202716+00:00"
-  },
   "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.0005042,
-    "last_seen": "2026-05-24T16:53:10.202716+00:00"
+    "count": 2,
+    "exchange": "gateio",
+    "price": 0.0005049,
+    "last_seen": "2026-05-24T17:53:34.021678+00:00"
   }
 }

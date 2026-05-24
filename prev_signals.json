@@ -1,50 +1,26 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 3.523e-06,
-    "last_seen": "2026-05-24T14:25:12.992410+00:00"
-  },
   "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 3.9729,
-    "last_seen": "2026-05-24T14:25:12.992410+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 3.917,
+    "last_seen": "2026-05-24T15:56:07.569569+00:00"
   },
-  "BOME/USDT": {
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3471,
+    "last_seen": "2026-05-24T15:56:07.569569+00:00"
+  },
+  "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0005333,
-    "last_seen": "2026-05-24T14:25:12.992410+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00646,
-    "last_seen": "2026-05-24T14:25:12.992410+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.008611,
-    "last_seen": "2026-05-24T14:25:12.992410+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01271,
-    "last_seen": "2026-05-24T14:25:12.992410+00:00"
+    "price": 0.05339,
+    "last_seen": "2026-05-24T15:56:07.569569+00:00"
   }
 }

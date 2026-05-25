@@ -1,1 +1,10 @@
-{}
+{
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.1792,
+    "last_seen": "2026-05-25T22:02:24.559562+00:00"
+  }
+}

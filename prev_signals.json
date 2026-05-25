@@ -1,1 +1,18 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.0005393,
+    "last_seen": "2026-05-25T07:03:23.237857+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.009083,
+    "last_seen": "2026-05-25T07:03:23.237857+00:00"
+  }
+}

@@ -1,18 +1,1 @@
-{
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.005974,
-    "last_seen": "2026-05-25T23:57:20.312950+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05042,
-    "last_seen": "2026-05-25T23:57:20.312950+00:00"
-  }
-}
+{}

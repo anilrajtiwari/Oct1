@@ -1,10 +1,18 @@
 {
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
+  "1000BONK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.1792,
-    "last_seen": "2026-05-25T22:02:24.559562+00:00"
+    "price": 0.005974,
+    "last_seen": "2026-05-25T23:57:20.312950+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.05042,
+    "last_seen": "2026-05-25T23:57:20.312950+00:00"
   }
 }

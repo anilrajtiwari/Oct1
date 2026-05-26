@@ -1,10 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "huobi",
-    "price": 0.02158,
-    "last_seen": "2026-05-26T19:56:37.205724+00:00"
+    "exchange": "okx",
+    "price": 0.01446,
+    "last_seen": "2026-05-26T21:29:17.819970+00:00"
   }
 }

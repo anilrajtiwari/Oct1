@@ -1,10 +1,10 @@
 {
-  "PIPPIN/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.02188,
-    "last_seen": "2026-05-27T06:55:20.269109+00:00"
+    "price": 0.01234,
+    "last_seen": "2026-05-27T10:48:23.961967+00:00"
   }
 }

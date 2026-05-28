@@ -1,26 +1,10 @@
 {
-  "DOGS/USDT": {
+  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 4.776e-05,
-    "last_seen": "2026-05-28T06:44:15.786920+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.08155,
-    "last_seen": "2026-05-28T06:44:15.786920+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.012,
-    "last_seen": "2026-05-28T06:44:15.786920+00:00"
+    "price": 0.01186,
+    "last_seen": "2026-05-28T10:45:34.294933+00:00"
   }
 }

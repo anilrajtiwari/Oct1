@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0139,
-    "last_seen": "2026-05-27T23:10:39.560206+00:00"
+    "price": 0.02125,
+    "last_seen": "2026-05-28T02:02:29.999084+00:00"
   }
 }

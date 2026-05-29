@@ -1,34 +1,10 @@
 {
-  "BAN/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.07304,
-    "last_seen": "2026-05-29T00:03:33.669433+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.0005062,
-    "last_seen": "2026-05-29T00:03:33.669433+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.05315,
-    "last_seen": "2026-05-29T00:03:33.669433+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.01181,
-    "last_seen": "2026-05-29T00:03:33.669433+00:00"
+    "exchange": "kucoin",
+    "price": 0.00622,
+    "last_seen": "2026-05-29T05:06:22.658104+00:00"
   }
 }

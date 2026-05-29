@@ -2,25 +2,25 @@
   "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.007895,
-    "last_seen": "2026-05-29T16:36:50.500925+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.05363,
-    "last_seen": "2026-05-29T16:36:50.500925+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.02696,
-    "last_seen": "2026-05-29T16:36:50.500925+00:00"
+    "price": 0.007852,
+    "last_seen": "2026-05-29T19:27:49.488950+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0004948,
+    "last_seen": "2026-05-29T19:27:49.488950+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.07053,
+    "last_seen": "2026-05-29T19:27:49.488950+00:00"
   }
 }

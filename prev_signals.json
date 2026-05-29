@@ -1,10 +1,50 @@
 {
-  "KOMA/USDT": {
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 2.77e-05,
+    "last_seen": "2026-05-29T09:35:32.314704+00:00"
+  },
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00622,
-    "last_seen": "2026-05-29T05:06:22.658104+00:00"
+    "price": 0.01086,
+    "last_seen": "2026-05-29T09:35:32.314704+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.007898,
+    "last_seen": "2026-05-29T09:35:32.314704+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.16484,
+    "last_seen": "2026-05-29T09:35:32.314704+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.000494,
+    "last_seen": "2026-05-29T09:35:32.314704+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0519,
+    "last_seen": "2026-05-29T09:35:32.314704+00:00"
   }
 }

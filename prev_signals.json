@@ -1,18 +1,10 @@
 {
-  "SHIB/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 5.482e-06,
-    "last_seen": "2026-05-30T11:13:17.845067+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.006684,
-    "last_seen": "2026-05-30T11:13:17.845067+00:00"
+    "exchange": "huobi",
+    "price": 0.000539,
+    "last_seen": "2026-05-30T13:03:30.707289+00:00"
   }
 }

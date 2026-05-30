@@ -1,18 +1,1 @@
-{
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05359,
-    "last_seen": "2026-05-30T17:58:04.287387+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.16278,
-    "last_seen": "2026-05-30T17:58:04.287387+00:00"
-  }
-}
+{}

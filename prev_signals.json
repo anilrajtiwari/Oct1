@@ -1,18 +1,10 @@
 {
-  "ORDI/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 3.3109,
-    "last_seen": "2026-05-30T23:53:29.868664+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.010083,
-    "last_seen": "2026-05-30T23:53:29.868664+00:00"
+    "price": 0.0192,
+    "last_seen": "2026-05-31T02:31:04.637040+00:00"
   }
 }

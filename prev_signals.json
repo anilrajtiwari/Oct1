@@ -1,18 +1,50 @@
 {
-  "SHIB/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 5.486e-06,
-    "last_seen": "2026-05-31T13:14:50.181436+00:00"
+    "exchange": "mexc",
+    "price": 3.3829e-06,
+    "last_seen": "2026-05-31T15:12:13.705854+00:00"
   },
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
+  "FLOKI/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.01941,
-    "last_seen": "2026-05-31T13:14:50.181436+00:00"
+    "exchange": "gateio",
+    "price": 2.821e-05,
+    "last_seen": "2026-05-31T15:12:13.705854+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.009838,
+    "last_seen": "2026-05-31T15:12:13.705854+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.05173,
+    "last_seen": "2026-05-31T15:12:13.705854+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0278,
+    "last_seen": "2026-05-31T15:12:13.705854+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 0.05004,
+    "last_seen": "2026-05-31T15:12:13.705854+00:00"
   }
 }

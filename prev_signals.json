@@ -1,1 +1,26 @@
-{}
+{
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 4.919e-05,
+    "last_seen": "2026-05-31T22:49:56.470479+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01923,
+    "last_seen": "2026-05-31T22:49:56.470479+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.00974,
+    "last_seen": "2026-05-31T22:49:56.470479+00:00"
+  }
+}

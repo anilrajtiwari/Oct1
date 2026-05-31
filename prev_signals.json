@@ -1,1 +1,18 @@
-{}
+{
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 5.486e-06,
+    "last_seen": "2026-05-31T13:14:50.181436+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01941,
+    "last_seen": "2026-05-31T13:14:50.181436+00:00"
+  }
+}

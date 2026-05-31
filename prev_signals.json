@@ -1,10 +1,10 @@
 {
-  "SHIB/USDT": {
+  "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 5.504e-06,
-    "last_seen": "2026-05-31T06:49:57.717471+00:00"
+    "exchange": "bitget",
+    "price": 0.006792,
+    "last_seen": "2026-05-31T09:43:17.618924+00:00"
   }
 }

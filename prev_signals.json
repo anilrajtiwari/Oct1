@@ -1,34 +1,18 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.00868,
-    "last_seen": "2026-06-04T10:55:21.412477+00:00"
-  },
-  "1000BONK/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00522,
-    "last_seen": "2026-06-04T10:55:21.412477+00:00"
+    "price": 3.2158e-06,
+    "last_seen": "2026-06-04T13:53:45.679940+00:00"
   },
-  "VINE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01117,
-    "last_seen": "2026-06-04T10:55:21.412477+00:00"
-  },
-  "DEGEN/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.0014809,
-    "last_seen": "2026-06-04T10:55:21.412477+00:00"
+    "exchange": "mexc",
+    "price": 4.375e-05,
+    "last_seen": "2026-06-04T13:53:45.679940+00:00"
   }
 }

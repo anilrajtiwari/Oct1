@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 3.2158e-06,
-    "last_seen": "2026-06-04T13:53:45.679940+00:00"
-  },
-  "DOGS/USDT": {
+  "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 4.375e-05,
-    "last_seen": "2026-06-04T13:53:45.679940+00:00"
+    "price": 0.07625,
+    "last_seen": "2026-06-04T16:44:27.991850+00:00"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "FLOKI/USDT": {
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04211,
+    "last_seen": "2026-06-05T17:48:28.749801+00:00"
+  },
+  "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 3,
-    "exchange": "okx",
-    "price": 2.354e-05,
-    "last_seen": "2026-06-05T12:32:40.897117+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00867,
-    "last_seen": "2026-06-05T12:32:40.897117+00:00"
+    "exchange": "okx",
+    "price": 0.00957,
+    "last_seen": "2026-06-05T17:48:28.749801+00:00"
   }
 }

@@ -1,26 +1,106 @@
 {
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.04867,
-    "last_seen": "2026-06-05T05:10:59.097664+00:00"
-  },
   "FLOKI/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 2.5883e-05,
-    "last_seen": "2026-06-05T05:10:59.097664+00:00"
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "gateio",
+    "price": 2.395e-05,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
   },
-  "PNUT/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
+    "exchange": "mexc",
+    "price": 0.08442,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
+  },
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.766e-06,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02823,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01384,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.00847,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.005416,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "kucoin",
-    "price": 0.04656,
-    "last_seen": "2026-06-05T05:10:59.097664+00:00"
+    "price": 0.3122,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.004488,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
+  },
+  "VINE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.0108,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.03931,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01076,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0098,
+    "last_seen": "2026-06-05T09:30:54.004416+00:00"
   }
 }

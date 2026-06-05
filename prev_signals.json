@@ -1,18 +1,18 @@
 {
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.04211,
-    "last_seen": "2026-06-05T17:48:28.749801+00:00"
-  },
-  "ACT/USDT": {
+  "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.00957,
-    "last_seen": "2026-06-05T17:48:28.749801+00:00"
+    "exchange": "kucoin",
+    "price": 0.004876,
+    "last_seen": "2026-06-05T19:43:14.390955+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.02483,
+    "last_seen": "2026-06-05T19:43:14.390955+00:00"
   }
 }

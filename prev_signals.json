@@ -1,18 +1,26 @@
 {
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0004351,
-    "last_seen": "2026-06-05T00:13:28.844380+00:00"
-  },
   "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.04867,
+    "last_seen": "2026-06-05T05:10:59.097664+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "gateio",
-    "price": 0.04588,
-    "last_seen": "2026-06-05T00:13:28.844380+00:00"
+    "exchange": "kucoin",
+    "price": 2.5883e-05,
+    "last_seen": "2026-06-05T05:10:59.097664+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.04656,
+    "last_seen": "2026-06-05T05:10:59.097664+00:00"
   }
 }

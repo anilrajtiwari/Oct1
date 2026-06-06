@@ -1,10 +1,18 @@
 {
-  "BRETT/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.005139,
-    "last_seen": "2026-06-06T17:00:29.743296+00:00"
+    "exchange": "mexc",
+    "price": 2.6389e-06,
+    "last_seen": "2026-06-06T18:05:48.364815+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.04206,
+    "last_seen": "2026-06-06T18:05:48.364815+00:00"
   }
 }

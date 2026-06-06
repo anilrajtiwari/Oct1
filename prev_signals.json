@@ -1,50 +1,26 @@
 {
-  "SHIB/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 4.478e-06,
-    "last_seen": "2026-06-06T07:41:37.295799+00:00"
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.04382,
+    "last_seen": "2026-06-06T09:54:55.079791+00:00"
   },
-  "PNUT/USDT": {
+  "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04149,
-    "last_seen": "2026-06-06T07:41:37.295799+00:00"
+    "price": 0.02244,
+    "last_seen": "2026-06-06T09:54:55.079791+00:00"
   },
-  "BRETT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.005226,
-    "last_seen": "2026-06-06T07:41:37.295799+00:00"
-  },
-  "MUBARAK/USDT": {
+  "1000CAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.0099,
-    "last_seen": "2026-06-06T07:41:37.295799+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0003543,
-    "last_seen": "2026-06-06T07:41:37.295799+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.0393,
-    "last_seen": "2026-06-06T07:41:37.295799+00:00"
+    "price": 0.001451,
+    "last_seen": "2026-06-06T09:54:55.079791+00:00"
   }
 }

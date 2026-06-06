@@ -1,26 +1,66 @@
 {
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.04382,
-    "last_seen": "2026-06-06T09:54:55.079791+00:00"
-  },
   "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.02244,
-    "last_seen": "2026-06-06T09:54:55.079791+00:00"
+    "price": 0.02225,
+    "last_seen": "2026-06-06T11:17:48.988551+00:00"
   },
-  "1000CAT/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
+    "exchange": "kucoin",
+    "price": 0.08482,
+    "last_seen": "2026-06-06T11:17:48.988551+00:00"
+  },
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 4.783e-06,
+    "last_seen": "2026-06-06T11:17:48.988551+00:00"
+  },
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.1575,
+    "last_seen": "2026-06-06T11:17:48.988551+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "bitget",
-    "price": 0.001451,
-    "last_seen": "2026-06-06T09:54:55.079791+00:00"
+    "price": 0.000543,
+    "last_seen": "2026-06-06T11:17:48.988551+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02642,
+    "last_seen": "2026-06-06T11:17:48.988551+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.00844,
+    "last_seen": "2026-06-06T11:17:48.988551+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.004507,
+    "last_seen": "2026-06-06T11:17:48.988551+00:00"
   }
 }

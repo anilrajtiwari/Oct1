@@ -1,10 +1,26 @@
 {
-  "PEPE/USDT": {
-    "direction": "LONG",
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 2.6324e-06,
-    "last_seen": "2026-06-06T20:05:12.854835+00:00"
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.008003,
+    "last_seen": "2026-06-06T21:57:11.154762+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.00547,
+    "last_seen": "2026-06-06T21:57:11.154762+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.03688,
+    "last_seen": "2026-06-06T21:57:11.154762+00:00"
   }
 }

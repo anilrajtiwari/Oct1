@@ -1,26 +1,18 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.008003,
-    "last_seen": "2026-06-06T21:57:11.154762+00:00"
-  },
   "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00547,
-    "last_seen": "2026-06-06T21:57:11.154762+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.005184,
+    "last_seen": "2026-06-06T22:56:48.787041+00:00"
   },
-  "MOODENG/USDT": {
+  "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.03688,
-    "last_seen": "2026-06-06T21:57:11.154762+00:00"
+    "exchange": "mexc",
+    "price": 0.000399,
+    "last_seen": "2026-06-06T22:56:48.787041+00:00"
   }
 }

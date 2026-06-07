@@ -1,34 +1,10 @@
 {
-  "1000RATS/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.02699,
-    "last_seen": "2026-06-06T23:57:42.382053+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.005271,
-    "last_seen": "2026-06-06T23:57:42.382053+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04156,
-    "last_seen": "2026-06-06T23:57:42.382053+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.00955,
-    "last_seen": "2026-06-06T23:57:42.382053+00:00"
+    "exchange": "mexc",
+    "price": 0.0006201,
+    "last_seen": "2026-06-07T02:43:08.317274+00:00"
   }
 }

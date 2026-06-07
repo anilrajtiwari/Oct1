@@ -1,18 +1,26 @@
 {
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "huobi",
-    "price": 0.0006153,
-    "last_seen": "2026-06-07T06:59:52.132381+00:00"
-  },
-  "ORDI/USDT": {
+  "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 2.995,
-    "last_seen": "2026-06-07T06:59:52.132381+00:00"
+    "exchange": "kucoin",
+    "price": 0.04086,
+    "last_seen": "2026-06-07T10:00:02.028006+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.1084,
+    "last_seen": "2026-06-07T10:00:02.028006+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.03982,
+    "last_seen": "2026-06-07T10:00:02.028006+00:00"
   }
 }

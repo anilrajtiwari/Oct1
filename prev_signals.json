@@ -1,18 +1,42 @@
 {
-  "MEME/USDT": {
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 4.56e-06,
+    "last_seen": "2026-06-07T15:19:37.678273+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01343,
+    "last_seen": "2026-06-07T15:19:37.678273+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.04077,
+    "last_seen": "2026-06-07T15:19:37.678273+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.1074,
+    "last_seen": "2026-06-07T15:19:37.678273+00:00"
+  },
+  "DEGEN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.000618,
-    "last_seen": "2026-06-07T13:21:43.263144+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00517,
-    "last_seen": "2026-06-07T13:21:43.263144+00:00"
+    "exchange": "gateio",
+    "price": 0.0015393,
+    "last_seen": "2026-06-07T15:19:37.678273+00:00"
   }
 }

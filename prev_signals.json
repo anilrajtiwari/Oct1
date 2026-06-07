@@ -1,26 +1,18 @@
 {
-  "PNUT/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04086,
-    "last_seen": "2026-06-07T10:00:02.028006+00:00"
+    "price": 4.46e-06,
+    "last_seen": "2026-06-07T11:48:28.934888+00:00"
   },
-  "FARTCOIN/USDT": {
+  "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1084,
-    "last_seen": "2026-06-07T10:00:02.028006+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.03982,
-    "last_seen": "2026-06-07T10:00:02.028006+00:00"
+    "exchange": "gateio",
+    "price": 0.02173,
+    "last_seen": "2026-06-07T11:48:28.934888+00:00"
   }
 }

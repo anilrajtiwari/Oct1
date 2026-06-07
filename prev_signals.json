@@ -1,18 +1,18 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
+  "MEME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.000618,
+    "last_seen": "2026-06-07T13:21:43.263144+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 4.46e-06,
-    "last_seen": "2026-06-07T11:48:28.934888+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.02173,
-    "last_seen": "2026-06-07T11:48:28.934888+00:00"
+    "price": 0.00517,
+    "last_seen": "2026-06-07T13:21:43.263144+00:00"
   }
 }

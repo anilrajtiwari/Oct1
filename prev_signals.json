@@ -1,34 +1,26 @@
 {
-  "SPX/USDT": {
+  "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.3056,
-    "last_seen": "2026-06-08T16:46:17.437470+00:00"
+    "price": 0.08479,
+    "last_seen": "2026-06-08T19:15:59.390493+00:00"
   },
-  "FARTCOIN/USDT": {
+  "MOODENG/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.1176,
-    "last_seen": "2026-06-08T16:46:17.437470+00:00"
+    "exchange": "kucoin",
+    "price": 0.03823,
+    "last_seen": "2026-06-08T19:15:59.390493+00:00"
   },
-  "BRETT/USDT": {
+  "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.005687,
-    "last_seen": "2026-06-08T16:46:17.437470+00:00"
-  },
-  "DEGEN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.001474,
-    "last_seen": "2026-06-08T16:46:17.437470+00:00"
+    "price": 0.04255,
+    "last_seen": "2026-06-08T19:15:59.390493+00:00"
   }
 }

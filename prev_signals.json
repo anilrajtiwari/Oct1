@@ -1,26 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
+  "PNUT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.0005722,
-    "last_seen": "2026-06-08T08:46:08.635951+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.11466,
-    "last_seen": "2026-06-08T08:46:08.635951+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "gateio",
-    "price": 0.04138,
-    "last_seen": "2026-06-08T08:46:08.635951+00:00"
+    "price": 0.04247,
+    "last_seen": "2026-06-08T12:58:38.363289+00:00"
   }
 }

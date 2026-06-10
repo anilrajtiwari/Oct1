@@ -1,1 +1,26 @@
-{}
+{
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 4.738e-06,
+    "last_seen": "2026-06-10T06:59:24.730961+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "gateio",
+    "price": 0.005387,
+    "last_seen": "2026-06-10T06:59:24.730961+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0003441,
+    "last_seen": "2026-06-10T06:59:24.730961+00:00"
+  }
+}

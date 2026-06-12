@@ -1,10 +1,26 @@
 {
-  "FLOKI/USDT": {
+  "SHIB/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 2.442e-05,
-    "last_seen": "2026-06-12T07:13:39.229864+00:00"
+    "price": 4.855e-06,
+    "last_seen": "2026-06-12T11:35:22.183450+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.07266,
+    "last_seen": "2026-06-12T11:35:22.183450+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.04241,
+    "last_seen": "2026-06-12T11:35:22.183450+00:00"
   }
 }

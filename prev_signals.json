@@ -1,18 +1,18 @@
 {
-  "DOGS/USDT": {
+  "1000RATS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 4.284e-05,
-    "last_seen": "2026-06-11T23:15:00.622003+00:00"
+    "exchange": "kucoin",
+    "price": 0.03264,
+    "last_seen": "2026-06-12T02:34:01.452623+00:00"
   },
-  "MEW/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.000347,
-    "last_seen": "2026-06-11T23:15:00.622003+00:00"
+    "exchange": "huobi",
+    "price": 0.11841,
+    "last_seen": "2026-06-12T02:34:01.452623+00:00"
   }
 }

@@ -1,34 +1,18 @@
 {
-  "BOME/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0004387,
-    "last_seen": "2026-06-13T09:51:18.080266+00:00"
+    "price": 0.006523,
+    "last_seen": "2026-06-13T11:47:49.222073+00:00"
   },
-  "PEOPLE/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.005447,
-    "last_seen": "2026-06-13T09:51:18.080266+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.12003,
-    "last_seen": "2026-06-13T09:51:18.080266+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.00037,
-    "last_seen": "2026-06-13T09:51:18.080266+00:00"
+    "exchange": "bitget",
+    "price": 0.005987,
+    "last_seen": "2026-06-13T11:47:49.222073+00:00"
   }
 }

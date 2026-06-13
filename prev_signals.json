@@ -1,18 +1,10 @@
 {
-  "PNUT/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.04449,
-    "last_seen": "2026-06-13T17:10:59.851408+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00542,
-    "last_seen": "2026-06-13T17:10:59.851408+00:00"
+    "exchange": "bitget",
+    "price": 0.06884,
+    "last_seen": "2026-06-13T19:08:14.976342+00:00"
   }
 }

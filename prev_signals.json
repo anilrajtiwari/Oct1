@@ -1,26 +1,26 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.01758,
-    "last_seen": "2026-06-14T08:08:55.124556+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.3337,
-    "last_seen": "2026-06-14T08:08:55.124556+00:00"
-  },
   "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "huobi",
+    "price": 0.04394,
+    "last_seen": "2026-06-14T11:23:37.585314+00:00"
+  },
+  "SHIB/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04396,
-    "last_seen": "2026-06-14T08:08:55.124556+00:00"
+    "price": 4.963e-06,
+    "last_seen": "2026-06-14T11:23:37.585314+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0004259,
+    "last_seen": "2026-06-14T11:23:37.585314+00:00"
   }
 }

@@ -1,10 +1,18 @@
 {
-  "BOME/USDT": {
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.909e-06,
+    "last_seen": "2026-06-14T20:59:44.379798+00:00"
+  },
+  "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.0004234,
-    "last_seen": "2026-06-14T19:08:59.733230+00:00"
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01214,
+    "last_seen": "2026-06-14T20:59:44.379798+00:00"
   }
 }

@@ -2,25 +2,33 @@
   "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
-    "count": 2,
-    "exchange": "huobi",
-    "price": 0.04394,
-    "last_seen": "2026-06-14T11:23:37.585314+00:00"
-  },
-  "SHIB/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
+    "count": 3,
     "exchange": "mexc",
-    "price": 4.963e-06,
-    "last_seen": "2026-06-14T11:23:37.585314+00:00"
+    "price": 0.04369,
+    "last_seen": "2026-06-14T13:28:05.705072+00:00"
   },
   "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.0004235,
+    "last_seen": "2026-06-14T13:28:05.705072+00:00"
+  },
+  "PEPE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "huobi",
+    "price": 2.8042e-06,
+    "last_seen": "2026-06-14T13:28:05.705072+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.0004259,
-    "last_seen": "2026-06-14T11:23:37.585314+00:00"
+    "price": 0.03959,
+    "last_seen": "2026-06-14T13:28:05.705072+00:00"
   }
 }

@@ -1,34 +1,18 @@
 {
-  "SHIB/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 5.004e-06,
-    "last_seen": "2026-06-13T23:59:15.285553+00:00"
+    "exchange": "kucoin",
+    "price": 2.8243e-06,
+    "last_seen": "2026-06-14T03:41:39.502002+00:00"
   },
-  "PEPE/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 2.8032e-06,
-    "last_seen": "2026-06-13T23:59:15.285553+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.344,
-    "last_seen": "2026-06-13T23:59:15.285553+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0104,
-    "last_seen": "2026-06-13T23:59:15.285553+00:00"
+    "price": 0.00037,
+    "last_seen": "2026-06-14T03:41:39.502002+00:00"
   }
 }

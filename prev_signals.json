@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 2.7775e-06,
-    "last_seen": "2026-06-14T17:08:59.751857+00:00"
-  },
   "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "huobi",
-    "price": 0.0004205,
-    "last_seen": "2026-06-14T17:08:59.751857+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.0004234,
+    "last_seen": "2026-06-14T19:08:59.733230+00:00"
   }
 }

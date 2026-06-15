@@ -1,1 +1,10 @@
-{}
+{
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.000365,
+    "last_seen": "2026-06-15T06:14:37.474925+00:00"
+  }
+}

@@ -1,18 +1,18 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01897,
-    "last_seen": "2026-06-15T17:49:52.168450+00:00"
-  },
   "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.04326,
+    "last_seen": "2026-06-15T20:45:05.249392+00:00"
+  },
+  "FARTCOIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.04601,
-    "last_seen": "2026-06-15T17:49:52.168450+00:00"
+    "price": 0.1329,
+    "last_seen": "2026-06-15T20:45:05.249392+00:00"
   }
 }

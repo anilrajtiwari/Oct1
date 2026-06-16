@@ -1,18 +1,10 @@
 {
-  "WIF/USDT": {
-    "direction": "SHORT",
+  "BOME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.1677,
-    "last_seen": "2026-06-16T00:23:46.674304+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.04225,
-    "last_seen": "2026-06-16T00:23:46.674304+00:00"
+    "exchange": "kucoin",
+    "price": 0.000459,
+    "last_seen": "2026-06-16T06:24:41.498890+00:00"
   }
 }

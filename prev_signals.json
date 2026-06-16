@@ -1,18 +1,18 @@
 {
-  "BONK/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 4.811e-06,
-    "last_seen": "2026-06-15T22:56:05.284377+00:00"
+    "exchange": "bitget",
+    "price": 0.1677,
+    "last_seen": "2026-06-16T00:23:46.674304+00:00"
   },
-  "FLOKI/USDT": {
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 2.619e-05,
-    "last_seen": "2026-06-15T22:56:05.284377+00:00"
+    "price": 0.04225,
+    "last_seen": "2026-06-16T00:23:46.674304+00:00"
   }
 }

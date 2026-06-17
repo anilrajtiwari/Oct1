@@ -1,10 +1,10 @@
 {
-  "KOMA/USDT": {
+  "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.007734,
-    "last_seen": "2026-06-17T06:00:32.255340+00:00"
+    "price": 0.04452,
+    "last_seen": "2026-06-17T10:58:28.914297+00:00"
   }
 }

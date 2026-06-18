@@ -1,1 +1,26 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.08492,
+    "last_seen": "2026-06-18T07:27:42.524460+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.005659,
+    "last_seen": "2026-06-18T07:27:42.524460+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.02253,
+    "last_seen": "2026-06-18T07:27:42.524460+00:00"
+  }
+}

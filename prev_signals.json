@@ -1,10 +1,18 @@
 {
-  "MUBARAK/USDT": {
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01539,
+    "last_seen": "2026-06-19T22:07:11.251454+00:00"
+  },
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01038,
-    "last_seen": "2026-06-19T21:01:22.695627+00:00"
+    "price": 0.3849,
+    "last_seen": "2026-06-19T22:07:11.251454+00:00"
   }
 }

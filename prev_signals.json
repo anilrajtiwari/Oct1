@@ -1,34 +1,10 @@
 {
   "1000CAT/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
+    "confidence": 1.0,
+    "count": 3,
     "exchange": "bitget",
-    "price": 0.001402,
-    "last_seen": "2026-06-18T22:52:26.659005+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.041,
-    "last_seen": "2026-06-18T22:52:26.659005+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0161,
-    "last_seen": "2026-06-18T22:52:26.659005+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01203,
-    "last_seen": "2026-06-18T22:52:26.659005+00:00"
+    "price": 0.001414,
+    "last_seen": "2026-06-19T00:20:40.817044+00:00"
   }
 }

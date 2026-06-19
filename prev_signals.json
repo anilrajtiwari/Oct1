@@ -1,10 +1,10 @@
 {
-  "1000CAT/USDT": {
+  "BAN/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 3,
-    "exchange": "bitget",
-    "price": 0.001414,
-    "last_seen": "2026-06-19T00:20:40.817044+00:00"
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.06578,
+    "last_seen": "2026-06-19T06:08:32.121848+00:00"
   }
 }

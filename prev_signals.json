@@ -1,10 +1,10 @@
 {
-  "PNUT/USDT": {
-    "direction": "LONG",
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04308,
-    "last_seen": "2026-06-19T19:25:20.265924+00:00"
+    "price": 0.01038,
+    "last_seen": "2026-06-19T21:01:22.695627+00:00"
   }
 }

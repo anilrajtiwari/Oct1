@@ -1,18 +1,1 @@
-{
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 3.976e-05,
-    "last_seen": "2026-06-20T15:00:23.751923+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0161,
-    "last_seen": "2026-06-20T15:00:23.751923+00:00"
-  }
-}
+{}

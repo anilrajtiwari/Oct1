@@ -1,18 +1,10 @@
 {
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.3692,
-    "last_seen": "2026-06-20T00:00:30.601060+00:00"
-  },
-  "FARTCOIN/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.122,
-    "last_seen": "2026-06-20T00:00:30.601060+00:00"
+    "exchange": "kucoin",
+    "price": 0.01616,
+    "last_seen": "2026-06-20T03:45:54.116135+00:00"
   }
 }

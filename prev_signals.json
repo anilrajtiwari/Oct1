@@ -1,1 +1,10 @@
-{}
+{
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.00653,
+    "last_seen": "2026-06-20T18:05:48.094184+00:00"
+  }
+}

@@ -1,10 +1,10 @@
 {
-  "MOODENG/USDT": {
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.03995,
-    "last_seen": "2026-06-20T22:00:15.767589+00:00"
+    "exchange": "okx",
+    "price": 0.01055,
+    "last_seen": "2026-06-20T23:09:57.380989+00:00"
   }
 }

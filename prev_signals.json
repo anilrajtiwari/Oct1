@@ -1,18 +1,18 @@
 {
-  "DOGS/USDT": {
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.005823,
+    "last_seen": "2026-06-21T17:19:07.733873+00:00"
+  },
+  "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 4.076e-05,
-    "last_seen": "2026-06-21T15:46:14.594755+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.3797,
-    "last_seen": "2026-06-21T15:46:14.594755+00:00"
+    "price": 0.0484,
+    "last_seen": "2026-06-21T17:19:07.733873+00:00"
   }
 }

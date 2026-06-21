@@ -1,26 +1,18 @@
 {
-  "PIPPIN/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0157,
-    "last_seen": "2026-06-21T10:59:55.591233+00:00"
+    "exchange": "okx",
+    "price": 0.0056,
+    "last_seen": "2026-06-21T13:05:27.687927+00:00"
   },
-  "BOME/USDT": {
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.0004476,
-    "last_seen": "2026-06-21T10:59:55.591233+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.12609,
-    "last_seen": "2026-06-21T10:59:55.591233+00:00"
+    "price": 0.0412,
+    "last_seen": "2026-06-21T13:05:27.687927+00:00"
   }
 }

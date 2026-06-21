@@ -1,18 +1,18 @@
 {
-  "PEOPLE/USDT": {
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.076e-05,
+    "last_seen": "2026-06-21T15:46:14.594755+00:00"
+  },
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.0056,
-    "last_seen": "2026-06-21T13:05:27.687927+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0412,
-    "last_seen": "2026-06-21T13:05:27.687927+00:00"
+    "price": 0.3797,
+    "last_seen": "2026-06-21T15:46:14.594755+00:00"
   }
 }

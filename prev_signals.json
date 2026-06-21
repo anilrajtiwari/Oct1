@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.04654,
-    "last_seen": "2026-06-21T21:05:03.650667+00:00"
+    "price": 2.7964e-06,
+    "last_seen": "2026-06-21T23:00:14.958677+00:00"
   }
 }

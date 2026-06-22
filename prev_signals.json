@@ -1,1 +1,10 @@
-{}
+{
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001426,
+    "last_seen": "2026-06-22T06:21:33.701160+00:00"
+  }
+}

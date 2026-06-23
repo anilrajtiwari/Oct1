@@ -1,18 +1,26 @@
 {
-  "BOME/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.000416,
-    "last_seen": "2026-06-23T16:20:50.660373+00:00"
+    "exchange": "okx",
+    "price": 3.115,
+    "last_seen": "2026-06-23T19:03:04.583249+00:00"
   },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
+  "BRETT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01026,
-    "last_seen": "2026-06-23T16:20:50.660373+00:00"
+    "price": 0.005325,
+    "last_seen": "2026-06-23T19:03:04.583249+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.04666,
+    "last_seen": "2026-06-23T19:03:04.583249+00:00"
   }
 }

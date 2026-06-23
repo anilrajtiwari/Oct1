@@ -2,9 +2,25 @@
   "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.004687,
+    "last_seen": "2026-06-23T13:36:08.441207+00:00"
+  },
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.004628,
-    "last_seen": "2026-06-23T10:54:41.108365+00:00"
+    "price": 2.8847e-06,
+    "last_seen": "2026-06-23T13:36:08.441207+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01597,
+    "last_seen": "2026-06-23T13:36:08.441207+00:00"
   }
 }

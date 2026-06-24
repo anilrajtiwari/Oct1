@@ -2,9 +2,9 @@
   "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.00856,
-    "last_seen": "2026-06-24T13:11:50.181334+00:00"
+    "price": 0.008577,
+    "last_seen": "2026-06-24T16:09:05.227351+00:00"
   }
 }

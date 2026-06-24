@@ -1,26 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01698,
-    "last_seen": "2026-06-23T23:56:07.837577+00:00"
-  },
-  "FLOKI/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 2.395e-05,
-    "last_seen": "2026-06-23T23:56:07.837577+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00051,
-    "last_seen": "2026-06-23T23:56:07.837577+00:00"
+    "exchange": "bitget",
+    "price": 0.05294,
+    "last_seen": "2026-06-24T02:12:44.538405+00:00"
   }
 }

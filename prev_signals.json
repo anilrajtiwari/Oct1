@@ -1,1 +1,10 @@
-{}
+{
+  "KOMA/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.007101,
+    "last_seen": "2026-06-25T06:40:56.604552+00:00"
+  }
+}

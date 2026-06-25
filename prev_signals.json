@@ -1,1 +1,10 @@
-{}
+{
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.05209,
+    "last_seen": "2026-06-25T13:11:09.780794+00:00"
+  }
+}

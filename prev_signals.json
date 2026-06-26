@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
+  "1000RATS/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.00976,
-    "last_seen": "2026-06-25T23:07:53.500534+00:00"
+    "exchange": "bitget",
+    "price": 0.03117,
+    "last_seen": "2026-06-26T02:14:40.856220+00:00"
   }
 }

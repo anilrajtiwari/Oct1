@@ -1,10 +1,18 @@
 {
-  "MUBARAK/USDT": {
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.00052,
+    "last_seen": "2026-06-26T22:03:01.258817+00:00"
+  },
+  "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0097,
-    "last_seen": "2026-06-26T20:27:13.160499+00:00"
+    "price": 0.005817,
+    "last_seen": "2026-06-26T22:03:01.258817+00:00"
   }
 }

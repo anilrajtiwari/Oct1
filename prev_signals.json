@@ -1,10 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "LONG",
+  "BAN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.03062,
-    "last_seen": "2026-06-26T16:06:56.271524+00:00"
+    "exchange": "kucoin",
+    "price": 0.07408,
+    "last_seen": "2026-06-26T18:23:16.075897+00:00"
   }
 }

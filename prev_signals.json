@@ -1,34 +1,10 @@
 {
-  "AIXBT/USDT": {
+  "PIPPIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.01974,
-    "last_seen": "2026-06-26T10:14:11.349232+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.07078,
-    "last_seen": "2026-06-26T10:14:11.349232+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0003929,
-    "last_seen": "2026-06-26T10:14:11.349232+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.007785,
-    "last_seen": "2026-06-26T10:14:11.349232+00:00"
+    "price": 0.01616,
+    "last_seen": "2026-06-26T13:03:18.143239+00:00"
   }
 }

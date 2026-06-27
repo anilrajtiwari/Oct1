@@ -1,1 +1,18 @@
-{}
+{
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.01622,
+    "last_seen": "2026-06-27T09:23:16.715889+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.07323,
+    "last_seen": "2026-06-27T09:23:16.715889+00:00"
+  }
+}

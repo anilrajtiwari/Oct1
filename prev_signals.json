@@ -1,26 +1,10 @@
 {
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 2.181e-05,
-    "last_seen": "2026-06-27T11:20:30.233629+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0004048,
-    "last_seen": "2026-06-27T11:20:30.233629+00:00"
-  },
-  "POPCAT/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04379,
-    "last_seen": "2026-06-27T11:20:30.233629+00:00"
+    "price": 0.07329,
+    "last_seen": "2026-06-27T13:08:52.485202+00:00"
   }
 }

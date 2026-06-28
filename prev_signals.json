@@ -1,18 +1,1 @@
-{
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.008432,
-    "last_seen": "2026-06-28T16:58:48.550936+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01227,
-    "last_seen": "2026-06-28T16:58:48.550936+00:00"
-  }
-}
+{}

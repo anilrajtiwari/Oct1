@@ -1,10 +1,10 @@
 {
-  "CHILLGUY/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.008354,
-    "last_seen": "2026-06-28T20:06:21.535826+00:00"
+    "exchange": "bitget",
+    "price": 0.0004048,
+    "last_seen": "2026-06-28T21:54:34.693121+00:00"
   }
 }

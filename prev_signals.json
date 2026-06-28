@@ -1,18 +1,1 @@
-{
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.03178,
-    "last_seen": "2026-06-28T11:42:08.878108+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.04254,
-    "last_seen": "2026-06-28T11:42:08.878108+00:00"
-  }
-}
+{}

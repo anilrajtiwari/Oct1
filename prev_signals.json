@@ -2,9 +2,9 @@
   "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.07383,
-    "last_seen": "2026-06-29T20:49:11.031505+00:00"
+    "price": 0.07388,
+    "last_seen": "2026-06-29T22:04:55.077056+00:00"
   }
 }

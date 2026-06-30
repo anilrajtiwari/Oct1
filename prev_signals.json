@@ -1,1 +1,18 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.07387,
+    "last_seen": "2026-06-30T20:51:38.053655+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.000637,
+    "last_seen": "2026-06-30T20:51:38.053655+00:00"
+  }
+}

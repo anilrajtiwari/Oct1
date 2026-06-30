@@ -1,10 +1,10 @@
 {
-  "DOGE/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.07388,
-    "last_seen": "2026-06-29T22:04:55.077056+00:00"
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0051,
+    "last_seen": "2026-06-29T23:54:21.081356+00:00"
   }
 }

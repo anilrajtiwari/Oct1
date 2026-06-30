@@ -1,26 +1,18 @@
 {
-  "MEME/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0006128,
-    "last_seen": "2026-06-30T02:15:05.795845+00:00"
+    "exchange": "okx",
+    "price": 0.005032,
+    "last_seen": "2026-06-30T06:46:31.358899+00:00"
   },
-  "SPX/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.3498,
-    "last_seen": "2026-06-30T02:15:05.795845+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01858,
-    "last_seen": "2026-06-30T02:15:05.795845+00:00"
+    "price": 0.14364,
+    "last_seen": "2026-06-30T06:46:31.358899+00:00"
   }
 }

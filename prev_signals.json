@@ -1,1 +1,26 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 2.3527e-06,
+    "last_seen": "2026-07-01T21:17:47.361620+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0006361,
+    "last_seen": "2026-07-01T21:17:47.361620+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.04342,
+    "last_seen": "2026-07-01T21:17:47.361620+00:00"
+  }
+}

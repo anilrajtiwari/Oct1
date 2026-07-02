@@ -1,10 +1,26 @@
 {
-  "MUBARAK/USDT": {
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 4.284e-06,
+    "last_seen": "2026-07-02T20:53:52.717783+00:00"
+  },
+  "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01103,
-    "last_seen": "2026-07-02T19:09:04.410224+00:00"
+    "exchange": "kucoin",
+    "price": 0.04147,
+    "last_seen": "2026-07-02T20:53:52.717783+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.009501,
+    "last_seen": "2026-07-02T20:53:52.717783+00:00"
   }
 }

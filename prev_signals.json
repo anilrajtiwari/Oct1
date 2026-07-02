@@ -1,18 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.000628,
-    "last_seen": "2026-07-02T21:59:30.052949+00:00"
-  },
-  "BRETT/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00521,
-    "last_seen": "2026-07-02T21:59:30.052949+00:00"
+    "price": 0.04187,
+    "last_seen": "2026-07-02T23:04:38.614127+00:00"
   }
 }

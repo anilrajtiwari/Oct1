@@ -1,34 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 2.2986e-06,
-    "last_seen": "2026-07-02T15:05:44.357896+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 2.218e-05,
-    "last_seen": "2026-07-02T15:05:44.357896+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.3495,
-    "last_seen": "2026-07-02T15:05:44.357896+00:00"
-  },
-  "MOODENG/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04263,
-    "last_seen": "2026-07-02T15:05:44.357896+00:00"
+    "price": 0.0004295,
+    "last_seen": "2026-07-02T17:27:12.994724+00:00"
   }
 }

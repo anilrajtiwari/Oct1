@@ -1,10 +1,1 @@
-{
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.02867,
-    "last_seen": "2026-07-03T05:44:18.689206+00:00"
-  }
-}
+{}

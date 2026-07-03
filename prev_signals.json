@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
+  "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04187,
-    "last_seen": "2026-07-02T23:04:38.614127+00:00"
+    "exchange": "mexc",
+    "price": 0.00954,
+    "last_seen": "2026-07-03T01:55:27.689852+00:00"
   }
 }

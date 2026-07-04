@@ -1,18 +1,18 @@
 {
   "PEPE/USDT": {
     "direction": "LONG",
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 2.5565e-06,
+    "last_seen": "2026-07-04T16:53:23.922045+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 2.5722e-06,
-    "last_seen": "2026-07-04T15:55:11.086283+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0102,
-    "last_seen": "2026-07-04T15:55:11.086283+00:00"
+    "price": 0.0003935,
+    "last_seen": "2026-07-04T16:53:23.922045+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 2.7677e-06,
-    "last_seen": "2026-07-04T02:06:59.045612+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.403,
-    "last_seen": "2026-07-04T02:06:59.045612+00:00"
+    "price": 0.01135,
+    "last_seen": "2026-07-04T06:10:36.811046+00:00"
   }
 }

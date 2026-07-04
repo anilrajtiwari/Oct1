@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01135,
-    "last_seen": "2026-07-04T06:10:36.811046+00:00"
+    "exchange": "kucoin",
+    "price": 0.000616,
+    "last_seen": "2026-07-04T09:13:59.511680+00:00"
   }
 }

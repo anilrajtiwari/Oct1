@@ -2,17 +2,25 @@
   "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
-    "count": 2,
+    "count": 3,
     "exchange": "kucoin",
-    "price": 2.5565e-06,
-    "last_seen": "2026-07-04T16:53:23.922045+00:00"
+    "price": 2.5713e-06,
+    "last_seen": "2026-07-04T17:56:14.927337+00:00"
   },
-  "MEW/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0003935,
-    "last_seen": "2026-07-04T16:53:23.922045+00:00"
+    "price": 2.307e-05,
+    "last_seen": "2026-07-04T17:56:14.927337+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01096,
+    "last_seen": "2026-07-04T17:56:14.927337+00:00"
   }
 }

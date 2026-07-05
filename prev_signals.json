@@ -1,18 +1,18 @@
 {
-  "PNUT/USDT": {
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 4.496e-06,
+    "last_seen": "2026-07-05T20:17:40.422623+00:00"
+  },
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04518,
-    "last_seen": "2026-07-05T19:01:34.475865+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01149,
-    "last_seen": "2026-07-05T19:01:34.475865+00:00"
+    "price": 0.0004485,
+    "last_seen": "2026-07-05T20:17:40.422623+00:00"
   }
 }

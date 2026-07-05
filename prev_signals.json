@@ -1,26 +1,10 @@
 {
-  "DOGE/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.07778,
-    "last_seen": "2026-07-04T23:53:38.905493+00:00"
-  },
-  "DOGS/USDT": {
+  "BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 4.065e-05,
-    "last_seen": "2026-07-04T23:53:38.905493+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05097,
-    "last_seen": "2026-07-04T23:53:38.905493+00:00"
+    "exchange": "okx",
+    "price": 5.053e-06,
+    "last_seen": "2026-07-05T02:02:25.842215+00:00"
   }
 }

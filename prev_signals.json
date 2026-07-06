@@ -1,18 +1,10 @@
 {
-  "BOME/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0004305,
-    "last_seen": "2026-07-06T11:55:16.369076+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.3831,
-    "last_seen": "2026-07-06T11:55:16.369076+00:00"
+    "price": 3.2746,
+    "last_seen": "2026-07-06T14:58:04.055370+00:00"
   }
 }

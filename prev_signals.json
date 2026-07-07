@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.07425,
-    "last_seen": "2026-07-07T21:15:19.212683+00:00"
-  },
-  "POPCAT/USDT": {
+  "1000RATS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.04729,
-    "last_seen": "2026-07-07T21:15:19.212683+00:00"
+    "exchange": "bitget",
+    "price": 0.03126,
+    "last_seen": "2026-07-07T22:51:46.336791+00:00"
   }
 }

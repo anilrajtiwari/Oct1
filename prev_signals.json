@@ -1,18 +1,1 @@
-{
-  "KOMA/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.007993,
-    "last_seen": "2026-07-07T11:37:59.990204+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01225,
-    "last_seen": "2026-07-07T11:37:59.990204+00:00"
-  }
-}
+{}

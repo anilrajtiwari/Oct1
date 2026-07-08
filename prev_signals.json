@@ -2,17 +2,25 @@
   "ORDI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "okx",
+    "price": 3.46,
+    "last_seen": "2026-07-08T21:59:42.999809+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "bitget",
-    "price": 3.461,
-    "last_seen": "2026-07-08T20:56:49.966668+00:00"
+    "price": 3.819e-05,
+    "last_seen": "2026-07-08T21:59:42.999809+00:00"
   },
-  "BRETT/USDT": {
+  "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00526,
-    "last_seen": "2026-07-08T20:56:49.966668+00:00"
+    "exchange": "mexc",
+    "price": 0.004023,
+    "last_seen": "2026-07-08T21:59:42.999809+00:00"
   }
 }

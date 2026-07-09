@@ -1,26 +1,26 @@
 {
-  "MEME/USDT": {
+  "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.000566,
-    "last_seen": "2026-07-09T21:13:16.632992+00:00"
+    "price": 0.004021,
+    "last_seen": "2026-07-09T23:02:55.669266+00:00"
   },
-  "KOMA/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00741,
-    "last_seen": "2026-07-09T21:13:16.632992+00:00"
+    "exchange": "okx",
+    "price": 0.005145,
+    "last_seen": "2026-07-09T23:02:55.669266+00:00"
   },
-  "MEW/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0003636,
-    "last_seen": "2026-07-09T21:13:16.632992+00:00"
+    "price": 0.04579,
+    "last_seen": "2026-07-09T23:02:55.669266+00:00"
   }
 }

@@ -1,1 +1,10 @@
-{}
+{
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.000565,
+    "last_seen": "2026-07-09T17:48:08.805259+00:00"
+  }
+}

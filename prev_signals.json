@@ -1,18 +1,26 @@
 {
-  "CHILLGUY/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01009,
-    "last_seen": "2026-07-09T19:22:17.813633+00:00"
+    "exchange": "kucoin",
+    "price": 0.000566,
+    "last_seen": "2026-07-09T21:13:16.632992+00:00"
   },
-  "SPX/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.3776,
-    "last_seen": "2026-07-09T19:22:17.813633+00:00"
+    "exchange": "kucoin",
+    "price": 0.00741,
+    "last_seen": "2026-07-09T21:13:16.632992+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0003636,
+    "last_seen": "2026-07-09T21:13:16.632992+00:00"
   }
 }

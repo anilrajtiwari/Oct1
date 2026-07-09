@@ -1,34 +1,10 @@
 {
-  "FLOKI/USDT": {
+  "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 2.242e-05,
-    "last_seen": "2026-07-08T23:06:01.822669+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.006139,
-    "last_seen": "2026-07-08T23:06:01.822669+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.04284,
-    "last_seen": "2026-07-08T23:06:01.822669+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.012618,
-    "last_seen": "2026-07-08T23:06:01.822669+00:00"
+    "exchange": "kucoin",
+    "price": 0.0004238,
+    "last_seen": "2026-07-09T01:56:11.023299+00:00"
   }
 }

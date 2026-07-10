@@ -1,26 +1,18 @@
 {
-  "FLOKI/USDT": {
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01911,
+    "last_seen": "2026-07-10T05:55:03.169627+00:00"
+  },
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 2.236e-05,
-    "last_seen": "2026-07-10T01:54:04.703241+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.01937,
-    "last_seen": "2026-07-10T01:54:04.703241+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0003659,
-    "last_seen": "2026-07-10T01:54:04.703241+00:00"
+    "price": 0.0172,
+    "last_seen": "2026-07-10T05:55:03.169627+00:00"
   }
 }

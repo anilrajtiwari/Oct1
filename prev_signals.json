@@ -1,10 +1,18 @@
 {
-  "FLOKI/USDT": {
-    "direction": "LONG",
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.010084,
+    "last_seen": "2026-07-10T22:02:17.714235+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 2.338e-05,
-    "last_seen": "2026-07-10T21:00:00.484553+00:00"
+    "exchange": "mexc",
+    "price": 0.004135,
+    "last_seen": "2026-07-10T22:02:17.714235+00:00"
   }
 }

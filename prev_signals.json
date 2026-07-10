@@ -1,10 +1,10 @@
 {
   "SPX/USDT": {
-    "direction": "LONG",
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.3718,
-    "last_seen": "2026-07-10T17:41:02.012841+00:00"
+    "price": 0.3784,
+    "last_seen": "2026-07-10T19:15:39.266187+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
+  "PEPE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.1465,
-    "last_seen": "2026-07-11T19:59:35.310723+00:00"
+    "price": 2.8189e-06,
+    "last_seen": "2026-07-11T20:44:39.791528+00:00"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "FLOKI/USDT": {
-    "direction": "LONG",
+  "BOME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 2.281e-05,
-    "last_seen": "2026-07-11T07:06:07.289206+00:00"
+    "exchange": "bitget",
+    "price": 0.0004167,
+    "last_seen": "2026-07-11T09:17:17.332960+00:00"
   },
-  "AIXBT/USDT": {
-    "direction": "LONG",
+  "SPX/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01908,
-    "last_seen": "2026-07-11T07:06:07.289206+00:00"
+    "exchange": "bitget",
+    "price": 0.3751,
+    "last_seen": "2026-07-11T09:17:17.332960+00:00"
   }
 }

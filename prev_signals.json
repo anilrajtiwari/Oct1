@@ -1,18 +1,10 @@
 {
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.006176,
-    "last_seen": "2026-07-11T01:43:16.025415+00:00"
-  },
-  "SPX/USDT": {
+  "PEOPLE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.3703,
-    "last_seen": "2026-07-11T01:43:16.025415+00:00"
+    "exchange": "bitget",
+    "price": 0.005452,
+    "last_seen": "2026-07-11T04:54:21.120461+00:00"
   }
 }

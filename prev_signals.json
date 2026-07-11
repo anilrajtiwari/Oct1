@@ -1,1 +1,10 @@
-{}
+{
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.1537,
+    "last_seen": "2026-07-11T12:55:04.581875+00:00"
+  }
+}

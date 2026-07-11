@@ -1,18 +1,1 @@
-{
-  "ORDI/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "okx",
-    "price": 3.48,
-    "last_seen": "2026-07-11T10:55:03.684654+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01724,
-    "last_seen": "2026-07-11T10:55:03.684654+00:00"
-  }
-}
+{}

@@ -2,17 +2,9 @@
   "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "kucoin",
-    "price": 0.04737,
-    "last_seen": "2026-07-12T16:45:39.228011+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.01267,
-    "last_seen": "2026-07-12T16:45:39.228011+00:00"
+    "price": 0.04756,
+    "last_seen": "2026-07-12T17:51:39.486681+00:00"
   }
 }

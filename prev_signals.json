@@ -1,10 +1,18 @@
 {
-  "SHIB/USDT": {
-    "direction": "LONG",
+  "POPCAT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 4.291e-06,
-    "last_seen": "2026-07-12T14:23:35.201873+00:00"
+    "exchange": "kucoin",
+    "price": 0.04651,
+    "last_seen": "2026-07-12T15:50:11.734106+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001318,
+    "last_seen": "2026-07-12T15:50:11.734106+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "PEOPLE/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.005447,
-    "last_seen": "2026-07-12T09:49:28.860744+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.00934,
-    "last_seen": "2026-07-12T09:49:28.860744+00:00"
+    "price": 3.443,
+    "last_seen": "2026-07-12T11:04:52.031593+00:00"
   }
 }

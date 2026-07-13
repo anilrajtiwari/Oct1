@@ -1,18 +1,18 @@
 {
-  "KOMA/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00707,
-    "last_seen": "2026-07-13T01:48:10.111665+00:00"
+    "price": 0.1516,
+    "last_seen": "2026-07-13T05:26:25.207896+00:00"
   },
-  "BAN/USDT": {
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.06998,
-    "last_seen": "2026-07-13T01:48:10.111665+00:00"
+    "exchange": "kucoin",
+    "price": 0.04073,
+    "last_seen": "2026-07-13T05:26:25.207896+00:00"
   }
 }

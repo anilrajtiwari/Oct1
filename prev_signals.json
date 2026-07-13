@@ -1,26 +1,26 @@
 {
   "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1516,
-    "last_seen": "2026-07-13T20:49:30.317564+00:00"
-  },
-  "FARTCOIN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.1393,
-    "last_seen": "2026-07-13T20:49:30.317564+00:00"
+    "price": 0.1484,
+    "last_seen": "2026-07-13T21:44:56.729858+00:00"
   },
   "MOODENG/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.03741,
+    "last_seen": "2026-07-13T21:44:56.729858+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.03764,
-    "last_seen": "2026-07-13T20:49:30.317564+00:00"
+    "price": 0.00499,
+    "last_seen": "2026-07-13T21:44:56.729858+00:00"
   }
 }

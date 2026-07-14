@@ -1,26 +1,18 @@
 {
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "okx",
-    "price": 2.217e-05,
-    "last_seen": "2026-07-14T13:07:03.789774+00:00"
-  },
-  "DOGE/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.07311,
-    "last_seen": "2026-07-14T13:07:03.789774+00:00"
+    "exchange": "kucoin",
+    "price": 0.1512,
+    "last_seen": "2026-07-14T15:16:32.148812+00:00"
   },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
+  "1000RATS/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.04442,
-    "last_seen": "2026-07-14T13:07:03.789774+00:00"
+    "exchange": "bitget",
+    "price": 0.03273,
+    "last_seen": "2026-07-14T15:16:32.148812+00:00"
   }
 }

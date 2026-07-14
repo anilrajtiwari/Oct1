@@ -1,18 +1,26 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 3.799e-05,
-    "last_seen": "2026-07-14T09:46:30.287428+00:00"
-  },
   "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.005954,
+    "last_seen": "2026-07-14T11:18:07.399772+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.005984,
-    "last_seen": "2026-07-14T09:46:30.287428+00:00"
+    "price": 2.215e-05,
+    "last_seen": "2026-07-14T11:18:07.399772+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3494,
+    "last_seen": "2026-07-14T11:18:07.399772+00:00"
   }
 }

@@ -1,18 +1,1 @@
-{
-  "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1512,
-    "last_seen": "2026-07-14T15:16:32.148812+00:00"
-  },
-  "1000RATS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.03273,
-    "last_seen": "2026-07-14T15:16:32.148812+00:00"
-  }
-}
+{}

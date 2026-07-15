@@ -1,10 +1,18 @@
 {
-  "AIXBT/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01841,
-    "last_seen": "2026-07-15T04:41:09.457237+00:00"
+    "exchange": "okx",
+    "price": 4.244e-06,
+    "last_seen": "2026-07-15T07:06:54.393980+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04317,
+    "last_seen": "2026-07-15T07:06:54.393980+00:00"
   }
 }

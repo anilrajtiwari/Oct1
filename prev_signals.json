@@ -1,18 +1,18 @@
 {
-  "SHIB/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 4.244e-06,
-    "last_seen": "2026-07-15T07:06:54.393980+00:00"
+    "exchange": "kucoin",
+    "price": 2.24e-05,
+    "last_seen": "2026-07-15T09:50:29.493874+00:00"
   },
-  "PNUT/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.04317,
-    "last_seen": "2026-07-15T07:06:54.393980+00:00"
+    "exchange": "mexc",
+    "price": 0.007028,
+    "last_seen": "2026-07-15T09:50:29.493874+00:00"
   }
 }

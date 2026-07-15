@@ -1,10 +1,10 @@
 {
-  "BRETT/USDT": {
+  "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.005287,
-    "last_seen": "2026-07-15T17:05:30.032457+00:00"
+    "exchange": "mexc",
+    "price": 0.07425,
+    "last_seen": "2026-07-15T18:55:06.480461+00:00"
   }
 }

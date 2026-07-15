@@ -1,18 +1,10 @@
 {
-  "BOME/USDT": {
-    "direction": "SHORT",
+  "WIF/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.0004245,
-    "last_seen": "2026-07-15T22:49:09.458303+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.04337,
-    "last_seen": "2026-07-15T22:49:09.458303+00:00"
+    "price": 0.1525,
+    "last_seen": "2026-07-15T23:50:22.006149+00:00"
   }
 }

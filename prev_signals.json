@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
-    "direction": "LONG",
+  "FLOKI/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0449,
-    "last_seen": "2026-07-16T04:51:16.191526+00:00"
+    "exchange": "kucoin",
+    "price": 2.2544e-05,
+    "last_seen": "2026-07-16T07:15:47.630858+00:00"
   }
 }

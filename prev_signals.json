@@ -1,10 +1,18 @@
 {
-  "WIF/USDT": {
-    "direction": "SHORT",
+  "DOGE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.1507,
-    "last_seen": "2026-07-16T09:56:50.639534+00:00"
+    "price": 0.0731,
+    "last_seen": "2026-07-16T11:27:42.729220+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0004126,
+    "last_seen": "2026-07-16T11:27:42.729220+00:00"
   }
 }

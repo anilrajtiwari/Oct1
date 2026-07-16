@@ -1,18 +1,10 @@
 {
-  "DOGE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0731,
-    "last_seen": "2026-07-16T11:27:42.729220+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0004126,
-    "last_seen": "2026-07-16T11:27:42.729220+00:00"
+    "price": 0.0285,
+    "last_seen": "2026-07-16T13:19:27.270375+00:00"
   }
 }

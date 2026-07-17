@@ -2,41 +2,57 @@
   "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.00707,
+    "last_seen": "2026-07-17T23:43:13.016815+00:00"
+  },
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0071,
-    "last_seen": "2026-07-17T22:39:39.845785+00:00"
+    "price": 4.136e-06,
+    "last_seen": "2026-07-17T23:43:13.016815+00:00"
   },
-  "CHILLGUY/USDT": {
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 3.693e-05,
+    "last_seen": "2026-07-17T23:43:13.016815+00:00"
+  },
+  "SPX/USDT": {
     "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3563,
+    "last_seen": "2026-07-17T23:43:13.016815+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
     "confidence": 1.0,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.010326,
-    "last_seen": "2026-07-17T22:39:39.845785+00:00"
+    "exchange": "bitget",
+    "price": 0.01845,
+    "last_seen": "2026-07-17T23:43:13.016815+00:00"
   },
-  "BOME/USDT": {
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0003527,
+    "last_seen": "2026-07-17T23:43:13.016815+00:00"
+  },
+  "1000CAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.0003976,
-    "last_seen": "2026-07-17T22:39:39.845785+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1411,
-    "last_seen": "2026-07-17T22:39:39.845785+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.04285,
-    "last_seen": "2026-07-17T22:39:39.845785+00:00"
+    "price": 0.001284,
+    "last_seen": "2026-07-17T23:43:13.016815+00:00"
   }
 }

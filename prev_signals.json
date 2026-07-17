@@ -1,26 +1,10 @@
 {
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0004219,
-    "last_seen": "2026-07-17T07:11:16.261520+00:00"
-  },
-  "MEW/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0003488,
-    "last_seen": "2026-07-17T07:11:16.261520+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.008517,
-    "last_seen": "2026-07-17T07:11:16.261520+00:00"
+    "exchange": "mexc",
+    "price": 0.13351,
+    "last_seen": "2026-07-17T09:47:26.716747+00:00"
   }
 }

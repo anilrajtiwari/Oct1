@@ -1,42 +1,10 @@
 {
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0182,
-    "last_seen": "2026-07-17T13:04:17.605895+00:00"
-  },
   "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 2.6789e-06,
-    "last_seen": "2026-07-17T13:04:17.605895+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.003557,
-    "last_seen": "2026-07-17T13:04:17.605895+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.04079,
-    "last_seen": "2026-07-17T13:04:17.605895+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.03657,
-    "last_seen": "2026-07-17T13:04:17.605895+00:00"
+    "price": 2.6919e-06,
+    "last_seen": "2026-07-17T15:06:11.402731+00:00"
   }
 }

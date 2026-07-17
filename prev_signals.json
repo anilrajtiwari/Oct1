@@ -1,34 +1,26 @@
 {
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.02865,
-    "last_seen": "2026-07-16T22:49:30.868946+00:00"
-  },
-  "DOGE/USDT": {
+  "SHIB/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.07271,
-    "last_seen": "2026-07-16T22:49:30.868946+00:00"
+    "price": 4.119e-06,
+    "last_seen": "2026-07-16T23:49:55.514920+00:00"
   },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 2.2139e-05,
-    "last_seen": "2026-07-16T22:49:30.868946+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
+  "DOGS/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.003501,
-    "last_seen": "2026-07-16T22:49:30.868946+00:00"
+    "price": 3.694e-05,
+    "last_seen": "2026-07-16T23:49:55.514920+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.13632,
+    "last_seen": "2026-07-16T23:49:55.514920+00:00"
   }
 }

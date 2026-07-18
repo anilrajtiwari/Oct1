@@ -2,25 +2,17 @@
   "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 3,
+    "count": 4,
     "exchange": "okx",
-    "price": 2.813e-06,
-    "last_seen": "2026-07-18T21:41:14.104656+00:00"
+    "price": 2.79e-06,
+    "last_seen": "2026-07-18T22:39:09.423742+00:00"
   },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 3,
-    "exchange": "mexc",
-    "price": 0.002813,
-    "last_seen": "2026-07-18T21:41:14.104656+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "SHORT",
+  "FLOKI/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.00517,
-    "last_seen": "2026-07-18T21:41:14.104656+00:00"
+    "price": 2.1408e-05,
+    "last_seen": "2026-07-18T22:39:09.423742+00:00"
   }
 }

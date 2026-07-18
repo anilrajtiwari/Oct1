@@ -1,26 +1,26 @@
 {
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 2.121e-05,
-    "last_seen": "2026-07-18T12:51:44.052262+00:00"
-  },
   "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.009901,
-    "last_seen": "2026-07-18T12:51:44.052262+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.0093,
+    "last_seen": "2026-07-18T14:16:18.059787+00:00"
   },
-  "POPCAT/USDT": {
+  "SHIB/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.04234,
-    "last_seen": "2026-07-18T12:51:44.052262+00:00"
+    "exchange": "kucoin",
+    "price": 4.079e-06,
+    "last_seen": "2026-07-18T14:16:18.059787+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01653,
+    "last_seen": "2026-07-18T14:16:18.059787+00:00"
   }
 }

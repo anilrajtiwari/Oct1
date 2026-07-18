@@ -1,10 +1,26 @@
 {
-  "PNUT/USDT": {
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 2.121e-05,
+    "last_seen": "2026-07-18T12:51:44.052262+00:00"
+  },
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04164,
-    "last_seen": "2026-07-18T11:45:03.291555+00:00"
+    "price": 0.009901,
+    "last_seen": "2026-07-18T12:51:44.052262+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.04234,
+    "last_seen": "2026-07-18T12:51:44.052262+00:00"
   }
 }

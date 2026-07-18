@@ -1,42 +1,26 @@
 {
   "BONK/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
+    "confidence": 1.0,
+    "count": 2,
     "exchange": "okx",
-    "price": 2.789e-06,
-    "last_seen": "2026-07-18T19:59:32.106311+00:00"
-  },
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 3.684e-05,
-    "last_seen": "2026-07-18T19:59:32.106311+00:00"
+    "price": 2.829e-06,
+    "last_seen": "2026-07-18T20:43:53.830798+00:00"
   },
   "1000BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.002812,
-    "last_seen": "2026-07-18T19:59:32.106311+00:00"
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.003189,
+    "last_seen": "2026-07-18T20:43:53.830798+00:00"
   },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
+  "FLOKI/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.1307,
-    "last_seen": "2026-07-18T19:59:32.106311+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.001287,
-    "last_seen": "2026-07-18T19:59:32.106311+00:00"
+    "exchange": "kucoin",
+    "price": 2.1469e-05,
+    "last_seen": "2026-07-18T20:43:53.830798+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "PEOPLE/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.00524,
-    "last_seen": "2026-07-19T15:46:25.606088+00:00"
+    "exchange": "kucoin",
+    "price": 0.009294,
+    "last_seen": "2026-07-19T16:44:53.377436+00:00"
   }
 }

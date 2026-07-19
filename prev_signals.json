@@ -2,9 +2,9 @@
   "1000RATS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.02784,
-    "last_seen": "2026-07-19T09:49:03.840073+00:00"
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.02773,
+    "last_seen": "2026-07-19T11:04:42.543940+00:00"
   }
 }

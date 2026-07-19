@@ -1,10 +1,26 @@
 {
   "CHILLGUY/USDT": {
     "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.009335,
+    "last_seen": "2026-07-19T17:49:22.144608+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.62e-05,
+    "last_seen": "2026-07-19T17:49:22.144608+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.009294,
-    "last_seen": "2026-07-19T16:44:53.377436+00:00"
+    "price": 0.04254,
+    "last_seen": "2026-07-19T17:49:22.144608+00:00"
   }
 }

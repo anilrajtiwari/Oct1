@@ -1,18 +1,1 @@
-{
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.00522,
-    "last_seen": "2026-07-19T20:03:07.365135+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04245,
-    "last_seen": "2026-07-19T20:03:07.365135+00:00"
-  }
-}
+{}

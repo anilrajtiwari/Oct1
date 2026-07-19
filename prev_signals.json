@@ -1,26 +1,18 @@
 {
-  "DOGS/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 3.611e-05,
-    "last_seen": "2026-07-19T18:51:13.106946+00:00"
-  },
-  "SHIB/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 4.111e-06,
-    "last_seen": "2026-07-19T18:51:13.106946+00:00"
+    "exchange": "okx",
+    "price": 0.00522,
+    "last_seen": "2026-07-19T20:03:07.365135+00:00"
   },
-  "BRETT/USDT": {
-    "direction": "LONG",
+  "POPCAT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0051,
-    "last_seen": "2026-07-19T18:51:13.106946+00:00"
+    "price": 0.04245,
+    "last_seen": "2026-07-19T20:03:07.365135+00:00"
   }
 }

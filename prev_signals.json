@@ -1,10 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "LONG",
+  "1000BONK/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.02741,
-    "last_seen": "2026-07-20T05:36:30.828534+00:00"
+    "exchange": "kucoin",
+    "price": 0.002784,
+    "last_seen": "2026-07-20T08:39:48.344026+00:00"
   }
 }

@@ -1,1 +1,18 @@
-{}
+{
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 3.745e-05,
+    "last_seen": "2026-07-20T19:25:14.506061+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.02787,
+    "last_seen": "2026-07-20T19:25:14.506061+00:00"
+  }
+}

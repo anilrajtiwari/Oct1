@@ -1,10 +1,10 @@
 {
-  "1000RATS/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.02649,
-    "last_seen": "2026-07-21T10:15:21.037079+00:00"
+    "exchange": "kucoin",
+    "price": 0.00524,
+    "last_seen": "2026-07-21T12:19:59.662934+00:00"
   }
 }

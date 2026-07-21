@@ -1,1 +1,10 @@
-{}
+{
+  "1000BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.003042,
+    "last_seen": "2026-07-21T20:14:27.602634+00:00"
+  }
+}

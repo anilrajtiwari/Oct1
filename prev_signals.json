@@ -1,34 +1,18 @@
 {
-  "MEME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.000521,
-    "last_seen": "2026-07-22T07:33:05.104014+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.04126,
-    "last_seen": "2026-07-22T07:33:05.104014+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01894,
-    "last_seen": "2026-07-22T07:33:05.104014+00:00"
-  },
   "VINE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.009946,
+    "last_seen": "2026-07-22T10:14:55.943248+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.010003,
-    "last_seen": "2026-07-22T07:33:05.104014+00:00"
+    "price": 2.14e-05,
+    "last_seen": "2026-07-22T10:14:55.943248+00:00"
   }
 }

@@ -1,34 +1,10 @@
 {
-  "BRETT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00455,
-    "last_seen": "2026-07-22T23:55:39.024496+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.03825,
-    "last_seen": "2026-07-22T23:55:39.024496+00:00"
-  },
   "MEW/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.000367,
-    "last_seen": "2026-07-22T23:55:39.024496+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04431,
-    "last_seen": "2026-07-22T23:55:39.024496+00:00"
+    "price": 0.0003668,
+    "last_seen": "2026-07-23T01:50:12.273371+00:00"
   }
 }

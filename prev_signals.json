@@ -2,17 +2,25 @@
   "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.1448,
-    "last_seen": "2026-07-23T21:57:14.103614+00:00"
+    "price": 0.1445,
+    "last_seen": "2026-07-23T22:48:26.937597+00:00"
   },
-  "1000BONK/USDT": {
-    "direction": "LONG",
+  "SHIB/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.002894,
-    "last_seen": "2026-07-23T21:57:14.103614+00:00"
+    "price": 4.145e-06,
+    "last_seen": "2026-07-23T22:48:26.937597+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.004458,
+    "last_seen": "2026-07-23T22:48:26.937597+00:00"
   }
 }

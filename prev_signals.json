@@ -1,1 +1,18 @@
-{}
+{
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.04144,
+    "last_seen": "2026-07-23T12:25:10.288003+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01062,
+    "last_seen": "2026-07-23T12:25:10.288003+00:00"
+  }
+}

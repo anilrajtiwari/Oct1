@@ -1,10 +1,10 @@
 {
-  "FARTCOIN/USDT": {
+  "MEW/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.1314,
-    "last_seen": "2026-07-24T10:08:07.023890+00:00"
+    "price": 0.0003508,
+    "last_seen": "2026-07-24T12:13:20.423693+00:00"
   }
 }

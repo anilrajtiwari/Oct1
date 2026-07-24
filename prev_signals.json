@@ -1,18 +1,1 @@
-{
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.010639,
-    "last_seen": "2026-07-24T05:01:30.734473+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.13372,
-    "last_seen": "2026-07-24T05:01:30.734473+00:00"
-  }
-}
+{}

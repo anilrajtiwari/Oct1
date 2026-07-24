@@ -1,10 +1,18 @@
 {
-  "PEOPLE/USDT": {
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3367,
+    "last_seen": "2026-07-24T18:11:44.868717+00:00"
+  },
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.005218,
-    "last_seen": "2026-07-24T14:45:01.824532+00:00"
+    "price": 0.01047,
+    "last_seen": "2026-07-24T18:11:44.868717+00:00"
   }
 }

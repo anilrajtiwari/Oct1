@@ -1,18 +1,26 @@
 {
-  "PEPE/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "mexc",
-    "price": 2.7202e-06,
-    "last_seen": "2026-07-24T20:11:12.770539+00:00"
+    "exchange": "kucoin",
+    "price": 0.146,
+    "last_seen": "2026-07-24T21:56:33.455779+00:00"
   },
-  "DOGS/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 3.493e-05,
-    "last_seen": "2026-07-24T20:11:12.770539+00:00"
+    "price": 0.004383,
+    "last_seen": "2026-07-24T21:56:33.455779+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0361,
+    "last_seen": "2026-07-24T21:56:33.455779+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02586,
-    "last_seen": "2026-07-23T23:53:06.272893+00:00"
-  },
-  "MEW/USDT": {
+  "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0003564,
-    "last_seen": "2026-07-23T23:53:06.272893+00:00"
+    "exchange": "kucoin",
+    "price": 0.01883,
+    "last_seen": "2026-07-24T01:46:17.326945+00:00"
   }
 }

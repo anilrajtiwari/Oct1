@@ -1,10 +1,10 @@
 {
   "KOMA/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00764,
-    "last_seen": "2026-07-25T04:57:33.355894+00:00"
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.007576,
+    "last_seen": "2026-07-25T07:11:26.297015+00:00"
   }
 }

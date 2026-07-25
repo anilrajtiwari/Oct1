@@ -2,9 +2,9 @@
   "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.142,
-    "last_seen": "2026-07-25T14:38:47.350812+00:00"
+    "price": 0.1429,
+    "last_seen": "2026-07-25T15:57:16.547020+00:00"
   }
 }

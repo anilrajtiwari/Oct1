@@ -1,10 +1,10 @@
 {
-  "WIF/USDT": {
+  "VINE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.1429,
-    "last_seen": "2026-07-25T15:57:16.547020+00:00"
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.008759,
+    "last_seen": "2026-07-25T16:46:48.102084+00:00"
   }
 }

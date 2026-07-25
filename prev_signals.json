@@ -1,10 +1,10 @@
 {
-  "WIF/USDT": {
-    "direction": "SHORT",
+  "POPCAT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1428,
-    "last_seen": "2026-07-25T17:51:36.124741+00:00"
+    "exchange": "okx",
+    "price": 0.04325,
+    "last_seen": "2026-07-25T18:53:06.157968+00:00"
   }
 }

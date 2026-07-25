@@ -1,18 +1,18 @@
 {
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0004479,
-    "last_seen": "2026-07-25T20:06:17.968496+00:00"
-  },
-  "PEOPLE/USDT": {
+  "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.00565,
-    "last_seen": "2026-07-25T20:06:17.968496+00:00"
+    "price": 0.07251,
+    "last_seen": "2026-07-25T21:44:34.846669+00:00"
+  },
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.959e-06,
+    "last_seen": "2026-07-25T21:44:34.846669+00:00"
   }
 }

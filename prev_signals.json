@@ -1,10 +1,10 @@
 {
-  "MOODENG/USDT": {
-    "direction": "SHORT",
+  "BRETT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.03605,
-    "last_seen": "2026-07-26T08:08:25.570967+00:00"
+    "exchange": "okx",
+    "price": 0.004626,
+    "last_seen": "2026-07-26T10:29:24.698038+00:00"
   }
 }

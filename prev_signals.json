@@ -1,18 +1,18 @@
 {
-  "DOGE/USDT": {
+  "BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.07203,
-    "last_seen": "2026-07-25T22:44:22.671761+00:00"
+    "count": 1,
+    "exchange": "okx",
+    "price": 3.086e-06,
+    "last_seen": "2026-07-25T23:52:22.690272+00:00"
   },
-  "SHIB/USDT": {
+  "1000CAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 4.841e-06,
-    "last_seen": "2026-07-25T22:44:22.671761+00:00"
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001455,
+    "last_seen": "2026-07-25T23:52:22.690272+00:00"
   }
 }

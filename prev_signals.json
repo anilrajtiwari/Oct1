@@ -1,10 +1,18 @@
 {
-  "DOGS/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.1503,
+    "last_seen": "2026-07-27T21:02:56.083936+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 3.554e-05,
-    "last_seen": "2026-07-27T19:12:25.134416+00:00"
+    "price": 2.123e-05,
+    "last_seen": "2026-07-27T21:02:56.083936+00:00"
   }
 }

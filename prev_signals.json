@@ -1,18 +1,18 @@
 {
-  "SHIB/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 5.363e-06,
-    "last_seen": "2026-07-26T22:51:17.941539+00:00"
+    "exchange": "bitget",
+    "price": 0.01244,
+    "last_seen": "2026-07-26T23:53:22.890172+00:00"
   },
-  "PNUT/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04205,
-    "last_seen": "2026-07-26T22:51:17.941539+00:00"
+    "price": 0.1258,
+    "last_seen": "2026-07-26T23:53:22.890172+00:00"
   }
 }

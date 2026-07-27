@@ -1,18 +1,18 @@
 {
-  "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
+  "1000RATS/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.1503,
-    "last_seen": "2026-07-27T21:02:56.083936+00:00"
+    "price": 0.02578,
+    "last_seen": "2026-07-27T22:52:13.943762+00:00"
   },
-  "FLOKI/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 2.123e-05,
-    "last_seen": "2026-07-27T21:02:56.083936+00:00"
+    "price": 0.0005143,
+    "last_seen": "2026-07-27T22:52:13.943762+00:00"
   }
 }

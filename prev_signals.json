@@ -1,1 +1,26 @@
-{}
+{
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01861,
+    "last_seen": "2026-07-27T09:30:00.062668+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.004661,
+    "last_seen": "2026-07-27T09:30:00.062668+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001334,
+    "last_seen": "2026-07-27T09:30:00.062668+00:00"
+  }
+}

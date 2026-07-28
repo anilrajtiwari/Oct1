@@ -1,18 +1,1 @@
-{
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 2.794e-06,
-    "last_seen": "2026-07-28T15:12:28.828581+00:00"
-  },
-  "KOMA/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.00748,
-    "last_seen": "2026-07-28T15:12:28.828581+00:00"
-  }
-}
+{}

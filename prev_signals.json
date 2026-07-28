@@ -1,18 +1,26 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 3.506,
-    "last_seen": "2026-07-28T04:54:59.586461+00:00"
-  },
-  "SPX/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.3205,
-    "last_seen": "2026-07-28T04:54:59.586461+00:00"
+    "price": 0.0703,
+    "last_seen": "2026-07-28T07:32:52.841192+00:00"
+  },
+  "WIF/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.1487,
+    "last_seen": "2026-07-28T07:32:52.841192+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.00468,
+    "last_seen": "2026-07-28T07:32:52.841192+00:00"
   }
 }

@@ -2,33 +2,25 @@
   "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.1488,
-    "last_seen": "2026-07-29T21:48:51.137006+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.06786,
-    "last_seen": "2026-07-29T21:48:51.137006+00:00"
+    "price": 0.1489,
+    "last_seen": "2026-07-29T22:49:56.471063+00:00"
   },
   "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.006014,
-    "last_seen": "2026-07-29T21:48:51.137006+00:00"
+    "price": 0.006008,
+    "last_seen": "2026-07-29T22:49:56.471063+00:00"
   },
-  "MEW/USDT": {
+  "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0003176,
-    "last_seen": "2026-07-29T21:48:51.137006+00:00"
+    "exchange": "mexc",
+    "price": 0.03862,
+    "last_seen": "2026-07-29T22:49:56.471063+00:00"
   }
 }

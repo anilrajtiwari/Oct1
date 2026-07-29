@@ -1,18 +1,10 @@
 {
-  "POPCAT/USDT": {
-    "direction": "SHORT",
+  "PEOPLE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.04157,
-    "last_seen": "2026-07-29T18:57:21.005976+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0005,
-    "last_seen": "2026-07-29T18:57:21.005976+00:00"
+    "exchange": "mexc",
+    "price": 0.006487,
+    "last_seen": "2026-07-29T20:09:16.549879+00:00"
   }
 }

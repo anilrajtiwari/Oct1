@@ -1,26 +1,26 @@
 {
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.02696,
-    "last_seen": "2026-07-29T15:05:27.801397+00:00"
-  },
-  "BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 2.913e-06,
-    "last_seen": "2026-07-29T15:05:27.801397+00:00"
-  },
-  "PENGU/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.005847,
-    "last_seen": "2026-07-29T15:05:27.801397+00:00"
+    "price": 0.01596,
+    "last_seen": "2026-07-29T17:04:46.187432+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.03875,
+    "last_seen": "2026-07-29T17:04:46.187432+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04079,
+    "last_seen": "2026-07-29T17:04:46.187432+00:00"
   }
 }

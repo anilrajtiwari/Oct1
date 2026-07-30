@@ -1,18 +1,26 @@
 {
-  "DOGE/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0708,
-    "last_seen": "2026-07-30T19:09:48.153587+00:00"
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.004053,
+    "last_seen": "2026-07-30T20:56:28.262850+00:00"
   },
-  "BRETT/USDT": {
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.00669,
+    "last_seen": "2026-07-30T20:56:28.262850+00:00"
+  },
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.004065,
-    "last_seen": "2026-07-30T19:09:48.153587+00:00"
+    "price": 0.000333,
+    "last_seen": "2026-07-30T20:56:28.262850+00:00"
   }
 }

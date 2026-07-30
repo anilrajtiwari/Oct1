@@ -1,1 +1,26 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 2.755e-06,
+    "last_seen": "2026-07-30T10:13:15.410979+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.213,
+    "last_seen": "2026-07-30T10:13:15.410979+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0003288,
+    "last_seen": "2026-07-30T10:13:15.410979+00:00"
+  }
+}

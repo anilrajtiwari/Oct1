@@ -1,10 +1,18 @@
 {
-  "CHILLGUY/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0708,
+    "last_seen": "2026-07-30T19:09:48.153587+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.008841,
-    "last_seen": "2026-07-30T17:15:27.419333+00:00"
+    "price": 0.004065,
+    "last_seen": "2026-07-30T19:09:48.153587+00:00"
   }
 }

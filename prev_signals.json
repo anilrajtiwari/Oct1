@@ -1,18 +1,10 @@
 {
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01674,
-    "last_seen": "2026-07-30T15:02:44.726964+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.004026,
-    "last_seen": "2026-07-30T15:02:44.726964+00:00"
+    "price": 0.008841,
+    "last_seen": "2026-07-30T17:15:27.419333+00:00"
   }
 }

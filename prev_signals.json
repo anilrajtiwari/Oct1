@@ -1,26 +1,58 @@
 {
-  "PEPE/USDT": {
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.000329,
+    "last_seen": "2026-07-30T12:24:02.404347+00:00"
+  },
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 2.755e-06,
-    "last_seen": "2026-07-30T10:13:15.410979+00:00"
+    "price": 0.07017,
+    "last_seen": "2026-07-30T12:24:02.404347+00:00"
   },
-  "ORDI/USDT": {
+  "1000RATS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.02735,
+    "last_seen": "2026-07-30T12:24:02.404347+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.1231,
+    "last_seen": "2026-07-30T12:24:02.404347+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01697,
+    "last_seen": "2026-07-30T12:24:02.404347+00:00"
+  },
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 3.213,
-    "last_seen": "2026-07-30T10:13:15.410979+00:00"
+    "price": 0.00397,
+    "last_seen": "2026-07-30T12:24:02.404347+00:00"
   },
-  "MEW/USDT": {
-    "direction": "SHORT",
+  "ACT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0003288,
-    "last_seen": "2026-07-30T10:13:15.410979+00:00"
+    "exchange": "okx",
+    "price": 0.008319,
+    "last_seen": "2026-07-30T12:24:02.404347+00:00"
   }
 }

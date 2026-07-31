@@ -2,17 +2,33 @@
   "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.005999,
-    "last_seen": "2026-07-31T19:08:00.289219+00:00"
+    "price": 0.005968,
+    "last_seen": "2026-07-31T20:53:54.839539+00:00"
   },
   "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 0.04326,
-    "last_seen": "2026-07-31T19:08:00.289219+00:00"
+    "price": 0.04321,
+    "last_seen": "2026-07-31T20:53:54.839539+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01619,
+    "last_seen": "2026-07-31T20:53:54.839539+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.007032,
+    "last_seen": "2026-07-31T20:53:54.839539+00:00"
   }
 }

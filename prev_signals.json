@@ -1,42 +1,18 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 5.133e-06,
-    "last_seen": "2026-08-01T15:53:23.144900+00:00"
-  },
   "KOMA/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.016678,
-    "last_seen": "2026-08-01T15:53:23.144900+00:00"
-  },
-  "1000RATS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0448,
-    "last_seen": "2026-08-01T15:53:23.144900+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.03541,
-    "last_seen": "2026-08-01T15:53:23.144900+00:00"
+    "price": 0.015778,
+    "last_seen": "2026-08-01T16:48:32.564848+00:00"
   },
   "POPCAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.04314,
-    "last_seen": "2026-08-01T15:53:23.144900+00:00"
+    "price": 0.04301,
+    "last_seen": "2026-08-01T16:48:32.564848+00:00"
   }
 }

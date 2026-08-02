@@ -1,18 +1,42 @@
 {
-  "WIF/USDT": {
+  "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.1353,
-    "last_seen": "2026-08-01T23:49:06.547601+00:00"
+    "exchange": "kucoin",
+    "price": 0.07144,
+    "last_seen": "2026-08-02T01:48:11.500844+00:00"
   },
-  "BOME/USDT": {
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.002845,
+    "last_seen": "2026-08-02T01:48:11.500844+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01748,
+    "last_seen": "2026-08-02T01:48:11.500844+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.012236,
+    "last_seen": "2026-08-02T01:48:11.500844+00:00"
+  },
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.0005592,
-    "last_seen": "2026-08-01T23:49:06.547601+00:00"
+    "price": 0.0428,
+    "last_seen": "2026-08-02T01:48:11.500844+00:00"
   }
 }

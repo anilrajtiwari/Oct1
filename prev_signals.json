@@ -1,1 +1,10 @@
-{}
+{
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 3.382e-05,
+    "last_seen": "2026-08-02T20:06:23.040593+00:00"
+  }
+}

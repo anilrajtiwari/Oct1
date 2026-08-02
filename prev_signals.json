@@ -2,17 +2,33 @@
   "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.006059,
-    "last_seen": "2026-08-02T10:26:19.098469+00:00"
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.005932,
+    "last_seen": "2026-08-02T11:54:27.038867+00:00"
   },
-  "BRETT/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.02883,
+    "last_seen": "2026-08-02T11:54:27.038867+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.004065,
-    "last_seen": "2026-08-02T10:26:19.098469+00:00"
+    "price": 0.03576,
+    "last_seen": "2026-08-02T11:54:27.038867+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.04338,
+    "last_seen": "2026-08-02T11:54:27.038867+00:00"
   }
 }

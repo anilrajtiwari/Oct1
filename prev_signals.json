@@ -1,26 +1,18 @@
 {
   "WIF/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.1425,
-    "last_seen": "2026-08-01T22:44:54.190845+00:00"
-  },
-  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 3.604,
-    "last_seen": "2026-08-01T22:44:54.190845+00:00"
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.1353,
+    "last_seen": "2026-08-01T23:49:06.547601+00:00"
   },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
+  "BOME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.009555,
-    "last_seen": "2026-08-01T22:44:54.190845+00:00"
+    "exchange": "mexc",
+    "price": 0.0005592,
+    "last_seen": "2026-08-01T23:49:06.547601+00:00"
   }
 }

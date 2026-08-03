@@ -1,26 +1,10 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.012981,
-    "last_seen": "2026-08-03T01:50:45.124492+00:00"
-  },
-  "BAN/USDT": {
+  "KOMA/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.07205,
-    "last_seen": "2026-08-03T01:50:45.124492+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.127,
-    "last_seen": "2026-08-03T01:50:45.124492+00:00"
+    "exchange": "kucoin",
+    "price": 0.01665,
+    "last_seen": "2026-08-03T05:32:22.493315+00:00"
   }
 }

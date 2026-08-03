@@ -1,18 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01785,
-    "last_seen": "2026-08-03T17:42:29.391223+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
+  "POPCAT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01276,
-    "last_seen": "2026-08-03T17:42:29.391223+00:00"
+    "price": 0.0442,
+    "last_seen": "2026-08-03T19:19:08.234714+00:00"
   }
 }

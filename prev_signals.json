@@ -1,10 +1,10 @@
 {
-  "POPCAT/USDT": {
-    "direction": "LONG",
+  "ORDI/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0442,
-    "last_seen": "2026-08-03T19:19:08.234714+00:00"
+    "exchange": "bitget",
+    "price": 3.472,
+    "last_seen": "2026-08-03T20:55:36.573228+00:00"
   }
 }

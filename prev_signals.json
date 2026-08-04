@@ -1,1 +1,18 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.07334,
+    "last_seen": "2026-08-04T02:47:07.618446+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.03618,
+    "last_seen": "2026-08-04T02:47:07.618446+00:00"
+  }
+}

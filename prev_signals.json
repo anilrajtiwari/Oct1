@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 2.881e-06,
-    "last_seen": "2026-08-05T10:25:23.217032+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.03679,
-    "last_seen": "2026-08-05T10:25:23.217032+00:00"
+    "exchange": "kucoin",
+    "price": 0.0004972,
+    "last_seen": "2026-08-05T12:47:51.449965+00:00"
   }
 }

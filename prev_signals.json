@@ -1,10 +1,10 @@
 {
-  "BRETT/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.004101,
-    "last_seen": "2026-08-05T23:49:22.782396+00:00"
+    "price": 0.1396,
+    "last_seen": "2026-08-06T01:29:05.794279+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "WIF/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1396,
-    "last_seen": "2026-08-06T01:29:05.794279+00:00"
+    "exchange": "bitget",
+    "price": 0.0732,
+    "last_seen": "2026-08-06T04:56:31.230024+00:00"
   }
 }

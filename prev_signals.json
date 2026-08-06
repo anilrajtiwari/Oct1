@@ -1,10 +1,10 @@
 {
-  "MEME/USDT": {
+  "KOMA/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0005036,
-    "last_seen": "2026-08-06T07:33:44.733977+00:00"
+    "exchange": "kucoin",
+    "price": 0.01252,
+    "last_seen": "2026-08-06T10:28:10.764075+00:00"
   }
 }

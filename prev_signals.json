@@ -1,10 +1,18 @@
 {
-  "KOMA/USDT": {
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03873,
+    "last_seen": "2026-08-06T12:51:10.630883+00:00"
+  },
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01252,
-    "last_seen": "2026-08-06T10:28:10.764075+00:00"
+    "price": 0.004144,
+    "last_seen": "2026-08-06T12:51:10.630883+00:00"
   }
 }

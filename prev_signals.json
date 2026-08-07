@@ -1,10 +1,18 @@
 {
-  "FLOKI/USDT": {
+  "BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 2.109e-05,
-    "last_seen": "2026-08-07T06:05:14.230293+00:00"
+    "price": 2.537e-06,
+    "last_seen": "2026-08-07T08:06:56.683362+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0003245,
+    "last_seen": "2026-08-07T08:06:56.683362+00:00"
   }
 }

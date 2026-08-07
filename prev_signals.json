@@ -1,10 +1,10 @@
 {
-  "PNUT/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.03865,
-    "last_seen": "2026-08-07T04:48:07.083359+00:00"
+    "exchange": "okx",
+    "price": 2.109e-05,
+    "last_seen": "2026-08-07T06:05:14.230293+00:00"
   }
 }

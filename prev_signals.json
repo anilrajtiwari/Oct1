@@ -1,1 +1,10 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.06962,
+    "last_seen": "2026-08-07T17:40:55.072514+00:00"
+  }
+}

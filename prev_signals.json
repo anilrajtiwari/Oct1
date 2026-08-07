@@ -1,1 +1,26 @@
-{}
+{
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 4.703e-06,
+    "last_seen": "2026-08-07T21:29:29.470163+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.00407,
+    "last_seen": "2026-08-07T21:29:29.470163+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.03574,
+    "last_seen": "2026-08-07T21:29:29.470163+00:00"
+  }
+}

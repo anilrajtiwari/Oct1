@@ -1,10 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "LONG",
+  "KOMA/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.07217,
-    "last_seen": "2026-08-06T15:06:58.407801+00:00"
+    "exchange": "kucoin",
+    "price": 0.01373,
+    "last_seen": "2026-08-06T23:50:19.693935+00:00"
   }
 }

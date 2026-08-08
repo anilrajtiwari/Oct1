@@ -2,17 +2,9 @@
   "1000BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.00258,
-    "last_seen": "2026-08-08T08:28:43.996997+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.00961,
-    "last_seen": "2026-08-08T08:28:43.996997+00:00"
+    "price": 0.002542,
+    "last_seen": "2026-08-08T09:28:13.030957+00:00"
   }
 }

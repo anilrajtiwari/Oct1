@@ -1,1 +1,26 @@
-{}
+{
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 2.128e-05,
+    "last_seen": "2026-08-08T14:23:40.766428+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.006042,
+    "last_seen": "2026-08-08T14:23:40.766428+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0003399,
+    "last_seen": "2026-08-08T14:23:40.766428+00:00"
+  }
+}

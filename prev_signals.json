@@ -1,10 +1,10 @@
 {
-  "1000RATS/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04724,
-    "last_seen": "2026-08-08T06:34:54.612453+00:00"
+    "price": 0.04304,
+    "last_seen": "2026-08-08T07:40:57.544415+00:00"
   }
 }

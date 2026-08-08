@@ -1,10 +1,10 @@
 {
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.007285,
-    "last_seen": "2026-08-08T02:50:40.678597+00:00"
+    "price": 2.1104e-05,
+    "last_seen": "2026-08-08T04:05:09.928102+00:00"
   }
 }

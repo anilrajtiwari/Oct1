@@ -1,10 +1,10 @@
 {
-  "PNUT/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.03881,
-    "last_seen": "2026-08-08T05:35:54.850594+00:00"
+    "exchange": "kucoin",
+    "price": 0.04724,
+    "last_seen": "2026-08-08T06:34:54.612453+00:00"
   }
 }

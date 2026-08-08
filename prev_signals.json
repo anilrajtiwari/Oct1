@@ -1,26 +1,18 @@
 {
-  "FLOKI/USDT": {
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 3.2565,
+    "last_seen": "2026-08-08T23:18:55.425636+00:00"
+  },
+  "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 2.089e-05,
-    "last_seen": "2026-08-08T22:18:24.939953+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0005088,
-    "last_seen": "2026-08-08T22:18:24.939953+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.007615,
-    "last_seen": "2026-08-08T22:18:24.939953+00:00"
+    "price": 0.03839,
+    "last_seen": "2026-08-08T23:18:55.425636+00:00"
   }
 }

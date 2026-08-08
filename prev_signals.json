@@ -2,17 +2,25 @@
   "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
+    "count": 3,
     "exchange": "bitget",
-    "price": 0.03831,
-    "last_seen": "2026-08-07T23:25:18.440240+00:00"
+    "price": 0.03818,
+    "last_seen": "2026-08-08T00:52:14.163775+00:00"
   },
-  "POPCAT/USDT": {
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 2.086e-05,
+    "last_seen": "2026-08-08T00:52:14.163775+00:00"
+  },
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "bitget",
-    "price": 0.04252,
-    "last_seen": "2026-08-07T23:25:18.440240+00:00"
+    "price": 0.3333,
+    "last_seen": "2026-08-08T00:52:14.163775+00:00"
   }
 }

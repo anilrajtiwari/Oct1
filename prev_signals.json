@@ -1,18 +1,10 @@
 {
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 3,
-    "exchange": "mexc",
-    "price": 0.0007804,
-    "last_seen": "2026-08-09T19:25:22.509556+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01546,
-    "last_seen": "2026-08-09T19:25:22.509556+00:00"
+    "exchange": "mexc",
+    "price": 0.01786,
+    "last_seen": "2026-08-09T20:20:37.147793+00:00"
   }
 }

@@ -1,42 +1,26 @@
 {
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.336,
-    "last_seen": "2026-08-09T04:13:33.777203+00:00"
-  },
   "MOODENG/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
+    "confidence": 0.75,
+    "count": 3,
     "exchange": "kucoin",
-    "price": 0.03595,
-    "last_seen": "2026-08-09T04:13:33.777203+00:00"
+    "price": 0.03602,
+    "last_seen": "2026-08-09T05:41:31.496937+00:00"
   },
-  "FLOKI/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 2.0997e-05,
-    "last_seen": "2026-08-09T04:13:33.777203+00:00"
+    "exchange": "bitget",
+    "price": 0.0109,
+    "last_seen": "2026-08-09T05:41:31.496937+00:00"
   },
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
+  "BRETT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.01762,
-    "last_seen": "2026-08-09T04:13:33.777203+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0006144,
-    "last_seen": "2026-08-09T04:13:33.777203+00:00"
+    "exchange": "bitget",
+    "price": 0.004152,
+    "last_seen": "2026-08-09T05:41:31.496937+00:00"
   }
 }

@@ -1,26 +1,10 @@
 {
-  "MOODENG/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 4,
+    "count": 1,
     "exchange": "kucoin",
-    "price": 0.03649,
-    "last_seen": "2026-08-09T06:38:20.888670+00:00"
-  },
-  "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.1429,
-    "last_seen": "2026-08-09T06:38:20.888670+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0003444,
-    "last_seen": "2026-08-09T06:38:20.888670+00:00"
+    "price": 0.011044,
+    "last_seen": "2026-08-09T07:45:22.041597+00:00"
   }
 }

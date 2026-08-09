@@ -1,10 +1,10 @@
 {
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0003445,
-    "last_seen": "2026-08-09T15:22:05.854612+00:00"
+    "exchange": "binance",
+    "price": 3.762e-05,
+    "last_seen": "2026-08-09T16:23:56.264262+00:00"
   }
 }

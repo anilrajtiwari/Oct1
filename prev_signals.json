@@ -1,18 +1,26 @@
 {
-  "WIF/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.1376,
-    "last_seen": "2026-08-09T00:54:30.037973+00:00"
+    "price": 3.265,
+    "last_seen": "2026-08-09T02:58:11.460167+00:00"
   },
-  "MEW/USDT": {
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.3251,
+    "last_seen": "2026-08-09T02:58:11.460167+00:00"
+  },
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0003428,
-    "last_seen": "2026-08-09T00:54:30.037973+00:00"
+    "exchange": "kucoin",
+    "price": 0.03596,
+    "last_seen": "2026-08-09T02:58:11.460167+00:00"
   }
 }

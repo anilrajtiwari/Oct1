@@ -1,1 +1,10 @@
-{}
+{
+  "PENGU/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.00673,
+    "last_seen": "2026-08-10T11:43:53.730783+00:00"
+  }
+}

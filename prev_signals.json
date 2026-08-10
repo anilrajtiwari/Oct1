@@ -2,17 +2,9 @@
   "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.02322,
-    "last_seen": "2026-08-10T20:32:03.052016+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0003388,
-    "last_seen": "2026-08-10T20:32:03.052016+00:00"
+    "price": 0.02422,
+    "last_seen": "2026-08-10T21:32:43.961982+00:00"
   }
 }

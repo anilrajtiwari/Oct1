@@ -1,26 +1,10 @@
 {
-  "PEPE/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 2.8051e-06,
-    "last_seen": "2026-08-11T19:55:28.826070+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.02211,
-    "last_seen": "2026-08-11T19:55:28.826070+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.000331,
-    "last_seen": "2026-08-11T19:55:28.826070+00:00"
+    "price": 3.53e-05,
+    "last_seen": "2026-08-11T20:34:48.681786+00:00"
   }
 }

@@ -1,26 +1,10 @@
 {
-  "WIF/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.1405,
-    "last_seen": "2026-08-10T23:26:25.147591+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0416,
-    "last_seen": "2026-08-10T23:26:25.147591+00:00"
-  },
-  "MOODENG/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04026,
-    "last_seen": "2026-08-10T23:26:25.147591+00:00"
+    "price": 2.1359e-05,
+    "last_seen": "2026-08-11T00:56:27.122398+00:00"
   }
 }

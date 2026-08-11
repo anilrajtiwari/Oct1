@@ -1,18 +1,1 @@
-{
-  "PEPE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 2.7963e-06,
-    "last_seen": "2026-08-11T16:46:40.064504+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0003263,
-    "last_seen": "2026-08-11T16:46:40.064504+00:00"
-  }
-}
+{}

@@ -1,10 +1,10 @@
 {
-  "ACT/USDT": {
-    "direction": "LONG",
+  "MEW/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.010415,
-    "last_seen": "2026-08-12T03:56:00.118855+00:00"
+    "exchange": "okx",
+    "price": 0.0003328,
+    "last_seen": "2026-08-12T05:24:13.566632+00:00"
   }
 }

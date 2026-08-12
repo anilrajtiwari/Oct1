@@ -1,34 +1,18 @@
 {
-  "KOMA/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.46,
+    "last_seen": "2026-08-12T01:03:06.090994+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01322,
-    "last_seen": "2026-08-11T23:30:18.596144+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0007906,
-    "last_seen": "2026-08-11T23:30:18.596144+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.04116,
-    "last_seen": "2026-08-11T23:30:18.596144+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.004059,
-    "last_seen": "2026-08-11T23:30:18.596144+00:00"
+    "price": 0.010805,
+    "last_seen": "2026-08-12T01:03:06.090994+00:00"
   }
 }

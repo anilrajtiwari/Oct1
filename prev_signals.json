@@ -1,18 +1,26 @@
 {
-  "CHILLGUY/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01116,
-    "last_seen": "2026-08-12T11:39:37.752642+00:00"
+    "exchange": "kucoin",
+    "price": 2.0939e-05,
+    "last_seen": "2026-08-12T12:43:55.457102+00:00"
   },
-  "BRETT/USDT": {
-    "direction": "LONG",
+  "PNUT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.003997,
-    "last_seen": "2026-08-12T11:39:37.752642+00:00"
+    "price": 0.04074,
+    "last_seen": "2026-08-12T12:43:55.457102+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.03759,
+    "last_seen": "2026-08-12T12:43:55.457102+00:00"
   }
 }

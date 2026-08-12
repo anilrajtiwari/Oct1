@@ -1,1 +1,18 @@
-{}
+{
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01116,
+    "last_seen": "2026-08-12T11:39:37.752642+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.003997,
+    "last_seen": "2026-08-12T11:39:37.752642+00:00"
+  }
+}

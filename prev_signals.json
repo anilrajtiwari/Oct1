@@ -1,10 +1,18 @@
 {
-  "MOODENG/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "kucoin",
-    "price": 0.03763,
-    "last_seen": "2026-08-12T14:14:19.983356+00:00"
+    "price": 0.04031,
+    "last_seen": "2026-08-12T15:51:03.030214+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.1329,
+    "last_seen": "2026-08-12T15:51:03.030214+00:00"
   }
 }

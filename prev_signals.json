@@ -1,1 +1,10 @@
-{}
+{
+  "FLOKI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 2.0267e-05,
+    "last_seen": "2026-08-13T17:50:20.218086+00:00"
+  }
+}

@@ -1,10 +1,18 @@
 {
-  "SHIB/USDT": {
-    "direction": "LONG",
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 4.395e-06,
-    "last_seen": "2026-08-13T22:31:31.330065+00:00"
+    "price": 0.010922,
+    "last_seen": "2026-08-13T23:31:42.129701+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01571,
+    "last_seen": "2026-08-13T23:31:42.129701+00:00"
   }
 }

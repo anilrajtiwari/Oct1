@@ -1,10 +1,18 @@
 {
-  "SHIB/USDT": {
+  "1000RATS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.03777,
+    "last_seen": "2026-08-13T21:35:24.858397+00:00"
+  },
+  "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 4.437e-06,
-    "last_seen": "2026-08-13T20:31:09.471125+00:00"
+    "price": 0.01809,
+    "last_seen": "2026-08-13T21:35:24.858397+00:00"
   }
 }

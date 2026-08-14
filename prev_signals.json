@@ -1,18 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.01634,
-    "last_seen": "2026-08-14T15:42:25.744559+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
+  "WIF/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0175,
-    "last_seen": "2026-08-14T15:42:25.744559+00:00"
+    "exchange": "kucoin",
+    "price": 0.1383,
+    "last_seen": "2026-08-14T16:41:03.204102+00:00"
   }
 }

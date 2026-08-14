@@ -1,34 +1,10 @@
 {
-  "MEME/USDT": {
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 2,
+    "count": 1,
     "exchange": "kucoin",
-    "price": 0.0004773,
-    "last_seen": "2026-08-14T09:55:48.561945+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.006698,
-    "last_seen": "2026-08-14T09:55:48.561945+00:00"
-  },
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.421e-05,
-    "last_seen": "2026-08-14T09:55:48.561945+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01568,
-    "last_seen": "2026-08-14T09:55:48.561945+00:00"
+    "price": 0.0425,
+    "last_seen": "2026-08-14T10:49:37.578055+00:00"
   }
 }

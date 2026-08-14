@@ -1,18 +1,18 @@
 {
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.03998,
-    "last_seen": "2026-08-14T14:09:15.698713+00:00"
-  },
   "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.01634,
+    "last_seen": "2026-08-14T15:42:25.744559+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01622,
-    "last_seen": "2026-08-14T14:09:15.698713+00:00"
+    "exchange": "okx",
+    "price": 0.0175,
+    "last_seen": "2026-08-14T15:42:25.744559+00:00"
   }
 }

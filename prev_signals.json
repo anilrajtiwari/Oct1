@@ -1,10 +1,10 @@
 {
-  "1000RATS/USDT": {
-    "direction": "SHORT",
+  "MUBARAK/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04074,
-    "last_seen": "2026-08-15T14:13:21.568935+00:00"
+    "exchange": "okx",
+    "price": 0.016317,
+    "last_seen": "2026-08-15T15:11:24.152061+00:00"
   }
 }

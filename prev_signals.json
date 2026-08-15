@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "LONG",
+  "BRETT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.016317,
-    "last_seen": "2026-08-15T15:11:24.152061+00:00"
+    "price": 0.003994,
+    "last_seen": "2026-08-15T16:13:08.183623+00:00"
   }
 }

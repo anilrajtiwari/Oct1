@@ -1,10 +1,18 @@
 {
-  "BRETT/USDT": {
-    "direction": "SHORT",
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01653,
+    "last_seen": "2026-08-15T05:17:18.664081+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.003878,
-    "last_seen": "2026-08-15T04:20:46.836780+00:00"
+    "price": 0.002385,
+    "last_seen": "2026-08-15T05:17:18.664081+00:00"
   }
 }

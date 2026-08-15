@@ -1,10 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "LONG",
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01649,
-    "last_seen": "2026-08-15T07:22:24.827657+00:00"
+    "price": 0.007717,
+    "last_seen": "2026-08-15T08:16:30.519007+00:00"
   }
 }

@@ -1,18 +1,1 @@
-{
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 2.6424e-06,
-    "last_seen": "2026-08-15T11:11:31.131569+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.010531,
-    "last_seen": "2026-08-15T11:11:31.131569+00:00"
-  }
-}
+{}

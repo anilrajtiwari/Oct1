@@ -1,1 +1,18 @@
-{}
+{
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.007492,
+    "last_seen": "2026-08-15T13:23:37.054508+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.003959,
+    "last_seen": "2026-08-15T13:23:37.054508+00:00"
+  }
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0008442,
+    "last_seen": "2026-08-16T00:40:32.018151+00:00"
+  }
+}

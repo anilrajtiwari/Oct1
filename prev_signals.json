@@ -1,10 +1,10 @@
 {
-  "SHIB/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 4.429e-06,
-    "last_seen": "2026-08-17T06:33:25.612258+00:00"
+    "exchange": "kucoin",
+    "price": 2.042e-05,
+    "last_seen": "2026-08-17T07:43:59.850518+00:00"
   }
 }

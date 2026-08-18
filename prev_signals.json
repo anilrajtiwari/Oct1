@@ -1,10 +1,10 @@
 {
-  "1000RATS/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.05122,
-    "last_seen": "2026-08-18T16:20:01.289510+00:00"
+    "exchange": "mexc",
+    "price": 0.01819,
+    "last_seen": "2026-08-18T17:18:58.010881+00:00"
   }
 }

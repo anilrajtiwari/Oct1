@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 2.5747e-06,
-    "last_seen": "2026-08-18T15:21:41.042584+00:00"
-  },
-  "PIPPIN/USDT": {
+  "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01799,
-    "last_seen": "2026-08-18T15:21:41.042584+00:00"
+    "price": 0.05122,
+    "last_seen": "2026-08-18T16:20:01.289510+00:00"
   }
 }

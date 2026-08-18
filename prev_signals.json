@@ -1,10 +1,18 @@
 {
-  "CHILLGUY/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.011263,
-    "last_seen": "2026-08-18T14:23:16.766846+00:00"
+    "price": 2.5747e-06,
+    "last_seen": "2026-08-18T15:21:41.042584+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01799,
+    "last_seen": "2026-08-18T15:21:41.042584+00:00"
   }
 }

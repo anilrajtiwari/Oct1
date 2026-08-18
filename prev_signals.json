@@ -1,26 +1,10 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01088,
-    "last_seen": "2026-08-18T11:16:42.887289+00:00"
-  },
   "BRETT/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0037,
-    "last_seen": "2026-08-18T11:16:42.887289+00:00"
-  },
-  "VINE/USDT": {
-    "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.006351,
-    "last_seen": "2026-08-18T11:16:42.887289+00:00"
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.003696,
+    "last_seen": "2026-08-18T12:23:57.736832+00:00"
   }
 }

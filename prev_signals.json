@@ -1,1 +1,18 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.07058,
+    "last_seen": "2026-08-19T07:30:43.131537+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.002293,
+    "last_seen": "2026-08-19T07:30:43.131537+00:00"
+  }
+}

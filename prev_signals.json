@@ -1,18 +1,18 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.584e-05,
-    "last_seen": "2026-08-19T20:16:01.951238+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "SHORT",
+  "WIF/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.003709,
-    "last_seen": "2026-08-19T20:16:01.951238+00:00"
+    "price": 0.1366,
+    "last_seen": "2026-08-19T21:17:18.544804+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04333,
+    "last_seen": "2026-08-19T21:17:18.544804+00:00"
   }
 }

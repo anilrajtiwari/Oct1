@@ -1,1 +1,10 @@
-{}
+{
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.007609,
+    "last_seen": "2026-08-19T10:19:09.925025+00:00"
+  }
+}

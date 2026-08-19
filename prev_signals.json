@@ -1,18 +1,1 @@
-{
-  "WIF/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1366,
-    "last_seen": "2026-08-19T21:17:18.544804+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.04333,
-    "last_seen": "2026-08-19T21:17:18.544804+00:00"
-  }
-}
+{}

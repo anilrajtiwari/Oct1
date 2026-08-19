@@ -1,26 +1,18 @@
 {
-  "1000RATS/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.04101,
-    "last_seen": "2026-08-19T19:18:48.098860+00:00"
+    "exchange": "mexc",
+    "price": 3.584e-05,
+    "last_seen": "2026-08-19T20:16:01.951238+00:00"
   },
-  "BOME/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0008694,
-    "last_seen": "2026-08-19T19:18:48.098860+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.006301,
-    "last_seen": "2026-08-19T19:18:48.098860+00:00"
+    "exchange": "kucoin",
+    "price": 0.003709,
+    "last_seen": "2026-08-19T20:16:01.951238+00:00"
   }
 }

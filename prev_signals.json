@@ -1,1 +1,18 @@
-{}
+{
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01851,
+    "last_seen": "2026-08-19T17:18:33.127569+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.04082,
+    "last_seen": "2026-08-19T17:18:33.127569+00:00"
+  }
+}

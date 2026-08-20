@@ -1,10 +1,18 @@
 {
-  "PEOPLE/USDT": {
+  "SHIB/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.00838,
-    "last_seen": "2026-08-20T13:39:14.894983+00:00"
+    "exchange": "mexc",
+    "price": 4.859e-06,
+    "last_seen": "2026-08-20T14:26:00.633679+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.006939,
+    "last_seen": "2026-08-20T14:26:00.633679+00:00"
   }
 }

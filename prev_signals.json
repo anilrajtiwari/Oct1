@@ -1,1 +1,42 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.1757e-06,
+    "last_seen": "2026-08-20T22:17:15.431382+00:00"
+  },
+  "BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "okx",
+    "price": 2.629e-06,
+    "last_seen": "2026-08-20T22:17:15.431382+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 2.316e-05,
+    "last_seen": "2026-08-20T22:17:15.431382+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04291,
+    "last_seen": "2026-08-20T22:17:15.431382+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04646,
+    "last_seen": "2026-08-20T22:17:15.431382+00:00"
+  }
+}

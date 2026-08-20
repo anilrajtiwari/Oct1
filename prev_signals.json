@@ -1,18 +1,10 @@
 {
-  "DOGE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.07509,
-    "last_seen": "2026-08-20T07:33:42.276955+00:00"
-  },
-  "CHILLGUY/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.01141,
-    "last_seen": "2026-08-20T07:33:42.276955+00:00"
+    "price": 3.782e-05,
+    "last_seen": "2026-08-20T08:26:08.951538+00:00"
   }
 }

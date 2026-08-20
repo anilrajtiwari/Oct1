@@ -1,26 +1,26 @@
 {
-  "DOGE/USDT": {
+  "WIF/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.1468,
+    "last_seen": "2026-08-20T02:11:32.118165+00:00"
+  },
+  "SPX/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.07536,
-    "last_seen": "2026-08-20T00:38:26.855412+00:00"
+    "price": 0.3673,
+    "last_seen": "2026-08-20T02:11:32.118165+00:00"
   },
-  "1000BONK/USDT": {
+  "MEW/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.002487,
-    "last_seen": "2026-08-20T00:38:26.855412+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0437,
-    "last_seen": "2026-08-20T00:38:26.855412+00:00"
+    "price": 0.0003462,
+    "last_seen": "2026-08-20T02:11:32.118165+00:00"
   }
 }

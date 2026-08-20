@@ -1,26 +1,18 @@
 {
-  "WIF/USDT": {
+  "ORDI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.1468,
-    "last_seen": "2026-08-20T02:11:32.118165+00:00"
+    "price": 3.624,
+    "last_seen": "2026-08-20T03:38:58.164934+00:00"
   },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.3673,
-    "last_seen": "2026-08-20T02:11:32.118165+00:00"
-  },
-  "MEW/USDT": {
+  "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.0003462,
-    "last_seen": "2026-08-20T02:11:32.118165+00:00"
+    "price": 0.006424,
+    "last_seen": "2026-08-20T03:38:58.164934+00:00"
   }
 }

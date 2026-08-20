@@ -1,34 +1,26 @@
 {
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.04628,
-    "last_seen": "2026-08-20T18:23:36.194947+00:00"
-  },
   "WIF/USDT": {
     "direction": "LONG",
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.1617,
+    "last_seen": "2026-08-20T19:24:16.742578+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.1606,
-    "last_seen": "2026-08-20T18:23:36.194947+00:00"
+    "exchange": "kucoin",
+    "price": 0.000858,
+    "last_seen": "2026-08-20T19:24:16.742578+00:00"
   },
-  "FLOKI/USDT": {
+  "SPX/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 2.17e-05,
-    "last_seen": "2026-08-20T18:23:36.194947+00:00"
-  },
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.799e-05,
-    "last_seen": "2026-08-20T18:23:36.194947+00:00"
+    "price": 0.3404,
+    "last_seen": "2026-08-20T19:24:16.742578+00:00"
   }
 }

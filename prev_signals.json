@@ -1,10 +1,18 @@
 {
-  "MEW/USDT": {
+  "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
+    "exchange": "okx",
+    "price": 0.07509,
+    "last_seen": "2026-08-20T07:33:42.276955+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "mexc",
-    "price": 0.0003468,
-    "last_seen": "2026-08-20T06:27:05.450920+00:00"
+    "price": 0.01141,
+    "last_seen": "2026-08-20T07:33:42.276955+00:00"
   }
 }

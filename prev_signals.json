@@ -1,1 +1,18 @@
-{}
+{
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.04526,
+    "last_seen": "2026-08-20T12:25:59.698256+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.3817,
+    "last_seen": "2026-08-20T12:25:59.698256+00:00"
+  }
+}

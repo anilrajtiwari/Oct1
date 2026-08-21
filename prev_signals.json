@@ -2,33 +2,9 @@
   "DOGE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.07495,
-    "last_seen": "2026-08-21T02:18:17.218935+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0008641,
-    "last_seen": "2026-08-21T02:18:17.218935+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.3657,
-    "last_seen": "2026-08-21T02:18:17.218935+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.002466,
-    "last_seen": "2026-08-21T02:18:17.218935+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.08204,
+    "last_seen": "2026-08-21T03:42:27.044576+00:00"
   }
 }

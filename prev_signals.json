@@ -1,18 +1,42 @@
 {
   "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.008048,
-    "last_seen": "2026-08-20T23:16:59.214959+00:00"
-  },
-  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
+    "exchange": "kucoin",
+    "price": 0.007964,
+    "last_seen": "2026-08-21T00:40:38.111258+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.851e-05,
+    "last_seen": "2026-08-21T00:40:38.111258+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.007137,
+    "last_seen": "2026-08-21T00:40:38.111258+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0003814,
+    "last_seen": "2026-08-21T00:40:38.111258+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "bitget",
-    "price": 0.01923,
-    "last_seen": "2026-08-20T23:16:59.214959+00:00"
+    "price": 0.001814,
+    "last_seen": "2026-08-21T00:40:38.111258+00:00"
   }
 }

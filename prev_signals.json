@@ -1,18 +1,34 @@
 {
-  "PIPPIN/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.6721e-06,
+    "last_seen": "2026-08-21T14:25:12.366913+00:00"
+  },
+  "WIF/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01851,
-    "last_seen": "2026-08-21T13:38:10.127831+00:00"
+    "price": 0.1567,
+    "last_seen": "2026-08-21T14:25:12.366913+00:00"
   },
-  "BRETT/USDT": {
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.007017,
+    "last_seen": "2026-08-21T14:25:12.366913+00:00"
+  },
+  "SPX/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.005219,
-    "last_seen": "2026-08-21T13:38:10.127831+00:00"
+    "exchange": "kucoin",
+    "price": 0.379,
+    "last_seen": "2026-08-21T14:25:12.366913+00:00"
   }
 }

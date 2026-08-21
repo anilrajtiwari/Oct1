@@ -1,18 +1,10 @@
 {
-  "WIF/USDT": {
+  "1000CAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.1839,
-    "last_seen": "2026-08-21T15:24:13.063621+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.3823,
-    "last_seen": "2026-08-21T15:24:13.063621+00:00"
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.001904,
+    "last_seen": "2026-08-21T16:20:59.508685+00:00"
   }
 }

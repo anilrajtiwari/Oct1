@@ -1,26 +1,26 @@
 {
-  "DOGE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0802,
-    "last_seen": "2026-08-21T22:13:47.740410+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.04855,
-    "last_seen": "2026-08-21T22:13:47.740410+00:00"
-  },
   "MEW/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.0004178,
+    "last_seen": "2026-08-21T23:15:07.625440+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.02074,
+    "last_seen": "2026-08-21T23:15:07.625440+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0004147,
-    "last_seen": "2026-08-21T22:13:47.740410+00:00"
+    "price": 0.007126,
+    "last_seen": "2026-08-21T23:15:07.625440+00:00"
   }
 }

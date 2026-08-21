@@ -1,26 +1,10 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.0124,
-    "last_seen": "2026-08-21T06:28:21.116577+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.3651,
-    "last_seen": "2026-08-21T06:28:21.116577+00:00"
-  },
-  "MEW/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.000391,
-    "last_seen": "2026-08-21T06:28:21.116577+00:00"
+    "price": 2.938e-06,
+    "last_seen": "2026-08-21T07:35:25.532391+00:00"
   }
 }

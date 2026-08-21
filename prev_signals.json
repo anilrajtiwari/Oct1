@@ -2,9 +2,49 @@
   "1000CAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 0.001904,
-    "last_seen": "2026-08-21T16:20:59.508685+00:00"
+    "price": 0.001902,
+    "last_seen": "2026-08-21T17:20:15.463053+00:00"
+  },
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.114e-05,
+    "last_seen": "2026-08-21T17:20:15.463053+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0138,
+    "last_seen": "2026-08-21T17:20:15.463053+00:00"
+  },
+  "PENGU/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.00828,
+    "last_seen": "2026-08-21T17:20:15.463053+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05395,
+    "last_seen": "2026-08-21T17:20:15.463053+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04793,
+    "last_seen": "2026-08-21T17:20:15.463053+00:00"
   }
 }

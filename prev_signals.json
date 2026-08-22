@@ -1,26 +1,42 @@
 {
-  "WIF/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.1858,
-    "last_seen": "2026-08-22T20:12:30.906838+00:00"
+    "price": 3.8539e-06,
+    "last_seen": "2026-08-22T21:13:17.868998+00:00"
   },
-  "PENGU/USDT": {
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.18501,
+    "last_seen": "2026-08-22T21:13:17.868998+00:00"
+  },
+  "AIXBT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.008253,
-    "last_seen": "2026-08-22T20:12:30.906838+00:00"
+    "price": 0.02109,
+    "last_seen": "2026-08-22T21:13:17.868998+00:00"
   },
-  "1000CAT/USDT": {
+  "MEW/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.002009,
-    "last_seen": "2026-08-22T20:12:30.906838+00:00"
+    "exchange": "mexc",
+    "price": 0.0004178,
+    "last_seen": "2026-08-22T21:13:17.868998+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.011232,
+    "last_seen": "2026-08-22T21:13:17.868998+00:00"
   }
 }

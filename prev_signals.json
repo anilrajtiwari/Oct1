@@ -1,18 +1,26 @@
 {
-  "PEPE/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 4.111e-06,
-    "last_seen": "2026-08-22T19:16:32.216170+00:00"
+    "exchange": "kucoin",
+    "price": 0.1858,
+    "last_seen": "2026-08-22T20:12:30.906838+00:00"
   },
-  "PNUT/USDT": {
+  "PENGU/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.05334,
-    "last_seen": "2026-08-22T19:16:32.216170+00:00"
+    "price": 0.008253,
+    "last_seen": "2026-08-22T20:12:30.906838+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.002009,
+    "last_seen": "2026-08-22T20:12:30.906838+00:00"
   }
 }

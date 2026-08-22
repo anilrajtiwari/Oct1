@@ -2,41 +2,25 @@
   "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 3.8687e-06,
+    "last_seen": "2026-08-22T22:12:11.299061+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 3.8539e-06,
-    "last_seen": "2026-08-22T21:13:17.868998+00:00"
+    "price": 0.012738,
+    "last_seen": "2026-08-22T22:12:11.299061+00:00"
   },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.18501,
-    "last_seen": "2026-08-22T21:13:17.868998+00:00"
-  },
-  "AIXBT/USDT": {
+  "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.02109,
-    "last_seen": "2026-08-22T21:13:17.868998+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0004178,
-    "last_seen": "2026-08-22T21:13:17.868998+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.011232,
-    "last_seen": "2026-08-22T21:13:17.868998+00:00"
+    "price": 0.008425,
+    "last_seen": "2026-08-22T22:12:11.299061+00:00"
   }
 }

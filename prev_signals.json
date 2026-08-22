@@ -1,18 +1,18 @@
 {
-  "WIF/USDT": {
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.2011,
-    "last_seen": "2026-08-22T00:38:29.980714+00:00"
+    "exchange": "kucoin",
+    "price": 3.2047e-06,
+    "last_seen": "2026-08-22T02:09:41.757342+00:00"
   },
-  "MOODENG/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.04867,
-    "last_seen": "2026-08-22T00:38:29.980714+00:00"
+    "price": 0.0005839,
+    "last_seen": "2026-08-22T02:09:41.757342+00:00"
   }
 }

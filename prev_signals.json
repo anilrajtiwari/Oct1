@@ -1,18 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.01838,
-    "last_seen": "2026-08-23T03:42:15.615436+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "LONG",
+  "PENGU/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0004079,
-    "last_seen": "2026-08-23T03:42:15.615436+00:00"
+    "exchange": "kucoin",
+    "price": 0.009168,
+    "last_seen": "2026-08-23T04:27:57.869332+00:00"
   }
 }

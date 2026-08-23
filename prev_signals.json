@@ -1,10 +1,26 @@
 {
-  "MEW/USDT": {
+  "BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.0004052,
-    "last_seen": "2026-08-23T05:20:58.021587+00:00"
+    "price": 3.058e-06,
+    "last_seen": "2026-08-23T06:23:45.254799+00:00"
+  },
+  "FLOKI/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 2.8011e-05,
+    "last_seen": "2026-08-23T06:23:45.254799+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.000575,
+    "last_seen": "2026-08-23T06:23:45.254799+00:00"
   }
 }

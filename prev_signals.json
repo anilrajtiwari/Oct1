@@ -2,17 +2,9 @@
   "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.0011445,
-    "last_seen": "2026-08-23T14:14:13.724362+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1908,
-    "last_seen": "2026-08-23T14:14:13.724362+00:00"
+    "price": 0.0011334,
+    "last_seen": "2026-08-23T15:13:23.595264+00:00"
   }
 }

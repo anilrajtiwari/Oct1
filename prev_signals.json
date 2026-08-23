@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.073,
-    "last_seen": "2026-08-23T11:12:52.313688+00:00"
-  },
-  "PEOPLE/USDT": {
+  "POPCAT/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.010092,
-    "last_seen": "2026-08-23T11:12:52.313688+00:00"
+    "price": 0.05691,
+    "last_seen": "2026-08-23T12:19:20.890036+00:00"
   }
 }

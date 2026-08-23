@@ -1,26 +1,26 @@
 {
-  "BONK/USDT": {
-    "direction": "LONG",
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 3.058e-06,
-    "last_seen": "2026-08-23T06:23:45.254799+00:00"
+    "exchange": "mexc",
+    "price": 0.01133,
+    "last_seen": "2026-08-23T07:26:04.419492+00:00"
   },
-  "FLOKI/USDT": {
+  "AIXBT/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 2.8011e-05,
-    "last_seen": "2026-08-23T06:23:45.254799+00:00"
+    "price": 0.02154,
+    "last_seen": "2026-08-23T07:26:04.419492+00:00"
   },
-  "MEME/USDT": {
+  "MEW/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.000575,
-    "last_seen": "2026-08-23T06:23:45.254799+00:00"
+    "price": 0.00042,
+    "last_seen": "2026-08-23T07:26:04.419492+00:00"
   }
 }

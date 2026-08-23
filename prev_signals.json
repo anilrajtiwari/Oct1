@@ -1,18 +1,10 @@
 {
-  "KOMA/USDT": {
+  "PNUT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01211,
-    "last_seen": "2026-08-23T18:15:23.369516+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04534,
-    "last_seen": "2026-08-23T18:15:23.369516+00:00"
+    "exchange": "mexc",
+    "price": 0.05395,
+    "last_seen": "2026-08-23T19:15:55.976386+00:00"
   }
 }

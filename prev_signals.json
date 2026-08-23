@@ -1,18 +1,18 @@
 {
-  "SHIB/USDT": {
-    "direction": "LONG",
+  "BAN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 5.582e-06,
-    "last_seen": "2026-08-23T10:14:06.011834+00:00"
+    "price": 0.073,
+    "last_seen": "2026-08-23T11:12:52.313688+00:00"
   },
-  "AIXBT/USDT": {
+  "PEOPLE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.02161,
-    "last_seen": "2026-08-23T10:14:06.011834+00:00"
+    "price": 0.010092,
+    "last_seen": "2026-08-23T11:12:52.313688+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "BOME/USDT": {
+  "MEW/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
+    "confidence": 1.0,
+    "count": 1,
     "exchange": "kucoin",
-    "price": 0.0011334,
-    "last_seen": "2026-08-23T15:13:23.595264+00:00"
+    "price": 0.0004259,
+    "last_seen": "2026-08-23T16:13:56.503863+00:00"
   }
 }

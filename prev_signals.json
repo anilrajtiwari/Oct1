@@ -1,10 +1,18 @@
 {
-  "FLOKI/USDT": {
+  "SHIB/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
-    "count": 2,
+    "confidence": 0.75,
+    "count": 1,
     "exchange": "kucoin",
-    "price": 2.769e-05,
-    "last_seen": "2026-08-23T09:18:46.963547+00:00"
+    "price": 5.582e-06,
+    "last_seen": "2026-08-23T10:14:06.011834+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.02161,
+    "last_seen": "2026-08-23T10:14:06.011834+00:00"
   }
 }

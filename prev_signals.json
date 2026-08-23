@@ -1,34 +1,10 @@
 {
-  "AIXBT/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 1.0,
     "count": 2,
     "exchange": "kucoin",
-    "price": 0.02164,
-    "last_seen": "2026-08-23T08:18:45.996871+00:00"
-  },
-  "PEPE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 4.2471e-06,
-    "last_seen": "2026-08-23T08:18:45.996871+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 2.868e-05,
-    "last_seen": "2026-08-23T08:18:45.996871+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.07319,
-    "last_seen": "2026-08-23T08:18:45.996871+00:00"
+    "price": 2.769e-05,
+    "last_seen": "2026-08-23T09:18:46.963547+00:00"
   }
 }

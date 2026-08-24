@@ -1,18 +1,1 @@
-{
-  "BAN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.07099,
-    "last_seen": "2026-08-24T11:19:05.080216+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.02312,
-    "last_seen": "2026-08-24T11:19:05.080216+00:00"
-  }
-}
+{}

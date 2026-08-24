@@ -1,10 +1,10 @@
 {
-  "BAN/USDT": {
+  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.07217,
-    "last_seen": "2026-08-24T18:24:55.643472+00:00"
+    "exchange": "kucoin",
+    "price": 4.079e-05,
+    "last_seen": "2026-08-24T19:22:25.320654+00:00"
   }
 }

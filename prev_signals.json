@@ -1,26 +1,18 @@
 {
-  "BOME/USDT": {
+  "PENGU/USDT": {
     "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.009691,
+    "last_seen": "2026-08-24T07:50:43.783643+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0011516,
-    "last_seen": "2026-08-24T06:36:21.148320+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.05185,
-    "last_seen": "2026-08-24T06:36:21.148320+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0004266,
-    "last_seen": "2026-08-24T06:36:21.148320+00:00"
+    "price": 0.01987,
+    "last_seen": "2026-08-24T07:50:43.783643+00:00"
   }
 }

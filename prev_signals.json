@@ -1,26 +1,10 @@
 {
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0011064,
-    "last_seen": "2026-08-24T17:23:26.882149+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.009823,
-    "last_seen": "2026-08-24T17:23:26.882149+00:00"
-  },
-  "ACT/USDT": {
+  "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01064,
-    "last_seen": "2026-08-24T17:23:26.882149+00:00"
+    "exchange": "mexc",
+    "price": 0.07217,
+    "last_seen": "2026-08-24T18:24:55.643472+00:00"
   }
 }

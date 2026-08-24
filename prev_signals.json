@@ -1,26 +1,10 @@
 {
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.0012017,
-    "last_seen": "2026-08-24T21:20:08.916179+00:00"
-  },
-  "MEME/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0005429,
-    "last_seen": "2026-08-24T21:20:08.916179+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.07201,
-    "last_seen": "2026-08-24T21:20:08.916179+00:00"
+    "exchange": "okx",
+    "price": 0.08997,
+    "last_seen": "2026-08-24T22:15:58.636963+00:00"
   }
 }

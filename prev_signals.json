@@ -1,1 +1,18 @@
-{}
+{
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.5132,
+    "last_seen": "2026-08-25T23:17:20.241349+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0004147,
+    "last_seen": "2026-08-25T23:17:20.241349+00:00"
+  }
+}

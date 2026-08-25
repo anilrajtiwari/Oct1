@@ -1,10 +1,10 @@
 {
-  "FLOKI/USDT": {
-    "direction": "LONG",
+  "KOMA/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 2.6981e-05,
-    "last_seen": "2026-08-25T03:40:32.561342+00:00"
+    "exchange": "mexc",
+    "price": 0.012819,
+    "last_seen": "2026-08-25T04:30:17.588379+00:00"
   }
 }

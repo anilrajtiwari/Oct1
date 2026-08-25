@@ -1,34 +1,10 @@
 {
-  "WIF/USDT": {
+  "BOME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.1982,
-    "last_seen": "2026-08-24T23:14:55.127022+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.009866,
-    "last_seen": "2026-08-24T23:14:55.127022+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.4534,
-    "last_seen": "2026-08-24T23:14:55.127022+00:00"
-  },
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.02419,
-    "last_seen": "2026-08-24T23:14:55.127022+00:00"
+    "exchange": "kucoin",
+    "price": 0.0011967,
+    "last_seen": "2026-08-25T00:39:48.080614+00:00"
   }
 }

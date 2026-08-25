@@ -1,1 +1,10 @@
-{}
+{
+  "WIF/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.2109,
+    "last_seen": "2026-08-25T09:25:34.493059+00:00"
+  }
+}

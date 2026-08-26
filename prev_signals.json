@@ -1,18 +1,26 @@
 {
-  "BAN/USDT": {
-    "direction": "LONG",
+  "SHIB/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.07411,
-    "last_seen": "2026-08-26T14:35:15.366286+00:00"
+    "exchange": "mexc",
+    "price": 5.173e-06,
+    "last_seen": "2026-08-26T16:10:35.317025+00:00"
   },
-  "PEOPLE/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 3.688e-06,
+    "last_seen": "2026-08-26T16:10:35.317025+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.007801,
-    "last_seen": "2026-08-26T14:35:15.366286+00:00"
+    "price": 0.01235,
+    "last_seen": "2026-08-26T16:10:35.317025+00:00"
   }
 }

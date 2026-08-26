@@ -1,26 +1,42 @@
 {
-  "SHIB/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 5.173e-06,
-    "last_seen": "2026-08-26T16:10:35.317025+00:00"
-  },
   "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 3.688e-06,
-    "last_seen": "2026-08-26T16:10:35.317025+00:00"
+    "price": 3.708e-06,
+    "last_seen": "2026-08-26T18:49:54.381047+00:00"
   },
-  "CHILLGUY/USDT": {
+  "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.01235,
-    "last_seen": "2026-08-26T16:10:35.317025+00:00"
+    "price": 0.0010204,
+    "last_seen": "2026-08-26T18:49:54.381047+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.002906,
+    "last_seen": "2026-08-26T18:49:54.381047+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.02066,
+    "last_seen": "2026-08-26T18:49:54.381047+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0004124,
+    "last_seen": "2026-08-26T18:49:54.381047+00:00"
   }
 }

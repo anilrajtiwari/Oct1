@@ -1,10 +1,10 @@
 {
-  "BOME/USDT": {
+  "BRETT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0010348,
-    "last_seen": "2026-08-26T05:24:45.699817+00:00"
+    "exchange": "kucoin",
+    "price": 0.005532,
+    "last_seen": "2026-08-26T06:30:34.815243+00:00"
   }
 }

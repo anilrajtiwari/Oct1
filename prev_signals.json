@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "1000CAT/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0213,
-    "last_seen": "2026-08-26T11:20:27.244407+00:00"
+    "exchange": "bitget",
+    "price": 0.00195,
+    "last_seen": "2026-08-26T12:29:55.304076+00:00"
   }
 }

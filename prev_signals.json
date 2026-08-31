@@ -1,26 +1,10 @@
 {
-  "PNUT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.0509,
-    "last_seen": "2026-08-30T23:01:50.006449+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 2.5221e-05,
-    "last_seen": "2026-08-30T23:01:50.006449+00:00"
-  },
-  "SPX/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.537,
-    "last_seen": "2026-08-30T23:01:50.006449+00:00"
+    "price": 0.008211,
+    "last_seen": "2026-08-31T01:13:04.098007+00:00"
   }
 }

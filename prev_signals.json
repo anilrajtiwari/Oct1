@@ -1,10 +1,26 @@
 {
-  "PEOPLE/USDT": {
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 5.021e-06,
+    "last_seen": "2026-08-31T07:53:42.461011+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0209,
+    "last_seen": "2026-08-31T07:53:42.461011+00:00"
+  },
+  "POPCAT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.008211,
-    "last_seen": "2026-08-31T01:13:04.098007+00:00"
+    "price": 0.05476,
+    "last_seen": "2026-08-31T07:53:42.461011+00:00"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "MEME/USDT": {
+  "PENGU/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0005131,
-    "last_seen": "2026-09-01T21:37:23.773512+00:00"
+    "exchange": "mexc",
+    "price": 0.008459,
+    "last_seen": "2026-09-01T23:41:36.294788+00:00"
   }
 }

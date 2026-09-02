@@ -1,10 +1,26 @@
 {
-  "FARTCOIN/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.1729,
-    "last_seen": "2026-09-02T19:05:54.624545+00:00"
+    "price": 0.196,
+    "last_seen": "2026-09-02T22:09:16.549358+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.01953,
+    "last_seen": "2026-09-02T22:09:16.549358+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.004891,
+    "last_seen": "2026-09-02T22:09:16.549358+00:00"
   }
 }

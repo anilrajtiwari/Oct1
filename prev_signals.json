@@ -1,1 +1,18 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0008815,
+    "last_seen": "2026-09-03T10:22:04.459117+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01962,
+    "last_seen": "2026-09-03T10:22:04.459117+00:00"
+  }
+}

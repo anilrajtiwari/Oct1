@@ -1,26 +1,18 @@
 {
-  "PEPE/USDT": {
+  "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 3.4131e-06,
-    "last_seen": "2026-09-03T21:31:26.444713+00:00"
+    "price": 0.008264,
+    "last_seen": "2026-09-03T23:41:30.875484+00:00"
   },
-  "BOME/USDT": {
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.0009327,
-    "last_seen": "2026-09-03T21:31:26.444713+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
     "exchange": "kucoin",
-    "price": 0.01966,
-    "last_seen": "2026-09-03T21:31:26.444713+00:00"
+    "price": 0.1553,
+    "last_seen": "2026-09-03T23:41:30.875484+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "PENGU/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.008264,
-    "last_seen": "2026-09-03T23:41:30.875484+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1553,
-    "last_seen": "2026-09-03T23:41:30.875484+00:00"
+    "exchange": "bitget",
+    "price": 0.5984,
+    "last_seen": "2026-09-04T01:57:09.241119+00:00"
   }
 }

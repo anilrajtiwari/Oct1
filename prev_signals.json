@@ -1,10 +1,18 @@
 {
-  "CHILLGUY/USDT": {
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.6556,
+    "last_seen": "2026-09-04T11:54:14.621215+00:00"
+  },
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.011083,
-    "last_seen": "2026-09-04T06:45:34.656718+00:00"
+    "price": 0.03973,
+    "last_seen": "2026-09-04T11:54:14.621215+00:00"
   }
 }

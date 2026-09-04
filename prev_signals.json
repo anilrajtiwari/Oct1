@@ -1,1 +1,18 @@
-{}
+{
+  "DOGE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0846,
+    "last_seen": "2026-09-04T18:42:49.960495+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0008217,
+    "last_seen": "2026-09-04T18:42:49.960495+00:00"
+  }
+}

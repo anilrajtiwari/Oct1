@@ -1,18 +1,18 @@
 {
-  "DOGE/USDT": {
-    "direction": "SHORT",
+  "PEPE/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0846,
-    "last_seen": "2026-09-04T18:42:49.960495+00:00"
+    "exchange": "kucoin",
+    "price": 3.7795e-06,
+    "last_seen": "2026-09-04T21:10:18.851174+00:00"
   },
-  "BOME/USDT": {
-    "direction": "SHORT",
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0008217,
-    "last_seen": "2026-09-04T18:42:49.960495+00:00"
+    "exchange": "mexc",
+    "price": 0.16348,
+    "last_seen": "2026-09-04T21:10:18.851174+00:00"
   }
 }

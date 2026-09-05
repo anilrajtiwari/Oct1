@@ -1,18 +1,18 @@
 {
-  "MEME/USDT": {
+  "WIF/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.2115,
+    "last_seen": "2026-09-05T06:33:40.614813+00:00"
+  },
+  "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0005558,
-    "last_seen": "2026-09-05T01:57:37.933601+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
     "exchange": "bitget",
-    "price": 0.06833,
-    "last_seen": "2026-09-05T01:57:37.933601+00:00"
+    "price": 0.1665,
+    "last_seen": "2026-09-05T06:33:40.614813+00:00"
   }
 }

@@ -1,18 +1,10 @@
 {
-  "WIF/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.2087,
-    "last_seen": "2026-09-05T11:03:35.881444+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01196,
-    "last_seen": "2026-09-05T11:03:35.881444+00:00"
+    "price": 0.0005712,
+    "last_seen": "2026-09-05T14:12:57.779689+00:00"
   }
 }

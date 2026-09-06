@@ -1,18 +1,10 @@
 {
-  "CHILLGUY/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01314,
-    "last_seen": "2026-09-06T05:18:45.722742+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0455,
-    "last_seen": "2026-09-06T05:18:45.722742+00:00"
+    "price": 0.0005579,
+    "last_seen": "2026-09-06T09:54:30.619194+00:00"
   }
 }

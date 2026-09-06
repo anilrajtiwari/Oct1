@@ -1,10 +1,18 @@
 {
-  "FLOKI/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 2.602e-05,
-    "last_seen": "2026-09-06T18:45:41.716394+00:00"
+    "exchange": "mexc",
+    "price": 0.01511,
+    "last_seen": "2026-09-06T20:57:55.521378+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.008287,
+    "last_seen": "2026-09-06T20:57:55.521378+00:00"
   }
 }

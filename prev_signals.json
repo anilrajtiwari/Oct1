@@ -1,26 +1,10 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.525e-05,
-    "last_seen": "2026-09-06T13:18:26.551270+00:00"
-  },
-  "FARTCOIN/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.1656,
-    "last_seen": "2026-09-06T13:18:26.551270+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.005484,
-    "last_seen": "2026-09-06T13:18:26.551270+00:00"
+    "price": 0.0005691,
+    "last_seen": "2026-09-06T16:35:18.541573+00:00"
   }
 }

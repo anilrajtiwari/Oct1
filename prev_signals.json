@@ -1,10 +1,10 @@
 {
-  "MEME/USDT": {
+  "FLOKI/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0005691,
-    "last_seen": "2026-09-06T16:35:18.541573+00:00"
+    "exchange": "bitget",
+    "price": 2.602e-05,
+    "last_seen": "2026-09-06T18:45:41.716394+00:00"
   }
 }

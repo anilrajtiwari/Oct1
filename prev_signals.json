@@ -1,18 +1,26 @@
 {
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.737e-05,
-    "last_seen": "2026-09-07T23:10:56.830766+00:00"
-  },
-  "MEW/USDT": {
+  "BAN/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0004383,
-    "last_seen": "2026-09-07T23:10:56.830766+00:00"
+    "exchange": "bitget",
+    "price": 0.0691,
+    "last_seen": "2026-09-08T02:00:40.310099+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01381,
+    "last_seen": "2026-09-08T02:00:40.310099+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.011202,
+    "last_seen": "2026-09-08T02:00:40.310099+00:00"
   }
 }

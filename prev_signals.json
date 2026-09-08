@@ -1,10 +1,10 @@
 {
-  "PENGU/USDT": {
-    "direction": "LONG",
+  "AIXBT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.008184,
-    "last_seen": "2026-09-08T11:58:19.635520+00:00"
+    "exchange": "mexc",
+    "price": 0.02253,
+    "last_seen": "2026-09-08T15:49:15.792089+00:00"
   }
 }

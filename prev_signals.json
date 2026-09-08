@@ -1,26 +1,10 @@
 {
-  "BAN/USDT": {
+  "DOGS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0691,
-    "last_seen": "2026-09-08T02:00:40.310099+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
     "exchange": "mexc",
-    "price": 0.01381,
-    "last_seen": "2026-09-08T02:00:40.310099+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.011202,
-    "last_seen": "2026-09-08T02:00:40.310099+00:00"
+    "price": 4.674e-05,
+    "last_seen": "2026-09-08T06:59:47.639207+00:00"
   }
 }

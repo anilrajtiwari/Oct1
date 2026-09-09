@@ -1,18 +1,18 @@
 {
-  "ORDI/USDT": {
+  "FARTCOIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.1688,
+    "last_seen": "2026-09-09T14:55:10.223870+00:00"
+  },
+  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 4.23,
-    "last_seen": "2026-09-09T10:22:33.590592+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05174,
-    "last_seen": "2026-09-09T10:22:33.590592+00:00"
+    "price": 0.02913,
+    "last_seen": "2026-09-09T14:55:10.223870+00:00"
   }
 }

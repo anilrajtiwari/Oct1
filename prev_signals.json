@@ -1,26 +1,10 @@
 {
-  "SHIB/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 5.296e-06,
-    "last_seen": "2026-09-09T21:23:14.237009+00:00"
-  },
-  "DOGS/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 5.38e-05,
-    "last_seen": "2026-09-09T21:23:14.237009+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.010467,
-    "last_seen": "2026-09-09T21:23:14.237009+00:00"
+    "price": 0.0005632,
+    "last_seen": "2026-09-09T23:40:54.407061+00:00"
   }
 }

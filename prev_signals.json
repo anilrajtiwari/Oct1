@@ -2,33 +2,25 @@
   "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 2.385e-05,
-    "last_seen": "2026-09-10T16:46:09.547210+00:00"
+    "price": 2.411e-05,
+    "last_seen": "2026-09-10T19:21:49.836742+00:00"
   },
   "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.01772,
-    "last_seen": "2026-09-10T16:46:09.547210+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.01764,
+    "last_seen": "2026-09-10T19:21:49.836742+00:00"
   },
-  "BRETT/USDT": {
+  "MEW/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.004735,
-    "last_seen": "2026-09-10T16:46:09.547210+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.009523,
-    "last_seen": "2026-09-10T16:46:09.547210+00:00"
+    "price": 0.0003951,
+    "last_seen": "2026-09-10T19:21:49.836742+00:00"
   }
 }

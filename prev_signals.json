@@ -2,17 +2,9 @@
   "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "mexc",
-    "price": 0.06517,
-    "last_seen": "2026-09-10T07:37:53.374637+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0004006,
-    "last_seen": "2026-09-10T07:37:53.374637+00:00"
+    "price": 0.06389,
+    "last_seen": "2026-09-10T12:29:31.675674+00:00"
   }
 }

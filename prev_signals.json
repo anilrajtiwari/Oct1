@@ -1,26 +1,10 @@
 {
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.98e-05,
-    "last_seen": "2026-09-11T10:12:36.995669+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01235,
-    "last_seen": "2026-09-11T10:12:36.995669+00:00"
-  },
   "FARTCOIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1435,
-    "last_seen": "2026-09-11T10:12:36.995669+00:00"
+    "count": 2,
+    "exchange": "okx",
+    "price": 0.1483,
+    "last_seen": "2026-09-11T14:42:37.499809+00:00"
   }
 }

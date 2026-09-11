@@ -1,18 +1,10 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.011922,
-    "last_seen": "2026-09-11T20:34:47.109631+00:00"
-  },
-  "BOME/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.00085,
-    "last_seen": "2026-09-11T20:34:47.109631+00:00"
+    "exchange": "kucoin",
+    "price": 0.4841,
+    "last_seen": "2026-09-11T22:53:57.799083+00:00"
   }
 }

@@ -1,10 +1,1 @@
-{
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 0.1483,
-    "last_seen": "2026-09-11T14:42:37.499809+00:00"
-  }
-}
+{}

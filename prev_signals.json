@@ -1,10 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "LONG",
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 3.4604e-06,
-    "last_seen": "2026-09-13T07:14:24.418828+00:00"
+    "exchange": "bitget",
+    "price": 0.01242,
+    "last_seen": "2026-09-13T12:56:54.888614+00:00"
   }
 }

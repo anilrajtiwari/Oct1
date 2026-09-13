@@ -1,26 +1,10 @@
 {
-  "SHIB/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 5.242e-06,
-    "last_seen": "2026-09-13T21:56:31.926176+00:00"
-  },
   "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "bitget",
-    "price": 0.000544,
-    "last_seen": "2026-09-13T21:56:31.926176+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.004864,
-    "last_seen": "2026-09-13T21:56:31.926176+00:00"
+    "price": 0.000531,
+    "last_seen": "2026-09-13T23:47:14.257090+00:00"
   }
 }

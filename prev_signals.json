@@ -1,1 +1,18 @@
-{}
+{
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.02955,
+    "last_seen": "2026-09-14T20:02:47.172490+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.04768,
+    "last_seen": "2026-09-14T20:02:47.172490+00:00"
+  }
+}

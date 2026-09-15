@@ -1,1 +1,10 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 3.3745e-06,
+    "last_seen": "2026-09-15T02:24:28.344048+00:00"
+  }
+}

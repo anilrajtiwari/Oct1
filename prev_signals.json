@@ -1,18 +1,10 @@
 {
-  "FLOKI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 2.411e-05,
-    "last_seen": "2026-09-15T08:10:08.854547+00:00"
-  },
-  "ORDI/USDT": {
+  "1000RATS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 4.054,
-    "last_seen": "2026-09-15T08:10:08.854547+00:00"
+    "exchange": "kucoin",
+    "price": 0.04021,
+    "last_seen": "2026-09-15T13:59:18.048979+00:00"
   }
 }

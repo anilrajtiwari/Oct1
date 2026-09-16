@@ -1,26 +1,26 @@
 {
-  "MEME/USDT": {
+  "1000RATS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0005045,
-    "last_seen": "2026-09-16T08:03:35.816201+00:00"
+    "exchange": "mexc",
+    "price": 0.03998,
+    "last_seen": "2026-09-16T13:52:16.048651+00:00"
   },
-  "DOGS/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 5.108e-05,
-    "last_seen": "2026-09-16T08:03:35.816201+00:00"
-  },
-  "1000RATS/USDT": {
+  "PEPE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04217,
-    "last_seen": "2026-09-16T08:03:35.816201+00:00"
+    "exchange": "okx",
+    "price": 3.36e-06,
+    "last_seen": "2026-09-16T13:52:16.048651+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.06721,
+    "last_seen": "2026-09-16T13:52:16.048651+00:00"
   }
 }

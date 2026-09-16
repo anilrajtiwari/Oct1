@@ -1,34 +1,26 @@
 {
-  "PEPE/USDT": {
+  "MEME/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 2,
-    "exchange": "okx",
-    "price": 3.361e-06,
-    "last_seen": "2026-09-16T02:17:51.926620+00:00"
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0005045,
+    "last_seen": "2026-09-16T08:03:35.816201+00:00"
   },
-  "PENGU/USDT": {
-    "direction": "LONG",
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 5.108e-05,
+    "last_seen": "2026-09-16T08:03:35.816201+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.007115,
-    "last_seen": "2026-09-16T02:17:51.926620+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.4608,
-    "last_seen": "2026-09-16T02:17:51.926620+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.004939,
-    "last_seen": "2026-09-16T02:17:51.926620+00:00"
+    "price": 0.04217,
+    "last_seen": "2026-09-16T08:03:35.816201+00:00"
   }
 }

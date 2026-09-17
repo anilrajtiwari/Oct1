@@ -1,42 +1,18 @@
 {
-  "MEME/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0004997,
-    "last_seen": "2026-09-17T13:56:32.897131+00:00"
+    "price": 0.01127,
+    "last_seen": "2026-09-17T17:52:06.117931+00:00"
   },
-  "1000RATS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0399,
-    "last_seen": "2026-09-17T13:56:32.897131+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 3.9014,
-    "last_seen": "2026-09-17T13:56:32.897131+00:00"
-  },
-  "BOME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0008817,
-    "last_seen": "2026-09-17T13:56:32.897131+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.007221,
-    "last_seen": "2026-09-17T13:56:32.897131+00:00"
+    "price": 0.002503,
+    "last_seen": "2026-09-17T17:52:06.117931+00:00"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
+  "SHIB/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01127,
-    "last_seen": "2026-09-17T17:52:06.117931+00:00"
+    "price": 4.843e-06,
+    "last_seen": "2026-09-17T20:45:10.753819+00:00"
   },
-  "1000BONK/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.002503,
-    "last_seen": "2026-09-17T17:52:06.117931+00:00"
+    "price": 0.4556,
+    "last_seen": "2026-09-17T20:45:10.753819+00:00"
   }
 }

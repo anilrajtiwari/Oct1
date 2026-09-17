@@ -2,17 +2,9 @@
   "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 4.843e-06,
-    "last_seen": "2026-09-17T20:45:10.753819+00:00"
-  },
-  "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.4556,
-    "last_seen": "2026-09-17T20:45:10.753819+00:00"
+    "price": 4.883e-06,
+    "last_seen": "2026-09-17T23:15:49.546526+00:00"
   }
 }

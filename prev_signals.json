@@ -1,26 +1,50 @@
 {
   "BRETT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.005139,
+    "last_seen": "2026-09-19T00:47:29.284161+00:00"
+  },
+  "PEPE/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.005138,
-    "last_seen": "2026-09-18T22:04:03.190327+00:00"
+    "exchange": "mexc",
+    "price": 3.8293e-06,
+    "last_seen": "2026-09-19T00:47:29.284161+00:00"
   },
-  "MEW/USDT": {
+  "WIF/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.2145,
+    "last_seen": "2026-09-19T00:47:29.284161+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01765,
+    "last_seen": "2026-09-19T00:47:29.284161+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.04685,
+    "last_seen": "2026-09-19T00:47:29.284161+00:00"
+  },
+  "MUBARAK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.00042,
-    "last_seen": "2026-09-18T22:04:03.190327+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0495,
-    "last_seen": "2026-09-18T22:04:03.190327+00:00"
+    "price": 0.0326,
+    "last_seen": "2026-09-19T00:47:29.284161+00:00"
   }
 }

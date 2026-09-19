@@ -1,26 +1,10 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.01813,
-    "last_seen": "2026-09-19T05:17:42.068655+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "LONG",
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 4.58,
-    "last_seen": "2026-09-19T05:17:42.068655+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0004172,
-    "last_seen": "2026-09-19T05:17:42.068655+00:00"
+    "price": 0.01384,
+    "last_seen": "2026-09-19T09:56:38.279772+00:00"
   }
 }

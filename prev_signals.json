@@ -1,18 +1,10 @@
 {
-  "SPX/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.4854,
-    "last_seen": "2026-09-19T13:35:29.553441+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.02109,
-    "last_seen": "2026-09-19T13:35:29.553441+00:00"
+    "exchange": "bitget",
+    "price": 0.01467,
+    "last_seen": "2026-09-19T16:54:49.263199+00:00"
   }
 }

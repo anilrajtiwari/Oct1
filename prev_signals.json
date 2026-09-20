@@ -1,18 +1,10 @@
 {
-  "ORDI/USDT": {
+  "MOODENG/USDT": {
     "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 4.5378,
-    "last_seen": "2026-09-20T08:03:24.045961+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.008734,
-    "last_seen": "2026-09-20T08:03:24.045961+00:00"
+    "price": 0.04541,
+    "last_seen": "2026-09-20T13:19:17.185265+00:00"
   }
 }

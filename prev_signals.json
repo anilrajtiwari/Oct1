@@ -1,10 +1,10 @@
 {
-  "PEOPLE/USDT": {
+  "1000BONK/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.008919,
-    "last_seen": "2026-09-19T21:56:22.636442+00:00"
+    "exchange": "kucoin",
+    "price": 0.003051,
+    "last_seen": "2026-09-19T23:47:50.416524+00:00"
   }
 }

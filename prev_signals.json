@@ -1,1 +1,18 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 4.5378,
+    "last_seen": "2026-09-20T08:03:24.045961+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.008734,
+    "last_seen": "2026-09-20T08:03:24.045961+00:00"
+  }
+}

@@ -1,10 +1,1 @@
-{
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.17156,
-    "last_seen": "2026-09-21T00:39:49.333084+00:00"
-  }
-}
+{}

@@ -1,18 +1,1 @@
-{
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.1826,
-    "last_seen": "2026-09-21T11:24:56.866660+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.02238,
-    "last_seen": "2026-09-21T11:24:56.866660+00:00"
-  }
-}
+{}

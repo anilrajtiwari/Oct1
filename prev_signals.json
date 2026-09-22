@@ -1,34 +1,10 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.03352,
-    "last_seen": "2026-09-22T00:23:55.621162+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0006168,
-    "last_seen": "2026-09-22T00:23:55.621162+00:00"
-  },
-  "FARTCOIN/USDT": {
+  "ACT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.1976,
-    "last_seen": "2026-09-22T00:23:55.621162+00:00"
-  },
-  "BRETT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.005908,
-    "last_seen": "2026-09-22T00:23:55.621162+00:00"
+    "price": 0.011153,
+    "last_seen": "2026-09-22T05:37:04.898399+00:00"
   }
 }

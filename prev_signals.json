@@ -1,26 +1,18 @@
 {
-  "MEME/USDT": {
-    "direction": "SHORT",
+  "PENGU/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0006233,
-    "last_seen": "2026-09-22T22:31:50.582100+00:00"
+    "exchange": "kucoin",
+    "price": 0.008789,
+    "last_seen": "2026-09-23T01:03:44.797082+00:00"
   },
-  "BRETT/USDT": {
-    "direction": "SHORT",
+  "1000CAT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.005946,
-    "last_seen": "2026-09-22T22:31:50.582100+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.04886,
-    "last_seen": "2026-09-22T22:31:50.582100+00:00"
+    "exchange": "bitget",
+    "price": 0.002328,
+    "last_seen": "2026-09-23T01:03:44.797082+00:00"
   }
 }

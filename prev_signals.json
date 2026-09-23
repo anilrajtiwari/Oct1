@@ -1,18 +1,10 @@
 {
-  "PENGU/USDT": {
+  "KOMA/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.008789,
-    "last_seen": "2026-09-23T01:03:44.797082+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.002328,
-    "last_seen": "2026-09-23T01:03:44.797082+00:00"
+    "exchange": "mexc",
+    "price": 0.023444,
+    "last_seen": "2026-09-23T06:57:55.690114+00:00"
   }
 }

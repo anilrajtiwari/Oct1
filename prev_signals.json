@@ -1,1 +1,18 @@
-{}
+{
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05295,
+    "last_seen": "2026-09-24T02:10:08.292391+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.05674,
+    "last_seen": "2026-09-24T02:10:08.292391+00:00"
+  }
+}

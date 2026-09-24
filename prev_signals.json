@@ -1,18 +1,18 @@
 {
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
+  "WIF/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.05295,
-    "last_seen": "2026-09-24T02:10:08.292391+00:00"
+    "exchange": "kucoin",
+    "price": 0.2525,
+    "last_seen": "2026-09-24T07:57:35.767260+00:00"
   },
-  "POPCAT/USDT": {
+  "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.05674,
-    "last_seen": "2026-09-24T02:10:08.292391+00:00"
+    "exchange": "kucoin",
+    "price": 0.04943,
+    "last_seen": "2026-09-24T07:57:35.767260+00:00"
   }
 }

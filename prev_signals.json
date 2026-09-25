@@ -1,10 +1,1 @@
-{
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 3.822e-06,
-    "last_seen": "2026-09-25T00:09:23.084008+00:00"
-  }
-}
+{}

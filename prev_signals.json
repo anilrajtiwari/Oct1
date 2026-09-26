@@ -1,1 +1,26 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0010194,
+    "last_seen": "2026-09-26T06:51:03.596640+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.4396,
+    "last_seen": "2026-09-26T06:51:03.596640+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.011261,
+    "last_seen": "2026-09-26T06:51:03.596640+00:00"
+  }
+}

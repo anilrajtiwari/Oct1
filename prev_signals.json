@@ -1,34 +1,18 @@
 {
-  "BOME/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.001054,
-    "last_seen": "2026-09-26T11:58:00.969315+00:00"
-  },
-  "ACT/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.011314,
-    "last_seen": "2026-09-26T11:58:00.969315+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01952,
-    "last_seen": "2026-09-26T11:58:00.969315+00:00"
-  },
   "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "kucoin",
-    "price": 0.04363,
-    "last_seen": "2026-09-26T11:58:00.969315+00:00"
+    "price": 0.05093,
+    "last_seen": "2026-09-26T15:30:26.613949+00:00"
+  },
+  "1000CAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.00234,
+    "last_seen": "2026-09-26T15:30:26.613949+00:00"
   }
 }

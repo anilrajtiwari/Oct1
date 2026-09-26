@@ -1,18 +1,10 @@
 {
-  "MUBARAK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.05093,
-    "last_seen": "2026-09-26T15:30:26.613949+00:00"
-  },
-  "1000CAT/USDT": {
-    "direction": "SHORT",
+  "BRETT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.00234,
-    "last_seen": "2026-09-26T15:30:26.613949+00:00"
+    "exchange": "mexc",
+    "price": 0.00592,
+    "last_seen": "2026-09-26T18:51:16.549052+00:00"
   }
 }

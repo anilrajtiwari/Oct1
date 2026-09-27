@@ -1,10 +1,26 @@
 {
-  "BOME/USDT": {
+  "DOGS/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 5.157e-05,
+    "last_seen": "2026-09-27T16:00:37.606474+00:00"
+  },
+  "AIXBT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0010574,
-    "last_seen": "2026-09-27T11:22:57.516135+00:00"
+    "price": 0.02497,
+    "last_seen": "2026-09-27T16:00:37.606474+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.006112,
+    "last_seen": "2026-09-27T16:00:37.606474+00:00"
   }
 }

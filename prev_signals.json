@@ -1,1 +1,10 @@
-{}
+{
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0010574,
+    "last_seen": "2026-09-27T11:22:57.516135+00:00"
+  }
+}

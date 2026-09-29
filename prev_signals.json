@@ -1,18 +1,10 @@
 {
-  "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.3948,
-    "last_seen": "2026-09-29T02:24:48.316581+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
+  "ORDI/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.16102,
-    "last_seen": "2026-09-29T02:24:48.316581+00:00"
+    "price": 4.654,
+    "last_seen": "2026-09-29T09:16:13.887269+00:00"
   }
 }

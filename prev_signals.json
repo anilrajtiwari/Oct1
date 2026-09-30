@@ -1,50 +1,10 @@
 {
-  "PEPE/USDT": {
+  "WIF/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 4.2096e-06,
-    "last_seen": "2026-09-30T00:53:45.112594+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 4.602,
-    "last_seen": "2026-09-30T00:53:45.112594+00:00"
-  },
-  "CHILLGUY/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.012946,
-    "last_seen": "2026-09-30T00:53:45.112594+00:00"
-  },
-  "1000BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.003505,
-    "last_seen": "2026-09-30T00:53:45.112594+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0004731,
-    "last_seen": "2026-09-30T00:53:45.112594+00:00"
-  },
-  "POPCAT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.05238,
-    "last_seen": "2026-09-30T00:53:45.112594+00:00"
+    "price": 0.2317,
+    "last_seen": "2026-09-30T06:09:43.715378+00:00"
   }
 }

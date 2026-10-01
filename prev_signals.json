@@ -1,1 +1,10 @@
-{}
+{
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 4.5869,
+    "last_seen": "2026-10-01T01:41:59.426468+00:00"
+  }
+}

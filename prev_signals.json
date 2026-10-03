@@ -1,26 +1,10 @@
 {
-  "DOGE/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.09285,
-    "last_seen": "2026-10-03T07:17:17.079187+00:00"
-  },
-  "SHIB/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 5.689e-06,
-    "last_seen": "2026-10-03T07:17:17.079187+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0005249,
-    "last_seen": "2026-10-03T07:17:17.079187+00:00"
+    "exchange": "kucoin",
+    "price": 0.0006097,
+    "last_seen": "2026-10-03T12:51:58.561874+00:00"
   }
 }

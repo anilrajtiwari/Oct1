@@ -1,10 +1,1 @@
-{
-  "SHIB/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 5.862e-06,
-    "last_seen": "2026-10-03T16:53:07.740655+00:00"
-  }
-}
+{}

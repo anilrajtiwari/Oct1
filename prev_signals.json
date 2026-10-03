@@ -1,10 +1,10 @@
 {
-  "MEME/USDT": {
-    "direction": "SHORT",
+  "SHIB/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0006097,
-    "last_seen": "2026-10-03T12:51:58.561874+00:00"
+    "price": 5.862e-06,
+    "last_seen": "2026-10-03T16:53:07.740655+00:00"
   }
 }

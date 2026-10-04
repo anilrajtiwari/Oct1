@@ -1,10 +1,26 @@
 {
-  "PENGU/USDT": {
+  "DOGE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.09655,
+    "last_seen": "2026-10-04T22:06:47.423730+00:00"
+  },
+  "1000RATS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.009367,
-    "last_seen": "2026-10-04T18:28:53.491691+00:00"
+    "price": 0.04146,
+    "last_seen": "2026-10-04T22:06:47.423730+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05394,
+    "last_seen": "2026-10-04T22:06:47.423730+00:00"
   }
 }

@@ -1,1 +1,10 @@
-{}
+{
+  "MUBARAK/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.07619,
+    "last_seen": "2026-10-08T06:49:33.168898+00:00"
+  }
+}

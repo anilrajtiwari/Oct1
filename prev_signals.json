@@ -1,10 +1,10 @@
 {
-  "MUBARAK/USDT": {
+  "WIF/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.07619,
-    "last_seen": "2026-10-08T06:49:33.168898+00:00"
+    "exchange": "mexc",
+    "price": 0.2218,
+    "last_seen": "2026-10-08T14:12:26.914020+00:00"
   }
 }

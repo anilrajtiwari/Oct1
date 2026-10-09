@@ -1,10 +1,18 @@
 {
-  "MUBARAK/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.07459,
-    "last_seen": "2026-10-09T14:04:12.173193+00:00"
+    "exchange": "kucoin",
+    "price": 0.007644,
+    "last_seen": "2026-10-09T19:54:42.261771+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0004589,
+    "last_seen": "2026-10-09T19:54:42.261771+00:00"
   }
 }

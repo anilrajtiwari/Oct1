@@ -1,1 +1,10 @@
-{}
+{
+  "KOMA/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.02069,
+    "last_seen": "2026-10-11T09:29:26.480871+00:00"
+  }
+}

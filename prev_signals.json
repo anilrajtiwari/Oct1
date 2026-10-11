@@ -1,10 +1,18 @@
 {
-  "KOMA/USDT": {
+  "SHIB/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.02069,
-    "last_seen": "2026-10-11T09:29:26.480871+00:00"
+    "price": 5.449e-06,
+    "last_seen": "2026-10-11T16:04:09.053648+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.02149,
+    "last_seen": "2026-10-11T16:04:09.053648+00:00"
   }
 }

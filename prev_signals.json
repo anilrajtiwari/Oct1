@@ -1,10 +1,10 @@
 {
-  "PEPE/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 4.0047e-06,
-    "last_seen": "2026-10-12T06:46:01.849679+00:00"
+    "exchange": "mexc",
+    "price": 4.249,
+    "last_seen": "2026-10-12T16:18:35.780936+00:00"
   }
 }

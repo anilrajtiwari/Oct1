@@ -1,26 +1,50 @@
 {
-  "PEPE/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 4.1944e-06,
-    "last_seen": "2026-10-12T23:22:14.405394+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.15894,
-    "last_seen": "2026-10-12T23:22:14.405394+00:00"
+    "price": 2.596e-05,
+    "last_seen": "2026-10-13T04:29:28.381447+00:00"
   },
-  "MUBARAK/USDT": {
+  "DOGS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.209e-05,
+    "last_seen": "2026-10-13T04:29:28.381447+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.135,
+    "last_seen": "2026-10-13T04:29:28.381447+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.007968,
+    "last_seen": "2026-10-13T04:29:28.381447+00:00"
+  },
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0724,
-    "last_seen": "2026-10-12T23:22:14.405394+00:00"
+    "price": 0.3828,
+    "last_seen": "2026-10-13T04:29:28.381447+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.04573,
+    "last_seen": "2026-10-13T04:29:28.381447+00:00"
   }
 }

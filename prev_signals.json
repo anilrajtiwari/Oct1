@@ -1,26 +1,18 @@
 {
-  "BONK/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 3.232e-06,
-    "last_seen": "2026-10-13T19:39:29.928553+00:00"
-  },
-  "KOMA/USDT": {
+  "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.01977,
-    "last_seen": "2026-10-13T19:39:29.928553+00:00"
+    "price": 0.0005416,
+    "last_seen": "2026-10-13T23:31:17.426810+00:00"
   },
-  "CHILLGUY/USDT": {
-    "direction": "LONG",
+  "MOODENG/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.01003,
-    "last_seen": "2026-10-13T19:39:29.928553+00:00"
+    "exchange": "kucoin",
+    "price": 0.04119,
+    "last_seen": "2026-10-13T23:31:17.426810+00:00"
   }
 }

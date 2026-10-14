@@ -1,34 +1,26 @@
 {
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 4.024e-05,
-    "last_seen": "2026-10-14T19:03:39.644511+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01618,
-    "last_seen": "2026-10-14T19:03:39.644511+00:00"
-  },
-  "MUBARAK/USDT": {
+  "BONK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.05598,
-    "last_seen": "2026-10-14T19:03:39.644511+00:00"
+    "exchange": "okx",
+    "price": 3.122e-06,
+    "last_seen": "2026-10-14T22:50:53.871033+00:00"
   },
-  "MEW/USDT": {
-    "direction": "LONG",
+  "BAN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.000428,
-    "last_seen": "2026-10-14T19:03:39.644511+00:00"
+    "exchange": "kucoin",
+    "price": 0.05532,
+    "last_seen": "2026-10-14T22:50:53.871033+00:00"
+  },
+  "BOME/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0007279,
+    "last_seen": "2026-10-14T22:50:53.871033+00:00"
   }
 }

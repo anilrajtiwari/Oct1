@@ -1,1 +1,18 @@
-{}
+{
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0005203,
+    "last_seen": "2026-10-14T14:11:11.589046+00:00"
+  },
+  "1000BONK/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.003092,
+    "last_seen": "2026-10-14T14:11:11.589046+00:00"
+  }
+}

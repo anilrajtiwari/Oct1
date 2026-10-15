@@ -1,18 +1,10 @@
 {
-  "BOME/USDT": {
+  "BRETT/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.000698,
-    "last_seen": "2026-10-15T20:42:28.532631+00:00"
-  },
-  "PENGU/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
+    "confidence": 1.0,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.007587,
-    "last_seen": "2026-10-15T20:42:28.532631+00:00"
+    "price": 0.004997,
+    "last_seen": "2026-10-15T23:25:50.631607+00:00"
   }
 }

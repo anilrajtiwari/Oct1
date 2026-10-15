@@ -1,1 +1,26 @@
-{}
+{
+  "BAN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.05098,
+    "last_seen": "2026-10-15T06:42:44.104693+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.004668,
+    "last_seen": "2026-10-15T06:42:44.104693+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.0004128,
+    "last_seen": "2026-10-15T06:42:44.104693+00:00"
+  }
+}

@@ -1,1 +1,26 @@
-{}
+{
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.1505,
+    "last_seen": "2026-10-16T12:51:19.815507+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01873,
+    "last_seen": "2026-10-16T12:51:19.815507+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.03831,
+    "last_seen": "2026-10-16T12:51:19.815507+00:00"
+  }
+}

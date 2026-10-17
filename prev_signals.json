@@ -1,18 +1,10 @@
 {
-  "PEPE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 3.975e-06,
-    "last_seen": "2026-10-17T11:51:17.085633+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "LONG",
+  "PEOPLE/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.05646,
-    "last_seen": "2026-10-17T11:51:17.085633+00:00"
+    "price": 0.0081,
+    "last_seen": "2026-10-17T14:38:31.670958+00:00"
   }
 }

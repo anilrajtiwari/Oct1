@@ -1,18 +1,18 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 3.596,
-    "last_seen": "2026-10-18T19:05:27.914560+00:00"
-  },
   "BOME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.0006514,
+    "last_seen": "2026-10-18T22:03:09.620504+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0005951,
-    "last_seen": "2026-10-18T19:05:27.914560+00:00"
+    "exchange": "okx",
+    "price": 0.01509,
+    "last_seen": "2026-10-18T22:03:09.620504+00:00"
   }
 }

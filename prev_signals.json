@@ -1,18 +1,34 @@
 {
-  "DOGS/USDT": {
+  "SHIB/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 4.988e-06,
+    "last_seen": "2026-10-18T12:16:52.478334+00:00"
+  },
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 3.9024e-06,
+    "last_seen": "2026-10-18T12:16:52.478334+00:00"
+  },
+  "PENGU/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 3.836e-05,
-    "last_seen": "2026-10-18T07:32:47.957097+00:00"
+    "price": 0.007482,
+    "last_seen": "2026-10-18T12:16:52.478334+00:00"
   },
-  "PEOPLE/USDT": {
-    "direction": "LONG",
+  "PNUT/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.007573,
-    "last_seen": "2026-10-18T07:32:47.957097+00:00"
+    "exchange": "bitget",
+    "price": 0.04399,
+    "last_seen": "2026-10-18T12:16:52.478334+00:00"
   }
 }

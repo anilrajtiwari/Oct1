@@ -1,18 +1,1 @@
-{
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0004611,
-    "last_seen": "2026-10-19T21:53:18.996729+00:00"
-  },
-  "PNUT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.04155,
-    "last_seen": "2026-10-19T21:53:18.996729+00:00"
-  }
-}
+{}

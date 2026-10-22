@@ -1,18 +1,10 @@
 {
-  "DOGS/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.922e-05,
-    "last_seen": "2026-10-22T02:30:06.022779+00:00"
-  },
-  "AIXBT/USDT": {
-    "direction": "LONG",
+  "PIPPIN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.01968,
-    "last_seen": "2026-10-22T02:30:06.022779+00:00"
+    "price": 0.01582,
+    "last_seen": "2026-10-22T08:07:06.921374+00:00"
   }
 }

@@ -1,10 +1,18 @@
 {
-  "PEOPLE/USDT": {
+  "DOGS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.007797,
-    "last_seen": "2026-10-21T23:57:12.188373+00:00"
+    "exchange": "mexc",
+    "price": 3.922e-05,
+    "last_seen": "2026-10-22T02:30:06.022779+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01968,
+    "last_seen": "2026-10-22T02:30:06.022779+00:00"
   }
 }

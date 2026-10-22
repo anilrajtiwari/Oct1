@@ -1,10 +1,10 @@
 {
-  "BAN/USDT": {
+  "PEOPLE/USDT": {
     "direction": "LONG",
-    "confidence": 1.0,
+    "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.06013,
-    "last_seen": "2026-10-21T21:01:48.175237+00:00"
+    "exchange": "kucoin",
+    "price": 0.007797,
+    "last_seen": "2026-10-21T23:57:12.188373+00:00"
   }
 }

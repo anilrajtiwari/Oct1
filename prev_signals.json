@@ -1,10 +1,1 @@
-{
-  "ACT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.008555,
-    "last_seen": "2026-10-22T18:58:41.629128+00:00"
-  }
-}
+{}

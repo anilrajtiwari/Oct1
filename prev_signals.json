@@ -1,10 +1,10 @@
 {
-  "AIXBT/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
+  "BONK/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
     "count": 1,
     "exchange": "okx",
-    "price": 0.01894,
-    "last_seen": "2026-10-23T01:06:23.661263+00:00"
+    "price": 3.149e-06,
+    "last_seen": "2026-10-23T06:43:44.717267+00:00"
   }
 }

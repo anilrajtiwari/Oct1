@@ -1,26 +1,26 @@
 {
-  "FLOKI/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 2.407e-05,
-    "last_seen": "2026-10-23T20:48:09.240894+00:00"
+    "price": 3.663,
+    "last_seen": "2026-10-23T23:40:32.820406+00:00"
   },
-  "1000RATS/USDT": {
-    "direction": "LONG",
+  "BAN/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01789,
-    "last_seen": "2026-10-23T20:48:09.240894+00:00"
+    "exchange": "bitget",
+    "price": 0.05917,
+    "last_seen": "2026-10-23T23:40:32.820406+00:00"
   },
-  "PNUT/USDT": {
+  "CHILLGUY/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.04259,
-    "last_seen": "2026-10-23T20:48:09.240894+00:00"
+    "price": 0.009496,
+    "last_seen": "2026-10-23T23:40:32.820406+00:00"
   }
 }

@@ -1,26 +1,10 @@
 {
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 3.663,
-    "last_seen": "2026-10-23T23:40:32.820406+00:00"
-  },
-  "BAN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.05917,
-    "last_seen": "2026-10-23T23:40:32.820406+00:00"
-  },
-  "CHILLGUY/USDT": {
+  "FLOKI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.009496,
-    "last_seen": "2026-10-23T23:40:32.820406+00:00"
+    "price": 2.3506e-05,
+    "last_seen": "2026-10-24T02:28:16.627158+00:00"
   }
 }

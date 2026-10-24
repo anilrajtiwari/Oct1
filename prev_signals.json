@@ -1,10 +1,10 @@
 {
-  "FLOKI/USDT": {
-    "direction": "SHORT",
+  "SPX/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 2.3506e-05,
-    "last_seen": "2026-10-24T02:28:16.627158+00:00"
+    "exchange": "mexc",
+    "price": 0.3527,
+    "last_seen": "2026-10-24T07:44:39.652566+00:00"
   }
 }

@@ -1,1 +1,18 @@
-{}
+{
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 4.906e-06,
+    "last_seen": "2026-10-25T14:41:27.128089+00:00"
+  },
+  "BAN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.05792,
+    "last_seen": "2026-10-25T14:41:27.128089+00:00"
+  }
+}

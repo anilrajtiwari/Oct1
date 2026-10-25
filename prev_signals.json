@@ -1,18 +1,18 @@
 {
-  "SHIB/USDT": {
-    "direction": "LONG",
+  "WIF/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 4.906e-06,
-    "last_seen": "2026-10-25T14:41:27.128089+00:00"
+    "price": 0.1786,
+    "last_seen": "2026-10-25T17:59:18.448474+00:00"
   },
-  "BAN/USDT": {
-    "direction": "LONG",
+  "MEW/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.05792,
-    "last_seen": "2026-10-25T14:41:27.128089+00:00"
+    "exchange": "okx",
+    "price": 0.0004556,
+    "last_seen": "2026-10-25T17:59:18.448474+00:00"
   }
 }

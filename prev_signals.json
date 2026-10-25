@@ -1,18 +1,1 @@
-{
-  "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1786,
-    "last_seen": "2026-10-25T17:59:18.448474+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.0004556,
-    "last_seen": "2026-10-25T17:59:18.448474+00:00"
-  }
-}
+{}

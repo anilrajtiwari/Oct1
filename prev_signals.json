@@ -1,10 +1,18 @@
 {
-  "BAN/USDT": {
+  "SPX/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.05706,
-    "last_seen": "2026-10-27T07:01:38.964818+00:00"
+    "exchange": "kucoin",
+    "price": 0.3715,
+    "last_seen": "2026-10-27T13:03:27.115372+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.1291,
+    "last_seen": "2026-10-27T13:03:27.115372+00:00"
   }
 }

@@ -1,26 +1,10 @@
 {
   "SPX/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.3805,
-    "last_seen": "2026-10-27T19:04:36.260002+00:00"
-  },
-  "DOGS/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 3.569e-05,
-    "last_seen": "2026-10-27T19:04:36.260002+00:00"
-  },
-  "ORDI/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 3.641,
-    "last_seen": "2026-10-27T19:04:36.260002+00:00"
+    "price": 0.3855,
+    "last_seen": "2026-10-27T23:20:37.053567+00:00"
   }
 }

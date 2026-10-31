@@ -1,1 +1,10 @@
-{}
+{
+  "SPX/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.3666,
+    "last_seen": "2026-10-31T01:14:24.507397+00:00"
+  }
+}

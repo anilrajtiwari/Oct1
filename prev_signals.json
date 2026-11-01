@@ -1,10 +1,18 @@
 {
-  "1000RATS/USDT": {
+  "SPX/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.0148,
-    "last_seen": "2026-10-31T22:02:57.850413+00:00"
+    "price": 0.366,
+    "last_seen": "2026-11-01T01:39:20.292600+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.004333,
+    "last_seen": "2026-11-01T01:39:20.292600+00:00"
   }
 }

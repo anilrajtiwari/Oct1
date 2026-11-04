@@ -1,10 +1,10 @@
 {
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "kucoin",
-    "price": 0.03431,
-    "last_seen": "2026-11-04T11:44:59.755356+00:00"
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "okx",
+    "price": 0.008698,
+    "last_seen": "2026-11-04T19:03:21.004442+00:00"
   }
 }

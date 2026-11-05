@@ -1,1 +1,18 @@
-{}
+{
+  "MEME/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0003925,
+    "last_seen": "2026-11-05T21:42:22.320693+00:00"
+  },
+  "PIPPIN/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01296,
+    "last_seen": "2026-11-05T21:42:22.320693+00:00"
+  }
+}

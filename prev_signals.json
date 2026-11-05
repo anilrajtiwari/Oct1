@@ -1,1 +1,18 @@
-{}
+{
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.374,
+    "last_seen": "2026-11-05T07:32:52.508202+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.0374,
+    "last_seen": "2026-11-05T07:32:52.508202+00:00"
+  }
+}

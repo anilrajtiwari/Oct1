@@ -1,10 +1,18 @@
 {
-  "ACT/USDT": {
-    "direction": "LONG",
+  "KOMA/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.010366,
-    "last_seen": "2026-11-07T01:27:22.179512+00:00"
+    "exchange": "kucoin",
+    "price": 0.01265,
+    "last_seen": "2026-11-07T07:59:48.670141+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.03739,
+    "last_seen": "2026-11-07T07:59:48.670141+00:00"
   }
 }

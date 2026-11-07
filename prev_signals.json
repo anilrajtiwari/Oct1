@@ -1,10 +1,26 @@
 {
-  "PIPPIN/USDT": {
+  "SHIB/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "okx",
-    "price": 0.01332,
-    "last_seen": "2026-11-07T19:12:22.359156+00:00"
+    "price": 4.481e-06,
+    "last_seen": "2026-11-07T23:15:20.453221+00:00"
+  },
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 4.8461e-06,
+    "last_seen": "2026-11-07T23:15:20.453221+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.03207,
+    "last_seen": "2026-11-07T23:15:20.453221+00:00"
   }
 }

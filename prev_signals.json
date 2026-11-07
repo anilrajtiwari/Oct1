@@ -1,10 +1,10 @@
 {
-  "MEW/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.0003565,
-    "last_seen": "2026-11-07T14:41:14.694368+00:00"
+    "exchange": "okx",
+    "price": 0.01332,
+    "last_seen": "2026-11-07T19:12:22.359156+00:00"
   }
 }

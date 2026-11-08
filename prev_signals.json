@@ -1,26 +1,18 @@
 {
   "SHIB/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 4.481e-06,
-    "last_seen": "2026-11-07T23:15:20.453221+00:00"
-  },
-  "PEPE/USDT": {
-    "direction": "SHORT",
     "confidence": 1.0,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 4.481e-06,
+    "last_seen": "2026-11-08T03:17:30.900021+00:00"
+  },
+  "MEME/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 4.8461e-06,
-    "last_seen": "2026-11-07T23:15:20.453221+00:00"
-  },
-  "MOODENG/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.03207,
-    "last_seen": "2026-11-07T23:15:20.453221+00:00"
+    "price": 0.0003951,
+    "last_seen": "2026-11-08T03:17:30.900021+00:00"
   }
 }

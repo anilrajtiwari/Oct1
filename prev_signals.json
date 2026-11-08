@@ -2,25 +2,25 @@
   "DOGS/USDT": {
     "direction": "LONG",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 3.084e-05,
-    "last_seen": "2026-11-08T10:53:37.551997+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 2.954e-05,
+    "last_seen": "2026-11-08T16:51:54.006705+00:00"
   },
-  "AIXBT/USDT": {
+  "PNUT/USDT": {
     "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.03348,
+    "last_seen": "2026-11-08T16:51:54.006705+00:00"
+  },
+  "BRETT/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.01499,
-    "last_seen": "2026-11-08T10:53:37.551997+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0003502,
-    "last_seen": "2026-11-08T10:53:37.551997+00:00"
+    "price": 0.003681,
+    "last_seen": "2026-11-08T16:51:54.006705+00:00"
   }
 }

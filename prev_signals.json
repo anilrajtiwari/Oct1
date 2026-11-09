@@ -1,10 +1,1 @@
-{
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01312,
-    "last_seen": "2026-11-09T07:26:11.651006+00:00"
-  }
-}
+{}

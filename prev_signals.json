@@ -2,65 +2,81 @@
   "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.03348,
-    "last_seen": "2026-11-08T20:53:37.485445+00:00"
+    "count": 3,
+    "exchange": "mexc",
+    "price": 0.03284,
+    "last_seen": "2026-11-09T00:18:16.377006+00:00"
   },
   "BRETT/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 0.003695,
-    "last_seen": "2026-11-08T20:53:37.485445+00:00"
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.003628,
+    "last_seen": "2026-11-09T00:18:16.377006+00:00"
   },
   "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.0003803,
-    "last_seen": "2026-11-08T20:53:37.485445+00:00"
-  },
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.01332,
-    "last_seen": "2026-11-08T20:53:37.485445+00:00"
-  },
-  "PEOPLE/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.00586,
-    "last_seen": "2026-11-08T20:53:37.485445+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
+    "count": 2,
     "exchange": "okx",
-    "price": 0.1153,
-    "last_seen": "2026-11-08T20:53:37.485445+00:00"
+    "price": 0.0003719,
+    "last_seen": "2026-11-09T00:18:16.377006+00:00"
   },
   "MOODENG/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.03072,
+    "last_seen": "2026-11-09T00:18:16.377006+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01334,
+    "last_seen": "2026-11-09T00:18:16.377006+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.03223,
-    "last_seen": "2026-11-08T20:53:37.485445+00:00"
+    "price": 3.2053,
+    "last_seen": "2026-11-09T00:18:16.377006+00:00"
   },
-  "MUBARAK/USDT": {
-    "direction": "LONG",
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.0397,
-    "last_seen": "2026-11-08T20:53:37.485445+00:00"
+    "price": 0.00795,
+    "last_seen": "2026-11-09T00:18:16.377006+00:00"
+  },
+  "AIXBT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.01466,
+    "last_seen": "2026-11-09T00:18:16.377006+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0003445,
+    "last_seen": "2026-11-09T00:18:16.377006+00:00"
+  },
+  "POPCAT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.03652,
+    "last_seen": "2026-11-09T00:18:16.377006+00:00"
   }
 }

@@ -1,10 +1,18 @@
 {
-  "ORDI/USDT": {
-    "direction": "LONG",
+  "BOME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 3.112,
-    "last_seen": "2026-11-12T13:27:55.152988+00:00"
+    "price": 0.0005696,
+    "last_seen": "2026-11-12T21:16:07.172517+00:00"
+  },
+  "MEW/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.0003279,
+    "last_seen": "2026-11-12T21:16:07.172517+00:00"
   }
 }

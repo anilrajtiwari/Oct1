@@ -1,10 +1,1 @@
-{
-  "PEPE/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 4.2217e-06,
-    "last_seen": "2026-11-14T07:11:10.139934+00:00"
-  }
-}
+{}

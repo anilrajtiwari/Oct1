@@ -1,18 +1,10 @@
 {
-  "BAN/USDT": {
-    "direction": "SHORT",
+  "1000BONK/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "bitget",
-    "price": 0.03881,
-    "last_seen": "2026-11-15T11:39:25.977155+00:00"
-  },
-  "FARTCOIN/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.09412,
-    "last_seen": "2026-11-15T11:39:25.977155+00:00"
+    "exchange": "kucoin",
+    "price": 0.002434,
+    "last_seen": "2026-11-15T18:11:05.187971+00:00"
   }
 }

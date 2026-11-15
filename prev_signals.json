@@ -1,26 +1,18 @@
 {
-  "PEPE/USDT": {
-    "direction": "LONG",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 4.3076e-06,
-    "last_seen": "2026-11-15T03:45:48.698169+00:00"
-  },
-  "MEME/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0003333,
-    "last_seen": "2026-11-15T03:45:48.698169+00:00"
-  },
-  "MUBARAK/USDT": {
+  "BAN/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 0.02903,
-    "last_seen": "2026-11-15T03:45:48.698169+00:00"
+    "exchange": "bitget",
+    "price": 0.03881,
+    "last_seen": "2026-11-15T11:39:25.977155+00:00"
+  },
+  "FARTCOIN/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.09412,
+    "last_seen": "2026-11-15T11:39:25.977155+00:00"
   }
 }

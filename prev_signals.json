@@ -1,10 +1,18 @@
 {
-  "1000BONK/USDT": {
-    "direction": "LONG",
+  "MEME/USDT": {
+    "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.002434,
-    "last_seen": "2026-11-15T18:11:05.187971+00:00"
+    "price": 0.0003226,
+    "last_seen": "2026-11-15T23:15:50.134221+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.01061,
+    "last_seen": "2026-11-15T23:15:50.134221+00:00"
   }
 }

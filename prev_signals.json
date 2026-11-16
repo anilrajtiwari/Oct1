@@ -2,9 +2,25 @@
   "MEME/USDT": {
     "direction": "SHORT",
     "confidence": 1.0,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.0003246,
-    "last_seen": "2026-11-16T03:46:35.770791+00:00"
+    "count": 3,
+    "exchange": "kucoin",
+    "price": 0.0003342,
+    "last_seen": "2026-11-16T12:14:47.884612+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0293,
+    "last_seen": "2026-11-16T12:14:47.884612+00:00"
+  },
+  "MOODENG/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0273,
+    "last_seen": "2026-11-16T12:14:47.884612+00:00"
   }
 }

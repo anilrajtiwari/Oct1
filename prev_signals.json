@@ -1,18 +1,10 @@
 {
   "MEME/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.0003226,
-    "last_seen": "2026-11-15T23:15:50.134221+00:00"
-  },
-  "1000RATS/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "bitget",
-    "price": 0.01061,
-    "last_seen": "2026-11-15T23:15:50.134221+00:00"
+    "confidence": 1.0,
+    "count": 2,
+    "exchange": "mexc",
+    "price": 0.0003246,
+    "last_seen": "2026-11-16T03:46:35.770791+00:00"
   }
 }

@@ -1,26 +1,50 @@
 {
   "SPX/USDT": {
-    "direction": "SHORT",
-    "confidence": 1.0,
-    "count": 2,
-    "exchange": "mexc",
-    "price": 0.3118,
-    "last_seen": "2026-11-17T04:52:59.679567+00:00"
-  },
-  "FLOKI/USDT": {
-    "direction": "SHORT",
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "mexc",
-    "price": 1.861e-05,
-    "last_seen": "2026-11-17T04:52:59.679567+00:00"
+    "exchange": "kucoin",
+    "price": 0.2998,
+    "last_seen": "2026-11-17T13:59:10.894202+00:00"
   },
-  "BAN/USDT": {
-    "direction": "SHORT",
+  "SHIB/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 3.823e-06,
+    "last_seen": "2026-11-17T13:59:10.894202+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 2.7528,
+    "last_seen": "2026-11-17T13:59:10.894202+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
     "exchange": "bitget",
-    "price": 0.03912,
-    "last_seen": "2026-11-17T04:52:59.679567+00:00"
+    "price": 0.0075,
+    "last_seen": "2026-11-17T13:59:10.894202+00:00"
+  },
+  "PEOPLE/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.004976,
+    "last_seen": "2026-11-17T13:59:10.894202+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.02848,
+    "last_seen": "2026-11-17T13:59:10.894202+00:00"
   }
 }

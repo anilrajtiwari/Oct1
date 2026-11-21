@@ -1,18 +1,50 @@
 {
-  "PEPE/USDT": {
+  "PEOPLE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "okx",
-    "price": 3.4202e-06,
-    "last_seen": "2026-11-20T18:08:32.579002+00:00"
+    "count": 2,
+    "exchange": "kucoin",
+    "price": 0.00473,
+    "last_seen": "2026-11-21T00:29:06.406911+00:00"
   },
-  "PEOPLE/USDT": {
+  "DOGE/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "mexc",
-    "price": 0.004655,
-    "last_seen": "2026-11-20T18:08:32.579002+00:00"
+    "price": 0.05435,
+    "last_seen": "2026-11-21T00:29:06.406911+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 2.499,
+    "last_seen": "2026-11-21T00:29:06.406911+00:00"
+  },
+  "CHILLGUY/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.00687,
+    "last_seen": "2026-11-21T00:29:06.406911+00:00"
+  },
+  "PNUT/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.02643,
+    "last_seen": "2026-11-21T00:29:06.406911+00:00"
+  },
+  "MUBARAK/USDT": {
+    "direction": "SHORT",
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.0238,
+    "last_seen": "2026-11-21T00:29:06.406911+00:00"
   }
 }

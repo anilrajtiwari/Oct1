@@ -1,1 +1,26 @@
-{}
+{
+  "PEPE/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 3.3927e-06,
+    "last_seen": "2026-11-21T21:19:15.054111+00:00"
+  },
+  "1000RATS/USDT": {
+    "direction": "SHORT",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01021,
+    "last_seen": "2026-11-21T21:19:15.054111+00:00"
+  },
+  "ORDI/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 2.493,
+    "last_seen": "2026-11-21T21:19:15.054111+00:00"
+  }
+}

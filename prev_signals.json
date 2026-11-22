@@ -1,18 +1,18 @@
 {
-  "1000BONK/USDT": {
+  "ORDI/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "kucoin",
-    "price": 0.001998,
-    "last_seen": "2026-11-22T09:02:02.919624+00:00"
+    "exchange": "okx",
+    "price": 2.551,
+    "last_seen": "2026-11-22T17:30:09.695916+00:00"
   },
-  "MEW/USDT": {
+  "MUBARAK/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
     "count": 1,
     "exchange": "kucoin",
-    "price": 0.000282,
-    "last_seen": "2026-11-22T09:02:02.919624+00:00"
+    "price": 0.02066,
+    "last_seen": "2026-11-22T17:30:09.695916+00:00"
   }
 }

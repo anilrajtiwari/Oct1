@@ -1,26 +1,10 @@
 {
-  "WIF/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.1205,
-    "last_seen": "2026-11-26T05:55:48.972054+00:00"
-  },
   "PNUT/USDT": {
     "direction": "SHORT",
     "confidence": 0.75,
-    "count": 1,
-    "exchange": "kucoin",
-    "price": 0.02589,
-    "last_seen": "2026-11-26T05:55:48.972054+00:00"
-  },
-  "MEW/USDT": {
-    "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 1,
-    "exchange": "mexc",
-    "price": 0.0002953,
-    "last_seen": "2026-11-26T05:55:48.972054+00:00"
+    "count": 2,
+    "exchange": "bitget",
+    "price": 0.02703,
+    "last_seen": "2026-11-26T16:00:42.861547+00:00"
   }
 }

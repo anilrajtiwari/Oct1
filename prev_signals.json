@@ -1,10 +1,10 @@
 {
-  "PNUT/USDT": {
+  "PIPPIN/USDT": {
     "direction": "SHORT",
-    "confidence": 0.75,
-    "count": 2,
-    "exchange": "bitget",
-    "price": 0.02703,
-    "last_seen": "2026-11-26T16:00:42.861547+00:00"
+    "confidence": 1.0,
+    "count": 1,
+    "exchange": "kucoin",
+    "price": 0.01905,
+    "last_seen": "2026-11-27T00:20:20.842265+00:00"
   }
 }

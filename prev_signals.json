@@ -1,10 +1,26 @@
 {
-  "PIPPIN/USDT": {
-    "direction": "SHORT",
+  "BOME/USDT": {
+    "direction": "LONG",
     "confidence": 0.75,
     "count": 1,
-    "exchange": "okx",
-    "price": 0.0175,
-    "last_seen": "2026-11-28T02:22:13.022704+00:00"
+    "exchange": "bitget",
+    "price": 0.00046,
+    "last_seen": "2026-11-28T11:06:20.660758+00:00"
+  },
+  "SPX/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "mexc",
+    "price": 0.2691,
+    "last_seen": "2026-11-28T11:06:20.660758+00:00"
+  },
+  "ACT/USDT": {
+    "direction": "LONG",
+    "confidence": 0.75,
+    "count": 1,
+    "exchange": "bitget",
+    "price": 0.009531,
+    "last_seen": "2026-11-28T11:06:20.660758+00:00"
   }
 }
